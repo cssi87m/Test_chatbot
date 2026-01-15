@@ -3,8 +3,12 @@ from prompt import (
     SUMMARIZE_DOCUMENT_USER_PROMPT_TEMPLATE,
     SUMMARIZE_TERM_USER_PROMPT_TEMPLATE
 )
+
 import os 
 from openai import OpenAI
+from datetime import datetime
+import json
+import argparse
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -36,13 +40,83 @@ def get_summary(terms: list) -> str:
                 )
             }
         ])
-    return response.choices[0].message.content
+    return terms[0]['content'], response.choices[0].message.content
 
 if __name__ == "__main__":
+    argparser = argparse.ArgumentParser()
+    argparser.add_argument("--markdown", action="store_true", help="Save summary in markdown format")
+    args = argparser.parse_args()
     terms = [
         {
-            'content': "NGHỊ ĐỊNH\nBIỂU THUẾ XUẤT KHẨU ƯU ĐÃI, BIỂU THUẾ NHẬP KHẨU ƯU ĐÃI ĐẶC BIỆT CỦA VIỆT NAM ĐỂ THỰC HIỆN HIỆP ĐỊNH THƯƠNG MẠI TỰ DO GIỮA CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM VÀ LIÊN HIỆP VƯƠNG QUỐC ANH VÀ BẮC AI-LEN GIAI ĐOẠN 2021 - 2022\nCăn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019;\nCăn cứ Luật Thuế xuất khẩu, thuế nhập khẩu ngày 06 tháng 4 năm 2016;\nCăn cứ Luật Hải quan ngày 23 tháng 6 năm 2014;\nCăn cứ Luật Quản lý thuế ngày 13 tháng 6 năm 2019;\nCăn cứ Luật Điều ước quốc tế ngày 09 tháng 4 năm 2016;\nĐể thực hiện Hiệp định Thương mại tự do giữa Cộng hòa xã hội chủ nghĩa Việt Nam và Liên hiệp Vương quốc Anh và Bắc Ai-len;\nTheo đề nghị của Bộ trưởng Bộ Tài chính;\nChính phủ ban hành Nghị định Biểu thuế xuất khẩu ưu đãi, Biểu thuế nhập khẩu ưu đãi đặc biệt của Việt Nam để thực hiện Hiệp định Thương mại tự do giữa Cộng hòa xã hội chủ nghĩa Việt Nam và Liên hiệp Vương quốc Anh và Bắc Ai-len giai đoạn 2021 - 2022.\nĐiều 1. Phạm vi điều chỉnh\nNghị định này ban hành Biểu thuế xuất khẩu ưu đãi, Biểu thuế nhập khẩu ưu đãi đặc biệt của Việt Nam để thực hiện Hiệp định Thương mại tự do giữa Cộng hòa xã hội chủ nghĩa Việt Nam và Liên hiệp Vương quốc Anh và Bắc Ai-len (sau đây gọi tắt là Hiệp định UKVFTA) giai đoạn 2021 - 2022 và điều kiện được hưởng thuế suất thuế xuất khẩu ưu đãi, thuế nhập khẩu ưu đãi đặc biệt theo Hiệp định UKVFTA.\nĐiều 2. Đối tượng áp dụng\n1. Người nộp thuế theo quy định của Luật Thuế xuất khẩu, thuế nhập khẩu.\n2. Cơ quan hải quan, công chức hải quan.\n3. Tổ chức, cá nhân có quyền và nghĩa vụ liên quan đến hàng hóa xuất khẩu, nhập khẩu.\nĐiều 3. Biểu thuế xuất khẩu ưu đãi, Biểu thuế nhập khẩu ưu đãi đặc biệt của Việt Nam giai đoạn 2021 - 2022\n1. Ban hành kèm theo Nghị định này:\na) Phụ lục I - Biểu thuế xuất khẩu ưu đãi của Việt Nam để thực hiện Hiệp định UKVFTA: gồm mã hàng, mô tả hàng hóa, thuế suất thuế xuất khẩu ưu đãi theo các giai đoạn khi xuất khẩu sang Liên hiệp Vương quốc Anh và Bắc Ai-len đối với từng mã hàng;\nb) Phụ lục II - Biểu thuế nhập khẩu ưu đãi đặc biệt của Việt Nam để thực hiện Hiệp định UKVFTA: gồm mã hàng, mô tả hàng hóa, mức thuế suất thuế nhập khẩu ưu đãi đặc biệt theo các giai đoạn được nhập khẩu vào Việt Nam từ các vùng lãnh thổ theo quy định tại điểm b khoản 3 Điều 5 Nghị định này đối với từng mã hàng.\n2. Cột “Mã hàng” và cột “Mô tả hàng hóa” tại các Phụ lục ban hành kèm theo Nghị định này được xây dựng trên cơ sở Danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam và chi tiết theo cấp mã 8 số hoặc 10 số.\nTrường hợp Danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam được sửa đổi, bổ sung, người khai hải quan kê khai mô tả, mã hàng hóa theo Danh mục hàng hóa xuất khẩu, nhập khẩu sửa đổi, bổ sung và áp dụng thuế suất của mã hàng hoá được sửa đổi, bổ sung quy định tại các Phụ lục ban hành kèm theo Nghị định này.\nPhân loại hàng hóa thực hiện theo quy định của pháp luật Việt Nam.\n3. Cột “Thuế suất (%)” tại Phụ lục I và Phụ lục II: Thuế suất áp dụng cho các giai đoạn khác nhau, bao gồm:\na) Cột “2021”: Thuế suất áp dụng từ ngày 01 tháng 01 năm 2021 đến hết ngày 31 tháng 12 năm 2021;\nb) Cột “2022”: Thuế suất áp dụng từ ngày 01 tháng 01 năm 2022 đến hết ngày 31 tháng 12 năm 2022.\nĐiều 4. Biểu thuế xuất khẩu ưu đãi của Việt Nam\n1. Các mặt hàng không thuộc Biểu thuế xuất khẩu ưu đãi quy định tại Phụ lục I ban hành kèm theo Nghị định này nhưng thuộc Biểu thuế xuất khẩu theo Danh mục nhóm hàng chịu thuế quy định tại Nghị định số 57/2020/NĐ-CP ngày 25 tháng 5 năm 2020 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 122/2016/NĐ-CP ngày 01 tháng 9 năm 2016 của Chính phủ về Biểu thuế xuất khẩu, Biểu thuế nhập khẩu ưu đãi, Danh mục hàng hóa và mức thuế tuyệt đối, thuế hỗn hợp, thuế nhập khẩu ngoài hạn ngạch thuế quan và Nghị định số 125/2017/NĐ-CP ngày 16 tháng 11 năm 2017 sửa đổi, bổ sung một số điều của Nghị định số 122/2016/NĐ-CP (sau đây gọi tắt là Nghị định số 57/2020/NĐ-CP của Chính phủ) và các văn bản sửa đổi, bổ sung (nếu có) được áp dụng mức thuế suất 0% khi xuất khẩu sang Liên hiệp Vương quốc Anh và Bắc Ai-len.\n2. Điều kiện áp dụng thuế suất thuế xuất khẩu ưu đãi theo Hiệp định UKVFTA\nHàng hóa xuất khẩu từ Việt Nam được áp dụng thuế suất thuế xuất khẩu ưu đãi quy định tại Phụ lục I ban hành kèm theo Nghị định này và tại khoản 1 Điều này phải đáp ứng đủ các điều kiện sau:\na) Được nhập khẩu vào Liên hiệp Vương quốc Anh và Bắc Ai-len.\nb) Có chứng từ vận tải (bản sao) thể hiện đích đến là Liên hiệp Vương quốc Anh và Bắc Ai-len.\nc) Có tờ khai hải quan nhập khẩu của lô hàng xuất khẩu có xuất xứ Việt Nam nhập khẩu vào Liên hiệp Vương quốc Anh và Bắc Ai-len (bản sao và bản dịch tiếng Anh hoặc tiếng Việt trong trường hợp ngôn ngữ sử dụng trên tờ khai không phải là tiếng Anh).\n3. Thủ tục áp dụng thuế suất thuế xuất khẩu ưu đãi theo Hiệp định UKVFTA\na) Tại thời điểm làm thủ tục hải quan, người khai hải quan thực hiện khai tờ khai xuất khẩu, áp dụng thuế suất thuế xuất khẩu, tính thuế và nộp thuế theo Biểu thuế xuất khẩu theo Danh mục mặt hàng chịu thuế tại Nghị định số 57/2020/NĐ-CP của Chính phủ và các văn bản sửa đổi, bổ sung (nếu có);\nb) Trong thời hạn 01 năm kể từ ngày đăng ký tờ khai xuất khẩu, người khai hải quan nộp đầy đủ chứng từ chứng minh hàng hóa đáp ứng quy định tại điểm b và điểm c khoản 2 Điều này (01 bản sao) và thực hiện khai bổ sung để áp dụng mức thuế suất thuế xuất khẩu ưu đãi theo Hiệp định UKVFTA. Quá thời hạn 01 năm nêu trên, hàng hóa xuất khẩu không được áp dụng thuế suất thuế xuất khẩu ưu đãi theo Hiệp định UKVFTA;\nc) Cơ quan hải quan thực hiện kiểm tra hồ sơ, kiểm tra mức thuế suất thuế xuất khẩu ưu đãi theo Biểu thuế xuất khẩu ưu đãi quy định tại Phụ lục I ban hành kèm theo Nghị định này, nếu hàng hóa xuất khẩu đáp ứng đủ các điều kiện quy định tại khoản 2 Điều này thì áp dụng thuế suất thuế xuất khẩu ưu đãi theo Hiệp định UKVFTA và thực hiện xử lý tiền thuế nộp thừa cho người khai hải quan theo quy định của pháp luật về quản lý thuế.\nĐiều 5. Biểu thuế nhập khẩu ưu đãi đặc biệt của Việt Nam\n1. Ký hiệu “*”: Hàng hóa nhập khẩu không được hưởng thuế nhập khẩu ưu đãi đặc biệt của Hiệp định UKVFTA.\n2. Đối với hàng hóa nhập khẩu áp dụng hạn ngạch thuế quan gồm một số mặt hàng thuộc các nhóm hàng 04.07; 17.01; 24.01; 25.01, thuế nhập khẩu ưu đãi đặc biệt trong hạn ngạch là mức thuế suất quy định tại Phụ lục II ban hành kèm theo Nghị định này; danh mục và lượng hạn ngạch thuế quan nhập khẩu hàng năm theo quy định của Bộ Công Thương và mức thuế suất thuế nhập khẩu ngoài hạn ngạch áp dụng theo quy định tại Nghị định số 57/2020/NĐ-CP của Chính phủ và các văn bản sửa đổi, bổ sung (nếu có) tại thời điểm nhập khẩu.\n3. Điều kiện áp dụng thuế suất thuế nhập khẩu ưu đãi đặc biệt theo Hiệp định UKVFTA\nHàng hóa nhập khẩu được áp dụng mức thuế suất thuế nhập khẩu ưu đãi đặc biệt theo Hiệp định UKVFTA phải đáp ứng đủ các điều kiện sau:\na) Thuộc Biểu thuế nhập khẩu ưu đãi đặc biệt quy định tại Phụ lục II ban hành kèm theo Nghị định này.\nb) Được nhập khẩu vào Việt Nam từ:\n- Liên hiệp Vương quốc Anh và Bắc Ai-len;\n- Cộng hoà xã hội chủ nghĩa Việt Nam (Hàng hoá nhập khẩu từ khu phi thuế quan vào thị trường trong nước).\nc) Đáp ứng các quy định về xuất xứ hàng hóa và có chứng từ chứng nhận xuất xứ hàng hoá theo quy định của Hiệp định UKVFTA.\nĐiều 6. Hiệu lực thi hành\n1. Nghị định này có hiệu lực kể từ ngày ký ban hành.\n2. Đối với các tờ khai hải quan của các mặt hàng xuất khẩu, nhập khẩu đăng ký từ ngày 01 tháng 01 năm 2021 đến trước ngày Nghị định này có hiệu lực thi hành, nếu đáp ứng đủ các quy định để được hưởng thuế suất thuế xuất khẩu ưu đãi, thuế nhập khẩu ưu đãi đặc biệt của Việt Nam tại Nghị định này và đã nộp thuế theo mức thuế cao hơn thì được cơ quan hải quan xử lý tiền thuế nộp thừa theo quy định của pháp luật về quản lý thuế.\nĐiều 7. Trách nhiệm thi hành\nCác Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.\nNơi nhận:\n - Ban Bí thư Trung ương Đảng;\n - Thủ tướng, các Phó Thủ tướng Chính phủ;\n - Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;\n - HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;\n - Văn phòng Trung ương và các Ban của Đảng;\n - Văn phòng Tổng Bí thư;\n - Văn phòng Chủ tịch nước;\n - Hội đồng Dân tộc và các Ủy ban của Quốc hội;\n - Văn phòng Quốc hội;\n - Tòa án nhân dân tối cao;\n - Viện kiểm sát nhân dân tối cao;\n - Kiểm toán nhà nước;\n - Ủy ban Giám sát tài chính Quốc gia;\n - Ngân hàng Chính sách xã hội;\n - Ngân hàng Phát triển Việt Nam;\n - Ủy ban trung ương Mặt trận Tổ quốc Việt Nam;\n - Cơ quan trung ương của các đoàn thể;\n - VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT,\n các Vụ, Cục, đơn vị trực thuộc, Công báo;\n - Lưu: VT, KTTH (2b). | TM. CHÍNH PHỦ\n KT. THỦ TƯỚNG\n PHÓ THỦ TƯỚNG\n \n \n \n \n Lê Minh Khái\nVăn bản này có file đính kèm, bạn phải tải Văn bản về để xem toàn bộ nội dung. Tải về"
+            "content": """
+            (PLVN) - Thông tư mới của Bộ Công an có hiệu lực thi hành từ ngày 6/1/2026 với nhiều nội dung mới, nổi bật nhằm hoàn thiện quy định tuyển sinh, đặc biệt ở trình độ sau đại học.
+Thứ Năm 15/01/2026 14:20 (GMT+7)
+Bộ Công an mới ban hành ​​Thông tư số 99/2025/TT-BCA sửa đổi, bổ sung một số điều của Thông tư số 50/2021/TT-BCA ngày 11/5/2021 của Bộ trưởng Bộ Công an quy định về tuyển sinh trong Công an nhân dân.
+
+Mở rộng và làm rõ đối tượng dự tuyển đào tạo tiến sĩ
+
+Tại Điều 1 Thông tư đã sửa đổi, bổ sung quy định về đối tượng dự tuyển trình độ tiến sĩ trong Công an nhân dân, cụ thể:
+
+Cán bộ quản lý giáo dục, giảng viên, giáo viên, nghiên cứu viên của các trường Công an nhân dân;
+
+Lãnh đạo cấp phòng và tương đương trở lên, hoặc cán bộ trong quy hoạch lãnh đạo cấp phòng và tương đương trở lên thuộc công an đơn vị, địa phương;
+
+Cán bộ có chức danh cao cấp hoặc tương đương theo quy định của Bộ Công an.
+
+Quy định cụ thể các điều kiện dự tuyển trình độ tiến sĩ
+
+Bên cạnh quy định mở rộng đối tượng, Thông tư này còn quy định chi tiết các điều kiện để người dự tuyển được tham gia xét tuyển đào tạo trình độ tiến sĩ trong Công an nhân dân.
+
+Thứ nhất, tính đến năm dự tuyển không quá 50 tuổi;
+
+Thứ hai, có thời gian công tác thực tế từ 24 tháng trở lên (không tính thời gian học chương trình đào tạo các trình độ trong Công an nhân dân, thời gian tạm tuyển, thời gian tham gia nghĩa vụ Công an nhân dân);
+
+Thứ ba, có bằng thạc sĩ hoặc có bằng tốt nghiệp đại học loại giỏi trở lên thuộc ngành phù hợp với ngành đào tạo trình độ tiến sĩ;
+
+Thứ tư, loại cán bộ đạt mức “Hoàn thành tốt nhiệm vụ” trở lên trong năm liền trước với năm dự tuyển.
+
+Quy định mới về đối tượng, điều kiện dự tuyển đào tạo trình độ thạc sĩ
+
+Thông tư sửa đổi, bổ sung đối tượng dự tuyển đào tạo trình độ thạc sĩ, gồm:
+
+Cán bộ quản lý giáo dục, giảng viên, giáo viên trường Công an nhân dân; 
+
+Chỉ huy cấp đội và tương đương trở lên hoặc cán bộ quy hoạch lãnh đạo, chỉ huy từ cấp đội và tương đương trở lên thuộc Công an các đơn vị, địa phương; 
+
+Cán bộ có chức danh từ chuyên viên, nghiên cứu viên trở lên;
+
+Cán bộ tình báo đã được bổ nhiệm chức danh Tình báo viên sơ cấp trở lên; 
+
+Cán bộ của Bộ Quốc phòng có ngạch chức danh từ trợ lý hoặc tương đương trở lên; 
+
+Cán bộ có chức danh khác theo quy định tại Thông tư số 78/2021 của Bộ trưởng Bộ Công an quy định tiêu chuẩn chức danh của sĩ quan, hạ sĩ quan Công an nhân dân từ trung cấp hoặc tương đương trở lên.
+
+Điều kiện dự tuyển đào tạo trình độ thạc sĩ quy định người dự tuyển ngoài bảo đảm các điều kiện theo quy định của pháp luật và của Bộ Giáo dục và Đào tạo phải đáp ứng các điều kiện sau:
+
+Tính đến năm dự tuyển không quá 45 tuổi;
+
+Có bằng tốt nghiệp đại học thuộc ngành phù hợp với ngành đào tạo trình độ thạc sĩ;
+
+Có thời gian công tác thực tế từ 24 tháng trở lên (không tính thời gian học chương trình đào tạo các trình độ trong Công an nhân dân, thời gian tạm tuyển, thời gian tham gia nghĩa vụ Công an nhân dân). 
+
+Trường hợp thuộc điểm a khoản 1 Điều này có thời gian công tác thực tế từ 12 tháng trở lên;
+
+Xếp loại cán bộ đạt mức “Hoàn thành tốt nhiệm vụ” trở lên trong năm liền trước với năm dự tuyển.
+            """
         }
     ]
-    summary = get_summary(terms)
+    doc, summary = get_summary(terms)
+    print("Document:", doc)
+    print("-------------------")
     print("Summary:", summary)
+    
+    # Save summary to file
+    with open(f"./test_summary/res_summary/summary_output_{datetime.now()}.json", "w", encoding="utf-8") as f:
+        json.dump({
+            "document": doc,
+            "summary": summary
+        }, f, ensure_ascii=False, indent=4)
+    
+    if args.markdown:
+        with open(f"./test_summary/res_summary/summary_output_{datetime.now()}.md", "w", encoding="utf-8") as f:
+            f.write(f"{summary}")
