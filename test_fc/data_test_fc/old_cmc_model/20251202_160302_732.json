@@ -1,0 +1,157 @@
+{
+  "timestamp": 1764666182.4865594,
+  "conversation_id": "\"7c9bf923-5569-4eb6-8959-90c668154c48\"",
+  "workspace_id": "90602b2d-1d93-4478-8611-ea20b3760db2",
+  "query_params": {
+    "use_memory": true,
+    "intent": "legal_query",
+    "use_rag": true,
+    "reference_text": "",
+    "query": "hiến pháp năm 2013 điểm mới sửa đổi quan trọng so với hiến pháp trước đây việt nam ảnh hưởng bảo vệ quyền con người quyền công dân tổ chức hoạt động bộ máy nhà nước bối cảnh phát triển kinh tế xã hội",
+    "term_position": [],
+    "ten_van_ban": "hiến pháp",
+    "so_hieu": "",
+    "tinh_trang_hieu_luc": [],
+    "loai_van_ban": [
+      "Hiến pháp"
+    ],
+    "co_quan_ban_hanh": "",
+    "ngay_ban_hanh_start": "",
+    "ngay_ban_hanh_end": "",
+    "ngay_co_hieu_luc_start": "",
+    "ngay_co_hieu_luc_end": "",
+    "retrieve_level": "term",
+    "query_external_search": "",
+    "need_subquery": true,
+    "sub_queries": [
+      {
+        "query": "điểm mới sửa đổi quan trọng hiến pháp năm 2013 so với các hiến pháp trước đây việt nam",
+        "so_hieu": "2013",
+        "ten_van_ban": "hiến pháp",
+        "loai_van_ban": [
+          "Văn bản khác"
+        ],
+        "tinh_trang_hieu_luc": [
+          "Còn hiệu lực"
+        ],
+        "thoi_gian_ban_hanh": "",
+        "term_position": [],
+        "retrieve_level": "term"
+      },
+      {
+        "query": "ảnh hưởng điểm mới sửa đổi quan trọng hiến pháp năm 2013 đến bảo vệ quyền con người quyền công dân",
+        "so_hieu": "2013",
+        "ten_van_ban": "hiến pháp",
+        "loai_van_ban": [
+          "Văn bản khác"
+        ],
+        "tinh_trang_hieu_luc": [
+          "Còn hiệu lực"
+        ],
+        "thoi_gian_ban_hanh": "",
+        "term_position": [],
+        "retrieve_level": "term"
+      },
+      {
+        "query": "ảnh hưởng điểm mới sửa đổi quan trọng hiến pháp năm 2013 đến tổ chức hoạt động bộ máy nhà nước",
+        "so_hieu": "2013",
+        "ten_van_ban": "hiến pháp",
+        "loai_van_ban": [
+          "Văn bản khác"
+        ],
+        "tinh_trang_hieu_luc": [
+          "Còn hiệu lực"
+        ],
+        "thoi_gian_ban_hanh": "",
+        "term_position": [],
+        "retrieve_level": "term"
+      },
+      {
+        "query": "ảnh hưởng điểm mới sửa đổi quan trọng hiến pháp năm 2013 đến bối cảnh phát triển kinh tế xã hội",
+        "so_hieu": "2013",
+        "ten_van_ban": "hiến pháp",
+        "loai_van_ban": [
+          "Văn bản khác"
+        ],
+        "tinh_trang_hieu_luc": [
+          "Còn hiệu lực"
+        ],
+        "thoi_gian_ban_hanh": "",
+        "term_position": [],
+        "retrieve_level": "term"
+      }
+    ],
+    "loai_hinh_van_ban": "văn bản quy phạm",
+    "_metadata": {
+      "extraction_method": "pipeline",
+      "has_selection_text": false,
+      "has_conversation_history": false,
+      "timestamp": "2025-12-02T16:02:43.365093"
+    }
+  },
+  "request_params": {
+    "selection_text": null,
+    "selected_save_files": [],
+    "selected_upload_files": [],
+    "use_law_database": true,
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hiến pháp là gì? Hiến pháp hiện hành của Việt Nam là Hiến pháp nào?"
+      },
+      {
+        "role": "assistant",
+        "content": "<answer>##### Trả lời:\nHiến pháp là văn bản pháp luật cơ bản và có giá trị pháp lý cao nhất trong hệ thống pháp luật của một quốc gia, quy định những nguyên tắc cơ bản về tổ chức, hoạt động của Nhà nước, quyền và nghĩa vụ cơ bản của công dân. Hiến pháp hiện hành của Việt Nam là Hiến pháp năm 2013.\n\n##### Chi tiết:\n- Hiến pháp là văn bản quy phạm pháp luật tối cao, đặt ra các nguyên tắc cơ bản về tổ chức và hoạt động của Nhà nước, quyền con người, quyền công dân, các quyền và nghĩa vụ cơ bản của công dân, cũng như các nguyên tắc về quản lý xã hội.\n- Hiến pháp năm 2013 là bản Hiến pháp hiện hành của nước Cộng hòa xã hội chủ nghĩa Việt Nam, được Quốc hội khóa XIII thông qua ngày 28 tháng 11 năm 2013 và có hiệu lực thi hành từ ngày 01 tháng 01 năm 2014. Đây là văn bản pháp luật cao nhất, làm cơ sở cho việc xây dựng và ban hành các văn bản pháp luật khác.\n\n##### Căn cứ pháp lý:\n- Văn bản pháp luật về Hiến pháp hiện hành của Việt Nam không được cung cấp trong thông tin pháp luật liên quan được cung cấp. Vì vậy, câu trả lời dựa trên kiến thức chung về Hiến pháp Việt Nam hiện hành.</answer> "
+      },
+      {
+        "role": "user",
+        "content": "Vậy thì cho tôi hỏi sâu hơn về Hiến pháp năm 2013, cụ thể là những điểm mới và sửa đổi quan trọng so với các Hiến pháp trước đây của Việt Nam là gì? Những thay đổi đó ảnh hưởng như thế nào đến việc bảo vệ quyền con người, quyền công dân, và việc tổ chức, hoạt động của bộ máy nhà nước, đặc biệt là trong bối cảnh phát triển kinh tế - xã hội hiện nay?\n"
+      }
+    ],
+    "current_user_message": "Vậy thì cho tôi hỏi sâu hơn về hiến pháp năm 2013, cụ thể là những điểm mới và sửa đổi quan trọng so với các hiến pháp trước đây của việt nam là gì? những thay đổi đó ảnh hưởng như thế nào đến việc bảo vệ quyền con người, quyền công dân, và việc tổ chức, hoạt động của bộ máy nhà nước, đặc biệt là trong bối cảnh phát triển kinh tế - xã hội hiện nay? ",
+    "previous_user_message": "Hiến pháp là gì? Hiến pháp hiện hành của Việt Nam là Hiến pháp nào?",
+    "previous_assistant_message": "<answer>##### Trả lời:\nHiến pháp là văn bản pháp luật cơ bản và có giá trị pháp lý cao nhất trong hệ thống pháp luật của một quốc gia, quy định những nguyên tắc cơ bản về tổ chức, hoạt động của Nhà nước, quyền và nghĩa vụ cơ bản của công dân. Hiến pháp hiện hành của Việt Nam là Hiến pháp năm 2013.\n\n##### Chi tiết:\n- Hiến pháp là văn bản quy phạm pháp luật tối cao, đặt ra các nguyên tắc cơ bản về tổ chức và hoạt động của Nhà nước, quyền con người, quyền công dân, các quyền và nghĩa vụ cơ bản của công dân, cũng như các nguyên tắc về quản lý xã hội.\n- Hiến pháp năm 2013 là bản Hiến pháp hiện hành của nước Cộng hòa xã hội chủ nghĩa Việt Nam, được Quốc hội khóa XIII thông qua ngày 28 tháng 11 năm 2013 và có hiệu lực thi hành từ ngày 01 tháng 01 năm 2014. Đây là văn bản pháp luật cao nhất, làm cơ sở cho việc xây dựng và ban hành các văn bản pháp luật khác.\n\n##### Căn cứ pháp lý:\n- Văn bản pháp luật về Hiến pháp hiện hành của Việt Nam không được cung cấp trong thông tin pháp luật liên quan được cung cấp. Vì vậy, câu trả lời dựa trên kiến thức chung về Hiến pháp Việt Nam hiện hành.</answer> ",
+    "random_uuid": "c2149696-8dac-46f6-a7ba-8ddefddfe12b"
+  },
+  "contexts": {
+    "context": "\n==================================================\n KẾT QUẢ TỪ CƠ SỞ DỮ LIỆU PHÁP LUẬT\n==================================================\n\n\n----------------------------------------\n KẾT QUẢ TỪ SUBQUERY 1: điểm mới sửa đổi quan trọng hiến pháp năm 2013 so với các hiến pháp trước đây việt nam\n----------------------------------------\n\n\n----------------------------------------\n KẾT QUẢ TỪ SUBQUERY 2: ảnh hưởng điểm mới sửa đổi quan trọng hiến pháp năm 2013 đến bảo vệ quyền con người quyền công dân\n----------------------------------------\n\n\n----------------------------------------\n KẾT QUẢ TỪ SUBQUERY 3: ảnh hưởng điểm mới sửa đổi quan trọng hiến pháp năm 2013 đến tổ chức hoạt động bộ máy nhà nước\n----------------------------------------\n\n\n----------------------------------------\n KẾT QUẢ TỪ SUBQUERY 4: ảnh hưởng điểm mới sửa đổi quan trọng hiến pháp năm 2013 đến bối cảnh phát triển kinh tế xã hội\n----------------------------------------",
+    "retrieve_results": [
+      [],
+      [],
+      [],
+      []
+    ],
+    "uploaded_docs_results": [],
+    "law_database_results": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  "response": {
+    "type": "json",
+    "content": {
+      "text": "##### Trả lời:\nHiến pháp năm 2013 của Việt Nam có nhiều điểm mới và sửa đổi quan trọng so với các Hiến pháp trước đây, tập trung vào việc tăng cường bảo vệ quyền con người, quyền công dân; đổi mới tổ chức và hoạt động của bộ máy nhà nước; đồng thời phù hợp với bối cảnh phát triển kinh tế - xã hội hiện nay. Những thay đổi này góp phần nâng cao hiệu quả quản lý nhà nước, bảo đảm quyền con người được tôn trọng và phát huy trong điều kiện phát triển kinh tế thị trường định hướng xã hội chủ nghĩa.\n\n##### Chi tiết:\n\n1. **Điểm mới và sửa đổi quan trọng so với các Hiến pháp trước đây:**\n   - Hiến pháp năm 2013 bổ sung, làm rõ hơn các quyền con người, quyền công dân, thể hiện sự tôn trọng và bảo vệ quyền con người một cách toàn diện hơn.\n   - Cơ cấu tổ chức bộ máy nhà nước được điều chỉnh nhằm tăng cường tính hiệu lực, hiệu quả, phân công rõ ràng giữa các cơ quan nhà nước.\n   - Hiến pháp năm 2013 nhấn mạnh vai trò của kinh tế thị trường định hướng xã hội chủ nghĩa, tạo cơ sở pháp lý cho phát triển kinh tế - xã hội trong bối cảnh mới.\n   \n2. **Ảnh hưởng đến việc bảo vệ quyền con người, quyền công dân:**\n   - Việc sửa đổi, bổ sung các quy định về quyền con người, quyền công dân giúp Nhà nước có cơ sở pháp lý vững chắc hơn trong việc bảo vệ các quyền này.\n   - Tăng cường các quyền dân sự, chính trị, kinh tế, xã hội, văn hóa, môi trường, góp phần nâng cao chất lượng cuộc sống và sự phát triển toàn diện của công dân.\n   \n3. **Ảnh hưởng đến tổ chức, hoạt động của bộ máy nhà nước:**\n   - Cơ cấu tổ chức bộ máy nhà nước được đổi mới, phân công, phân cấp rõ ràng hơn, nâng cao hiệu quả quản lý nhà nước.\n   - Tăng cường vai trò của Quốc hội, Chính phủ, Tòa án nhân dân và Viện kiểm sát nhân dân trong việc thực thi quyền lực nhà nước.\n   - Đảm bảo sự phối hợp chặt chẽ giữa các cơ quan nhà nước, nâng cao tính minh bạch và trách nhiệm giải trình.\n   \n4. **Ảnh hưởng trong bối cảnh phát triển kinh tế - xã hội hiện nay:**\n   - Hiến pháp năm 2013 tạo nền tảng pháp lý cho việc phát triển kinh tế thị trường định hướng xã hội chủ nghĩa, phù hợp với xu thế hội nhập quốc tế.\n   - Tăng cường bảo vệ quyền sở hữu, quyền tự do kinh doanh, thúc đẩy đổi mới sáng tạo và phát triển bền vững.\n   - Đảm bảo quyền con người, quyền công dân được thực hiện trong môi trường kinh tế - xã hội năng động, góp phần ổn định chính trị và phát triển đất nước.\n\n##### Căn cứ pháp lý:\n- [Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 2013](legal:khong-so)",
+      "send_messages": [
+        {
+          "role": "system",
+          "content": "Bạn là trợ lý ảo hỗ trợ tra cứu văn bản pháp luật Việt Nam được phát triển bởi Tập đoàn công nghệ CMC (KHÔNG PHẢI là ChatGPT của OpenAI)\n**Mục tiêu**: Cung cấp câu trả lời chính xác, chi tiết, phân tích đầy đủ theo từng trường hợp cụ thể.\n**Nguyên tắc trả lời**:  \n1. **Ưu tiên pháp lý**: Văn bản mới nhất → có hiệu lực cao nhất (Hiến pháp → Luật, Bộ luật → Pháp lệnh, Nghị quyết đảng → Nghị định → Thông tư)\n\n2. **Phân tích theo cấu trúc pháp luật CHÍNH XÁC**: \n   - **Điều**: Đơn vị cơ bản\n   - **Khoản**: Phần con được đánh số theo định dạng:\n     * `1.` (số + dấu chấm + khoảng trắng)\n     * **QUAN TRỌNG**: Chỉ đếm những dòng BẮT ĐẦU bằng `1.`, `2.`, `3.`... là khoản\n     * **KHÔNG PHẢI khoản**: Các đoạn văn bình thường, câu văn có chứa số nhưng không theo format `số.`\n   - **Điểm**: Phần con đánh chữ (a), b), c)...)\n   - **NGHIÊM CẤM**: Tự ý đánh số khoản khi văn bản gốc không có cấu trúc đó\n\n3. **Phân tích toàn diện**: \n   - Nếu câu hỏi chung chung → phân tích theo từng trường hợp/đối tượng áp dụng cụ thể\n   - Đọc kỹ từng khoản, điểm để nắm bắt đầy đủ các quy định khác nhau\n   - Kết hợp logic từ tất cả các nguồn liên quan\n   - Phân biệt rõ ngày ban hành và ngày có hiệu lực là các thông tin hoàn toàn khác nhau\n   - Đọc kỹ tin nhắn lượt trước của người dùng và hệ thống để kết hợp với nội dung pháp luật liên quan được cung cấp hiện tại và đưa ra câu trả lời đầy đủ nhất\n\n4. **Độ chính xác cao**: \n   - Trích dẫn chính xác Điều-Khoản-Điểm-Văn bản\n   - Không suy đoán thiếu căn cứ\n   - Ưu tiên nội dung pháp luật liên quan được cung cấp được cung cấp, bổ sung kiến thức nếu cần\n   - Nếu có, hãy sử dụng thông tin từ tin nhắn lượt trước của người dùng và hệ thống để bổ sung và làm rõ câu trả lời\n\n5. **Quy tắc trích dẫn bắt buộc**:\n   - **TẤT CẢ** văn bản căn cứ pháp lý phải được đặt trong định dạng Markdown URL\n   - **BẮT BUỘC** phải có số hiệu văn bản trong URL\n\n**Format cho văn bản pháp luật:** [Điều X Khoản Y Số hiệu văn bản](legal:Số hiệu văn bản)\n**Format cho tài liệu người dùng:** [Tên tài liệu](user:UUID) - trong đó UUID là định danh duy nhất của tài liệu người dùng tải lên\n**PHÂN BIỆT RÕ** giữa văn bản pháp luật (legal:) và tài liệu người dùng (user:)\n**TUYỆT ĐỐI KHÔNG** được sử dụng thẻ HTML <a> nữa\n**KHÔNG được** trích dẫn mà thiếu số hiệu hoặc không có định dạng URL Markdown\n\n\n\n**NGUYÊN TẮC NGHIÊM NGẶT VỀ THÔNG TIN PHÁP LUẬT LIÊN QUAN ĐƯỢC CUNG CẤP**:\n- **CHỈ ĐƯỢC** trả lời dựa trên thông tin có trong nội dung được cung cấp\n- **TUYỆT ĐỐI KHÔNG** được thêm thông tin từ \"kiến thức nền tảng\" hoặc \"quy định chung\" khi không có trong nội dung pháp luật liên quan được cung cấp\n- **NGHIÊM CẤM** sử dụng các cụm từ như:\n  * \"Mặc dù không có trong context\"\n  * \"Mặc dù không được cung cấp thông tin cụ thể\"\n  * \"Theo quy định chung của pháp luật\"\n  * \"Dựa trên nguyên tắc cơ bản\"\n  * \"Theo thông lệ pháp luật\"\n\n\n\n**XỬ LÝ TRƯỜNG HỢP THIẾU THÔNG TIN**:\n- Khi nội dung pháp luật liên quan được cung cấp không đủ thông tin → nói rõ \"Dựa trên văn bản được cung cấp, tôi chỉ có thể trả lời...\"\n- Khi câu hỏi vượt ngoài nội dung pháp luật liên quan được cung cấp → \"Văn bản được cung cấp không đề cập đến vấn đề này\"\n- Khi KHÔNG CÓ thông tin pháp luật liên quan → trả lời ngắn gọn, trực tiếp, KHÔNG sử dụng cấu trúc có các mục \"Trả lời:\", \"Tóm tắt:\", \"Chi tiết:\", \"Căn cứ pháp lý:\"\n- **KHÔNG được** bù đắp thiếu sót bằng kiến thức chung hoặc suy luận không có căn cứ\n\n\n⚠️ **YÊU CẦU ĐẶC BIỆT**:\n- Với các quy định có nhiều khoản/điểm → LUÔN phân tích riêng từng khoản/điểm\n- Với câu hỏi về mức xử lý → LUÔN liệt kê đầy đủ các mức độ và trường hợp áp dụng\n- Với câu hỏi yes/no → LUÔN giải thích lý do pháp lý chi tiết\n- **MỌI trích dẫn pháp lý phải sử dụng định dạng Markdown URL với số hiệu văn bản**\n- **NGHIÊM CẤM** sử dụng thẻ HTML thay vì định dạng Markdown URL\n- **TUYỆT ĐỐI tuân thủ nguyên tắc chỉ dựa vào thông tin pháp luật được cung cấp**\n"
+        },
+        {
+          "role": "user",
+          "content": "Câu hỏi trước của người dùng: Hiến pháp là gì? Hiến pháp hiện hành của Việt Nam là Hiến pháp nào?"
+        },
+        {
+          "role": "assistant",
+          "content": "Câu trả lời trước của hệ thống: <answer>##### Trả lời:\nHiến pháp là văn bản pháp luật cơ bản và có giá trị pháp lý cao nhất trong hệ thống pháp luật của một quốc gia, quy định những nguyên tắc cơ bản về tổ chức, hoạt động của Nhà nước, quyền và nghĩa vụ cơ bản của công dân. Hiến pháp hiện hành của Việt Nam là Hiến pháp năm 2013.\n\n##### Chi tiết:\n- Hiến pháp là văn bản quy phạm pháp luật tối cao, đặt ra các nguyên tắc cơ bản về tổ chức và hoạt động của Nhà nước, quyền con người, quyền công dân, các quyền và nghĩa vụ cơ bản của công dân, cũng như các nguyên tắc về quản lý xã hội.\n- Hiến pháp năm 2013 là bản Hiến pháp hiện hành của nước Cộng hòa xã hội chủ nghĩa Việt Nam, được Quốc hội khóa XIII thông qua ngày 28 tháng 11 năm 2013 và có hiệu lực thi hành từ ngày 01 tháng 01 năm 2014. Đây là văn bản pháp luật cao nhất, làm cơ sở cho việc xây dựng và ban hành các văn bản pháp luật khác.\n\n##### Căn cứ pháp lý:\n- Văn bản pháp luật về Hiến pháp hiện hành của Việt Nam không được cung cấp trong thông tin pháp luật liên quan được cung cấp. Vì vậy, câu trả lời dựa trên kiến thức chung về Hiến pháp Việt Nam hiện hành.</answer> "
+        },
+        {
+          "role": "user",
+          "content": "\n**Hướng dẫn trả lời:**\n\n1. **Đọc kỹ thông tin pháp luật liên quan được cung cấp**: Phân tích từng Điều → Khoản → Điểm để nắm đầy đủ quy định\n2. **Format trích dẫn CHÍNH XÁC** - **MỌI** văn bản căn cứ phải tuân thủ:\n   **Format chuẩn bắt buộc:**\n   - Văn bản pháp luật: `[Điều X Tên văn bản đầy đủ Số hiệu](legal:Số hiệu)`\n   - Văn bản pháp luật chi tiết: `[Khoản Y Điều X Tên văn bản đầy đủ Số hiệu](legal:Số hiệu)`\n   - Tài liệu người dùng: `[Tên tài liệu](user:document_id)`\n\n**Ví dụ ĐÚNG cho văn bản pháp luật:** \n- `[Điều 4 Nghị định 06/2024/NĐ-CP](legal:06/2024/NĐ-CP)`\n- `[Điều 1, 2, 3 Luật đất đai 31/2024/QH15](legal:31/2024/QH15)`\n- `[Điều 1 Chương 1 Luật biển Việt Nam 18/2012/QH13](legal:18/2012/QH13)`\n- `[Khoản 1 Điều 5 Thông tư 12/2020/BGTVT](legal:12/2020/BGTVT)`\n- `[Quyết định 27/2022/QĐ-UBND tỉnh Hà Nam](legal:27/2022/QĐ-UBND)`\n- Thông tư [22/2020/TT-BTTTT](legal:22/2020/TT-BTTTT) quy định về yêu cầu kỹ thuật đối với phần mềm ký số, phần mềm kiểm tra chữ ký số.\n\n**Ví dụ ĐÚNG cho tài liệu người dùng:**\n- `[Tài liệu người dùng ABC](user:550e8400-e29b-41d4-a716-446655440000)`\n- `[Báo cáo tài chính 2023](user:7b89a276-fc8d-4f3a-a50d-b69d0a2569c2)`\n- `[Hợp đồng mua bán](user:c0a8b987-f1e2-42a1-9a3c-d83b7d5c8e9f)`\n- Theo nội dung trong [Đơn khiếu nại](user:a1b2c3d4-e5f6-7890-a1b2-c3d4e5f67890), người khiếu nại đã gửi đơn từ ngày 15/03/2023.\n\n**TUYỆT ĐỐI TRÁNH:**\n- Thiếu tên văn bản: ~~[31/2024/QH15](legal:31/2024/QH15)~~\n- Thiếu số hiệu: ~~[Điều 1 Luật đất đai](legal:)~~\n- Chỉ có vị trí điểm/khoản/điều mà thiếu số hiệu và tên văn bản: ~~[Điểm a, Khoản 2, Điều 6](legal:31/2024/QH15)~~\n- Mô tả dài: ~~[Điều 4 về Trách nhiệm của người điều khiển...](legal:06/2024/NĐ-CP)~~\n- URL xuống dòng riêng: ~~Thông tư 22/2020/TT-BTTTT quy định...\n[22/2020/TT-BTTTT](legal:22/2020/TT-BTTTT)~~\n- Thiếu địa danh cho quyết định: ~~[Quyết định 27/2022/QĐ-UBND](legal:27/2022/QĐ-UBND)~~\n- Sử dụng thẻ HTML: ~~<a href=\"#\">Điều 4 Nghị định 06/2024/NĐ-CP</a>~~\n- Nhầm lẫn định dạng: ~~[Tài liệu người dùng](legal:550e8400-e29b-41d4-a716-446655440000)~~ hoặc ~~[Luật đất đai](user:31/2024/QH15)~~\n- Hiển thị UUID bên ngoài thẻ Markdown URL: ~~Tài liệu người dùng (UUID: b32aaadb-e75e-4219-b320-09a9c3967d99)~~\n\n3. **Cấu trúc trả lời**:\n   \n   - ##### Trả lời: [Câu trả lời tổng quát]\n   - ##### Chi tiết: [Phân tích từng khoản/điểm cụ thể - CHÚ Ý: Sử dụng định dạng Markdown URL khi trích dẫn trong nội dung]\n   - ##### Căn cứ pháp lý: [Trích dẫn theo format chuẩn]\n\n\n **YÊU CẦU NGHIÊM NGẶT**: \n\n**Yêu cầu cho văn bản pháp luật:**\n- **BẮT BUỘC** có đầy đủ: Điều/Khoản + Tên văn bản + Số hiệu\n- **BẮT BUỘC** với Quyết định phải có đầy đủ địa danh (VD: \"tỉnh Hà Nam\", \"thành phố Hồ Chí Minh\")\n- **CHÍNH XÁC 100%** tên và số hiệu từ thông tin pháp luật được cung cấp\n- **LUÔN SỬ DỤNG** prefix \"legal:\" trong URL cho văn bản pháp luật\n- Postfix của MARKDOWN URL **PHẢI** là số hiệu văn bản pháp luật, KHÔNG được là tên văn bản. Trong trường hợp \"Không số\" như Hiến pháp thì sử dụng \"khong-so\" làm số hiệu (VD: 'legal:khong-so')\n\n**Yêu cầu cho tài liệu người dùng:**\n- **BẮT BUỘC** có tên tài liệu rõ ràng, dễ hiểu\n- **BẮT BUỘC** sử dụng UUID đầy đủ của tài liệu trong phần URL\n- **LUÔN SỬ DỤNG** prefix \"user:\" trong URL cho tài liệu người dùng\n- **KHÔNG** thêm các thông tin không cần thiết vào UUID\n- Postfix của MARKDOWN URL **PHẢI** là UUID đầy đủ của tài liệu người dùng, KHÔNG được là tên tài liệu hay bất kì thông tin nào khác.\n\n**Yêu cầu chung:**\n- **TUYỆT ĐỐI KHÔNG** sử dụng thẻ HTML <a>\n- **ĐỒNG NHẤT** format cho tất cả trích dẫn\n- **PHÂN BIỆT RÕ** giữa văn bản pháp luật (legal:) và tài liệu người dùng (user:)\n- **KHÔNG NHẦM LẪN** prefix giữa văn bản pháp luật và tài liệu người dùng\n- **TUYỆT ĐỐI KHÔNG** trích dẫn nguồn thông tin từ KẾT QUẢ TÌM KIẾM GOOGLE - THÔNG TIN BỔ SUNG\n\n- **TUYỆT ĐỐI KHÔNG** nói \"theo nguồn tìm kiếm từ google\" mà hãy trích dẫn trực tiếp từ các điều khoản văn bản luật xuất hiện trong nội dung\n- **ƯU TIÊN** sử dụng thông tin từ văn bản pháp luật chính thức, sau đó mới đến nguồn tham khảo bổ sung\n- Nếu người dùng có đề cập đến sắp xếp và thống kê theo thời gian như \"năm 2025\" thì phải lọc kết quả trả lời dựa đúng vào thời gian ban hành và hiệu lực của văn bản để trả lời HOẶC dựa trên số ở giữa trong mã hiệu ví dụ 55/2025/QĐ-UBND thì năm là 2025\n- Nếu thấy phần \"KẾT QUẢ TÌM KIẾM GOOGLE\" trong thông tin pháp luật được cung cấp, chỉ sử dụng để làm thông tin bổ sung, KHÔNG BAO GIỜ đề cập đến nó là nguồn chính\n- [LƯU Ý QUAN TRỌNG] Không được trích dẫn thông tin từ phần \"KẾT QUẢ TÌM KIẾM GOOGLE - THÔNG TIN BỔ SUNG\" trong thông tin pháp luật được cung cấp.\n\n**XỬ LÝ DẪN CHIẾU ĐẶC BIỆT:**\n- **TUYỆT ĐỐI KHÔNG** sử dụng \"xem phần\", \"xem thêm phần\", \"tham khảo phần\" mà phải diễn giải trực tiếp nội dung trong câu trả lời\n- **KHI CÓ DẪN CHIẾU**: Bắt buộc phải sử dụng định dạng Markdown URL để liên kết. \n\n**Ví dụ ĐÚNG cho văn bản pháp luật:**\n  - ✅ ĐÚNG: \"Theo quy định tại [Điều 5 Luật Giao thông đường bộ 23/2008/QH12](legal:23/2008/QH12), người điều khiển xe mô tô, xe gắn máy phải đội mũ bảo hiểm đạt chuẩn khi tham gia giao thông.\"\n\n**Ví dụ ĐÚNG cho tài liệu người dùng:**\n  - ✅ ĐÚNG: \"Theo nội dung trong [Đơn khiếu nại](user:a1b2c3d4-e5f6-7890-a1b2-c3d4e5f67890), người khiếu nại đã gửi đơn từ ngày 15/03/2023.\"\n\n**Ví dụ SAI:**\n  - ❌ SAI: \"Theo quy định tại Điều 5 Luật Giao thông đường bộ 23/2008/QH12 (xem phần trên), người điều khiển xe phải đội mũ bảo hiểm.\"\n  - ❌ SAI: \"Xem thêm quy định tại Điều 5 về việc đội mũ bảo hiểm.\"\n  - ❌ SAI: \"Theo quy định tại <a href=\"#\">Điều 5 Luật Giao thông đường bộ 23/2008/QH12</a>, người điều khiển xe mô tô, xe gắn máy phải đội mũ bảo hiểm.\"\n  - ❌ SAI: \"Theo tài liệu người dùng (xem phần trên), người khiếu nại đã gửi đơn từ ngày 15/03/2023.\"\n\n- **DIỄN GIẢI TRỰC TIẾP**: Thay vì nói \"xem phần\", hãy tóm tắt/diễn giải ngay nội dung đó trong câu trả lời\n- **DẪN CHIẾU CỤ THỂ**: Mọi dẫn chiếu đến điều khoản, khoản, điểm cụ thể hoặc tài liệu người dùng đều phải sử dụng định dạng Markdown URL với đầy đủ thông tin định vị\n\n\n\n**HƯỚNG DẪN BỔ SUNG CHO PHẦN CĂN CỨ PHÁP LÝ:**\n- **CHỈ HIỂN THỊ \"CĂN CỨ PHÁP LÝ\"** KHI: Đã trích dẫn và sử dụng cụ thể các điều khoản từ văn bản pháp luật hoặc tài liệu người dùng để trả lời câu hỏi\n- Mục \"Căn cứ pháp lý\" CHỈ liệt kê TÊN VĂN BẢN hoặc TÀI LIỆU đã được sử dụng và trích dẫn trong phần \"Chi tiết\"\n\n**Hướng dẫn cho văn bản pháp luật:**\n- Nếu có nhiều điều thuộc cùng một văn bản thì KHÔNG cần liệt kê từng điều/khoản cụ thể, chỉ cần liệt kê theo Format bao gồm: Tên văn bản + Số hiệu\n- Ví dụ đúng: [Luật Giao thông đường bộ 23/2008/QH12](legal:23/2008/QH12)\n- Ví dụ sai: [Điều 5, Điều 6, Điều 7 Luật Giao thông đường bộ 23/2008/QH12](legal:23/2008/QH12)\n- Ví dụ sai: [Luật Giao thông đường bộ 23/2008/QH12 quy định về việc điều khiển phương tiện giao thông...](legal:23/2008/QH12)\n- Nếu đã trích dẫn nhiều điều khoản của cùng một văn bản trong phần \"Chi tiết\", chỉ cần liệt kê MỘT LẦN TÊN VĂN BẢN đó ở phần \"Căn cứ pháp lý\"\n\n**Hướng dẫn cho tài liệu người dùng:**\n- Đối với tài liệu người dùng, sử dụng format: [Tên tài liệu](user:UUID)\n- Ví dụ đúng: [Đơn khiếu nại](user:a1b2c3d4-e5f6-7890-a1b2-c3d4e5f67890)\n- Ví dụ sai: [Đơn khiếu nại ngày 15/03/2023 về việc...](user:a1b2c3d4-e5f6-7890-a1b2-c3d4e5f67890)\n- Nếu đã trích dẫn nhiều phần của cùng một tài liệu người dùng trong phần \"Chi tiết\", chỉ cần liệt kê MỘT LẦN TÊN TÀI LIỆU đó ở phần \"Căn cứ pháp lý\"\n\n**Lưu ý quan trọng:**\n- **PHÂN BIỆT RÕ** giữa văn bản pháp luật (legal:) và tài liệu người dùng (user:) trong phần \"Căn cứ pháp lý\"\n- **KHÔNG NHẦM LẪN** prefix giữa văn bản pháp luật và tài liệu người dùng\n\n**Thông tin pháp luật liên quan được cung cấp:**\n\n==================================================\n KẾT QUẢ TỪ CƠ SỞ DỮ LIỆU PHÁP LUẬT\n==================================================\n\n\n----------------------------------------\n KẾT QUẢ TỪ SUBQUERY 1: điểm mới sửa đổi quan trọng hiến pháp năm 2013 so với các hiến pháp trước đây việt nam\n----------------------------------------\n\n\n----------------------------------------\n KẾT QUẢ TỪ SUBQUERY 2: ảnh hưởng điểm mới sửa đổi quan trọng hiến pháp năm 2013 đến bảo vệ quyền con người quyền công dân\n----------------------------------------\n\n\n----------------------------------------\n KẾT QUẢ TỪ SUBQUERY 3: ảnh hưởng điểm mới sửa đổi quan trọng hiến pháp năm 2013 đến tổ chức hoạt động bộ máy nhà nước\n----------------------------------------\n\n\n----------------------------------------\n KẾT QUẢ TỪ SUBQUERY 4: ảnh hưởng điểm mới sửa đổi quan trọng hiến pháp năm 2013 đến bối cảnh phát triển kinh tế xã hội\n----------------------------------------\n\n**Câu hỏi của người dùng:** Vậy thì cho tôi hỏi sâu hơn về hiến pháp năm 2013, cụ thể là những điểm mới và sửa đổi quan trọng so với các hiến pháp trước đây của việt nam là gì? những thay đổi đó ảnh hưởng như thế nào đến việc bảo vệ quyền con người, quyền công dân, và việc tổ chức, hoạt động của bộ máy nhà nước, đặc biệt là trong bối cảnh phát triển kinh tế - xã hội hiện nay? \n"
+        }
+      ],
+      "conversation_id": "\"7c9bf923-5569-4eb6-8959-90c668154c48\""
+    }
+  }
+}

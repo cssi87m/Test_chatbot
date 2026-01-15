@@ -1,0 +1,1985 @@
+[
+    {
+        "id": 6488,
+        "cau_hoi": "Người đại diện theo pháp luật của doanh nghiệp có trách nhiệm gì?",
+        "tra_loi": "Căn cứ Điều 13 Luật Doanh nghiệp 2020 quy định người đại diện theo pháp luật của doanh nghiệp có trách nhiệm sau:\n- Thực hiện quyền và nghĩa vụ được giao một cách trung thực, cẩn trọng, tốt nhất nhằm bảo đảm lợi ích hợp pháp của doanh nghiệp;\n- Trung thành với lợi ích của doanh nghiệp;\n- Không lạm dụng địa vị, chức vụ và sử dụng thông tin, bí quyết, cơ hội kinh doanh, tài sản khác của doanh nghiệp để tư lợi hoặc phục vụ lợi ích của tổ chức, cá nhân khác;\n- Thông báo kịp thời, đầy đủ, chính xác cho doanh nghiệp về doanh nghiệp mà mình, người có liên quan của mình làm chủ hoặc có cổ phần, phần vốn góp theo quy định;\nLưu ý: Người đại diện theo pháp luật của doanh nghiệp chịu trách nhiệm cá nhân đối với thiệt hại cho doanh nghiệp do vi phạm trách nhiệm trên.",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "59/2020/QH14",
+                "khoan": "",
+                "dieu": "13",
+                "trich_yeu": "Luật Doanh nghiệp 2020",
+                "noi_dung_kem_trich_dan": "Căn cứ Điều 13 Luật Doanh nghiệp 2020 quy định người đại diện theo pháp luật của doanh nghiệp có trách nhiệm sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 152,
+                "id": "dieu_153",
+                "id_document": 16748,
+                "position": "Điều 153 / Chương XI",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của đại diện sở hữu công nghiệp",
+                "so_hieu": "50/2005/QH11",
+                "trich_yeu": "Sở hữu trí tuệ 2005",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Khoa học và Công nghệ"
+                ],
+                "linh_vuc": null,
+                "score": 0.013849206349206349
+            },
+            {
+                "index": 12,
+                "id": "dieu_13",
+                "id_document": 142881,
+                "position": "Điều 13 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của người đại diện theo pháp luật của doanh nghiệp",
+                "so_hieu": "59/2020/QH14",
+                "trich_yeu": "Doanh nghiệp 2020",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.013719560719401561
+            },
+            {
+                "index": 11,
+                "id": "dieu_12",
+                "id_document": 142881,
+                "position": "Điều 12 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Người đại diện theo pháp luật của doanh nghiệp",
+                "so_hieu": "59/2020/QH14",
+                "trich_yeu": "Doanh nghiệp 2020",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.013445378151260503
+            },
+            {
+                "index": 39,
+                "id": "dieu_40",
+                "id_document": 999999999578018,
+                "position": "Điều 40 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Quyền, trách nhiệm của người đại diện phần vốn của doanh nghiệp",
+                "so_hieu": "68/2025/QH15",
+                "trich_yeu": "Quản lý và đầu tư vốn nhà nước tại doanh nghiệp 2025",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.013048405374777399
+            },
+            {
+                "index": 27,
+                "id": "dieu_28",
+                "id_document": 128706,
+                "position": "Điều 28 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của doanh nghiệp nhỏ và vừa",
+                "so_hieu": "04/2017/QH14",
+                "trich_yeu": "Hỗ trợ doanh nghiệp nhỏ và vừa 2017",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Thừa Thiên Huế",
+                    "Bộ Kế hoạch và Đầu tư"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.012622309197651662
+            },
+            {
+                "index": 14,
+                "id": "dieu_15",
+                "id_document": 142881,
+                "position": "Điều 15 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của người đại diện theo ủy quyền của chủ sở hữu, thành viên, cổ đông công ty là tổ chức",
+                "so_hieu": "59/2020/QH14",
+                "trich_yeu": "Doanh nghiệp 2020",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.012345013477088947
+            },
+            {
+                "index": 86,
+                "id": "dieu_87",
+                "id_document": 95942,
+                "position": "Điều 87 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm dân sự của pháp nhân",
+                "so_hieu": "91/2015/QH13",
+                "trich_yeu": "Dân sự 2015",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Quyền dân sự",
+                "score": 0.012133620689655173
+            },
+            {
+                "index": 434,
+                "id": "dieu_435",
+                "id_document": 96172,
+                "position": "Điều 435 / Chương XXIX",
+                "dia_danh": "Trung ương",
+                "title": "Quyền và nghĩa vụ của người đại diện theo pháp luật của pháp nhân",
+                "so_hieu": "101/2015/QH13",
+                "trich_yeu": "Tố tụng hình sự 2015",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Viện kiểm sát nhân dân tối cao",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Trách nhiệm hình sự",
+                "score": 0.011985526910900044
+            },
+            {
+                "index": 49,
+                "id": "dieu_50",
+                "id_document": 95924,
+                "position": "Điều 50 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của người đại diện theo pháp luật của đơn vị kế toán",
+                "so_hieu": "88/2015/QH13",
+                "trich_yeu": "Kế toán 2015",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tài chính"
+                ],
+                "linh_vuc": "Kế toán - Kiểm toán",
+                "score": 0.011764705882352941
+            },
+            {
+                "index": 157,
+                "id": "dieu_158",
+                "id_document": 146609,
+                "position": "Điều 158 / Chương XIII",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm và quyền hạn của tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp",
+                "so_hieu": "72/2020/QH14",
+                "trich_yeu": "Bảo vệ môi trường 2020 số 72/2020/QH14 mới nhất",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tài nguyên - Môi trường",
+                "score": 0.011624026696329254
+            },
+            {
+                "index": 38,
+                "id": "dieu_39",
+                "id_document": 999999999578018,
+                "position": "Điều 39 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Quyền, trách nhiệm của người đại diện phần vốn nhà nước",
+                "so_hieu": "68/2025/QH15",
+                "trich_yeu": "Quản lý và đầu tư vốn nhà nước tại doanh nghiệp 2025",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.011363636363636364
+            },
+            {
+                "index": 136,
+                "id": "dieu_137",
+                "id_document": 95942,
+                "position": "Điều 137 / Chương IX",
+                "dia_danh": "Trung ương",
+                "title": "Đại diện theo pháp luật của pháp nhân",
+                "so_hieu": "91/2015/QH13",
+                "trich_yeu": "Dân sự 2015",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Quyền dân sự",
+                "score": 0.011
+            },
+            {
+                "index": 20,
+                "id": "dieu_21",
+                "id_document": 11747,
+                "position": "Điều 21 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của người đứng đầu cơ quan đại diện",
+                "so_hieu": "33/2009/QH12",
+                "trich_yeu": "Cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài 2009 33/2009/QH12",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Ngoại giao"
+                ],
+                "linh_vuc": null,
+                "score": 0.010688313884660915
+            },
+            {
+                "index": 439,
+                "id": "dieu_440",
+                "id_document": 96172,
+                "position": "Điều 440 / Chương XXIX",
+                "dia_danh": "Trung ương",
+                "title": "Triệu tập người đại diện theo pháp luật của pháp nhân",
+                "so_hieu": "101/2015/QH13",
+                "trich_yeu": "Tố tụng hình sự 2015",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Viện kiểm sát nhân dân tối cao",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Trách nhiệm hình sự",
+                "score": 0.010602455505853241
+            },
+            {
+                "index": 164,
+                "id": "dieu_165",
+                "id_document": 142881,
+                "position": "Điều 165 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của người quản lý công ty",
+                "so_hieu": "59/2020/QH14",
+                "trich_yeu": "Doanh nghiệp 2020",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.010580347789650115
+            },
+            {
+                "index": 40,
+                "id": "dieu_41",
+                "id_document": 161263,
+                "position": "Điều 41 / Mục 2 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của tổ chức, cá nhân kinh doanh cung cấp dịch vụ liên tục",
+                "so_hieu": "19/2023/QH15",
+                "trich_yeu": "Bảo vệ quyền lợi người tiêu dùng 2023",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Công thương",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.01050669006361044
+            },
+            {
+                "index": 26,
+                "id": "dieu_27",
+                "id_document": 2315,
+                "position": "Điều 27",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của người bệnh.",
+                "so_hieu": "21-LCT/HĐNN8",
+                "trich_yeu": "Bảo vệ sức khỏe nhân dân 1989",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Y tế"
+                ],
+                "linh_vuc": null,
+                "score": 0.010364083091355818
+            },
+            {
+                "index": 66,
+                "id": "dieu_67",
+                "id_document": 26995,
+                "position": "Điều 67",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của cơ quan đại diện của Việt Nam ở nước ngoài",
+                "so_hieu": "08/2007/QH12",
+                "trich_yeu": "Tương trợ tư pháp 2007",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.01020184634642466
+            },
+            {
+                "index": 79,
+                "id": "dieu_80",
+                "id_document": 101899,
+                "position": "Điều 80 / Chương VIII",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của cơ quan, tổ chức, cá nhân",
+                "so_hieu": "108/2016/QH13",
+                "trich_yeu": "Điều ước quốc tế 2016",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Lĩnh vực khác",
+                "score": 0.01017156862745098
+            },
+            {
+                "index": 70,
+                "id": "dieu_71",
+                "id_document": 142881,
+                "position": "Điều 71 / Mục 1 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của Chủ tịch Hội đồng thành viên, Giám đốc, Tổng giám đốc và người quản lý khác, người đại diện theo pháp luật, Kiểm soát viên",
+                "so_hieu": "59/2020/QH14",
+                "trich_yeu": "Doanh nghiệp 2020",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.009798923817615407
+            }
+        ]
+    },
+    {
+        "id": 7337,
+        "cau_hoi": "Người nào có thẩm quyền phê duyệt kế hoạch lựa chọn nhà thầu đối với dự án?",
+        "tra_loi": "Căn cứ tại khoản 2 Điều 40 Luật Đấu thầu 2023 quy định về phê duyệt kế hoạch lựa chọn nhà thầu đối với dự án như sau:\nPhê duyệt kế hoạch lựa chọn nhà thầu đối với dự án\n.....\n2. Thẩm quyền phê duyệt kế hoạch lựa chọn nhà thầu:\na) Chủ đầu tư tổ chức lập và phê duyệt kế hoạch lựa chọn nhà thầu trong trường hợp đã phê duyệt kế hoạch tổng thể lựa chọn nhà thầu;\nb) Người có thẩm quyền xem xét, phê duyệt kế hoạch lựa chọn nhà thầu đối với dự án không áp dụng kế hoạch tổng thể lựa chọn nhà thầu hoặc ủy quyền cho chủ đầu tư, cơ quan, đơn vị thuộc phạm vi quản lý phê duyệt, trừ trường hợp quy định tại điểm c khoản này;\nc) Chủ đầu tư hoặc người đứng đầu đơn vị được giao nhiệm vụ chuẩn bị dự án trong trường hợp chưa xác định được chủ đầu tư phê duyệt kế hoạch lựa chọn nhà thầu của gói thầu đấu thầu trước theo quy định tại Điều 42 của Luật này hoặc gói thầu cần thực hiện trước khi có quyết định phê duyệt dự án.\n.....\nThông qua quy định trên, người thẩm quyền phê duyệt kế hoạch lựa chọn nhà thầu đối với dự án được xác định như sau:\n[1] Trường hợp đã phê duyệt kế hoạch tổng thể lựa chọn nhà thầu: Chủ đầu tư có thẩn quyền phê duyệt kế hoạch lựa chọn nhà thầu.\n[2] Trường hợp dự án không áp dụng kế hoạch tổng thể lựa chọn nhà thầu: Người có thẩm quyền xem xét, phê duyệt kế hoạch lựa chọn nhà thầu hoặc ủy quyền cho chủ đầu tư, cơ quan, đơn vị thuộc phạm vi quản lý phê duyệt/\n[3] Trường hợp chưa xác định được chủ đầu tư phê duyệt kế hoạch lựa chọn nhà thầu của gói thầu đấu thầu trước hoặc gói thầu cần thực hiện trước khi có quyết định phê duyệt dự án: Chủ đầu tư hoặc người đứng đầu đơn vị được giao nhiệm vụ chuẩn bị dự án.\nTrân trọng!",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "22/2023/QH15",
+                "khoan": "2",
+                "dieu": "40",
+                "trich_yeu": "Luật Đấu thầu 2023",
+                "noi_dung_kem_trich_dan": "Căn cứ tại khoản 2 Điều 40 Luật Đấu thầu 2023 quy định về phê duyệt kế hoạch lựa chọn nhà thầu đối với dự án như sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 103,
+                "id": "dieu_104",
+                "id_document": 999999999559469,
+                "position": "Mục 4 / Phần I",
+                "dia_danh": "tỉnh Hà Giang",
+                "title": "Thẩm định kế hoạch lựa chọn nhà đầu tư, kết quả lựa chọn nhà đầu tư trình phê duyệt.",
+                "so_hieu": "386/HD-UBND",
+                "trich_yeu": "2023 thủ tục thực hiện dự án xây dựng nhà ở thương mại Hà Giang",
+                "loai_van_ban": "Hướng dẫn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Hà Giang",
+                "don_vi": [
+                    "Hà Giang"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.013616200578592093
+            },
+            {
+                "index": 13,
+                "id": "dieu_11_dk_1",
+                "id_document": 125317,
+                "position": "Điều 11 / Chương II",
+                "dia_danh": "tỉnh Vĩnh Long",
+                "title": "Thẩm quyền thẩm định, phê duyệt kế hoạch lựa chọn nhà thầu: Chủ đầu tư tổ chức lập, thẩm định và phê duyệt kế hoạch lựa chọn nhà thầu theo quy định tại các Điều 34, 35, 36 và 37 của Luật Đấu thầu số 43/2013/QH13, ngày 26/11/2013.",
+                "so_hieu": "24/2017/QĐ-UBND",
+                "trich_yeu": "Xử lý sạt lở đầu tư công trình khắc phục thiên tai Vĩnh Long",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Vĩnh Long",
+                "don_vi": [
+                    "Vĩnh Long"
+                ],
+                "linh_vuc": "Đầu tư",
+                "score": 0.0133261105092091
+            },
+            {
+                "index": 39,
+                "id": "dieu_40",
+                "id_document": 999999999672382,
+                "position": "Điều 40 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Phê duyệt kế hoạch lựa chọn nhà thầu đối với dự án",
+                "so_hieu": "126/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Đấu thầu do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Đầu tư",
+                "score": 0.013227513227513227
+            },
+            {
+                "index": 39,
+                "id": "dieu_40",
+                "id_document": 999999999651871,
+                "position": "Điều 40 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Phê duyệt kế hoạch lựa chọn nhà thầu đối với dự án",
+                "so_hieu": "37/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Đấu thầu do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Đầu tư",
+                "score": 0.013038763892653835
+            },
+            {
+                "index": 39,
+                "id": "dieu_40",
+                "id_document": 166581,
+                "position": "Điều 40 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Phê duyệt kế hoạch lựa chọn nhà thầu đối với dự án",
+                "so_hieu": "22/2023/QH15",
+                "trich_yeu": "Đấu thầu 2023",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Đầu tư",
+                "score": 0.012961065573770494
+            },
+            {
+                "index": 29,
+                "id": "dieu_31",
+                "id_document": 999999999670741,
+                "position": "Điều 31 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Thẩm định và phê duyệt kế hoạch lựa chọn nhà thầu",
+                "so_hieu": "31/VBHN-BTC",
+                "trich_yeu": "Năm 2025 hợp nhất Nghị định hướng dẫn thực hiện về đấu thầu mua sắm theo Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương do Bộ trưởng Bộ Tài chính ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Tài chính",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tài chính"
+                ],
+                "linh_vuc": "Đầu tư",
+                "score": 0.012599681020733652
+            },
+            {
+                "index": 40,
+                "id": "dieu_41",
+                "id_document": 999999999672382,
+                "position": "Điều 41 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Phê duyệt kế hoạch lựa chọn nhà thầu đối với dự toán mua sắm",
+                "so_hieu": "126/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Đấu thầu do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Đầu tư",
+                "score": 0.012459893048128341
+            },
+            {
+                "index": 133,
+                "id": "dieu_31_1",
+                "id_document": 143892,
+                "position": "Điều 31 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Thẩm định và phê duyệt kế hoạch lựa chọn nhà thầu",
+                "so_hieu": "95/2020/NĐ-CP",
+                "trich_yeu": "Hướng dẫn thực hiện về đấu thầu mua sắm theo Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Hết hiệu lực một phần",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": null,
+                "score": 0.011939102564102563
+            },
+            {
+                "index": 30,
+                "id": "dieu_31",
+                "id_document": 143892,
+                "position": "Điều 31 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Thẩm định và phê duyệt kế hoạch lựa chọn nhà thầu",
+                "so_hieu": "95/2020/NĐ-CP",
+                "trich_yeu": "Hướng dẫn thực hiện về đấu thầu mua sắm theo Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Hết hiệu lực một phần",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": null,
+                "score": 0.011715241280458673
+            },
+            {
+                "index": 12,
+                "id": "dieu_13",
+                "id_document": 999999999678682,
+                "position": "Điều 13 / Quy trình QUY TRÌNH",
+                "dia_danh": "Trung ương",
+                "title": "Phê duyệt kế hoạch lựa chọn nhà thầu",
+                "so_hieu": "40/2025/TT-BYT",
+                "trich_yeu": "Đấu thầu thuốc tại cơ sở y tế công lập",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Y tế",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Y tế"
+                ],
+                "linh_vuc": "Đầu tư",
+                "score": 0.01167570293783886
+            },
+            {
+                "index": 23,
+                "id": "dieu_21_dk_1",
+                "id_document": 146492,
+                "position": "Điều 21 / Mục 2 / Chương III",
+                "dia_danh": "thành phố Hà Nội",
+                "title": "Thẩm quyền phê duyệt kế hoạch lựa chọn nhà thầu",
+                "so_hieu": "31/2020/QĐ-UBND",
+                "trich_yeu": "Giao nhiệm vụ đặt hàng sản phẩm dịch vụ công dùng ngân sách Hà Nội",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND thành phố Hà Nội",
+                "don_vi": [
+                    "Hà Nội"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.011552626477999612
+            },
+            {
+                "index": 16,
+                "id": "dieu_14_dk_1",
+                "id_document": 146492,
+                "position": "Điều 14 / Mục 3 / Chương II",
+                "dia_danh": "thành phố Hà Nội",
+                "title": "Thẩm quyền phê duyệt kế hoạch lựa chọn nhà thầu",
+                "so_hieu": "31/2020/QĐ-UBND",
+                "trich_yeu": "Giao nhiệm vụ đặt hàng sản phẩm dịch vụ công dùng ngân sách Hà Nội",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND thành phố Hà Nội",
+                "don_vi": [
+                    "Hà Nội"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.011185807656395892
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 999999999193990,
+                "position": "Điều 1",
+                "dia_danh": "tỉnh Đồng Nai",
+                "title": "Quy định về thẩm quyền phê duyệt kế hoạch đấu thầu, hồ sơ mời thầu và kết quả lựa chọn nhà thầu như sau",
+                "so_hieu": "2071/QĐ-UBND",
+                "trich_yeu": "Năm 2012 quy định phân cấp phê duyệt, thẩm định hồ sơ đấu thầu mua sắm tài sản nhằm duy trì hoạt động thường xuyên của tổ chức, cơ quan hành chính và đơn vị sự nghiệp trên địa bàn tỉnh Đồng Nai",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Đồng Nai",
+                "don_vi": [
+                    "Đồng Nai"
+                ],
+                "linh_vuc": "Đầu tư",
+                "score": 0.010898312813497492
+            },
+            {
+                "index": 40,
+                "id": "dieu_41",
+                "id_document": 999999999651871,
+                "position": "Điều 41 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Phê duyệt kế hoạch lựa chọn nhà thầu đối với dự toán mua sắm",
+                "so_hieu": "37/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Đấu thầu do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Đầu tư",
+                "score": 0.01068609593199757
+            },
+            {
+                "index": 40,
+                "id": "dieu_41",
+                "id_document": 166581,
+                "position": "Điều 41 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Phê duyệt kế hoạch lựa chọn nhà thầu đối với dự toán mua sắm",
+                "so_hieu": "22/2023/QH15",
+                "trich_yeu": "Đấu thầu 2023",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Đầu tư",
+                "score": 0.010576923076923078
+            },
+            {
+                "index": 12,
+                "id": "dieu_13",
+                "id_document": 168238,
+                "position": "Điều 13 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Trình, thẩm định, phê duyệt kế hoạch lựa chọn nhà thầu",
+                "so_hieu": "07/2024/TT-BYT",
+                "trich_yeu": "Quy định về đấu thầu thuốc tại các cơ sở y tế công lập do Bộ trưởng Bộ Y tế ban hành",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Y tế",
+                "don_vi": [
+                    "Bộ Y tế",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Đầu tư",
+                "score": 0.01049167634533488
+            },
+            {
+                "index": 76,
+                "id": "dieu_77",
+                "id_document": 999999999651871,
+                "position": "Điều 77 / Chương VIII",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của người có thẩm quyền",
+                "so_hieu": "37/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Đấu thầu do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Đầu tư",
+                "score": 0.010394889663182345
+            },
+            {
+                "index": 76,
+                "id": "dieu_77",
+                "id_document": 166581,
+                "position": "Điều 77 / Chương VIII",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của người có thẩm quyền",
+                "so_hieu": "22/2023/QH15",
+                "trich_yeu": "Đấu thầu 2023",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Đầu tư",
+                "score": 0.010329690856449053
+            },
+            {
+                "index": 4,
+                "id": "dieu_2_dk_1",
+                "id_document": 999999999441606,
+                "position": "Điều 2 / Chương II",
+                "dia_danh": "tỉnh Quảng Ninh",
+                "title": "Thẩm quyền phê duyệt kế hoạch lựa chọn nhà thầu",
+                "so_hieu": "5504/QĐ-UBND",
+                "trich_yeu": "2019 lựa chọn nhà thầu mua sắm thuốc cơ sở y tế công lập Quảng Ninh",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Quảng Ninh",
+                "don_vi": [
+                    "Quảng Ninh"
+                ],
+                "linh_vuc": "Đầu tư",
+                "score": 0.01004892443892211
+            },
+            {
+                "index": 15,
+                "id": "dieu_16",
+                "id_document": 999999999668157,
+                "position": "Điều 16 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Lập, trình và phê duyệt kế hoạch tổng thể lựa chọn nhà thầu cho dự án",
+                "so_hieu": "214/2025/NĐ-CP",
+                "trich_yeu": "Hướng dẫn Luật Đấu thầu về lựa chọn nhà thầu",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Chính phủ"
+                ],
+                "linh_vuc": "Đầu tư",
+                "score": 0.01004168245547556
+            }
+        ]
+    },
+    {
+        "id": 31651,
+        "cau_hoi": "Cơ quan, người nào có thẩm quyền ban hành văn bản quy phạm pháp luật?",
+        "tra_loi": "Căn cứ Điều 4 Luật Ban hành văn bản quy phạm pháp luật 2025 quy định hệ thống văn bản quy phạm pháp luật:\nĐiều 4. Hệ thống văn bản quy phạm pháp luật\n1. Hiến pháp.\n2. Bộ luật, luật (sau đây gọi chung là luật), nghị quyết của Quốc hội.\n3. Pháp lệnh, nghị quyết của Ủy ban Thường vụ Quốc hội; nghị quyết liên tịch giữa Ủy ban Thường vụ Quốc hội với Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam; nghị quyết liên tịch giữa Ủy ban Thường vụ Quốc hội, Chính phủ với Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam.\n4. Lệnh, quyết định của Chủ tịch nước.\n5. Nghị định, nghị quyết của Chính phủ; nghị quyết liên tịch giữa Chính phủ với Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam.\n6. Quyết định của Thủ tướng Chính phủ.\n7. Nghị quyết của Hội đồng Thẩm phán Tòa án nhân dân tối cao.\n8. Thông tư của Chánh án Tòa án nhân dân tối cao; thông tư của Viện trưởng Viện kiểm sát nhân dân tối cao; thông tư của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ; thông tư của Tổng Kiểm toán nhà nước.\n9. Thông tư liên tịch giữa Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ.\n[...]\nTheo quy định trên, đối tượng có thẩm quyền ban hành văn bản quy phạm pháp luật bao gồm:\n- Quốc hội: Hiến pháp, Bộ luật, Luật, Nghị quyết\n- Ủy ban Thường vụ Quốc hội: Pháp lệnh, Nghị quyết\n- Ủy ban Thường vụ Quốc hội với Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam: Nghị quyết liên tịch\n- Ủy ban Thường vụ Quốc hội, Chính phủ với Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam: Nghị quyết liên tịch\n- Chủ tịch nước: Lệnh, Quyết định\n- Chính phủ: Nghị định, Nghị quyết\n- Chính phủ với Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam: Nghị quyết liên tịch\n- Thủ tướng Chính phủ: Quyết định\n- Hội đồng Thẩm phán Tòa án nhân dân tối cao: Nghị quyết\n- Chánh án Tòa án nhân dân tối cao: Thông tư\n- Viện trưởng Viện kiểm sát nhân dân tối cao: Thông tư\n- Bộ trưởng, Thủ trưởng cơ quan ngang Bộ: Thông tư\n- Tổng Kiểm toán nhà nước: Thông tư\n- Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ: Thông tư liên tịch\n- Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương: Nghị quyết\n- Ủy ban nhân dân cấp tỉnh: Quyết định\n- Chính quyền địa phương ở đơn vị hành chính - kinh tế đặc biệt: Văn bản quy phạm pháp luật\n- Hội đồng nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương: Nghị quyết\n- Ủy ban nhân dân cấp huyện: Quyết định\nCơ quan, người nào có thẩm quyền ban hành văn bản quy phạm pháp luật? (Hình từ Internet)",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "64/2025/QH15",
+                "khoan": "",
+                "dieu": "4",
+                "trich_yeu": "Luật Ban hành văn bản quy phạm pháp luật 2025",
+                "noi_dung_kem_trich_dan": "Căn cứ Điều 4 Luật Ban hành văn bản quy phạm pháp luật 2025 quy định hệ thống văn bản quy phạm pháp luật:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 60.0,
+                "id": "dieu_61",
+                "id_document": 175440,
+                "position": "Điều 61 / Chương VII",
+                "dia_danh": "Trung ương",
+                "title": "Hướng dẫn áp dụng văn bản quy phạm pháp luật",
+                "so_hieu": "64/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.015089285714285715
+            },
+            {
+                "index": 67.0,
+                "id": "dieu_68",
+                "id_document": 175440,
+                "position": "Điều 68 / Chương VIII",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của cơ quan, tổ chức, người có thẩm quyền trong xây dựng, ban hành và tổ chức thi hành văn bản quy phạm pháp luật",
+                "so_hieu": "64/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.013700234192037471
+            },
+            {
+                "index": 7.0,
+                "id": "dieu_8",
+                "id_document": 175440,
+                "position": "Điều 8 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Sửa đổi, bổ sung, thay thế, bãi bỏ hoặc đình chỉ việc thi hành văn bản quy phạm pháp luật",
+                "so_hieu": "64/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.01369047619047619
+            },
+            {
+                "index": 55.0,
+                "id": "dieu_56",
+                "id_document": 175440,
+                "position": "Điều 56 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Tạm ngưng hiệu lực văn bản quy phạm pháp luật",
+                "so_hieu": "64/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.013578122011856951
+            },
+            {
+                "index": 1.0,
+                "id": "dieu_2",
+                "id_document": 175440,
+                "position": "Điều 2 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Văn bản quy phạm pháp luật Văn bản quy phạm pháp luật là văn bản có chứa quy phạm pháp luật, được ban hành đúng thẩm quyền, hình thức, trình tự, thủ tục theo quy định của Luật này.",
+                "so_hieu": "64/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012046010325151709
+            },
+            {
+                "index": 62.0,
+                "id": "dieu_63",
+                "id_document": 175440,
+                "position": "Điều 63 / Chương VII",
+                "dia_danh": "Trung ương",
+                "title": "Kiểm tra, xử lý văn bản quy phạm pháp luật",
+                "so_hieu": "64/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011899641577060931
+            },
+            {
+                "index": 56.0,
+                "id": "dieu_57",
+                "id_document": 175440,
+                "position": "Điều 57 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Văn bản quy phạm pháp luật hết hiệu lực",
+                "so_hieu": "64/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011636363636363636
+            },
+            {
+                "index": 8.0,
+                "id": "dieu_9",
+                "id_document": 175440,
+                "position": "Điều 9 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Gửi, lưu trữ văn bản quy phạm pháp luật",
+                "so_hieu": "64/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011624026696329254
+            },
+            {
+                "index": 13.0,
+                "id": "dieu_14",
+                "id_document": 999999999649675,
+                "position": "Điều 14 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Ủy quyền",
+                "so_hieu": "72/2025/QH15",
+                "trich_yeu": "Tổ chức chính quyền địa phương số 72/2025/QH15 năm 2025",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011363636363636364
+            },
+            {
+                "index": 20.0,
+                "id": "dieu_21",
+                "id_document": 137284,
+                "position": "Điều 21 / Mục 3 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Thẩm quyền ban hành quy tắc ứng xử của người có chức vụ, quyền hạn trong cơ quan, tổ chức, đơn vị",
+                "so_hieu": "36/2018/QH14",
+                "trich_yeu": "Phòng chống tham nhũng năm 2018",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011191553544494722
+            },
+            {
+                "index": 13.0,
+                "id": "dieu_14",
+                "id_document": 70801,
+                "position": "Điều 14 / Mục 2 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Quyền hạn của Tổng Kiểm toán nhà nước",
+                "so_hieu": "81/2015/QH13",
+                "trich_yeu": "Kiểm toán nhà nước 2015",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Kiểm toán Nhà nước"
+                ],
+                "linh_vuc": "Kế toán - Kiểm toán",
+                "score": 0.011135531135531134
+            },
+            {
+                "index": 4.0,
+                "id": "dieu_5",
+                "id_document": 175440,
+                "position": "Điều 5 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Nguyên tắc xây dựng, ban hành văn bản quy phạm pháp luật",
+                "so_hieu": "64/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011129136924075274
+            },
+            {
+                "index": 0.0,
+                "id": "dieu_1",
+                "id_document": 999999999662673,
+                "position": "Điều 1",
+                "dia_danh": "Trung ương",
+                "title": "Sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật",
+                "so_hieu": "87/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật sửa đổi 2025",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010619047619047618
+            },
+            {
+                "index": 11.0,
+                "id": "dieu_12",
+                "id_document": 27621,
+                "position": "Điều 12",
+                "dia_danh": "Trung ương",
+                "title": "Những hành vi bị nghiêm cấm",
+                "so_hieu": "15/2012/QH13",
+                "trich_yeu": "Xử lý vi phạm hành chính 2012",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Vi phạm hành chính",
+                "score": 0.010577915376676987
+            },
+            {
+                "index": 3.0,
+                "id": "dieu_4",
+                "id_document": 175440,
+                "position": "Điều 4 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Hệ thống văn bản quy phạm pháp luật",
+                "so_hieu": "64/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010381340244353943
+            },
+            {
+                "index": 58.0,
+                "id": "dieu_59",
+                "id_document": 175440,
+                "position": "Điều 59 / Chương VII",
+                "dia_danh": "Trung ương",
+                "title": "Nội dung và trách nhiệm tổ chức thi hành văn bản quy phạm pháp luật",
+                "so_hieu": "64/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.009433475287133824
+            },
+            {
+                "index": 13.0,
+                "id": "dieu_14",
+                "id_document": 167565,
+                "position": "Điều 14 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ, quyền hạn của Bộ Tài chính",
+                "so_hieu": "16/2023/QH15",
+                "trich_yeu": "Giá 2023",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.00935939747820936
+            },
+            {
+                "index": 192.0,
+                "id": "dieu_193",
+                "id_document": 96172,
+                "position": "Điều 193 / Chương XIII",
+                "dia_danh": "Trung ương",
+                "title": "Thẩm quyền ra lệnh khám xét",
+                "so_hieu": "101/2015/QH13",
+                "trich_yeu": "Tố tụng hình sự 2015",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Viện kiểm sát nhân dân tối cao",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Trách nhiệm hình sự",
+                "score": 0.008838299296953464
+            },
+            {
+                "index": 57.0,
+                "id": "dieu_58",
+                "id_document": 175440,
+                "position": "Điều 58 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Áp dụng văn bản quy phạm pháp luật",
+                "so_hieu": "64/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.008660776563589863
+            },
+            {
+                "index": 19.0,
+                "id": "dieu_20",
+                "id_document": 70807,
+                "position": "Điều 20 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ, quyền hạn của Ủy ban thường vụ Quốc hội",
+                "so_hieu": "83/2015/QH13",
+                "trich_yeu": "Ngân sách nhà nước năm 2015",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tài chính"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.008580542264752791
+            }
+        ]
+    },
+    {
+        "id": 1320,
+        "cau_hoi": "Người lao động được nghỉ hưởng lương vào ngày rằm 2025 không?",
+        "tra_loi": "Theo Điều 112 Bộ luật Lao động 2019 quy định về nghỉ lễ, tết cụ thể như sau:\nĐiều 112. Nghỉ lễ, tết\n1. Người lao động được nghỉ làm việc, hưởng nguyên lương trong những ngày lễ, tết sau đây:\na) Tết Dương lịch: 01 ngày (ngày 01 tháng 01 dương lịch);\nb) Tết Âm lịch: 05 ngày;\nc) Ngày Chiến thắng: 01 ngày (ngày 30 tháng 4 dương lịch);\nd) Ngày Quốc tế lao động: 01 ngày (ngày 01 tháng 5 dương lịch);\nđ) Quốc khánh: 02 ngày (ngày 02 tháng 9 dương lịch và 01 ngày liền kề trước hoặc sau);\ne) Ngày Giỗ Tổ Hùng Vương: 01 ngày (ngày 10 tháng 3 âm lịch).\n2. Lao động là người nước ngoài làm việc tại Việt Nam ngoài các ngày nghỉ theo quy định tại khoản 1 Điều này còn được nghỉ thêm 01 ngày Tết cổ truyền dân tộc và 01 ngày Quốc khánh của nước họ.\n3. Hằng năm, căn cứ vào điều kiện thực tế, Thủ tướng Chính phủ quyết định cụ thể ngày nghỉ quy định tại điểm b và điểm đ khoản 1 Điều này.\nTheo quy định trên, người lao động có các kỳ nghỉ lễ tết được nghỉ làm việc và hưởng nguyên lương như sau:\n(1) Tết Dương lịch (01/01 dương lịch)\n(2) Tết Âm lịch\n(3) Ngày Chiến thắng (Ngày 30/04)\n(4) Ngày Quốc tế lao động (Ngày 01/05)\n(5) Lễ Quốc khánh (Ngày 02/9)\n(6) Ngày Giỗ Tổ Hùng Vương (Ngày 10/03 âm lịch)\nNgoài ra, người lao động là người nước ngoài làm việc tại Việt Nam ngoài các ngày nghỉ theo quy định còn được nghỉ thêm 01 ngày Tết cổ truyền dân tộc và 01 ngày Quốc khánh của nước họ.\nNhư vậy, các ngày rằm 2025 không được xem là một ngày nghỉ lễ tết, nghỉ hưởng lương. (Trừ trường hợp ngày rằm 2025 rơi vào hoặc là ngày Tết cổ truyền dân tộc và ngày Quốc khánh của nước người nước ngoài làm việc tại Việt Nam).\nNgười lao động vẫn phải đi làm các ngày này nếu có lịch làm việc theo quy định.",
+        "trich_dan": [
+            {
+                "loai_vb": "Bộ luật",
+                "so_hieu": "45/2019/QH14",
+                "khoan": "",
+                "dieu": "112",
+                "trich_yeu": "Bộ luật Lao động 2019",
+                "noi_dung_kem_trich_dan": "Theo Điều 112 Bộ luật Lao động 2019 quy định về nghỉ lễ, tết cụ thể như sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 112,
+                "id": "dieu_113",
+                "id_document": 999999999672381,
+                "position": "Điều 113 / Mục 2 / Chương VII",
+                "dia_danh": "Trung ương",
+                "title": "Nghỉ hằng năm",
+                "so_hieu": "125/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Lao động do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.01500880281690141
+            },
+            {
+                "index": 100,
+                "id": "dieu_101",
+                "id_document": 999999999672381,
+                "position": "Điều 101 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Tạm ứng tiền lương",
+                "so_hieu": "125/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Lao động do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.014929214929214929
+            },
+            {
+                "index": 111,
+                "id": "dieu_112",
+                "id_document": 999999999672381,
+                "position": "Điều 112 / Mục 2 / Chương VII",
+                "dia_danh": "Trung ương",
+                "title": "Nghỉ lễ, tết",
+                "so_hieu": "125/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Lao động do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.013955342902711323
+            },
+            {
+                "index": 114,
+                "id": "dieu_115",
+                "id_document": 999999999672381,
+                "position": "Điều 115 / Mục 2 / Chương VII",
+                "dia_danh": "Trung ương",
+                "title": "Nghỉ việc riêng, nghỉ không hưởng lương",
+                "so_hieu": "125/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Lao động do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.013774733637747335
+            },
+            {
+                "index": 96,
+                "id": "dieu_97",
+                "id_document": 999999999672381,
+                "position": "Điều 97 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Kỳ hạn trả lương",
+                "so_hieu": "125/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Lao động do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.012339413164155433
+            },
+            {
+                "index": 21,
+                "id": "dieu_22",
+                "id_document": 999999999634792,
+                "position": "Điều 22 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Đối tượng và điều kiện hưởng",
+                "so_hieu": "158/2025/NĐ-CP",
+                "trich_yeu": "Hướng dẫn Luật Bảo hiểm xã hội về bảo hiểm xã hội bắt buộc",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Chính phủ"
+                ],
+                "linh_vuc": "Bảo hiểm",
+                "score": 0.01182053494391717
+            },
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 999999999663163,
+                "position": "Điều 8",
+                "dia_danh": "Trung ương",
+                "title": "Nghỉ ngày lễ, tết",
+                "so_hieu": "56/2025/TT-BQP",
+                "trich_yeu": "Quy định chế độ nghỉ của sĩ quan, quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng do Bộ trưởng Bộ Quốc phòng ban hành",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Quốc phòng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Quốc phòng"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.010122791254866727
+            },
+            {
+                "index": 94,
+                "id": "dieu_95",
+                "id_document": 999999999672381,
+                "position": "Điều 95 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Trả lương",
+                "so_hieu": "125/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Lao động do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.010078157136980667
+            },
+            {
+                "index": 28,
+                "id": "dieu_29",
+                "id_document": 999999999672381,
+                "position": "Điều 29 / Mục 2 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Chuyển người lao động làm công việc khác so với hợp đồng lao động",
+                "so_hieu": "125/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Lao động do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.009864457831325302
+            },
+            {
+                "index": 167,
+                "id": "dieu_168",
+                "id_document": 999999999672381,
+                "position": "Điều 168 / Chương XII",
+                "dia_danh": "Trung ương",
+                "title": "Tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp",
+                "so_hieu": "125/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Lao động do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.009687795648060549
+            },
+            {
+                "index": 110,
+                "id": "dieu_111",
+                "id_document": 999999999672381,
+                "position": "Điều 111 / Mục 2 / Chương VII",
+                "dia_danh": "Trung ương",
+                "title": "Nghỉ hằng tuần",
+                "so_hieu": "125/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Lao động do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.009545454545454546
+            },
+            {
+                "index": 12,
+                "id": "dieu_13",
+                "id_document": 999999999672381,
+                "position": "Điều 13 / Mục 1 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Hợp đồng lao động",
+                "so_hieu": "125/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Lao động do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.009533506108848575
+            },
+            {
+                "index": 11,
+                "id": "dieu_12",
+                "id_document": 999999999662578,
+                "position": "Điều 12 / Mục 2 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Đối tượng và điều kiện hưởng lương hưu",
+                "so_hieu": "157/2025/NĐ-CP",
+                "trich_yeu": "Hướng dẫn Luật Bảo hiểm xã hội về bảo hiểm xã hội bắt buộc đối với quân nhân, công an nhân dân, dân quân thường trực và người làm công tác cơ yếu hưởng lương như đối với quân nhân",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Chính phủ"
+                ],
+                "linh_vuc": "Bảo hiểm",
+                "score": 0.009216589861751152
+            },
+            {
+                "index": 93,
+                "id": "dieu_94",
+                "id_document": 999999999672381,
+                "position": "Điều 94 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Nguyên tắc trả lương",
+                "so_hieu": "125/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Lao động do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.009075789973865527
+            },
+            {
+                "index": 161,
+                "id": "dieu_162",
+                "id_document": 999999999672381,
+                "position": "Điều 162 / Mục 5 / Chương XI",
+                "dia_danh": "Trung ương",
+                "title": "Hợp đồng lao động đối với lao động là người giúp việc gia đình",
+                "so_hieu": "125/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Lao động do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.008648720682302772
+            },
+            {
+                "index": 168,
+                "id": "dieu_169",
+                "id_document": 999999999672381,
+                "position": "Điều 169 / Chương XII",
+                "dia_danh": "Trung ương",
+                "title": "Tuổi nghỉ hưu",
+                "so_hieu": "125/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Lao động do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.008461538461538461
+            },
+            {
+                "index": 44,
+                "id": "dieu_45",
+                "id_document": 999999999670920,
+                "position": "Điều 45 / Mục 1 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Trợ cấp ốm đau",
+                "so_hieu": "58/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Bảo hiểm xã hội do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bảo hiểm",
+                "score": 0.008080146673651126
+            },
+            {
+                "index": 102,
+                "id": "dieu_103",
+                "id_document": 999999999672381,
+                "position": "Điều 103 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Chế độ nâng lương, nâng bậc, phụ cấp, trợ cấp Chế độ nâng lương, nâng bậc, phụ cấp, trợ cấp và các chế độ khuyến khích đối với người lao động được thỏa thuận trong hợp đồng lao động, thỏa ước lao động tập thể hoặc quy định của người sử dụng lao động.",
+                "so_hieu": "125/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Lao động do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.007667963683527887
+            },
+            {
+                "index": 63,
+                "id": "dieu_64",
+                "id_document": 999999999670920,
+                "position": "Điều 64 / Mục 3 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Đối tượng và điều kiện hưởng lương hưu",
+                "so_hieu": "58/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Bảo hiểm xã hội do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bảo hiểm",
+                "score": 0.0076604554865424435
+            },
+            {
+                "index": 98,
+                "id": "dieu_99",
+                "id_document": 999999999672381,
+                "position": "Điều 99 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Tiền lương ngừng việc Trường hợp phải ngừng việc, người lao động được trả lương như sau:",
+                "so_hieu": "125/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Lao động do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.007634699396713126
+            }
+        ]
+    },
+    {
+        "id": 1047,
+        "cau_hoi": "Mẫu hợp đồng đại lý thương mại mới nhất vừa cập nhật?",
+        "tra_loi": "Theo Điều 168 Luật Thương mại 2005 có quy định hợp đồng đại lý phải được lập thành văn bản hoặc bằng hình thức khác có giá trị pháp lý tương đương.\nHiện nay vẫn chưa có văn bản nào quy định cụ thể về hình thức mẫu hợp đồng đại lý thương mại. Tuy nhiên, có thể tham khảo mẫu hợp đồng đại lý thương mại sau đây:\nTải về mẫu hợp đồng đại lý thương mại mới nhất vừa cập nhật\nTẠI ĐÂY\nLưu ý: Mẫu hợp đồng đại lý thương mại mới nhất vừa cập nhật chỉ mang tính tham khảo!\nMẫu hợp đồng đại lý thương mại mới nhất vừa cập nhật? (Hình từ Internet)",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "36/2005/QH11",
+                "khoan": "",
+                "dieu": "168",
+                "trich_yeu": "Luật Thương mại 2005",
+                "noi_dung_kem_trich_dan": "Theo Điều 168 Luật Thương mại 2005 có quy định hợp đồng đại lý phải được lập thành văn bản hoặc bằng hình thức khác có giá trị pháp lý tương đương."
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 404,
+                "id": "dieu_405",
+                "id_document": 95942,
+                "position": "Điều 405 / Tiểu mục 1 / Mục 7 / Chương XV",
+                "dia_danh": "Trung ương",
+                "title": "Hợp đồng theo mẫu",
+                "so_hieu": "91/2015/QH13",
+                "trich_yeu": "Dân sự 2015",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Quyền dân sự",
+                "score": 0.014243820695433599
+            },
+            {
+                "index": 152,
+                "id": "dieu_168",
+                "id_document": 999999999672488,
+                "position": "Điều 168 / Mục 4 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Hợp đồng đại lý Hợp đồng đại lý phải được lập thành văn bản hoặc bằng hình thức khác có giá trị pháp lý tương đương.",
+                "so_hieu": "113/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Thương mại do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.012215843857634903
+            },
+            {
+                "index": 167,
+                "id": "dieu_168",
+                "id_document": 999999999362136,
+                "position": "Điều 168 / Mục 4 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Hợp đồng đại lý Hợp đồng đại lý phải được lập thành văn bản hoặc bằng hình thức khác có giá trị pháp lý tương đương.",
+                "so_hieu": "03/VBHN-VPQH",
+                "trich_yeu": "2017 Luật Thương mại",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.012146555157307844
+            },
+            {
+                "index": 167,
+                "id": "dieu_168",
+                "id_document": 999999999424692,
+                "position": "Điều 168 / Mục 4 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Hợp đồng đại lý Hợp đồng đại lý phải được lập thành văn bản hoặc bằng hình thức khác có giá trị pháp lý tương đương.",
+                "so_hieu": "17/VBHN-VPQH",
+                "trich_yeu": "2019 Luật Thương mại",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.012121212121212121
+            },
+            {
+                "index": 11,
+                "id": "dieu_10",
+                "id_document": 84160,
+                "position": "Điều 10 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Nội dung hợp đồng đại lý xổ số : Hợp đồng đại lý xổ số phải được lập bằng văn bản và phải bao gồm các nội dung chủ yếu sau đây:",
+                "so_hieu": "185/2003/QĐ/BTC",
+                "trich_yeu": "Về việc ban hành quy chế đại lý bán vé xổ số kiến thiết",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Tài chính",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tài chính"
+                ],
+                "linh_vuc": null,
+                "score": 0.012108792846497766
+            },
+            {
+                "index": 167,
+                "id": "dieu_168",
+                "id_document": 26117,
+                "position": "Điều 168 / Mục 4 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Hợp đồng đại lý Hợp đồng đại lý phải được lập thành văn bản hoặc bằng hình thức khác có giá trị pháp lý tương đương.",
+                "so_hieu": "36/2005/QH11",
+                "trich_yeu": "Thương mại 2005",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công thương"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.011673850574712643
+            },
+            {
+                "index": 236,
+                "id": "dieu_237",
+                "id_document": 96117,
+                "position": "Điều 237 / Mục 1 / Chương X",
+                "dia_danh": "Trung ương",
+                "title": "Hợp đồng đại lý tàu biển Hợp đồng đại lý tàu biển là hợp đồng được giao kết bằng văn bản giữa người ủy thác và người đại lý tàu biển, theo đó người ủy thác ủy thác cho người đại lý tàu biển thực hiện các dịch vụ đại lý tàu biển đối với từng chuyến tàu hoặc trong một thời hạn cụ thể.",
+                "so_hieu": "95/2015/QH13",
+                "trich_yeu": "Hàng hải Việt Nam 2015",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.01137820512820513
+            },
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 999999999660724,
+                "position": "Điều 8 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Các nội dung quy định trong hợp đồng đại lý thanh toán",
+                "so_hieu": "05/VBHN-NHNN",
+                "trich_yeu": "Năm 2025 hợp nhất Thông tư quy định về hoạt động đại lý thanh toán do Thống đốc Ngân hàng Nhà nước Việt Nam ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+                "don_vi": [
+                    "Trung ương",
+                    "Ngân hàng Nhà nước"
+                ],
+                "linh_vuc": "Tiền tệ - Ngân hàng",
+                "score": 0.011349254949989793
+            },
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 167854,
+                "position": "Điều 8 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Các nội dung quy định trong hợp đồng đại lý thanh toán",
+                "so_hieu": "07/2024/TT-NHNN",
+                "trich_yeu": "Về hoạt động đại lý thanh toán do Thống đốc Ngân hàng Nhà nước Việt Nam ban hành",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+                "don_vi": [
+                    "Ngân hàng Nhà nước Việt Nam",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tiền tệ - Ngân hàng",
+                "score": 0.011330049261083743
+            },
+            {
+                "index": 165,
+                "id": "dieu_166",
+                "id_document": 26117,
+                "position": "Điều 166 / Mục 4 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Đại lý thương mại Đại lý thương mại là hoạt động thương mại, theo đó bên giao đại lý và bên đại lý thoả thuận việc bên đại lý nhân danh chính mình mua, bán hàng hoá cho bên giao đại lý hoặc cung ứng dịch vụ của bên giao đại lý cho khách hàng để hưởng thù lao.",
+                "so_hieu": "36/2005/QH11",
+                "trich_yeu": "Thương mại 2005",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công thương"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.011280805275945851
+            },
+            {
+                "index": 15,
+                "id": "dieu_16",
+                "id_document": 999999999338118,
+                "position": "Mục 7",
+                "dia_danh": "Trung ương",
+                "title": "Một doanh nghiệp của một Nước ký kết sẽ không được coi là có một cơ sở thường trú tại Nước ký kết kia chỉ vì doanh nghiệp đó thực hiện kinh doanh tại Nước ký kết kia thông qua một đại lý môi giới, một đại lý hoa hồng hoặc bất kỳ một đại lý nào khác có tư cách độc lập, với điều kiện những đối tượng này hoạt động trong khuôn khổ kinh doanh thông thường của mình. Tuy nhiên, khi những hoạt động của đại lý đó dành toàn bộ hoặc hầu như toàn bộ thay mặt cho doanh nghiệp đó, và điều kiện được tạo ra hoặc áp đặt giữa doanh nghiệp đó và đại lý đó trong quan hệ thương mại và quan hệ tài chính khác với điều kiện được tạo ra giữa các doanh nghiệp độc lập, đại lý đó sẽ không được coi là đại lý có tư cách độc lập theo nghĩa của khoản này.",
+                "so_hieu": "76/2016/TB-LPQT",
+                "trich_yeu": "Thông báo 76/2016/TB-LPQT hiệu lực của Hiệp định về tránh đánh thuế hai lần và ngăn ngừa việc trốn lậu thuế đối với loại thuế đánh vào thu nhập giữa Việt Nam - Bồ Đào Nha",
+                "loai_van_ban": "Điều ước quốc tế",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Chính phủ"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.011168831168831168
+            },
+            {
+                "index": 150,
+                "id": "dieu_166",
+                "id_document": 999999999672488,
+                "position": "Điều 166 / Mục 4 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Đại lý thương mại Đại lý thương mại là hoạt động thương mại, theo đó bên giao đại lý và bên đại lý thỏa thuận việc bên đại lý nhân danh chính mình mua, bán hàng hóa cho bên giao đại lý hoặc cung ứng dịch vụ của bên giao đại lý cho khách hàng để hưởng thù lao.",
+                "so_hieu": "113/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Thương mại do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.011049284578696344
+            },
+            {
+                "index": 165,
+                "id": "dieu_166",
+                "id_document": 999999999424692,
+                "position": "Điều 166 / Mục 4 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Đại lý thương mại Đại lý thương mại là hoạt động thương mại, theo đó bên giao đại lý và bên đại lý thỏa thuận việc bên đại lý nhân danh chính mình mua, bán hàng hóa cho bên giao đại lý hoặc cung ứng dịch vụ của bên giao đại lý cho khách hàng để hưởng thù lao.",
+                "so_hieu": "17/VBHN-VPQH",
+                "trich_yeu": "2019 Luật Thương mại",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.0108507570295602
+            },
+            {
+                "index": 165,
+                "id": "dieu_166",
+                "id_document": 999999999362136,
+                "position": "Điều 166 / Mục 4 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Đại lý thương mại Đại lý thương mại là hoạt động thương mại, theo đó bên giao đại lý và bên đại lý thỏa thuận việc bên đại lý nhân danh chính mình mua, bán hàng hóa cho bên giao đại lý hoặc cung ứng dịch vụ của bên giao đại lý cho khách hàng để hưởng thù lao.",
+                "so_hieu": "03/VBHN-VPQH",
+                "trich_yeu": "2017 Luật Thương mại",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.010849056603773586
+            },
+            {
+                "index": 15,
+                "id": "dieu_16",
+                "id_document": 999999999205458,
+                "position": "Mục 7",
+                "dia_danh": "Trung ương",
+                "title": "Một doanh nghiệp của một Nước ký kết sẽ không được coi là có cơ sở thường trú tại một Nước ký kết kia nếu doanh nghiệp chỉ thực hiện kinh doanh tại Nước ký kết đó thông qua một đại lý môi giới, một đại lý hoa hồng hoặc bất kỳ một đại lý nào khác có tư cách độc lập, với điều kiện những đối tượng này chỉ hoạt động trong khuôn khổ kinh doanh thông thường của họ. Tuy nhiên, khi các hoạt động của đại lý đó được dành toàn bộ hay hầu như toàn bộ cho hoạt động đại diện cho doanh nghiệp đó, và điều kiện được tạo ra hay áp đặt giữa doanh nghiệp đó và đại lý trong quan hệ thương mại và tài chính khác với điều kiện được tạo ra giữa các doanh nghiệp độc lập, đại lý đó sẽ không được coi là đại lý có tư cách độc lập theo nghĩa của khoản này.",
+                "so_hieu": "Không số",
+                "trich_yeu": "Hiệp định về tránh đánh thuế hai lần và ngăn ngừa việc trốn lậu thuế đối với loại thuế đánh vào thu nhập giữa Việt Nam và Băng La Đét",
+                "loai_van_ban": "Điều ước quốc tế",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Chính phủ"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.010263157894736842
+            },
+            {
+                "index": 15,
+                "id": "dieu_16",
+                "id_document": 999999999207206,
+                "position": "Mục 7",
+                "dia_danh": "Trung ương",
+                "title": "Một doanh nghiệp của một Nước ký kết sẽ không được coi là có cơ sở thường trú tại một Nước ký kết kia nếu doanh nghiệp chỉ thực hiện kinh doanh tại Nước ký kết đó thông qua một đại lý môi giới, một đại lý hoa hồng hoặc bất kỳ một đại lý nào khác có tư cách độc lập, với điều kiện những đối tượng này chỉ hoạt động trong khuôn khổ kinh doanh thông thường của họ. Tuy nhiên, khi các hoạt động của đại lý đó được giành toàn bộ hay hầu như toàn bộ cho hoạt động đại diện cho doanh nghiệp đó, và điều kiện được tạo ra hay áp đặt giữa doanh nghiệp đó và đại lý trong quan hệ thương mại và tài chính khác với điều kiện được tạo ra giữa các doanh nghiệp độc lập, đại lý đó sẽ không được coi là đại lý có tư cách độc lập theo nghĩa của khoản này.",
+                "so_hieu": "Không số",
+                "trich_yeu": "Hiệp định về tránh đánh thuế hai lần và ngăn ngừa việc trốn lậu thuế đối với các loại thuế đánh vào thu nhập giữa Việt Nam và Xri Lan - ca",
+                "loai_van_ban": "Điều ước quốc tế",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Chính phủ"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.01025136612021858
+            },
+            {
+                "index": 18,
+                "id": "dieu_19",
+                "id_document": 999999999595449,
+                "position": "Điều 19 / Mục 5 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Mẫu các loại hợp đồng làm việc",
+                "so_hieu": "1/VBHN-BNV",
+                "trich_yeu": "Năm 2024 hợp nhất Nghị định quy định về tuyển dụng, sử dụng và quản lý viên chức do Bộ Nội vụ ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Nội vụ",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Nội vụ"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010230179028132991
+            },
+            {
+                "index": 18,
+                "id": "dieu_19",
+                "id_document": 144137,
+                "position": "Điều 19 / Mục 5 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Mẫu các loại hợp đồng làm việc",
+                "so_hieu": "115/2020/NĐ-CP",
+                "trich_yeu": "Tuyển dụng sử dụng quản lý viên chức",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Nội vụ",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010176663493070982
+            },
+            {
+                "index": 27,
+                "id": "dieu_11_1_dk_1",
+                "id_document": 115940,
+                "position": "Điều 11 / Chương V",
+                "dia_danh": "tỉnh Quảng Trị",
+                "title": "Hiệu lực của hợp đồng Hợp đồng này có hiệu lực kể từ ngày ký. Hợp đồng được lập thành... bản có giá trị pháp lý như nhau, mỗi bên giữ 01 bản và các bản còn lại được gửi đến cơ quan quản lý nhà nước có thẩm quyền liên quan theo quy định của pháp luật. Các bên có mặt tại đây thống nhất ký vào bản hợp đồng này. ĐẠI DIỆN BÊN A\n Ký tên\n Ghi rõ họ tên và đóng dấu | ĐẠI DIỆN BÊN B\n Ký tên\n Ghi rõ họ tên và đóng dấu (nếu có)",
+                "so_hieu": "24/2016/QĐ-UBND",
+                "trich_yeu": "Giao khoán quản lý bảo vệ khai thác tỉa thưa rừng trồng phòng hộ Quảng Trị",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Quảng Trị",
+                "don_vi": [
+                    "Quảng Trị"
+                ],
+                "linh_vuc": "Tài nguyên - Môi trường",
+                "score": 0.010122791254866727
+            },
+            {
+                "index": 125,
+                "id": "dieu_126",
+                "id_document": 163515,
+                "position": "Điều 126 / Mục 1 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Nội dung hợp đồng đại lý bảo hiểm Hợp đồng đại lý bảo hiểm phải có các nội dung chủ yếu sau đây:",
+                "so_hieu": "08/2022/QH15",
+                "trich_yeu": "Kinh doanh bảo hiểm 2022",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bảo hiểm",
+                "score": 0.01009197116579667
+            }
+        ]
+    }
+]

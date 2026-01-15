@@ -1,0 +1,1986 @@
+[
+    {
+        "id": 1712,
+        "cau_hoi": "Ô tô không được vượt xe trong trường hợp nào?",
+        "tra_loi": "Căn cứ tại khoản 6 Điều 14 Luật Trật tự, an toàn giao thông đường bộ 2024 quy định về các trường hợp ô tô không được vượt xe, cụ thể:\n- Khi không bảo đảm các điều kiện như sau:\n+ Không có chướng ngại vật phía trước, không có xe chạy ngược chiều trong đoạn đường định vượt, xe chạy trước không có tín hiệu vượt xe khác.\n+ Đã có tín hiệu rẽ phải và tránh về bên phải.\n- Trên cầu hẹp có một làn đường.\n- Đường cong có tầm nhìn bị hạn chế.\n- Trên đường hai chiều tại khu vực đỉnh dốc có tầm nhìn bị hạn chế.\n- Nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt.\n- Khi điều kiện thời tiết hoặc đường không bảo đảm an toàn cho việc vượt.\n- Khi gặp xe ưu tiên.\n- Ở phần đường dành cho người đi bộ qua đường.\n- Khi có người đi bộ, xe lăn của người khuyết tật qua đường.\n- Trong hầm đường bộ.",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "36/2024/QH15",
+                "khoan": "6",
+                "dieu": "14",
+                "trich_yeu": "Luật Trật tự, an toàn giao thông đường bộ 2024",
+                "noi_dung_kem_trich_dan": "Căn cứ tại khoản 6 Điều 14 Luật Trật tự, an toàn giao thông đường bộ 2024 quy định về các trường hợp ô tô không được vượt xe, cụ thể:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 41,
+                "id": "dieu_42",
+                "id_document": 999999999410300,
+                "position": "Điều 42 / Mục 1 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Phương tiện vượt nhau",
+                "so_hieu": "23/VBHN-VPQH",
+                "trich_yeu": "2018 Luật Giao thông đường thủy nội địa",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.01608118657298985
+            },
+            {
+                "index": 9,
+                "id": "dieu_10",
+                "id_document": 999999999663321,
+                "position": "Điều 10 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Quy định về hàng siêu trường, siêu trọng",
+                "so_hieu": "12/2025/TT-BXD",
+                "trich_yeu": "Quy định về tải trọng, khổ giới hạn của đường bộ; lưu hành xe quá khổ giới hạn, xe quá tải trọng, xe bánh xích trên đường bộ; hàng siêu trường, siêu trọng, vận chuyển hàng siêu trường, siêu trọng; xếp hàng hóa trên phương tiện giao thông đường bộ; cấp giấy phép lưu hành cho xe quá tải trọng, xe quá khổ giới hạn, xe bánh xích, xe vận chuyển hàng siêu trường, siêu trọng trên đường bộ do Bộ trưởng Bộ Xây dựng ban hành",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Xây dựng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Xây dựng"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.012956107879428873
+            },
+            {
+                "index": 4,
+                "id": "dieu_2_dk_1",
+                "id_document": 31469,
+                "position": "Điều 2 / Chương I",
+                "dia_danh": "thành phố Hà Nội",
+                "title": "Giải thích từ ngữ Trong Quy định này, các từ ngữ dưới đây được hiểu như sau:",
+                "so_hieu": "06/2013/QĐ-UBND",
+                "trich_yeu": "Về Quy định hoạt động của phương tiện giao thông trên địa bàn thành phố Hà Nội",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND thành phố Hà Nội",
+                "don_vi": [
+                    "Hà Nội"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.012906178489702517
+            },
+            {
+                "index": 9,
+                "id": "dieu_10",
+                "id_document": 173114,
+                "position": "Điều 10 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Quy định về hàng siêu trường, siêu trọng",
+                "so_hieu": "39/2024/TT-BGTVT",
+                "trich_yeu": "Lưu hành xe quá khổ giới hạn xe quá tải trọng xe bánh xích trên đường bộ",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giao thông vận tải",
+                "don_vi": [
+                    "Bộ Giao thông vận tải",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.012755773602967573
+            },
+            {
+                "index": 41,
+                "id": "dieu_42",
+                "id_document": 999999999671134,
+                "position": "Điều 42 / Mục 1 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Phương tiện vượt nhau",
+                "so_hieu": "75/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Giao thông đường thủy nội địa do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.012564102564102566
+            },
+            {
+                "index": 6,
+                "id": "dieu_3_dk_1",
+                "id_document": 120761,
+                "position": "Điều 3 / Chương I",
+                "dia_danh": "thành phố Đà Nẵng",
+                "title": "Giải thích từ ngữ Trong Quy định này, các từ ngữ dưới đây được hiểu như sau:",
+                "so_hieu": "12/2017/QĐ-UBND",
+                "trich_yeu": "Quy định quản lý xe điện bốn bánh thí điểm hoạt động Đà Nẵng",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND thành phố Đà Nẵng",
+                "don_vi": [
+                    "Đà Nẵng"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.01243827160493827
+            },
+            {
+                "index": 41,
+                "id": "dieu_42",
+                "id_document": 999999999424691,
+                "position": "Điều 42 / Mục 1 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Phương tiện vượt nhau",
+                "so_hieu": "16/VBHN-VPQH",
+                "trich_yeu": "2019 Luật Giao thông đường thủy nội địa",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.011906645569620252
+            },
+            {
+                "index": 5,
+                "id": "dieu_3_dk_1",
+                "id_document": 999999999588554,
+                "position": "Điều 3 / Chương I",
+                "dia_danh": "tỉnh Lạng Sơn",
+                "title": "Giải thích từ ngữ Trong Quy định này, các từ ngữ dưới đây được hiểu như sau:",
+                "so_hieu": "1973/QĐ-UBND",
+                "trich_yeu": "Năm 2023 về Quy định phạm vi, tuyến đường, thời gian hoạt động và quản lý hoạt động thí điểm sử dụng xe bốn bánh có gắn động cơ chạy bằng năng lượng điện và xăng sinh học để vận chuyển khách trong phạm vi hạn chế trên địa bàn Thành phố Lạng Sơn, tỉnh Lạng Sơn",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Lạng Sơn",
+                "don_vi": [
+                    "Lạng Sơn"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.011593406593406595
+            },
+            {
+                "index": 5,
+                "id": "dieu_3_dk_1",
+                "id_document": 999999999611942,
+                "position": "Điều 3 / Chương I",
+                "dia_danh": "tỉnh Lạng Sơn",
+                "title": "Giải thích từ ngữ Trong Quy định này, các từ ngữ dưới đây được hiểu như sau:",
+                "so_hieu": "962/QĐ-UBND",
+                "trich_yeu": "Năm 2024 về Quy định phạm vi, tuyến đường, thời gian hoạt động và quản lý hoạt động thí điểm sử dụng xe bốn bánh có gắn động cơ chạy bằng năng lượng điện và xăng sinh học để vận chuyển khách du lịch trong phạm vi hạn chế tại điểm du lịch Đền Quan Giám sát, Đền Chầu Lục thuộc địa phận xã Hòa Lạc, huyện Hữu Lũng, tỉnh Lạng Sơn",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Lạng Sơn",
+                "don_vi": [
+                    "Lạng Sơn"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.011585030269675289
+            },
+            {
+                "index": 2,
+                "id": "dieu_3",
+                "id_document": 999999999149945,
+                "position": "Mục 3",
+                "dia_danh": "Trung ương",
+                "title": "Không qui định về nội dung cho vay vốn vượt mức qui định (khoản 5 Điều 3 của dự thảo).",
+                "so_hieu": "8350/VPCP-KTTH",
+                "trich_yeu": "Về chính sách cho vay đối với hộ dân tộc thiểu số đặc biệt khó khăn do Văn phòng Chính phủ ban hành",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Văn phòng Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Văn phòng Chính phủ"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.011466165413533833
+            },
+            {
+                "index": 13,
+                "id": "dieu_14",
+                "id_document": 170620,
+                "position": "Điều 14 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Vượt xe và nhường đường cho xe xin vượt",
+                "so_hieu": "36/2024/QH15",
+                "trich_yeu": "Trật tự, an toàn giao thông đường bộ",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Công an",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.011274509803921568
+            },
+            {
+                "index": 41,
+                "id": "dieu_42",
+                "id_document": 19476,
+                "position": "Điều 42 / Mục 1",
+                "dia_danh": "Trung ương",
+                "title": "Phương tiện vượt nhau",
+                "so_hieu": "23/2004/QH11",
+                "trich_yeu": "Giao thông đường thủy nội địa 2004",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.011264822134387351
+            },
+            {
+                "index": 5,
+                "id": "dieu_3_dk_1",
+                "id_document": 81399,
+                "position": "Điều 3 / Chương I",
+                "dia_danh": "thành phố Cần Thơ",
+                "title": "Giải thích từ ngữ Trong Quy định này, các từ ngữ dưới đây được hiểu như sau:",
+                "so_hieu": "03/2015/QĐ-UBND",
+                "trich_yeu": "Vận tải đường bộ trong đô thị phương tiện đi lại người khuyết tật Cần Thơ",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND thành phố Cần Thơ",
+                "don_vi": [
+                    "Cần Thơ"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.010966638152266894
+            },
+            {
+                "index": 5,
+                "id": "dieu_3_dk_1",
+                "id_document": 122194,
+                "position": "Điều 3 / Chương I",
+                "dia_danh": "tỉnh Hà Giang",
+                "title": "Một số quy định về hàng hóa vận chuyển bằng ô tô như sau",
+                "so_hieu": "872/QĐ-UBND",
+                "trich_yeu": "2017 đơn giá cước phương pháp tính giá cước vận chuyển Hà Giang",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Hà Giang",
+                "don_vi": [
+                    "Hà Giang"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.010889728615596015
+            },
+            {
+                "index": 19,
+                "id": "dieu_20",
+                "id_document": 99999999938904,
+                "position": "Điều 20",
+                "dia_danh": "Trung ương",
+                "title": "Nghiêm cấm các hành vi sau đây:",
+                "so_hieu": "38-L/CTN",
+                "trich_yeu": "Bảo vệ công trình giao thông năm 1994",
+                "loai_van_ban": "Pháp lệnh",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chủ tịch nước",
+                "don_vi": [
+                    "Trung ương",
+                    "Chủ tịch nước"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.010597101449275361
+            },
+            {
+                "index": 19,
+                "id": "dieu_20",
+                "id_document": 10225,
+                "position": "Điều 20 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Nghiêm cấm các hành vi sau đây:",
+                "so_hieu": "Không số",
+                "trich_yeu": "Bảo vệ công trình giao thông",
+                "loai_van_ban": "Pháp lệnh",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Ủy ban Thường vụ Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": null,
+                "score": 0.010552995391705068
+            },
+            {
+                "index": 4,
+                "id": "dieu_2_dk_1",
+                "id_document": 175914,
+                "position": "Điều 2 / Chương I",
+                "dia_danh": "tỉnh Bắc Ninh",
+                "title": "Giải thích từ ngữ Trong Quy định này, những từ ngữ dưới đây được hiểu như sau:",
+                "so_hieu": "10/2025/QĐ-UBND",
+                "trich_yeu": "Về Quy định phạm vi hoạt động của xe thô sơ và sử dụng xe mô tô, xe gắn máy, xe thô sơ để kinh doanh vận chuyển hành khách, hàng hóa trên địa bàn tỉnh Bắc Ninh",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Bắc Ninh",
+                "don_vi": [
+                    "Bắc Ninh"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.010532407407407407
+            },
+            {
+                "index": 10,
+                "id": "dieu_8_dk_1",
+                "id_document": 999999999326515,
+                "position": "Điều 8 / Chương II",
+                "dia_danh": "tỉnh Hòa Bình",
+                "title": "Thanh lý xe ô tô",
+                "so_hieu": "2484/QĐ-UBND",
+                "trich_yeu": "Quy chế quản lý sử dụng ô tô cơ quan tổ chức đơn vị Hòa Bình 2016",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Hòa Bình",
+                "don_vi": [
+                    "Hòa Bình"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.010532350532350533
+            },
+            {
+                "index": 8,
+                "id": "dieu_6_dk_1",
+                "id_document": 49732,
+                "position": "Điều 6 / Chương II",
+                "dia_danh": "tỉnh Nghệ An",
+                "title": "Quy định về hoạt động đối với các loại xe:",
+                "so_hieu": "106/2010/QĐ-UBND",
+                "trich_yeu": "Về Quy định sử dụng xe thô sơ, gắn máy, mô tô hai bánh, ba bánh và tương tự để vận chuyển hành khách, hàng hoá trên địa bàn tỉnh Nghệ An do Ủy ban nhân dân tỉnh Nghệ An ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Nghệ An",
+                "don_vi": [
+                    "Nghệ An"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.010504892367906065
+            },
+            {
+                "index": 5,
+                "id": "dieu_3_dk_1",
+                "id_document": 999999999651030,
+                "position": "Điều 3 / Chương I",
+                "dia_danh": "tỉnh Quảng Ninh",
+                "title": "Giải thích từ ngữ Trong Quy định này, những từ ngữ dưới đây được hiểu như sau:",
+                "so_hieu": "33/2025/QĐ-UBND",
+                "trich_yeu": "Về Quy định quản lý hoạt động vận tải bằng xe bốn bánh có gắn động cơ trên địa bàn tỉnh Quảng Ninh",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Quảng Ninh",
+                "don_vi": [
+                    "Quảng Ninh"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.010428915662650603
+            }
+        ]
+    },
+    {
+        "id": 18308,
+        "cau_hoi": "Trường hợp nếu đương sự thay đổi nơi cư trú thì việc cấp, tống đạt, thông báo văn bản tố tụng thực hiện như thế nào?",
+        "tra_loi": "Căn cứ theo Điều 177 Bộ luật Tố tụng dân sự 2015 quy định:\nĐiều 177. Thủ tục cấp, tống đạt, thông báo trực tiếp cho cá nhân\n1. Văn bản tố tụng được cấp, tống đạt, thông báo đến địa chỉ mà các đương sự đã gửi cho Tòa án theo phương thức đương sự yêu cầu hoặc tới địa chỉ mà các đương sự đã thỏa thuận và đề nghị Tòa án liên hệ theo địa chỉ đó.\n2. Người được cấp, tống đạt, thông báo là cá nhân thì văn bản tố tụng phải được giao trực tiếp cho họ. Đương sự phải ký nhận theo quy định tại khoản 1 Điều 175 của Bộ luật này.\n3. Trường hợp người được cấp, tống đạt, thông báo đã chuyển đến nơi cư trú mới và đã thông báo cho Tòa án việc thay đổi nơi cư trú thì phải cấp, tống đạt, thông báo theo địa chỉ nơi cư trú mới của họ. Đương sự phải ký nhận hoặc điểm chỉ theo quy định tại khoản 1 Điều 175 của Bộ luật này. Nếu họ không thông báo cho Tòa án biết về việc thay đổi địa chỉ nơi cư trú và địa chỉ nơi cư trú mới thì Tòa án thực hiện theo quy định tại Điều 179 và Điều 180 của Bộ luật này.\n4. Trường hợp người được cấp, tống đạt, thông báo từ chối nhận văn bản tố tụng thì người thực hiện việc cấp, tống đạt, thông báo phải lập biên bản trong đó nêu rõ lý do của việc từ chối, có xác nhận của đại diện tổ dân phố hoặc Công an xã, phường, thị trấn về việc người đó từ chối nhận văn bản tố tụng. Biên bản phải được lưu trong hồ sơ vụ án.\n5. Trường hợp người được cấp, tống đạt, thông báo vắng mặt thì người thực hiện việc cấp, tống đạt, thông báo phải lập biên bản và giao cho người thân thích có đủ năng lực hành vi dân sự cùng nơi cư trú với họ hoặc tổ trưởng tổ dân phố, trưởng thôn, làng, ấp, bản, buôn, phum, sóc để thực hiện việc ký nhận hoặc điểm chỉ và yêu cầu người này cam kết giao lại tận tay ngay cho người được cấp, tống đạt, thông báo. Biên bản phải được lưu trong hồ sơ vụ án.\nTrường hợp người được cấp, tống đạt, thông báo vắng mặt ở nơi cư trú mà không rõ thời điểm trở về hoặc không rõ địa chỉ nơi cư trú mới của họ thì người thực hiện việc cấp, tống đạt, thông báo phải lập biên bản về việc không thực hiện được việc cấp, tống đạt, thông báo, có xác nhận của đại diện tổ dân phố hoặc Công an xã, phường, thị trấn; đồng thời, thực hiện thủ tục niêm yết công khai văn bản cần tống đạt theo quy định tại Điều 179 của Bộ luật này. Biên bản phải được lưu trong hồ sơ vụ án.\nTheo đó, trường hợp đương sự đã chuyển đến nơi cư trú mới và đã thông báo cho Tòa án việc thay đổi nơi cư trú thì phải cấp, tống đạt, thông báo theo địa chỉ nơi cư trú mới.",
+        "trich_dan": [
+            {
+                "loai_vb": "Bộ luật",
+                "so_hieu": "92/2015/QH13",
+                "khoan": "",
+                "dieu": "177",
+                "trich_yeu": "Bộ luật Tố tụng dân sự 2015",
+                "noi_dung_kem_trich_dan": "Căn cứ theo Điều 177 Bộ luật Tố tụng dân sự 2015 quy định:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 103,
+                "id": "dieu_104",
+                "id_document": 999999999673752,
+                "position": "Điều 104 / Chương VII",
+                "dia_danh": "Trung ương",
+                "title": "Thủ tục cấp, tống đạt hoặc thông báo văn bản tố tụng Người thực hiện việc cấp, tống đạt hoặc thông báo văn bản tố tụng phải trực tiếp chuyển giao cho người được cấp, tống đạt hoặc thông báo văn bản tố tụng có liên quan. Người được cấp, tống đạt, thông báo hoặc được ủy quyền cấp, tống đạt, thông báo văn bản tố tụng phải ký nhận vào biên bản hoặc sổ giao nhận văn bản tố tụng. Thời điểm để tính thời hạn tố tụng là ngày họ được cấp, tống đạt hoặc thông báo văn bản tố tụng.",
+                "so_hieu": "109/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Tố tụng hành chính do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Vi phạm hành chính",
+                "score": 0.015469868390671902
+            },
+            {
+                "index": 171,
+                "id": "dieu_172",
+                "id_document": 999999999672478,
+                "position": "Điều 172 / Chương X",
+                "dia_danh": "Trung ương",
+                "title": "Người thực hiện việc cấp, tống đạt, thông báo văn bản tố tụng Việc cấp, tống đạt, thông báo văn bản tố tụng do những người sau đây thực hiện:",
+                "so_hieu": "99/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Tố tụng dân sự do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.013920454545454545
+            },
+            {
+                "index": 174,
+                "id": "dieu_175",
+                "id_document": 999999999672478,
+                "position": "Điều 175 / Chương X",
+                "dia_danh": "Trung ương",
+                "title": "Thủ tục cấp, tống đạt, thông báo văn bản tố tụng",
+                "so_hieu": "99/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Tố tụng dân sự do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.013211382113821139
+            },
+            {
+                "index": 171,
+                "id": "dieu_172",
+                "id_document": 999999999651007,
+                "position": "Điều 172 / Chương X",
+                "dia_danh": "Trung ương",
+                "title": "Người thực hiện việc cấp, tống đạt, thông báo văn bản tố tụng Việc cấp, tống đạt, thông báo văn bản tố tụng do những người sau đây thực hiện:",
+                "so_hieu": "12/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Tố tụng dân sự do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.013191165270373192
+            },
+            {
+                "index": 103,
+                "id": "dieu_104",
+                "id_document": 999999999629878,
+                "position": "Điều 104 / Chương VII",
+                "dia_danh": "Trung ương",
+                "title": "Thủ tục cấp, tống đạt hoặc thông báo văn bản tố tụng Người thực hiện việc cấp, tống đạt hoặc thông báo văn bản tố tụng phải trực tiếp chuyển giao cho người được cấp, tống đạt hoặc thông báo văn bản tố tụng có liên quan. Người được cấp, tống đạt, thông báo hoặc được ủy quyền cấp, tống đạt, thông báo văn bản tố tụng phải ký nhận vào biên bản hoặc sổ giao nhận văn bản tố tụng. Thời điểm để tính thời hạn tố tụng là ngày họ được cấp, tống đạt hoặc thông báo văn bản tố tụng.",
+                "so_hieu": "12/VBHN-VPQH",
+                "trich_yeu": "Năm 2024 hợp nhất Luật Tố tụng hành chính do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.01306363253265908
+            },
+            {
+                "index": 176,
+                "id": "dieu_177",
+                "id_document": 999999999672478,
+                "position": "Điều 177 / Chương X",
+                "dia_danh": "Trung ương",
+                "title": "Thủ tục cấp, tống đạt, thông báo trực tiếp cho cá nhân",
+                "so_hieu": "99/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Tố tụng dân sự do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.013000000000000001
+            },
+            {
+                "index": 103,
+                "id": "dieu_104",
+                "id_document": 96035,
+                "position": "Điều 104 / Chương VII",
+                "dia_danh": "Trung ương",
+                "title": "Thủ tục cấp, tống đạt hoặc thông báo văn bản tố tụng Người thực hiện việc cấp, tống đạt hoặc thông báo văn bản tố tụng phải trực tiếp chuyển giao cho người được cấp, tống đạt hoặc thông báo văn bản tố tụng có liên quan. Người được cấp, tống đạt, thông báo hoặc được ủy quyền cấp, tống đạt, thông báo văn bản tố tụng phải ký nhận vào biên bản hoặc sổ giao nhận văn bản tố tụng. Thời điểm để tính thời hạn tố tụng là ngày họ được cấp, tống đạt hoặc thông báo văn bản tố tụng.",
+                "so_hieu": "93/2015/QH13",
+                "trich_yeu": "Tố tụng hành chính 2015",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Tòa án nhân dân tối cao"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.012730854469342525
+            },
+            {
+                "index": 174,
+                "id": "dieu_175",
+                "id_document": 999999999651007,
+                "position": "Điều 175 / Chương X",
+                "dia_danh": "Trung ương",
+                "title": "Thủ tục cấp, tống đạt, thông báo văn bản tố tụng",
+                "so_hieu": "12/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Tố tụng dân sự do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.012532336878413337
+            },
+            {
+                "index": 176,
+                "id": "dieu_177",
+                "id_document": 999999999651007,
+                "position": "Điều 177 / Chương X",
+                "dia_danh": "Trung ương",
+                "title": "Thủ tục cấp, tống đạt, thông báo trực tiếp cho cá nhân",
+                "so_hieu": "12/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Tố tụng dân sự do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.01245593419506463
+            },
+            {
+                "index": 172,
+                "id": "dieu_173",
+                "id_document": 999999999672478,
+                "position": "Điều 173 / Chương X",
+                "dia_danh": "Trung ương",
+                "title": "Các phương thức cấp, tống đạt, thông báo văn bản tố tụng Việc cấp, tống đạt, thông báo văn bản tố tụng được thực hiện bằng các phương thức sau đây:",
+                "so_hieu": "99/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Tố tụng dân sự do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.012186689714779602
+            },
+            {
+                "index": 105,
+                "id": "dieu_106",
+                "id_document": 999999999673752,
+                "position": "Điều 106 / Chương VII",
+                "dia_danh": "Trung ương",
+                "title": "Thủ tục cấp, tống đạt hoặc thông báo trực tiếp cho cá nhân",
+                "so_hieu": "109/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Tố tụng hành chính do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Vi phạm hành chính",
+                "score": 0.012067919951485748
+            },
+            {
+                "index": 169,
+                "id": "dieu_170",
+                "id_document": 999999999672478,
+                "position": "Điều 170 / Chương X",
+                "dia_danh": "Trung ương",
+                "title": "Nghĩa vụ cấp, tống đạt, thông báo văn bản tố tụng Tòa án, Viện kiểm sát, cơ quan thi hành án thực hiện việc cấp, tống đạt, thông báo văn bản tố tụng cho đương sự, những người tham gia tố tụng khác và cơ quan, tổ chức, cá nhân có liên quan theo quy định của Bộ luật này và pháp luật có liên quan.",
+                "so_hieu": "99/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Tố tụng dân sự do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.011834823329076202
+            },
+            {
+                "index": 172,
+                "id": "dieu_173",
+                "id_document": 999999999651007,
+                "position": "Điều 173 / Chương X",
+                "dia_danh": "Trung ương",
+                "title": "Các phương thức cấp, tống đạt, thông báo văn bản tố tụng Việc cấp, tống đạt, thông báo văn bản tố tụng được thực hiện bằng các phương thức sau đây:",
+                "so_hieu": "12/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Tố tụng dân sự do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.011832611832611833
+            },
+            {
+                "index": 171,
+                "id": "dieu_172",
+                "id_document": 96115,
+                "position": "Điều 172 / Chương X",
+                "dia_danh": "Trung ương",
+                "title": "Người thực hiện việc cấp, tống đạt, thông báo văn bản tố tụng Việc cấp, tống đạt, thông báo văn bản tố tụng do những người sau đây thực hiện:",
+                "so_hieu": "92/2015/QH13",
+                "trich_yeu": "Tố tụng dân sự 2015",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Tòa án nhân dân tối cao"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.01164043082021541
+            },
+            {
+                "index": 174,
+                "id": "dieu_175",
+                "id_document": 96115,
+                "position": "Điều 175 / Chương X",
+                "dia_danh": "Trung ương",
+                "title": "Thủ tục cấp, tống đạt, thông báo văn bản tố tụng",
+                "so_hieu": "92/2015/QH13",
+                "trich_yeu": "Tố tụng dân sự 2015",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Tòa án nhân dân tối cao"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.011330049261083743
+            },
+            {
+                "index": 98,
+                "id": "dieu_99",
+                "id_document": 999999999673752,
+                "position": "Điều 99 / Chương VII",
+                "dia_danh": "Trung ương",
+                "title": "Nghĩa vụ cấp, tống đạt hoặc thông báo văn bản tố tụng Tòa án, Viện kiểm sát, cơ quan thi hành án dân sự có nghĩa vụ cấp, tống đạt hoặc thông báo văn bản tố tụng cho đương sự, những người tham gia tố tụng khác và cơ quan, tổ chức, cá nhân có liên quan theo quy định của Luật này và quy định khác của pháp luật có liên quan.",
+                "so_hieu": "109/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Tố tụng hành chính do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Vi phạm hành chính",
+                "score": 0.011301688605238665
+            },
+            {
+                "index": 176,
+                "id": "dieu_177",
+                "id_document": 96115,
+                "position": "Điều 177 / Chương X",
+                "dia_danh": "Trung ương",
+                "title": "Thủ tục cấp, tống đạt, thông báo trực tiếp cho cá nhân",
+                "so_hieu": "92/2015/QH13",
+                "trich_yeu": "Tố tụng dân sự 2015",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Tòa án nhân dân tối cao"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.010958904109589041
+            },
+            {
+                "index": 169,
+                "id": "dieu_170",
+                "id_document": 999999999651007,
+                "position": "Điều 170 / Chương X",
+                "dia_danh": "Trung ương",
+                "title": "Nghĩa vụ cấp, tống đạt, thông báo văn bản tố tụng Tòa án, Viện kiểm sát, cơ quan thi hành án thực hiện việc cấp, tống đạt, thông báo văn bản tố tụng cho đương sự, những người tham gia tố tụng khác và cơ quan, tổ chức, cá nhân có liên quan theo quy định của Bộ luật này và pháp luật có liên quan.",
+                "so_hieu": "12/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Tố tụng dân sự do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.010860239331677578
+            },
+            {
+                "index": 172,
+                "id": "dieu_173",
+                "id_document": 96115,
+                "position": "Điều 173 / Chương X",
+                "dia_danh": "Trung ương",
+                "title": "Các phương thức cấp, tống đạt, thông báo văn bản tố tụng Việc cấp, tống đạt, thông báo văn bản tố tụng được thực hiện bằng các phương thức sau đây:",
+                "so_hieu": "92/2015/QH13",
+                "trich_yeu": "Tố tụng dân sự 2015",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Tòa án nhân dân tối cao"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.010691939639308059
+            },
+            {
+                "index": 102,
+                "id": "dieu_103",
+                "id_document": 999999999673752,
+                "position": "Điều 103 / Chương VII",
+                "dia_danh": "Trung ương",
+                "title": "Tính hợp lệ của việc cấp, tống đạt hoặc thông báo văn bản tố tụng",
+                "so_hieu": "109/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Tố tụng hành chính do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Vi phạm hành chính",
+                "score": 0.010364083091355818
+            }
+        ]
+    },
+    {
+        "id": 3963,
+        "cau_hoi": "Học sinh tiểu học có được miễn đóng học phí không?",
+        "tra_loi": "Căn cứ tại khoản 3 Điều 99 Luật Giáo dục 2019 quy định như sau:\nĐiều 99. Học phí, chi phí của dịch vụ giáo dục, đào tạo\n[...]\n3. Học sinh tiểu học trong cơ sở giáo dục công lập không phải đóng học phí; ở địa bàn không đủ trường công lập, học sinh tiểu học trong cơ sở giáo dục tư thục được Nhà nước hỗ trợ tiền đóng học phí, mức hỗ trợ do Hội đồng nhân dân cấp tỉnh quyết định.\n[...]\nTheo đó, chỉ có học sinh tiểu học theo học tại các trường công lập mới không phải đóng học phí.\nĐối với địa bàn không đủ trường công lập, học sinh tiểu học trong cơ sở giáo dục tư thục có thể được Nhà nước hỗ trợ tiền đóng học phí, mức hỗ trợ do Hội đồng nhân dân cấp tỉnh quyết định.",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "43/2019/QH14",
+                "khoan": "3",
+                "dieu": "99",
+                "trich_yeu": "Luật Giáo dục 2019",
+                "noi_dung_kem_trich_dan": "Căn cứ tại khoản 3 Điều 99 Luật Giáo dục 2019 quy định như sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 9,
+                "id": "dieu_7_dk_1",
+                "id_document": 84675,
+                "position": "Điều 7 / Chương II",
+                "dia_danh": "tỉnh Đồng Nai",
+                "title": "Đối với học sinh",
+                "so_hieu": "25/2009/QĐ-UBND",
+                "trich_yeu": "Về Quy định chế độ đãi ngộ đối với cán bộ quản lý, giáo viên, nhân viên và học sinh Trường Trung học phổ thông Chuyên Lương Thế Vinh do Ủy ban nhân dân tỉnh Đồng Nai ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Đồng Nai",
+                "don_vi": [
+                    "Đồng Nai"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.015003261578604044
+            },
+            {
+                "index": 8,
+                "id": "dieu_9",
+                "id_document": 999999999438376,
+                "position": "Mục 1",
+                "dia_danh": "Trung ương",
+                "title": "Miễn học phí tại các trường đại học công lập của mỗi nước;",
+                "so_hieu": "11/2020/TB-LPQT",
+                "trich_yeu": "Thông báo 11/2020/TB-LPQT hiệu lực của Thỏa thuận hợp tác về giáo dục giữa Bộ Giáo dục và Đào tạo Việt Nam và Bộ Giáo dục, Thanh niên và Khoa học Bun-ga-ri giai đoạn 2019-2023",
+                "loai_van_ban": "Điều ước quốc tế",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Chính phủ"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.013171355498721227
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 999999999375663,
+                "position": "Điều 2",
+                "dia_danh": "tỉnh Thừa Thiên Huế",
+                "title": "Miễn, giảm học phí Chính sách miễn giảm học phí thực hiện theo quy định tại Nghị định 86/2015/NĐ-CP ngày 02 tháng 10 năm 2015 của Chính phủ quy định về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập từ năm học 2015 - 2016 đến năm học 2020 - 2021; Thông tư liên tịch số 09/2016/TTLT-BGDDT-BTC- BLĐTBXH ngày ngày 30 tháng 03 năm 2016 hướng dẫn thực hiện một số điều của Nghị định số 86/2015/NĐ-CP ngày 02 tháng 10 năm 2015 của Chính phủ quy định về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập từ năm học 2015 - 2016 đến năm học 2020 - 2021 và các quy định hiện hành của nhà nước.",
+                "so_hieu": "322/QĐ-UBND",
+                "trich_yeu": "2018 quy định mức thu học phí của Trường Thực hành mầm non Huế",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Thừa Thiên Huế",
+                "don_vi": [
+                    "Thừa Thiên Huế"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.012713763415497112
+            },
+            {
+                "index": 6,
+                "id": "dieu_4",
+                "id_document": 70705,
+                "position": "Điều 4",
+                "dia_danh": "tỉnh Gia Lai",
+                "title": "Quy định về miễn, giảm học phí, hỗ trợ chi phí học tập:",
+                "so_hieu": "40/2010/QĐ-UBND",
+                "trich_yeu": "Về việc quy định mức học phí đối với giáo dục mầm non và phổ thông công lập thuộc hệ thống giáo dục quốc dân từ năm học 2010 – 2011 trên địa bàn tỉnh Gia Lai",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Gia Lai",
+                "don_vi": [
+                    "Gia Lai"
+                ],
+                "linh_vuc": null,
+                "score": 0.012558827484200617
+            },
+            {
+                "index": 32,
+                "id": "dieu_30_dk_1",
+                "id_document": 24044,
+                "position": "Điều 30 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ của học sinh Học sinh có những nhiệm vụ sau đây:",
+                "so_hieu": "44/2008/QĐ-BGDĐT",
+                "trich_yeu": "Về Quy chế tổ chức và hoạt động của Trung tâm kỹ thuật tổng hợp – hướng nghiệp do Bộ trưởng Bộ Giáo dục và Đào tạo ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Giáo dục và Đào tạo"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.0124397299903568
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 70966,
+                "position": "Điều 2",
+                "dia_danh": "tỉnh Bình Phước",
+                "title": "Chế độ miễn : Miễn đóng cho các đối tượng sau : - Con đồng bào dân tộc thiểu số. - Con liệt sĩ. - Con thướng binh hạng 1,2, 3 và bệnh binh hạng 1,2. - Con mồ côi cả cha lẫn mẹ. - Con gia đình thực sự đói nghèo, có thu nhập hàng tháng quá thâp. - Gia đình có đông con đi học, được miễn đóng cho đứa thứ 4 trở đi (được miễn cho đứa học lớp cao nhất). * Thủ tục xét miễn : + Học sinh thuộc diện chính sách xã hội : Con liệt sĩ, con thương binh, con bệnh binh phải có giấy tờ chứng minh nộp cho đơn vị trường. + Học sinh diện còn lại (trừ con đồng bào dân tộc thiểu số) phải làm đơn được chính quyền Xã xác nhận, có ý kiến của giáo viên chủ nhiệm và Hội đồng giáo dục nhà trường xét duyệt cho miễn. II/ VỀ QUẢN LÝ ĐIỀU HÀNH QUỸ ĐÓNG GÓP XÂY DỰNG CƠ SỞ VẬT CHẤT TRƯỜNG HỌC .",
+                "so_hieu": "104/1998/QĐ-UB",
+                "trich_yeu": "V/v Quy định mức thu và sử dụng tiền huy động đóng góp của học sinh để xây dựng cơ sở vật chất trường lớp năm học 1998 -1999",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Bình Phước",
+                "don_vi": [
+                    "Bình Phước"
+                ],
+                "linh_vuc": null,
+                "score": 0.012077702702702703
+            },
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 102809,
+                "position": "Mục 2 / Phần II",
+                "dia_danh": "tỉnh Bến Tre",
+                "title": "Điều kiện miễn giảm: Được miễn học phí những học sinh: + Con liệt sĩ và thương binh. + Con gia đình được cứu trợ thường xuyên.",
+                "so_hieu": "25/CT",
+                "trich_yeu": "Hướng dẫn thực hiện chế độ chánh sách đối với giáo viên Mẫu giáo và các chế độ thu chi quản lý đối với các trường lớp Mẫu giáo trong toàn tỉnh Bến Tre",
+                "loai_van_ban": "Chỉ thị",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Bến Tre",
+                "don_vi": [
+                    "Bến Tre"
+                ],
+                "linh_vuc": null,
+                "score": 0.011915919132413978
+            },
+            {
+                "index": 30,
+                "id": "dieu_29_dk_1",
+                "id_document": 15742,
+                "position": "Điều 29 / Mục 2",
+                "dia_danh": "Trung ương",
+                "title": "Học sinh có các nhiệm vụ sau:",
+                "so_hieu": "02/2005/QĐ-BCN",
+                "trich_yeu": "Phê duyệt Điều lệ Tổ chức và Hoạt động củaTrường Trung học Kỹ thuật Công nghiệp do Bộ trưởng Bộ Công nghiệp ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Công nghiệp",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công thương"
+                ],
+                "linh_vuc": null,
+                "score": 0.011857018308631211
+            },
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 119133,
+                "position": "Điều 5",
+                "dia_danh": "Trung ương",
+                "title": "Trường hợp miễn, giảm phí",
+                "so_hieu": "205/2016/TT-BTC",
+                "trich_yeu": "Phí thăm quan Bảo tàng Phụ nữ Việt Nam",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Tài chính",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.01180952380952381
+            },
+            {
+                "index": 25,
+                "id": "dieu_23",
+                "id_document": 90631,
+                "position": "Điều 23 / Chương V",
+                "dia_danh": "huyện Củ Chi",
+                "title": "Nhiệm vụ của học sinh Học sinh có những nhiệm vụ sau đây:",
+                "so_hieu": "03/2012/QĐ-UBND",
+                "trich_yeu": "Về Quy chế tổ chức và hoạt động của Trung tâm kỹ thuật tổng hợp - hướng nghiệp huyện Củ Chi",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND huyện Củ Chi",
+                "don_vi": [
+                    "TP. Hồ Chí Minh"
+                ],
+                "linh_vuc": null,
+                "score": 0.011795391972177945
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 10503,
+                "position": "Mục 1 / Phần I",
+                "dia_danh": "Trung ương",
+                "title": "Không thu học phí đối với toàn bộ học sinh tiểu học.",
+                "so_hieu": "14/TT-LB",
+                "trich_yeu": "Hướng dẫn thực hiện thu - chi học phí giáo dục phổ thông",
+                "loai_van_ban": "Thông tư liên tịch",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Tài chính, Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tài chính",
+                    "Bộ Giáo dục và Đào tạo"
+                ],
+                "linh_vuc": null,
+                "score": 0.01171823568136932
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 6843,
+                "position": "Điều 4",
+                "dia_danh": "Trung ương",
+                "title": "Miễn nộp học phí trong thời gian 1 năm học đối với học sinh, sinh viên có gia đình thuộc vùng phân lũ, chậm lũ theo Quyết định số 70/1998/QĐ-TTg ngày 31 tháng 3 năm 1998 của Thủ tướng Chính phủ về việc thu và sử dụng học phí ở các cơ sở giáo dục và đào tạo công lập thuộc hệ thống giáo dục quốc dân và được xét trợ cấp xã hội theo Quyết định số 1121/1997/QĐ-TTg ngày 23 tháng 12 năm 1997 của Thủ tướng Chính phủ về học bổng và trợ cấp xã hội đối với học sinh, sinh viên các trường đào tạo công lập, đồng thời được xét miễn giảm các khoản đóng góp cho nhà trường trong năm học.",
+                "so_hieu": "185/1999/QĐ-TTg",
+                "trich_yeu": "Về chính sách hỗ trợ đối với vùng phân lũ, chậm lũ thuộc hệ thống sông Hồng do Thủ tướng Chính phủ ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Thủ tướng Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Lao động - Thương Binh và Xã hội"
+                ],
+                "linh_vuc": null,
+                "score": 0.01167953667953668
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 168282,
+                "position": "Điều 2",
+                "dia_danh": "thành phố Cần Thơ",
+                "title": "Mức học phí",
+                "so_hieu": "01/2024/NQ-HĐND",
+                "trich_yeu": "Quy định mức học phí đối với cơ sở giáo dục mầm non, giáo dục phổ thông công lập từ năm học 2023-2024 do Thành phố Cần Thơ ban hành",
+                "loai_van_ban": "Nghị quyết",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "HĐND thành phố Cần Thơ",
+                "don_vi": [
+                    "Cần Thơ"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.011578947368421052
+            },
+            {
+                "index": 8,
+                "id": "dieu_9",
+                "id_document": 999999999636336,
+                "position": "Mục 1",
+                "dia_danh": "Trung ương",
+                "title": "Miễn học phí tại các trường đại học công lập của mỗi nước.",
+                "so_hieu": "6664/BNG-LPQT",
+                "trich_yeu": "Thông báo 6664/BNG-LPQT năm 2024 hiệu lực của Thỏa thuận hợp tác về giáo dục giữa Việt Nam và Bun-ga-ri giai đoạn 2025-2028",
+                "loai_van_ban": "Điều ước quốc tế",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Ngoại giao",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Ngoại giao"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.01145442792501616
+            },
+            {
+                "index": 6,
+                "id": "dieu_4_dk_1",
+                "id_document": 999999999147525,
+                "position": "Điều 4",
+                "dia_danh": "tỉnh Bạc Liêu",
+                "title": "Quy định về miễn, giảm học phí, hỗ trợ chi phí học tập Thực hiện theo Nghị định số 49/2010/NĐ-CP ngày 14 tháng 5 năm 2010 của Chính phủ và Thông tư liên tịch số 29/2010/TTLT-BGDĐT-BTC-BLĐTBXH ngày 15 tháng 11 năm 2010 của liên Bộ Giáo dục và Đào tạo, Bộ Tài chính và Bộ Lao động - Thương binh và Xã hội hướng dẫn thực hiện một số điều của Nghị định số 49/2010/NĐ-CP ngày 14 tháng 5 năm 2010 của Chính phủ. Cụ thể như sau:",
+                "so_hieu": "24/QĐ-UBND",
+                "trich_yeu": "Năm 2012 về Quy định mức thu, quản lý, sử dụng học phí của cơ sở giáo dục mầm non, phổ thông công lập và giáo dục thường xuyên đối với chương trình đại trà từ năm học 2012 - 2013 đến năm học 2014 - 2015 trên địa bàn tỉnh Bạc Liêu",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Bạc Liêu",
+                "don_vi": [
+                    "Bạc Liêu"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.01142857142857143
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 13340,
+                "position": "Điều 1",
+                "dia_danh": "tỉnh Bắc Ninh",
+                "title": "Miễn, giảm học phí đối với học sinh thuộc diện chính sách học lớp bán công trong các trường Trung học phổ thông công lập trên địa bàn tỉnh, cụ thể như sau: Đối tượng được miễn học phí: Học sinh là con Liệt sỹ, con thương binh, con của bệnh binh và người hưởng chính sách như thương binh bị mất sức lao động từ 61% trở lên. Đối tượng được giảm 50% học phí: Học sinh là con thương binh, con của bệnh binh và người hưởng chính sách như thương binh bị mất sức lao động từ 21% đến 60%.",
+                "so_hieu": "1315/2002/QĐ-CT",
+                "trich_yeu": "Về việc miễn giảm học phí đối với học sinh thuộc diện chính sách học lớp bán công trong trường Trung học phổ thông công lập",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Bắc Ninh",
+                "don_vi": [
+                    "Bắc Ninh"
+                ],
+                "linh_vuc": null,
+                "score": 0.011293054771315642
+            },
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 10548,
+                "position": "Mục 3 / Phần I",
+                "dia_danh": "Trung ương",
+                "title": "Phí bảo hiểm học sinh, vật nuôi, cây trồng và các loại bảo hiểm không mang tính kinh doanh như bảo hiểm y tế, bảo hiểm xã hội.",
+                "so_hieu": "73/A-TC-TCT",
+                "trich_yeu": "Hướng dẫn thi hành Nghị định số 55-CP ngày 28/8/93 của Chính phủ quy định chi tiết thi hành Luật thuế doanh thu và Luật sửa đổi, bổ sung một số Điều của Luật thuế doanh thu",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Tổng cục Thuế",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tài chính"
+                ],
+                "linh_vuc": null,
+                "score": 0.010908239700374531
+            },
+            {
+                "index": 9,
+                "id": "dieu_7_dk_1",
+                "id_document": 999999999171912,
+                "position": "Điều 7 / Chương II",
+                "dia_danh": "thành phố Hải Phòng",
+                "title": "Thu, quản lý tiền của người học thêm đóng góp.",
+                "so_hieu": "2050/2012/QĐ-UBND",
+                "trich_yeu": "Về Quy định dạy, học thêm trên địa bàn thành phố Hải Phòng",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND thành phố Hải Phòng",
+                "don_vi": [
+                    "Hải Phòng"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.010865290068829893
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 999999999650944,
+                "position": "Điều 2",
+                "dia_danh": "Trung ương",
+                "title": "Chính sách miễn, hỗ trợ học phí",
+                "so_hieu": "217/2025/QH15",
+                "trich_yeu": "Về miễn học phí đối với trẻ em mầm non học sinh trung học cơ sở",
+                "loai_van_ban": "Nghị quyết",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.010783280646294344
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 999999999582434,
+                "position": "Điều 2",
+                "dia_danh": "tỉnh Quảng Nam",
+                "title": "Mức thu học phí",
+                "so_hieu": "16/2023/NQ-HĐND",
+                "trich_yeu": "Quy định về mức thu học phí và chính sách hỗ trợ học phí đối với trẻ em mầm non và giáo dục phổ thông công lập năm học 2023-2024 trên địa bàn tỉnh Quảng Nam",
+                "loai_van_ban": "Nghị quyết",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "HĐND tỉnh Quảng Nam",
+                "don_vi": [
+                    "Quảng Nam"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.010655270655270655
+            }
+        ]
+    },
+    {
+        "id": 6955,
+        "cau_hoi": "Cuộc họp Đại hội cổ đông công ty cổ phần diễn ra khi nào? Hội đồng cổ đông triệu tập họp Đại hội cổ đông bất thường trong trường hợp nào?",
+        "tra_loi": "Căn cứ theo Điều 139 Luật Doanh nghiệp 2020 quy định về cuộc họp Đại hội đồng cổ đông như sau:\nCuộc họp Đại hội đồng cổ đông\n1. Đại hội đồng cổ đông họp thường niên mỗi năm một lần. Ngoài cuộc họp thường niên, Đại hội đồng cổ đông có thể họp bất thường. Địa điểm họp Đại hội đồng cổ đông được xác định là nơi chủ tọa tham dự họp và phải ở trên lãnh thổ Việt Nam.\n2. Đại hội đồng cổ đông phải họp thường niên trong thời hạn 04 tháng kể từ ngày kết thúc năm tài chính. Trừ trường hợp Điều lệ công ty có quy định khác, Hội đồng quản trị quyết định gia hạn họp Đại hội đồng cổ đông thường niên trong trường hợp cần thiết, nhưng không quá 06 tháng kể từ ngày kết thúc năm tài chính.\n....\nMặt khác, theo quy định Điều 140 Luật Doanh nghiệp 2020 về triệu tập họp Đại hội đồng cổ đông cụ thể như:\nTriệu tập họp Đại hội đồng cổ đông\n1. Hội đồng quản trị triệu tập họp Đại hội đồng cổ đông thường niên và bất thường. Hội đồng quản trị triệu tập họp bất thường Đại hội đồng cổ đông trong trường hợp sau đây:\na) Hội đồng quản trị xét thấy cần thiết vì lợi ích của công ty;\nb) Số lượng thành viên Hội đồng quản trị, Ban kiểm soát còn lại ít hơn số lượng thành viên tối thiểu theo quy định của pháp luật;\nc) Theo yêu cầu của cổ đông hoặc nhóm cổ đông quy định tại khoản 2 Điều 115 của Luật này;\nd) Theo yêu cầu của Ban kiểm soát;\nđ) Trường hợp khác theo quy định của pháp luật và Điều lệ công ty.\n......\nThông qua quy định trên, Đại hội cổ đông thường niên trong công ty cổ phần diễn ra mỗi năm một lần. Thời gian họp là trong vòng 04 tháng kể từ ngày kết thúc năm tài chính. Trừ trường hợp Điều lệ công ty có quy định khác, Hội đồng quản trị quyết định gia hạn họp Đại hội đồng cổ đông thường niên trong trường hợp cần thiết, nhưng không quá 06 tháng kể từ ngày kết thúc năm tài chính. Ngoài ra, có thể tổ chức họp Đại hội đồng cổ đông bất thường.\nBên cạnh đó, Hội đồng cổ đông họp Đại hội cổ đông bất thường trong các trường hợp dưới đây:\n- Hội đồng quản trị xét thấy cần thiết vì lợi ích của công ty.\n- Số lượng thành viên Hội đồng quản trị, Ban kiểm soát còn lại ít hơn số lượng thành viên tối thiểu theo quy định của pháp luật.\n- Theo yêu cầu của cổ đông hoặc nhóm cổ đông quy định tại khoản 2 Điều 115 Luật Doanh nghiệp 2020.\n- Theo yêu cầu của Ban kiểm soát;\n- Trường hợp khác theo quy định của pháp luật và Điều lệ công ty.\nTrân trọng!",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "59/2020/QH14",
+                "khoan": "",
+                "dieu": "139",
+                "trich_yeu": "Luật Doanh nghiệp 2020",
+                "noi_dung_kem_trich_dan": "Căn cứ theo Điều 139 Luật Doanh nghiệp 2020 quy định về cuộc họp Đại hội đồng cổ đông như sau:"
+            },
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "59/2020/QH14",
+                "khoan": "",
+                "dieu": "140",
+                "trich_yeu": "Luật Doanh nghiệp 2020",
+                "noi_dung_kem_trich_dan": "Mặt khác, theo quy định Điều 140 Luật Doanh nghiệp 2020 về triệu tập họp Đại hội đồng cổ đông cụ thể như:"
+            },
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "59/2020/QH14",
+                "khoan": "2",
+                "dieu": "115",
+                "trich_yeu": "Luật Doanh nghiệp 2020",
+                "noi_dung_kem_trich_dan": "- Theo yêu cầu của cổ đông hoặc nhóm cổ đông quy định tại khoản 2 Điều 115 Luật Doanh nghiệp 2020."
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 138,
+                "id": "dieu_139",
+                "id_document": 142881,
+                "position": "Điều 139 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Cuộc họp Đại hội đồng cổ đông",
+                "so_hieu": "59/2020/QH14",
+                "trich_yeu": "Doanh nghiệp 2020",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.013801130695044895
+            },
+            {
+                "index": 139,
+                "id": "dieu_140",
+                "id_document": 142881,
+                "position": "Điều 140 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Triệu tập họp Đại hội đồng cổ đông",
+                "so_hieu": "59/2020/QH14",
+                "trich_yeu": "Doanh nghiệp 2020",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.01322589608224507
+            },
+            {
+                "index": 145,
+                "id": "dieu_146",
+                "id_document": 142881,
+                "position": "Điều 146 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Thể thức tiến hành họp và biểu quyết tại cuộc họp Đại hội đồng cổ đông Trong trường hợp Điều lệ công ty không có quy định khác thì thể thức họp và biểu quyết tại cuộc họp Đại hội đồng cổ đông được tiến hành như sau:",
+                "so_hieu": "59/2020/QH14",
+                "trich_yeu": "Doanh nghiệp 2020",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.013193534294451725
+            },
+            {
+                "index": 66,
+                "id": "dieu_67",
+                "id_document": 166170,
+                "position": "Điều 67 / Mục 3 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Đại hội đồng cổ đông",
+                "so_hieu": "32/2024/QH15",
+                "trich_yeu": "Các tổ chức tín dụng 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Ngân hàng Nhà nước Việt Nam",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tiền tệ - Ngân hàng",
+                "score": 0.012378048780487805
+            },
+            {
+                "index": 141,
+                "id": "dieu_142",
+                "id_document": 142881,
+                "position": "Điều 142 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Chương trình và nội dung họp Đại hội đồng cổ đông",
+                "so_hieu": "59/2020/QH14",
+                "trich_yeu": "Doanh nghiệp 2020",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.012233912405187179
+            },
+            {
+                "index": 33,
+                "id": "dieu_34",
+                "id_document": 999999999649675,
+                "position": "Điều 34 / Mục 1 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Kỳ họp Hội đồng nhân dân",
+                "so_hieu": "72/2025/QH15",
+                "trich_yeu": "Tổ chức chính quyền địa phương số 72/2025/QH15 năm 2025",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.01209726443768997
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 999999999659899,
+                "position": "Điều 1",
+                "dia_danh": "Trung ương",
+                "title": "Sửa đổi, bổ sung Luật Doanh nghiệp",
+                "so_hieu": "76/2025/QH15",
+                "trich_yeu": "Doanh nghiệp sửa đổi",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.012001200120012002
+            },
+            {
+                "index": 71,
+                "id": "dieu_72",
+                "id_document": 166170,
+                "position": "Điều 72 / Mục 3 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Quyền, nghĩa vụ của thành viên Hội đồng quản trị của tổ chức tín dụng là công ty cổ phần",
+                "so_hieu": "32/2024/QH15",
+                "trich_yeu": "Các tổ chức tín dụng 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Ngân hàng Nhà nước Việt Nam",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tiền tệ - Ngân hàng",
+                "score": 0.012001191185229302
+            },
+            {
+                "index": 40,
+                "id": "dieu_41",
+                "id_document": 139885,
+                "position": "Điều 41 / Mục 2 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Nội dung quản trị công ty áp dụng đối với công ty đại chúng",
+                "so_hieu": "54/2019/QH14",
+                "trich_yeu": "Chứng khoán năm 2019",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Chứng khoán",
+                "score": 0.011637981500995199
+            },
+            {
+                "index": 142,
+                "id": "dieu_143",
+                "id_document": 142881,
+                "position": "Điều 143 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Mời họp Đại hội đồng cổ đông",
+                "so_hieu": "59/2020/QH14",
+                "trich_yeu": "Doanh nghiệp 2020",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.011633054599114607
+            },
+            {
+                "index": 144,
+                "id": "dieu_145",
+                "id_document": 142881,
+                "position": "Điều 145 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Điều kiện tiến hành họp Đại hội đồng cổ đông",
+                "so_hieu": "59/2020/QH14",
+                "trich_yeu": "Doanh nghiệp 2020",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.011507936507936509
+            },
+            {
+                "index": 143,
+                "id": "dieu_144",
+                "id_document": 142881,
+                "position": "Điều 144 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Thực hiện quyền dự họp Đại hội đồng cổ đông",
+                "so_hieu": "59/2020/QH14",
+                "trich_yeu": "Doanh nghiệp 2020",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.011396011396011395
+            },
+            {
+                "index": 64,
+                "id": "dieu_65",
+                "id_document": 166269,
+                "position": "Điều 65 / Mục 2 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Hội đồng quản trị",
+                "so_hieu": "17/2023/QH15",
+                "trich_yeu": "Hợp tác xã 2023",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.011393939393939394
+            },
+            {
+                "index": 149,
+                "id": "dieu_150",
+                "id_document": 142881,
+                "position": "Điều 150 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Biên bản họp Đại hội đồng cổ đông",
+                "so_hieu": "59/2020/QH14",
+                "trich_yeu": "Doanh nghiệp 2020",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.011019219569015724
+            },
+            {
+                "index": 58,
+                "id": "dieu_59",
+                "id_document": 166269,
+                "position": "Điều 59 / Mục 1 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Triệu tập Đại hội thành viên",
+                "so_hieu": "17/2023/QH15",
+                "trich_yeu": "Hợp tác xã 2023",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.010865290068829893
+            },
+            {
+                "index": 13,
+                "id": "dieu_14",
+                "id_document": 172553,
+                "position": "Điều 14 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tham dự kỳ họp, phiên họp, cuộc họp và hội nghị",
+                "so_hieu": "50/2024/QH15",
+                "trich_yeu": "Công đoàn năm 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.01063145809414466
+            },
+            {
+                "index": 114,
+                "id": "dieu_115",
+                "id_document": 142881,
+                "position": "Điều 115 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Quyền của cổ đông phổ thông",
+                "so_hieu": "59/2020/QH14",
+                "trich_yeu": "Doanh nghiệp 2020",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.010176744186046511
+            },
+            {
+                "index": 156,
+                "id": "dieu_157",
+                "id_document": 142881,
+                "position": "Điều 157 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Cuộc họp Hội đồng quản trị",
+                "so_hieu": "59/2020/QH14",
+                "trich_yeu": "Doanh nghiệp 2020",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.00997245179063361
+            },
+            {
+                "index": 56,
+                "id": "dieu_57",
+                "id_document": 166269,
+                "position": "Điều 57 / Mục 1 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Đại hội thành viên",
+                "so_hieu": "17/2023/QH15",
+                "trich_yeu": "Hợp tác xã 2023",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.009896949290888685
+            },
+            {
+                "index": 137,
+                "id": "dieu_138",
+                "id_document": 142881,
+                "position": "Điều 138 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Quyền và nghĩa vụ của Đại hội đồng cổ đông",
+                "so_hieu": "59/2020/QH14",
+                "trich_yeu": "Doanh nghiệp 2020",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.009850863422291994
+            }
+        ]
+    },
+    {
+        "id": 6540,
+        "cau_hoi": "Mục tiêu của giáo dục trung học phổ thông là gì?",
+        "tra_loi": "Căn cứ theo khoản 1, khoản 4 Điều 29 Luật Giáo dục 2019 quy định về mục tiêu giáo dục trung học phổ thông như sau:\nĐiều 29. Mục tiêu của giáo dục phổ thông\n1. Giáo dục phổ thông nhằm phát triển toàn diện cho người học về đạo đức, trí tuệ, thể chất, thẩm mỹ, kỹ năng cơ bản, phát triển năng lực cá nhân, tính năng động và sáng tạo; hình thành nhân cách con người Việt Nam xã hội chủ nghĩa và trách nhiệm công dân; chuẩn bị cho người học tiếp tục học chương trình giáo dục đại học, giáo dục nghề nghiệp hoặc tham gia lao động, xây dựng và bảo vệ Tổ quốc.\n2. Giáo dục tiểu học nhằm hình thành cơ sở ban đầu cho sự phát triển về đạo đức, trí tuệ, thể chất, thẩm mỹ, năng lực của học sinh; chuẩn bị cho học sinh tiếp tục học trung học cơ sở.\n3. Giáo dục trung học cơ sở nhằm củng cố và phát triển kết quả của giáo dục tiểu học; bảo đảm cho học sinh có học vấn phổ thông nền tảng, hiểu biết cần thiết tối thiểu về kỹ thuật và hướng nghiệp để tiếp tục học trung học phổ thông hoặc chương trình giáo dục nghề nghiệp.\n4. Giáo dục trung học phổ thông nhằm trang bị kiến thức công dân; bảo đảm cho học sinh củng cố, phát triển kết quả của giáo dục trung học cơ sở, hoàn thiện học vấn phổ thông và có hiểu biết thông thường về kỹ thuật, hướng nghiệp; có điều kiện phát huy năng lực cá nhân để lựa chọn hướng phát triển, tiếp tục học chương trình giáo dục đại học, giáo dục nghề nghiệp hoặc tham gia lao động, xây dựng và bảo vệ Tổ quốc.\nNhư vậy, mục tiêu giáo dục trung học phổ thông gồm:\nMục tiêu chung: Giáo dục phổ thông nhằm phát triển toàn diện cho người học về đạo đức, trí tuệ, thể chất, thẩm mỹ, kỹ năng cơ bản, phát triển năng lực cá nhân, tính năng động và sáng tạo; hình thành nhân cách con người Việt Nam xã hội chủ nghĩa và trách nhiệm công dân; chuẩn bị cho người học tiếp tục học chương trình giáo dục đại học, giáo dục nghề nghiệp hoặc tham gia lao động, xây dựng và bảo vệ Tổ quốc.\nMục tiêu riêng đối với cấp trung học phổ thông: Giáo dục trung học phổ thông nhằm trang bị kiến thức công dân; bảo đảm cho học sinh củng cố, phát triển kết quả của giáo dục trung học cơ sở, hoàn thiện học vấn phổ thông và có hiểu biết thông thường về kỹ thuật, hướng nghiệp; có điều kiện phát huy năng lực cá nhân để lựa chọn hướng phát triển, tiếp tục học chương trình giáo dục đại học, giáo dục nghề nghiệp hoặc tham gia lao động, xây dựng và bảo vệ Tổ quốc.",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "43/2019/QH14",
+                "khoan": "4",
+                "dieu": "29",
+                "trich_yeu": "Luật Giáo dục 2019",
+                "noi_dung_kem_trich_dan": "Căn cứ theo khoản 1, khoản 4 Điều 29 Luật Giáo dục 2019 quy định về mục tiêu giáo dục trung học phổ thông như sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 40,
+                "id": "dieu_41",
+                "id_document": 136042,
+                "position": "Điều 41 / Mục 2 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Mục tiêu của giáo dục thường xuyên Giáo dục thường xuyên nhằm tạo điều kiện cho mọi người vừa làm vừa học, học liên tục, học tập suốt đời nhằm phát huy năng lực cá nhân, hoàn thiện nhân cách, mở rộng hiểu biết, nâng cao trình độ học vấn, chuyên môn, nghiệp vụ để tìm việc làm, tự tạo việc làm và thích nghi với đời sống xã hội; góp phần xây dựng xã hội học tập.",
+                "so_hieu": "43/2019/QH14",
+                "trich_yeu": "Giáo dục 2019",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.014888010540184453
+            },
+            {
+                "index": 38,
+                "id": "dieu_39",
+                "id_document": 136042,
+                "position": "Điều 39 / Tiểu mục 4 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Mục tiêu của giáo dục đại học",
+                "so_hieu": "43/2019/QH14",
+                "trich_yeu": "Giáo dục 2019",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.013596491228070176
+            },
+            {
+                "index": 28,
+                "id": "dieu_29",
+                "id_document": 136042,
+                "position": "Điều 29 / Tiểu mục 2 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Mục tiêu của giáo dục phổ thông",
+                "so_hieu": "43/2019/QH14",
+                "trich_yeu": "Giáo dục 2019",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.01322589608224507
+            },
+            {
+                "index": 43,
+                "id": "dieu_44",
+                "id_document": 136042,
+                "position": "Điều 44 / Mục 2 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Cơ sở giáo dục thường xuyên",
+                "so_hieu": "43/2019/QH14",
+                "trich_yeu": "Giáo dục 2019",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.012928270042194094
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 136042,
+                "position": "Điều 2 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Mục tiêu giáo dục Mục tiêu giáo dục nhằm phát triển toàn diện con người Việt Nam có đạo đức, tri thức, văn hóa, sức khỏe, thẩm mỹ và nghề nghiệp; có phẩm chất, năng lực và ý thức công dân; có lòng yêu nước, tinh thần dân tộc, trung thành với lý tưởng độc lập dân tộc và chủ nghĩa xã hội; phát huy tiềm năng, khả năng sáng tạo của mỗi cá nhân; nâng cao dân trí, phát triển nguồn nhân lực, bồi dưỡng nhân tài, đáp ứng yêu cầu của sự nghiệp xây dựng, bảo vệ Tổ quốc và hội nhập quốc tế.",
+                "so_hieu": "43/2019/QH14",
+                "trich_yeu": "Giáo dục 2019",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.012900494001411434
+            },
+            {
+                "index": 29,
+                "id": "dieu_30",
+                "id_document": 136042,
+                "position": "Điều 30 / Tiểu mục 2 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Yêu cầu về nội dung, phương pháp giáo dục phổ thông",
+                "so_hieu": "43/2019/QH14",
+                "trich_yeu": "Giáo dục 2019",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.01283871902622808
+            },
+            {
+                "index": 42,
+                "id": "dieu_43",
+                "id_document": 136042,
+                "position": "Điều 43 / Mục 2 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Chương trình, hình thức, nội dung, phương pháp giáo dục thường xuyên",
+                "so_hieu": "43/2019/QH14",
+                "trich_yeu": "Giáo dục 2019",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.012492437991530549
+            },
+            {
+                "index": 30,
+                "id": "dieu_31",
+                "id_document": 136042,
+                "position": "Điều 31 / Tiểu mục 2 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Chương trình giáo dục phổ thông",
+                "so_hieu": "43/2019/QH14",
+                "trich_yeu": "Giáo dục 2019",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.012242332830568125
+            },
+            {
+                "index": 31,
+                "id": "dieu_32",
+                "id_document": 136042,
+                "position": "Điều 32 / Tiểu mục 2 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Sách giáo khoa giáo dục phổ thông",
+                "so_hieu": "43/2019/QH14",
+                "trich_yeu": "Giáo dục 2019",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.012204424103737605
+            },
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 136042,
+                "position": "Điều 8 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Chương trình giáo dục",
+                "so_hieu": "43/2019/QH14",
+                "trich_yeu": "Giáo dục 2019",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.012113289760348584
+            },
+            {
+                "index": 27,
+                "id": "dieu_28",
+                "id_document": 136042,
+                "position": "Điều 28 / Tiểu mục 2 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Cấp học và độ tuổi của giáo dục phổ thông",
+                "so_hieu": "43/2019/QH14",
+                "trich_yeu": "Giáo dục 2019",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.011898980087421077
+            },
+            {
+                "index": 35,
+                "id": "dieu_36",
+                "id_document": 136042,
+                "position": "Điều 36 / Tiểu mục 3 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Mục tiêu của giáo dục nghề nghiệp Giáo dục nghề nghiệp nhằm đào tạo nhân lực trực tiếp cho sản xuất, kinh doanh và dịch vụ, có năng lực hành nghề tương ứng với trình độ đào tạo; có đạo đức, sức khỏe; có trách nhiệm nghề nghiệp; có khả năng sáng tạo, thích ứng với môi trường hội nhập quốc tế; bảo đảm nâng cao năng suất, chất lượng lao động; tạo điều kiện cho người học sau khi hoàn thành khóa học có khả năng tìm việc làm, tự tạo việc làm hoặc học trình độ cao hơn.",
+                "so_hieu": "43/2019/QH14",
+                "trich_yeu": "Giáo dục 2019",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.011732711732711733
+            },
+            {
+                "index": 32,
+                "id": "dieu_33",
+                "id_document": 136042,
+                "position": "Điều 33 / Tiểu mục 2 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Cơ sở giáo dục phổ thông Cơ sở giáo dục phổ thông bao gồm:",
+                "so_hieu": "43/2019/QH14",
+                "trich_yeu": "Giáo dục 2019",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.011604938271604939
+            },
+            {
+                "index": 5,
+                "id": "dieu_6",
+                "id_document": 25506,
+                "position": "Điều 6",
+                "dia_danh": "Trung ương",
+                "title": "Giáo dục vệ sinh.",
+                "so_hieu": "Không số",
+                "trich_yeu": "Bảo vệ sức khỏe nhân dân",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Y tế"
+                ],
+                "linh_vuc": null,
+                "score": 0.011467391304347825
+            },
+            {
+                "index": 44,
+                "id": "dieu_45",
+                "id_document": 136042,
+                "position": "Điều 45 / Mục 2 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Đánh giá, công nhận kết quả học tập",
+                "so_hieu": "43/2019/QH14",
+                "trich_yeu": "Giáo dục 2019",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.011446269862644761
+            },
+            {
+                "index": 5,
+                "id": "dieu_6",
+                "id_document": 2315,
+                "position": "Điều 6",
+                "dia_danh": "Trung ương",
+                "title": "Giáo dục vệ sinh.",
+                "so_hieu": "21-LCT/HĐNN8",
+                "trich_yeu": "Bảo vệ sức khỏe nhân dân 1989",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Y tế"
+                ],
+                "linh_vuc": null,
+                "score": 0.011417004048582997
+            },
+            {
+                "index": 109,
+                "id": "dieu_110",
+                "id_document": 136042,
+                "position": "Điều 110 / Mục 3 / Chương VIII",
+                "dia_danh": "Trung ương",
+                "title": "Mục tiêu, nguyên tắc, đối tượng kiểm định chất lượng giáo dục",
+                "so_hieu": "43/2019/QH14",
+                "trich_yeu": "Giáo dục 2019",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.011346153846153846
+            },
+            {
+                "index": 64,
+                "id": "dieu_65",
+                "id_document": 136042,
+                "position": "Điều 65 / Mục 2 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Cơ sở giáo dục khác",
+                "so_hieu": "43/2019/QH14",
+                "trich_yeu": "Giáo dục 2019",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.011312563840653728
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 46822,
+                "position": "Điều 4 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Mục tiêu của giáo dục nghề nghiệp",
+                "so_hieu": "74/2014/QH13",
+                "trich_yeu": "Giáo dục nghề nghiệp 2014",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Giáo dục và Đào tạo",
+                    "Bộ Lao động - Thương Binh và Xã hội"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.011161543222611925
+            },
+            {
+                "index": 6,
+                "id": "dieu_7",
+                "id_document": 136042,
+                "position": "Điều 7 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Yêu cầu về nội dung, phương pháp giáo dục",
+                "so_hieu": "43/2019/QH14",
+                "trich_yeu": "Giáo dục 2019",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.011004844118743013
+            }
+        ]
+    }
+]

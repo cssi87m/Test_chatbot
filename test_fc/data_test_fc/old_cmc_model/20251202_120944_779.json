@@ -1,0 +1,59 @@
+{
+  "timestamp": 1764652184.3268785,
+  "conversation_id": "\"3407e924-358c-4a74-9b0b-cc19f38390ef\"",
+  "workspace_id": "90602b2d-1d93-4478-8611-ea20b3760db2",
+  "query_params": {
+    "use_memory": false,
+    "intent": "chitchat",
+    "query": "",
+    "reference_text": "",
+    "term_position": [],
+    "ten_van_ban": "",
+    "so_hieu": "",
+    "tinh_trang_hieu_luc": [],
+    "loai_van_ban": [],
+    "co_quan_ban_hanh": "",
+    "ngay_ban_hanh_start": "",
+    "ngay_ban_hanh_end": "",
+    "ngay_co_hieu_luc_start": "",
+    "ngay_co_hieu_luc_end": "",
+    "retrieve_level": "document",
+    "query_external_search": "",
+    "need_subquery": false,
+    "use_rag": true,
+    "loai_hinh_van_ban": "văn bản quy phạm",
+    "_metadata": {
+      "extraction_method": "pipeline",
+      "has_selection_text": false,
+      "has_conversation_history": false,
+      "timestamp": "2025-12-02T12:09:43.559226"
+    }
+  },
+  "request_params": {
+    "selection_text": null,
+    "selected_save_files": [],
+    "selected_upload_files": [],
+    "use_law_database": true,
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bạn nghĩ gì về trí tuệ nhân tạo?"
+      }
+    ],
+    "current_user_message": "Bạn nghĩ gì về trí tuệ nhân tạo?",
+    "previous_user_message": "",
+    "previous_assistant_message": "",
+    "random_uuid": "79f856c3-58af-4fa9-ac8b-1977bd756399"
+  },
+  "contexts": {
+    "context": "",
+    "retrieve_results": [],
+    "uploaded_docs_results": [],
+    "law_database_results": []
+  },
+  "response": {
+    "type": "streaming",
+    "content": "<answer>Văn bản được cung cấp không đề cập đến vấn đề này.</answer> ",
+    "chunks_count": 13
+  }
+}

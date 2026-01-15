@@ -1,0 +1,1660 @@
+[
+    {
+        "id": 34218,
+        "cau_hoi": "Hợp đồng cung ứng dịch vụ ngân quỹ phải có tối thiểu những nội dung gì?",
+        "tra_loi": "Căn cứ tại khoản 2 Điều 6 Thông tư 60/2024/TT-NHNN quy định về hợp đồng cung ứng dịch vụ ngân quỹ như sau:\nĐiều 6. Hợp đồng cung ứng dịch vụ ngân quỹ\n1. Khi thực hiện cung ứng dịch vụ ngân quỹ, tổ chức cung ứng dịch vụ phải ký hợp đồng với tổ chức sử dụng dịch vụ. Hợp đồng phải phù hợp với các quy định tại Thông tư này và các quy định khác của pháp luật có liên quan.\n2. Hợp đồng cung ứng dịch vụ ngân quỹ phải có tối thiểu các nội dung sau:\na) Thông tin của các bên tham gia hợp đồng;\nb) Phạm vi cung cấp dịch vụ, thời gian thực hiện hợp đồng;\nc) Phương thức quản lý vốn tiền mặt trong các giao dịch cung ứng dịch vụ ngân quỹ;\nd) Mức phí áp dụng, phương thức thanh toán;\nđ) Xử lý sai sót, thừa thiếu, giải quyết các tranh chấp và vi phạm hợp đồng;\ne) Quyền và nghĩa vụ của các bên tham gia hợp đồng.\nNhư vậy, hợp đồng cung ứng dịch vụ ngân quỹ phải có tối thiểu các nội dung sau:\n- Thông tin của các bên tham gia hợp đồng;\n- Phạm vi cung cấp dịch vụ, thời gian thực hiện hợp đồng;\n- Phương thức quản lý vốn tiền mặt trong các giao dịch cung ứng dịch vụ ngân quỹ;\n- Mức phí áp dụng, phương thức thanh toán;\n- Xử lý sai sót, thừa thiếu, giải quyết các tranh chấp và vi phạm hợp đồng;\n- Quyền và nghĩa vụ của các bên tham gia hợp đồng.",
+        "trich_dan": [
+            {
+                "loai_vb": "Thông tư",
+                "so_hieu": "60/2024/TT-NHNN",
+                "khoan": "2",
+                "dieu": "6",
+                "trich_yeu": "Thông tư 60/2024/TT-NHNN",
+                "noi_dung_kem_trich_dan": "Căn cứ tại khoản 2 Điều 6 Thông tư 60/2024/TT-NHNN quy định về hợp đồng cung ứng dịch vụ ngân quỹ như sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 5,
+                "id": "dieu_6",
+                "id_document": 174100,
+                "position": "Điều 6 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Hợp đồng cung ứng dịch vụ ngân quỹ",
+                "so_hieu": "60/2024/TT-NHNN",
+                "trich_yeu": "Quy định về dịch vụ ngân quỹ cho tổ chức tín dụng, chi nhánh ngân hàng nước ngoài do Thống đốc Ngân hàng Nhà nước Việt Nam ban hành",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+                "don_vi": [
+                    "Ngân hàng Nhà nước Việt Nam",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tiền tệ - Ngân hàng",
+                "score": 0.013061872025383395
+            },
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 168578,
+                "position": "Điều 8 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Hợp đồng hoặc thỏa thuận giữa tổ chức cung ứng dịch vụ trung gian thanh toán và ngân hàng hợp tác Tổ chức cung ứng dịch vụ trung gian thanh toán phải có hợp đồng hoặc thỏa thuận với ngân hàng hợp tác về việc cung ứng dịch vụ trung gian thanh toán, bao gồm tối thiểu các nội dung sau:",
+                "so_hieu": "40/2024/TT-NHNN",
+                "trich_yeu": "Hướng dẫn hoạt động cung ứng dịch vụ trung gian thanh toán do Thống đốc Ngân hàng Nhà nước Việt Nam ban hành",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+                "don_vi": [
+                    "Ngân hàng Nhà nước Việt Nam",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tiền tệ - Ngân hàng",
+                "score": 0.0126007326007326
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 174100,
+                "position": "Điều 4 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Nguyên tắc thực hiện cung ứng dịch vụ ngân quỹ",
+                "so_hieu": "60/2024/TT-NHNN",
+                "trich_yeu": "Quy định về dịch vụ ngân quỹ cho tổ chức tín dụng, chi nhánh ngân hàng nước ngoài do Thống đốc Ngân hàng Nhà nước Việt Nam ban hành",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+                "don_vi": [
+                    "Ngân hàng Nhà nước Việt Nam",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tiền tệ - Ngân hàng",
+                "score": 0.012342941611234294
+            },
+            {
+                "index": 31,
+                "id": "dieu_32",
+                "id_document": 126723,
+                "position": "Điều 32 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Hợp đồng cung cấp sản phẩm, dịch vụ thủy lợi",
+                "so_hieu": "08/2017/QH14",
+                "trich_yeu": "Thủy lợi 2017",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Nông nghiệp và Phát triển nông thôn",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tài nguyên - Môi trường",
+                "score": 0.012276855621672408
+            },
+            {
+                "index": 8,
+                "id": "dieu_9",
+                "id_document": 146448,
+                "position": "Điều 9",
+                "dia_danh": "Trung ương",
+                "title": "Giao dịch ký quỹ",
+                "so_hieu": "120/2020/TT-BTC",
+                "trich_yeu": "Giao dịch cổ phiếu niêm yết đăng ký giao dịch chứng khoán chứng chỉ quỹ",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Tài chính",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tài chính"
+                ],
+                "linh_vuc": "Chứng khoán",
+                "score": 0.012
+            },
+            {
+                "index": 9,
+                "id": "dieu_10",
+                "id_document": 147142,
+                "position": "Điều 10 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Nội dung thỏa thuận giao dịch",
+                "so_hieu": "02/2021/TT-NHNN",
+                "trich_yeu": "Giao dịch ngoại tệ trên thị trường ngoại tệ của các tổ chức tín dụng",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+                "don_vi": [
+                    "Ngân hàng Nhà nước Việt Nam",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tiền tệ - Ngân hàng",
+                "score": 0.011621890547263682
+            },
+            {
+                "index": 28,
+                "id": "dieu_29",
+                "id_document": 160343,
+                "position": "Điều 29 / Mục 3 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Nội dung hợp đồng bảo hiểm vi mô Nội dung của hợp đồng bảo hiểm vi mô phải có tối thiểu các nội dung sau:",
+                "so_hieu": "21/2023/NĐ-CP",
+                "trich_yeu": "Quy định về bảo hiểm vi mô",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bảo hiểm",
+                "score": 0.011307847082494969
+            },
+            {
+                "index": 8,
+                "id": "dieu_9",
+                "id_document": 1895,
+                "position": "Mục 2 / Phần II",
+                "dia_danh": "Trung ương",
+                "title": "Hợp đồng uỷ thác ít nhất phải có các điều khoản sau: - Tên hàng, quy cách, phẩm chất. - Số lượng. - Đơn giá và tổng trị giá. - Phương thức thanh toán. - Hoa hồng uỷ thác, chi phí uỷ thác và phương thức thanh toán hoa hồng uỷ thác, chi phí uỷ thác. - Phương thức giao nhận (điều kiện giao hàng, thời gian và địa điểm giao hàng). - Giải quyết các tranh chấp.",
+                "so_hieu": "10-TTLB/TN-HQ",
+                "trich_yeu": "Năm 1990 về chế độ nhận uỷ thác xuất, nhập khẩu hàng hoá cho các đơn vị kinh tế của Campuchia do Bộ Thương nghiệp - Tổng cục Hải quan ban hành",
+                "loai_van_ban": "Thông tư liên tịch",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Thương nghiệp, Tổng cục Hải quan",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tài chính",
+                    "Bộ Công thương"
+                ],
+                "linh_vuc": null,
+                "score": 0.011277469210335667
+            },
+            {
+                "index": 14,
+                "id": "dieu_9_dk_1",
+                "id_document": 999999999679666,
+                "position": "Điều 9",
+                "dia_danh": "Trung ương",
+                "title": "Giao dịch ký quỹ",
+                "so_hieu": "44/VBHN-BTC",
+                "trich_yeu": "Năm 2025 hợp nhất Thông tư quy định giao dịch cổ phiếu niêm yết, đăng ký giao dịch và chứng chỉ quỹ, trái phiếu doanh nghiệp, chứng quyền có bảo đảm niêm yết trên hệ thống giao dịch chứng khoán do Bộ trưởng Bộ Tài chính ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Tài chính",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tài chính"
+                ],
+                "linh_vuc": "Chứng khoán",
+                "score": 0.011134676564156946
+            },
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 174547,
+                "position": "Điều 8 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Hợp đồng giữa Ngân hàng với bên thứ ba Ngân hàng phải ký kết hợp đồng với bên thứ ba về việc triển khai Open API, bao gồm tối thiểu các nội dung sau:",
+                "so_hieu": "64/2024/TT-NHNN",
+                "trich_yeu": "Quy định về triển khai giao diện lập trình ứng dụng mở trong ngành Ngân hàng do Thống đốc Ngân hàng Nhà nước Việt Nam ban hành",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+                "don_vi": [
+                    "Ngân hàng Nhà nước Việt Nam",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tiền tệ - Ngân hàng",
+                "score": 0.011070896316797956
+            },
+            {
+                "index": 11,
+                "id": "dieu_8_dk_1",
+                "id_document": 999999999154213,
+                "position": "Điều 8",
+                "dia_danh": "Trung ương",
+                "title": "Hội đồng quản lý Quỹ",
+                "so_hieu": "1311/QĐ-BNV",
+                "trich_yeu": "Năm 2012 về cấp Giấy phép thành lập và công nhận Điều lệ Quỹ Hỗ trợ và Phát triển sinh viên Việt Nam do Bộ trưởng Bộ Nội vụ ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Nội vụ",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Nội vụ"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011063291139240507
+            },
+            {
+                "index": 29,
+                "id": "dieu_27_dk_1",
+                "id_document": 999999999654989,
+                "position": "Điều 27 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Lệnh giao dịch thỏa thuận Lệnh giao dịch thỏa thuận phải có tối thiểu các nội dung sau đây:",
+                "so_hieu": "21/QĐ-HĐTV",
+                "trich_yeu": "về việc ban hành quy chế niêm yết và giao dịch hợp đồng tương lai",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Sở Giao dịch Chứng khoán Việt Nam",
+                "don_vi": [
+                    "Trung ương",
+                    "Sở Giao dịch Chứng khoán Việt Nam"
+                ],
+                "linh_vuc": "Chứng khoán",
+                "score": 0.011053652230122817
+            },
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 999999999316968,
+                "position": "Điều 5 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Hợp đồng ủy thác",
+                "so_hieu": "35/VBHN-NHNN",
+                "trich_yeu": "Ủy thác nhận ủy thác tổ chức tín dụng chi nhánh ngân hàng 2016",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+                "don_vi": [
+                    "Trung ương",
+                    "Ngân hàng Nhà nước"
+                ],
+                "linh_vuc": "Tiền tệ - Ngân hàng",
+                "score": 0.011038439472174413
+            },
+            {
+                "index": 8,
+                "id": "dieu_9",
+                "id_document": 999999999679666,
+                "position": "Điều 9",
+                "dia_danh": "Trung ương",
+                "title": "Giao dịch ký quỹ",
+                "so_hieu": "44/VBHN-BTC",
+                "trich_yeu": "Năm 2025 hợp nhất Thông tư quy định giao dịch cổ phiếu niêm yết, đăng ký giao dịch và chứng chỉ quỹ, trái phiếu doanh nghiệp, chứng quyền có bảo đảm niêm yết trên hệ thống giao dịch chứng khoán do Bộ trưởng Bộ Tài chính ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Tài chính",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tài chính"
+                ],
+                "linh_vuc": "Chứng khoán",
+                "score": 0.010966638152266894
+            },
+            {
+                "index": 17,
+                "id": "dieu_18",
+                "id_document": 133846,
+                "position": "Điều 18 / Mục 2",
+                "dia_danh": "Trung ương",
+                "title": "Hợp đồng cung cấp dịch vụ liên tục",
+                "so_hieu": "99/2011/NĐ-CP.",
+                "trich_yeu": "QUY ĐỊNH CHI TIẾT VÀ HƯỚNG DẪN THI HÀNH MỘT SỐ ĐIỀU CỦA LUẬT BẢO VỆ QUYỀN LỢI NGƯỜI TIÊU DÙNG",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Công thương",
+                    "Trung ương"
+                ],
+                "linh_vuc": null,
+                "score": 0.010938654841093867
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 133005,
+                "position": "Điều 4",
+                "dia_danh": "Trung ương",
+                "title": "Nội dung thỏa thuận phối hợp giữa bên cho vay và Quỹ bảo lãnh tín dụng Thỏa thuận phối hợp giữa bên cho vay và Quỹ bảo lãnh tín dụng quy định tại khoản 2 Điều 3 Thông tư này bao gồm tối thiểu các nội dung sau:",
+                "so_hieu": "45/2018/TT-NHNN",
+                "trich_yeu": "Hướng dẫn các tổ chức tín dụng trong cho vay có bảo lãnh của Quỹ bảo lãnh tín dụng theo quy định tại Nghị định số 34/2018/NĐ-CP \nngày 08 tháng 3 năm 2018 của Chính phủ về việc thành lập, tổ chức và hoạt động của Quỹ bảo lãnh tín dụng cho doanh nghiệp nhỏ và vừa",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+                "don_vi": [
+                    "Ngân hàng Nhà nước Việt Nam",
+                    "Trung ương"
+                ],
+                "linh_vuc": null,
+                "score": 0.010799823243482103
+            },
+            {
+                "index": 8,
+                "id": "dieu_9",
+                "id_document": 25701,
+                "position": "Điều 9 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Hợp đồng cung ứng và sử dụng dịch vụ bưu chính bằng văn bản",
+                "so_hieu": "49/2010/QH12",
+                "trich_yeu": "Bưu chính 2010",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Công nghệ thông tin",
+                "score": 0.01059258015779755
+            },
+            {
+                "index": 25,
+                "id": "dieu_26",
+                "id_document": 139073,
+                "position": "Điều 26 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Hội đồng quản lý quỹ",
+                "so_hieu": "93/2019/NĐ-CP",
+                "trich_yeu": "Về tổ chức, hoạt động của quỹ xã hội, quỹ từ thiện",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Nội vụ",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.010315925209542231
+            },
+            {
+                "index": 15,
+                "id": "dieu_13_dk_1",
+                "id_document": 999999999225603,
+                "position": "Điều 13 / Chương II",
+                "dia_danh": "tỉnh Bắc Giang",
+                "title": "Hợp đồng cho vay",
+                "so_hieu": "355/QĐ-UBND",
+                "trich_yeu": "Năm 2014 về Quy chế cho vay với lãi suất ưu đãi, hỗ trợ lãi suất vay, tài trợ, đồng tài trợ, ủy thác, nhận ủy thác của Quỹ Bảo vệ môi trường tỉnh Bắc Giang",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Bắc Giang",
+                "don_vi": [
+                    "Bắc Giang"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.010286696016321272
+            },
+            {
+                "index": 14,
+                "id": "dieu_11_dk_1",
+                "id_document": 73539,
+                "position": "Điều 11 / Chương IV",
+                "dia_danh": "tỉnh Phú Yên",
+                "title": "Hợp đồng dịch vụ cấp nước",
+                "so_hieu": "23/2015/QĐ-UBND",
+                "trich_yeu": "Chính sách ưu đãi đầu tư quản lý khai thác công trình cấp nước Phú Yên",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Phú Yên",
+                "don_vi": [
+                    "Phú Yên"
+                ],
+                "linh_vuc": "Đầu tư",
+                "score": 0.01026191498497209
+            }
+        ]
+    },
+    {
+        "id": 16604,
+        "cau_hoi": "Xuất hóa đơn trả lại hàng theo Nghị định 70 như thế nào?",
+        "tra_loi": "Theo điểm c khoản 4 Điều 19 Nghị định 123/2020/NĐ-CP sửa đổi bởi khoản 13 Điều 1 Nghị định 70/2025/NĐ-CP quy định về thay thế, điều chỉnh hóa đơn điện tử như sau:\nĐiều 19. Thay thế, điều chỉnh hóa đơn điện tử\n[...]\n4. Hóa đơn để điều chỉnh hóa đơn điện tử đã lập trong một số trường hợp như sau:\nc) Xử lý hóa đơn điện tử trong trường hợp trả lại hàng hoá, dịch vụ:\nc.1) Trường hợp trả lại hàng hóa: Trường hợp người mua trả lại toàn bộ hoặc một phần hàng hóa (bao gồm cả trường hợp đổi hàng làm thay đổi giá trị của hàng hóa đã mua) thì người bán lập hóa đơn điều chỉnh, trừ trường hợp các bên có thỏa thuận về việc người mua lập hóa đơn khi trả lại hàng hóa thì người mua lập hóa đơn điện tử giao cho người bán; người bán, người mua thực hiện nghĩa vụ thuế theo quy định khi bán hàng hóa.\nc.2) Trường hợp hàng hoá là tài sản thuộc diện phải đăng ký quyền sử dụng, quyền sở hữu theo quy định của pháp luật và tài sản đã được đăng ký theo tên người mua thì khi trả lại hàng hoá đảm bảo phù hợp với pháp luật liên quan, nếu người mua là đối tượng sử dụng hoá đơn điện tử thì người mua thực hiện lập hoá đơn trả lại hàng cho người bán.\n[...]\nNhư vậy, việc xuất hóa đơn trả lại hàng theo Nghị định 70 được hướng dẫn như sau:\n[1] Trường hợp người mua trả lại toàn bộ hoặc một phần hàng hóa (bao gồm cả trường hợp đổi hàng làm thay đổi giá trị của hàng hóa đã mua):\n- Người bán lập hóa đơn điều chỉnh, trừ trường hợp các bên có thỏa thuận về việc người mua lập hóa đơn khi trả lại hàng hóa thì người mua lập hóa đơn điện tử giao cho người bán.\n- Người bán, người mua thực hiện nghĩa vụ thuế theo quy định khi bán hàng hóa.\n[2] Trường hợp hàng hoá là tài sản thuộc diện phải đăng ký quyền sử dụng, quyền sở hữu theo quy định của pháp luật và tài sản đã được đăng ký theo tên người mua:\n- Khi trả lại hàng hoá đảm bảo phù hợp với pháp luật liên quan, nếu người mua là đối tượng sử dụng hoá đơn điện tử thì người mua thực hiện lập hoá đơn trả lại hàng cho người bán.\n[3] Trường hợp hoàn phí, giảm phí, giảm hoa hồng môi giới bảo hiểm và các khoản chi để giảm thu khác theo quy định của pháp luật kinh doanh bảo hiểm:\n- Căn cứ vào hóa đơn đã lập và biên bản hoặc thỏa thuận bằng văn bản ghi rõ số tiền phí bảo hiểm được hoàn, giảm (không bao gồm thuế giá trị gia tăng), số tiền thuế giá trị gia tăng theo hóa đơn thu phí bảo hiểm mà doanh nghiệp bảo hiểm đã thu (số ký hiệu, ngày, tháng của hóa đơn), lý do hoàn, giảm phí bảo hiểm thì người bán lập hóa đơn điều chỉnh giao cho khách hàng tham gia bảo hiểm, không phân biệt đã chi tiền hay chưa chi tiền.\n- Trên hóa đơn ghi rõ số tiền phí bảo hiểm hoàn, giảm, lý do hoàn, giảm. Biên bản này được lưu giữ cùng với hóa đơn thu phí bảo hiểm tại doanh nghiệp và xuất trình khi có yêu cầu.\n*Lưu ý: Các trường hợp [1], [2] và [3] người bán, người mua phải có đầy đủ hồ sơ, chứng từ liên quan đến việc trả lại hàng hoá, dịch vụ và phải xuất trình khi được yêu cầu.\n[4] Trường hợp người bán đã lập hóa đơn khi thu tiền trước khi cung cấp dịch vụ hoặc lập hóa đơn thu tiền đối với hoạt động kinh doanh bất động sản, xây dựng cơ sở hạ tầng, xây dựng nhà để bán, nhà chuyển nhượng sau đó phát sinh việc huỷ hoặc chấm dứt giao dịch và hủy một phần việc cung cấp dịch vụ\n- Người bán thực hiện điều chỉnh hóa đơn điện tử đã lập.\n- Hóa đơn điện tử đã lập sai phải có dòng chữ “Điều chỉnh cho hóa đơn Mẫu số... ký hiệu... số... ngày... tháng... năm”.\nXuất hóa đơn trả lại hàng theo Nghị định 70 như thế nào? (Hình từ Internet)",
+        "trich_dan": [
+            {
+                "loai_vb": "Nghị định",
+                "so_hieu": "123/2020/NĐ-CP",
+                "khoan": "4",
+                "dieu": "19",
+                "trich_yeu": "Nghị định 123/2020/NĐ-CP",
+                "noi_dung_kem_trich_dan": "Theo điểm c khoản 4 Điều 19 Nghị định 123/2020/NĐ-CP sửa đổi bởi khoản 13 Điều 1 Nghị định 70/2025/NĐ-CP quy định về thay thế, điều chỉnh hóa đơn điện tử như sau:"
+            },
+            {
+                "loai_vb": "Nghị định",
+                "so_hieu": "70/2025/NĐ-CP",
+                "khoan": "13",
+                "dieu": "1",
+                "trich_yeu": "Nghị định 70/2025/NĐ-CP",
+                "noi_dung_kem_trich_dan": "Theo điểm c khoản 4 Điều 19 Nghị định 123/2020/NĐ-CP sửa đổi bởi khoản 13 Điều 1 Nghị định 70/2025/NĐ-CP quy định về thay thế, điều chỉnh hóa đơn điện tử như sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 177581,
+                "position": "Điều 1",
+                "dia_danh": "Trung ương",
+                "title": "Sửa đổi, bổ sung một số điều của Nghị định số 123/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định về hóa đơn, chứng từ",
+                "so_hieu": "70/2025/NĐ-CP",
+                "trich_yeu": "Sửa đổi Nghị định 123/2020/NĐ-CP hóa đơn chứng từ",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.015275142314990511
+            },
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 36831,
+                "position": "Điều 5 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Thanh toán và chuyển tiền liên quan đến xuất khẩu, nhập khẩu hàng hóa, dịch vụ và các nguồn thu vãng lai khác",
+                "so_hieu": "70/2014/NĐ-CP",
+                "trich_yeu": "Hướng dẫn Pháp lệnh Ngoại hối và Pháp lệnh Ngoại hối sửa đổi",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Ngân hàng Nhà nước Việt Nam"
+                ],
+                "linh_vuc": "Tiền tệ - Ngân hàng",
+                "score": 0.010238358644272354
+            }
+        ]
+    },
+    {
+        "id": 16934,
+        "cau_hoi": "Trường hợp nào công chứng viên không được thành lập Văn phòng công chứng?",
+        "tra_loi": "Căn cứ tại khoản 2 Điều 24 Luật Công chứng 2024 có hiệu lực từ 01/7/2025 quy định về thành lập Văn phòng công chứng như sau:\nĐiều 24. Thành lập Văn phòng công chứng\n1. Căn cứ vào quy định của pháp luật về điều kiện thành lập Văn phòng công chứng, công chứng viên đề nghị thành lập Văn phòng công chứng lập hồ sơ đề nghị thành lập Văn phòng công chứng gửi đến Sở Tư pháp nơi dự kiến thành lập Văn phòng công chứng.\n2. Công chứng viên thuộc một trong các trường hợp sau đây không được thành lập, tham gia thành lập Văn phòng công chứng mới:\na) Đang là viên chức của Phòng công chứng;\nb) Đang là thành viên hợp danh của 01 Văn phòng công chứng;\nc) Đang là Trưởng Văn phòng công chứng của Văn phòng công chứng được tổ chức và hoạt động theo loại hình doanh nghiệp tư nhân;\nd) Chưa hết thời hạn 02 năm theo quy định tại khoản 6 Điều 27, khoản 5 Điều 31 và khoản 4 Điều 34 của Luật này.\n3. Văn phòng công chứng thành lập tại các địa bàn có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn được hưởng chính sách ưu đãi về thuế theo quy định của pháp luật về thuế và các chính sách ưu đãi khác theo quy định của Chính phủ.\n4. Chính phủ quy định về hồ sơ, trình tự, thủ tục thành lập Văn phòng công chứng.\nNhư vậy những trường hợp công chứng viên không được thành lập Văn phòng công chứng gồm:\n- Đang là viên chức của Phòng công chứng;\n- Đang là thành viên hợp danh của 01 Văn phòng công chứng;\n- Đang là Trưởng Văn phòng công chứng của Văn phòng công chứng được tổ chức và hoạt động theo loại hình doanh nghiệp tư nhân;\n- Chưa hết thời hạn 02 năm theo quy định tại khoản 6 Điều 27, khoản 5 Điều 31 và khoản 4 Điều 34 Luật Công chứng 2024 có hiệu lực từ 01/7/2025",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "46/2024/QH15",
+                "khoan": "2",
+                "dieu": "24",
+                "trich_yeu": "Luật Công chứng 2024",
+                "noi_dung_kem_trich_dan": "Căn cứ tại khoản 2 Điều 24 Luật Công chứng 2024 có hiệu lực từ 01/7/2025 quy định về thành lập Văn phòng công chứng như sau:"
+            },
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "46/2024/QH15",
+                "khoan": "5",
+                "dieu": "31",
+                "trich_yeu": "Luật Công chứng 2024",
+                "noi_dung_kem_trich_dan": "- Chưa hết thời hạn 02 năm theo quy định tại khoản 6 Điều 27, khoản 5 Điều 31 và khoản 4 Điều 34 Luật Công chứng 2024 có hiệu lực từ 01/7/2025"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 13,
+                "id": "dieu_14",
+                "id_document": 172799,
+                "position": "Điều 14 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Những trường hợp không được bổ nhiệm công chứng viên",
+                "so_hieu": "46/2024/QH15",
+                "trich_yeu": "Công chứng năm 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Dịch vụ pháp lý",
+                "score": 0.015079365079365078
+            },
+            {
+                "index": 19,
+                "id": "dieu_20",
+                "id_document": 172799,
+                "position": "Điều 20 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Phòng công chứng",
+                "so_hieu": "46/2024/QH15",
+                "trich_yeu": "Công chứng năm 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Dịch vụ pháp lý",
+                "score": 0.01351492928234678
+            },
+            {
+                "index": 23,
+                "id": "dieu_24",
+                "id_document": 172799,
+                "position": "Điều 24 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Thành lập Văn phòng công chứng",
+                "so_hieu": "46/2024/QH15",
+                "trich_yeu": "Công chứng năm 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Dịch vụ pháp lý",
+                "score": 0.013169398907103827
+            },
+            {
+                "index": 22,
+                "id": "dieu_23",
+                "id_document": 172799,
+                "position": "Điều 23 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Văn phòng công chứng",
+                "so_hieu": "46/2024/QH15",
+                "trich_yeu": "Công chứng năm 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Dịch vụ pháp lý",
+                "score": 0.012627032520325203
+            },
+            {
+                "index": 32,
+                "id": "dieu_33",
+                "id_document": 172799,
+                "position": "Điều 33 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Thu hồi quyết định cho phép thành lập Văn phòng công chứng",
+                "so_hieu": "46/2024/QH15",
+                "trich_yeu": "Công chứng năm 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Dịch vụ pháp lý",
+                "score": 0.012316715542521993
+            },
+            {
+                "index": 8,
+                "id": "dieu_9",
+                "id_document": 172799,
+                "position": "Điều 9 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Các hành vi bị nghiêm cấm",
+                "so_hieu": "46/2024/QH15",
+                "trich_yeu": "Công chứng năm 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Dịch vụ pháp lý",
+                "score": 0.01208133971291866
+            },
+            {
+                "index": 20,
+                "id": "dieu_21",
+                "id_document": 172799,
+                "position": "Điều 21 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Thành lập Phòng công chứng",
+                "so_hieu": "46/2024/QH15",
+                "trich_yeu": "Công chứng năm 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Dịch vụ pháp lý",
+                "score": 0.01177783287875031
+            },
+            {
+                "index": 28,
+                "id": "dieu_29",
+                "id_document": 172799,
+                "position": "Điều 29 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Hợp nhất, sáp nhập Văn phòng công chứng được tổ chức và hoạt động theo loại hình công ty hợp danh",
+                "so_hieu": "46/2024/QH15",
+                "trich_yeu": "Công chứng năm 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Dịch vụ pháp lý",
+                "score": 0.01177142857142857
+            },
+            {
+                "index": 17,
+                "id": "dieu_18",
+                "id_document": 172799,
+                "position": "Điều 18 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Quyền và nghĩa vụ của công chứng viên",
+                "so_hieu": "46/2024/QH15",
+                "trich_yeu": "Công chứng năm 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Dịch vụ pháp lý",
+                "score": 0.011637239165329053
+            },
+            {
+                "index": 45,
+                "id": "dieu_46",
+                "id_document": 172799,
+                "position": "Điều 46 / Mục 1 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Địa điểm công chứng",
+                "so_hieu": "46/2024/QH15",
+                "trich_yeu": "Công chứng năm 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Dịch vụ pháp lý",
+                "score": 0.011398705823792932
+            },
+            {
+                "index": 21,
+                "id": "dieu_22",
+                "id_document": 172799,
+                "position": "Điều 22 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Chuyển đổi, giải thể Phòng công chứng",
+                "so_hieu": "46/2024/QH15",
+                "trich_yeu": "Công chứng năm 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Dịch vụ pháp lý",
+                "score": 0.011368521614521137
+            },
+            {
+                "index": 36,
+                "id": "dieu_37",
+                "id_document": 172799,
+                "position": "Điều 37 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Hình thức hành nghề của công chứng viên",
+                "so_hieu": "46/2024/QH15",
+                "trich_yeu": "Công chứng năm 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Dịch vụ pháp lý",
+                "score": 0.011103603603603603
+            },
+            {
+                "index": 75,
+                "id": "dieu_76",
+                "id_document": 172799,
+                "position": "Điều 76 / Chương VIII",
+                "dia_danh": "Trung ương",
+                "title": "Quy định chuyển tiếp về hoạt động công chứng kể từ ngày Luật này có hiệu lực thi hành",
+                "so_hieu": "46/2024/QH15",
+                "trich_yeu": "Công chứng năm 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Dịch vụ pháp lý",
+                "score": 0.011017148226450554
+            },
+            {
+                "index": 63,
+                "id": "dieu_64",
+                "id_document": 172799,
+                "position": "Điều 64 / Mục 3 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Văn bản công chứng điện tử",
+                "so_hieu": "46/2024/QH15",
+                "trich_yeu": "Công chứng năm 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Dịch vụ pháp lý",
+                "score": 0.010964035964035966
+            },
+            {
+                "index": 31,
+                "id": "dieu_32",
+                "id_document": 172799,
+                "position": "Điều 32 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Tạm ngừng hoạt động Văn phòng công chứng",
+                "so_hieu": "46/2024/QH15",
+                "trich_yeu": "Công chứng năm 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Dịch vụ pháp lý",
+                "score": 0.01096096096096096
+            },
+            {
+                "index": 26,
+                "id": "dieu_27",
+                "id_document": 172799,
+                "position": "Điều 27 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Chấm dứt tư cách thành viên hợp danh của Văn phòng công chứng",
+                "so_hieu": "46/2024/QH15",
+                "trich_yeu": "Công chứng năm 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Dịch vụ pháp lý",
+                "score": 0.010822814399251987
+            },
+            {
+                "index": 122,
+                "id": "dieu_123",
+                "id_document": 999999999580434,
+                "position": "Điều 123 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Những người không được làm Hội thẩm",
+                "so_hieu": "34/2024/QH15",
+                "trich_yeu": "Tổ chức Tòa án nhân dân 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010611431103234384
+            },
+            {
+                "index": 37,
+                "id": "dieu_38",
+                "id_document": 172799,
+                "position": "Điều 38 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Thẻ công chứng viên",
+                "so_hieu": "46/2024/QH15",
+                "trich_yeu": "Công chứng năm 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Dịch vụ pháp lý",
+                "score": 0.010408432147562582
+            },
+            {
+                "index": 43,
+                "id": "dieu_44",
+                "id_document": 172799,
+                "position": "Điều 44 / Mục 1 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Thẩm quyền công chứng giao dịch về bất động sản Công chứng viên của tổ chức hành nghề công chứng chỉ được công chứng giao dịch về bất động sản trong phạm vi tỉnh, thành phố trực thuộc trung ương nơi tổ chức hành nghề công chứng đặt trụ sở, trừ trường hợp công chứng di chúc, văn bản từ chối nhận di sản, văn bản ủy quyền liên quan đến việc thực hiện các quyền đối với bất động sản, thỏa thuận xác lập chế độ tài sản của vợ chồng về bất động sản và công chứng việc sửa đổi, bổ sung, chấm dứt, hủy bỏ các giao dịch này theo quy định của pháp luật.",
+                "so_hieu": "46/2024/QH15",
+                "trich_yeu": "Công chứng năm 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Dịch vụ pháp lý",
+                "score": 0.010071667462971811
+            },
+            {
+                "index": 27,
+                "id": "dieu_28",
+                "id_document": 172799,
+                "position": "Điều 28 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Tiếp nhận thành viên hợp danh mới của Văn phòng công chứng",
+                "so_hieu": "46/2024/QH15",
+                "trich_yeu": "Công chứng năm 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Dịch vụ pháp lý",
+                "score": 0.010035769034236076
+            }
+        ]
+    },
+    {
+        "id": 11669,
+        "cau_hoi": "Quản lý đối với người nước ngoài vi phạm pháp luật Việt Nam trong thời gian làm thủ tục trục xuất được áp dụng khi nào?",
+        "tra_loi": "Căn cứ theo Điều 130 Luật Xử lý vi phạm hành chính 2012 quy định về quản lý đối với người nước ngoài vi phạm pháp luật Việt Nam trong thời gian làm thủ tục trục xuất như sau:\nĐiều 130. Quản lý đối với người nước ngoài vi phạm pháp luật Việt Nam trong thời gian làm thủ tục trục xuất\n1. Quản lý đối với người nước ngoài vi phạm pháp luật Việt Nam trong thời gian làm thủ tục trục xuất được áp dụng khi có căn cứ cho rằng nếu không áp dụng biện pháp này thì người đó sẽ trốn tránh hoặc cản trở việc thi hành quyết định xử phạt trục xuất hoặc để ngăn chặn người đó tiếp tục thực hiện hành vi vi phạm pháp luật.\n2. Thủ trưởng Cơ quan quản lý xuất cảnh, nhập cảnh hoặc Giám đốc Công an cấp tỉnh nơi lập hồ sơ đề nghị trục xuất ra quyết định quản lý đối với người nước ngoài vi phạm pháp luật trong thời gian làm thủ tục trục xuất bằng các biện pháp sau:\na) Hạn chế việc đi lại của người bị quản lý;\nb) Chỉ định chỗ ở của người bị quản lý;\nc) Tạm giữ hộ chiếu hoặc giấy tờ tuỳ thân khác thay hộ chiếu.\n3. Chính phủ quy định chi tiết Điều này.\nNhư vậy, biện pháp quản lý đối với người nước ngoài vi phạm pháp luật Việt Nam trong thời gian làm thủ tục trục xuất được áp dụng khi có căn cứ cho rằng nếu không áp dụng biện pháp này thì người đó sẽ trốn tránh hoặc cản trở việc thi hành quyết định xử phạt trục xuất hoặc để ngăn chặn người đó tiếp tục thực hiện hành vi vi phạm pháp luật.",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "15/2012/QH13",
+                "khoan": "",
+                "dieu": "130",
+                "trich_yeu": "Luật Xử lý vi phạm hành chính 2012",
+                "noi_dung_kem_trich_dan": "Căn cứ theo Điều 130 Luật Xử lý vi phạm hành chính 2012 quy định về quản lý đối với người nước ngoài vi phạm pháp luật Việt Nam trong thời gian làm thủ tục trục xuất như sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 239,
+                "id": "dieu_240",
+                "id_document": 177815,
+                "position": "Điều 240 / Mục 3 / Chương XV",
+                "dia_danh": "Trung ương",
+                "title": "Xử lý đối với người có hành vi vi phạm pháp luật trong quản lý đất đai khi thi hành công vụ",
+                "so_hieu": "31/2024/QH15",
+                "trich_yeu": "Đất đai 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tài nguyên và Môi trường",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.013849206349206349
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 139884,
+                "position": "Điều 2",
+                "dia_danh": "Trung ương",
+                "title": "Sửa đổi, bổ sung một số điều của Luật Viên chức",
+                "so_hieu": "52/2019/QH14",
+                "trich_yeu": "Cán bộ công chức và luật viên chức sửa đổi 2019",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012736056214317084
+            },
+            {
+                "index": 70,
+                "id": "dieu_71",
+                "id_document": 146643,
+                "position": "Điều 71 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của cơ quan đại diện Việt Nam ở nước ngoài",
+                "so_hieu": "69/2020/QH14",
+                "trich_yeu": "Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng 2020",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.012614782477796176
+            },
+            {
+                "index": 34,
+                "id": "dieu_35",
+                "id_document": 146643,
+                "position": "Điều 35 / Mục 3 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Quyền, nghĩa vụ của tổ chức, cá nhân đầu tư ra nước ngoài đưa người lao động Việt Nam đi làm việc ở nước ngoài",
+                "so_hieu": "69/2020/QH14",
+                "trich_yeu": "Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng 2020",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.012440191387559807
+            },
+            {
+                "index": 129,
+                "id": "dieu_130",
+                "id_document": 27621,
+                "position": "Điều 130 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Quản lý đối với người nước ngoài vi phạm pháp luật Việt Nam trong thời gian làm thủ tục trục xuất",
+                "so_hieu": "15/2012/QH13",
+                "trich_yeu": "Xử lý vi phạm hành chính 2012",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Vi phạm hành chính",
+                "score": 0.012305201376239628
+            },
+            {
+                "index": 118,
+                "id": "dieu_119",
+                "id_document": 162690,
+                "position": "Điều 119 / Chương VII",
+                "dia_danh": "Trung ương",
+                "title": "Thông báo thi hành án phạt trục xuất",
+                "so_hieu": "41/2019/QH14",
+                "trich_yeu": "Thi hành án hình sự 2019",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Công an",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Trách nhiệm hình sự",
+                "score": 0.012154407929055816
+            },
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 36823,
+                "position": "Điều 5 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Các hành vi bị nghiêm cấm",
+                "so_hieu": "47/2014/QH13",
+                "trich_yeu": "Nhập cảnh xuất cảnh quá cảnh cư trú của người nước ngoài tại Việt Nam 2014",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Xuất nhập khẩu",
+                "score": 0.012010617120106171
+            },
+            {
+                "index": 118,
+                "id": "dieu_119",
+                "id_document": 27621,
+                "position": "Điều 119 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Các biện pháp ngăn chặn và bảo đảm xử lý vi phạm hành chính Trong trường hợp cần ngăn chặn kịp thời vi phạm hành chính hoặc để bảo đảm việc xử lý vi phạm hành chính, người có thẩm quyền có thể áp dụng các biện pháp sau đây theo thủ tục hành chính:",
+                "so_hieu": "15/2012/QH13",
+                "trich_yeu": "Xử lý vi phạm hành chính 2012",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Vi phạm hành chính",
+                "score": 0.011859472049689441
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 162469,
+                "position": "Điều 2",
+                "dia_danh": "Trung ương",
+                "title": "Sửa đổi, bổ sung một số điều của Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam",
+                "so_hieu": "23/2023/QH15",
+                "trich_yeu": "Xuất cảnh nhập cảnh công dân Việt Nam và Luật Nhập cảnh người nước ngoài sửa đổi 2023",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Công an",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Quyền dân sự",
+                "score": 0.011854792966534317
+            },
+            {
+                "index": 26,
+                "id": "dieu_27",
+                "id_document": 27621,
+                "position": "Điều 27 / Mục 1 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Trục xuất",
+                "so_hieu": "15/2012/QH13",
+                "trich_yeu": "Xử lý vi phạm hành chính 2012",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Vi phạm hành chính",
+                "score": 0.01182817182817183
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 999999999660522,
+                "position": "Điều 1",
+                "dia_danh": "Trung ương",
+                "title": "Sửa đổi, bổ sung một số điều của Luật Quốc tịch Việt Nam",
+                "so_hieu": "79/2025/QH15",
+                "trich_yeu": "Quốc tịch Việt Nam sửa đổi năm 2025",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Quyền dân sự",
+                "score": 0.011514904042466313
+            },
+            {
+                "index": 152,
+                "id": "dieu_153",
+                "id_document": 139264,
+                "position": "Điều 153 / Mục 3 / Chương XI",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của người sử dụng lao động và người lao động nước ngoài",
+                "so_hieu": "45/2019/QH14",
+                "trich_yeu": "Lao động 2019",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Lao động - Thương Binh và Xã hội",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.011440784510937892
+            },
+            {
+                "index": 65,
+                "id": "dieu_66",
+                "id_document": 27621,
+                "position": "Điều 66 / Mục 1 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Thời hạn ra quyết định xử phạt vi phạm hành chính",
+                "so_hieu": "15/2012/QH13",
+                "trich_yeu": "Xử lý vi phạm hành chính 2012",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Vi phạm hành chính",
+                "score": 0.01138763197586727
+            },
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 27621,
+                "position": "Điều 8",
+                "dia_danh": "Trung ương",
+                "title": "Cách tính thời gian, thời hạn, thời hiệu trong xử lý vi phạm hành chính",
+                "so_hieu": "15/2012/QH13",
+                "trich_yeu": "Xử lý vi phạm hành chính 2012",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Vi phạm hành chính",
+                "score": 0.011220435193945126
+            },
+            {
+                "index": 136,
+                "id": "dieu_137",
+                "id_document": 136036,
+                "position": "Điều 137 / Mục 1 / Chương XV",
+                "dia_danh": "Trung ương",
+                "title": "Thời hiệu xử phạt vi phạm hành chính về quản lý thuế",
+                "so_hieu": "38/2019/QH14",
+                "trich_yeu": "Quản lý thuế 2019",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.011189311702254564
+            },
+            {
+                "index": 31,
+                "id": "dieu_32",
+                "id_document": 146643,
+                "position": "Điều 32 / Mục 2 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Quyền, nghĩa vụ của doanh nghiệp trúng thầu, nhận thầu công trình, dự án ở nước ngoài đưa người lao động Việt Nam đi làm việc ở nước ngoài",
+                "so_hieu": "69/2020/QH14",
+                "trich_yeu": "Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng 2020",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.01116600790513834
+            },
+            {
+                "index": 22,
+                "id": "dieu_23",
+                "id_document": 152501,
+                "position": "Điều 23 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Quản lý người sử dụng trái phép chất ma túy",
+                "so_hieu": "73/2021/QH14",
+                "trich_yeu": "Phòng chống ma túy 2021 số 73/2021/QH14 mới nhất",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Trách nhiệm hình sự",
+                "score": 0.011011904761904761
+            },
+            {
+                "index": 69,
+                "id": "dieu_70",
+                "id_document": 146643,
+                "position": "Điều 70 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm quản lý nhà nước về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng",
+                "so_hieu": "69/2020/QH14",
+                "trich_yeu": "Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng 2020",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.010822814399251987
+            },
+            {
+                "index": 5,
+                "id": "dieu_6",
+                "id_document": 27621,
+                "position": "Điều 6",
+                "dia_danh": "Trung ương",
+                "title": "Thời hiệu xử lý vi phạm hành chính",
+                "so_hieu": "15/2012/QH13",
+                "trich_yeu": "Xử lý vi phạm hành chính 2012",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Vi phạm hành chính",
+                "score": 0.010774774774774776
+            },
+            {
+                "index": 245,
+                "id": "dieu_246",
+                "id_document": 26117,
+                "position": "Điều 246 / Mục 5 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Thời gian quá cảnh",
+                "so_hieu": "36/2005/QH11",
+                "trich_yeu": "Thương mại 2005",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công thương"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.010768159665815735
+            }
+        ]
+    },
+    {
+        "id": 28660,
+        "cau_hoi": "Tên văn phòng đại diện có bắt buộc phải kèm theo tên doanh nghiệp không?",
+        "tra_loi": "Căn cứ theo khoản 2 Điều 40 Luật Doanh nghiệp 2020 quy định như sau:\nĐiều 40. Tên chi nhánh, văn phòng đại diện và địa điểm kinh doanh\n1. Tên chi nhánh, văn phòng đại diện, địa điểm kinh doanh phải được viết bằng các chữ cái trong bảng chữ cái tiếng Việt, các chữ cái F, J, Z, W, chữ số và các ký hiệu.\n2. Tên chi nhánh, văn phòng đại diện, địa điểm kinh doanh phải bao gồm tên doanh nghiệp kèm theo cụm từ “Chi nhánh” đối với chi nhánh, cụm từ “Văn phòng đại diện” đối với văn phòng đại diện, cụm từ “Địa điểm kinh doanh” đối với địa điểm kinh doanh.\n3. Tên chi nhánh, văn phòng đại diện, địa điểm kinh doanh phải được viết hoặc gắn tại trụ sở chi nhánh, văn phòng đại diện và địa điểm kinh doanh. Tên chi nhánh, văn phòng đại diện được in hoặc viết với khổ chữ nhỏ hơn tên tiếng Việt của doanh nghiệp trên các giấy tờ giao dịch, hồ sơ tài liệu và ấn phẩm do chi nhánh, văn phòng đại diện phát hành.\nNhư vậy, tên văn phòng đại diện bắt buộc phải bao gồm tên doanh nghiệp kèm theo cụm từ “Văn phòng đại diện”.",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "59/2020/QH14",
+                "khoan": "2",
+                "dieu": "40",
+                "trich_yeu": "Luật Doanh nghiệp 2020",
+                "noi_dung_kem_trich_dan": "Căn cứ theo khoản 2 Điều 40 Luật Doanh nghiệp 2020 quy định như sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 27,
+                "id": "dieu_28",
+                "id_document": 999999999521257,
+                "position": "Điều 28 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Tên của văn phòng đại diện Tên của văn phòng đại diện gồm các yếu tố cấu thành được sắp xếp theo trật tự: “Văn phòng đại diện”, “Tên của tổ chức, cơ sở giáo dục nghề nghiệp nước ngoài” và “tại Việt Nam”.",
+                "so_hieu": "2022/VBHN-BLĐTBXH",
+                "trich_yeu": "2022 Nghị định hướng dẫn Luật giáo dục nghề nghiệp",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Lao động - Thương binh và Xã hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Lao động - Thương binh và Xã hội"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.015647568608570053
+            },
+            {
+                "index": 27,
+                "id": "dieu_28",
+                "id_document": 134195,
+                "position": "Điều 28 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Tên của văn phòng đại diện Tên của văn phòng đại diện gồm các yếu tố cấu thành được sắp xếp theo trật tự: “Văn phòng đại diện”, “Tên của tổ chức, cơ sở giáo dục nghề nghiệp nước ngoài” và “tại Việt Nam”.",
+                "so_hieu": "15/2019/NĐ-CP",
+                "trich_yeu": "Hướng dẫn Luật giáo dục nghề nghiệp",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Lao động - Thương Binh và Xã hội",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.015406162464985993
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 999999999543879,
+                "position": "Mục 2",
+                "dia_danh": "Trung ương",
+                "title": "Văn phòng đại diện là đơn vị phụ thuộc của doanh nghiệp...",
+                "so_hieu": "4498/TCT-KK",
+                "trich_yeu": "2022 khai lệ phí môn bài",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Tổng cục Thuế",
+                "don_vi": [
+                    "Trung ương",
+                    "Tổng cục Thuế"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.01386938202247191
+            },
+            {
+                "index": 5,
+                "id": "dieu_2_1",
+                "id_document": 999999999615653,
+                "position": "Điều 2",
+                "dia_danh": "thành phố Hồ Chí Minh",
+                "title": "Tên Văn phòng đại diện Tên Văn phòng đại diện (ghi tên đầy đủ bằng chữ in hoa, đậm của Văn phòng đại diện theo đơn đề nghị): Tên viết tắt (ghi theo đơn đề nghị; trường hợp không có ghi rõ “Không có”):",
+                "so_hieu": "2165/QĐ-UBND",
+                "trich_yeu": "Năm 2024 phê duyệt quy trình nội bộ giải quyết thủ tục hành chính lĩnh vực xúc tiến thương mại thuộc thẩm quyền tiếp nhận của Sở Công Thương Thành phố Hồ Chí Minh",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND thành phố Hồ Chí Minh",
+                "don_vi": [
+                    "TP. Hồ Chí Minh"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.013141850697737436
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 999999999589844,
+                "position": "Mục 2",
+                "dia_danh": "Trung ương",
+                "title": "Văn phòng đại diện là đơn vị phụ thuộc của doanh nghiệp, có nhiệm vụ đại diện theo ủy quyền cho lợi ích của doanh nghiệp và bảo vệ các lợi ích đó. Văn phòng đại diện không thực hiện chức năng kinh doanh của doanh nghiệp.” “Điều 45. Đăng ký hoạt động chi nhánh, văn phòng đại diện của doanh nghiệp; thông báo địa điểm kinh doanh",
+                "so_hieu": "3084/TCT-CS",
+                "trich_yeu": "Năm 2023 về chính sách thuế do Tổng cục Thuế ban hành",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Tổng cục Thuế",
+                "don_vi": [
+                    "Trung ương",
+                    "Tổng cục Thuế"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.013043478260869566
+            },
+            {
+                "index": 54,
+                "id": "dieu_55",
+                "id_document": 174705,
+                "position": "Điều 55 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Đặt tên văn phòng đại diện giáo dục nước ngoài Tên của văn phòng đại diện giáo dục nước ngoài bao gồm các yếu tố cấu thành được sắp xếp theo trật tự: “Văn phòng đại diện”, “Tên của tổ chức, cơ sở giáo dục nước ngoài” và “tại Việt Nam.”",
+                "so_hieu": "09/VBHN-BGDĐT",
+                "trich_yeu": "Năm 2024 hợp nhất Nghị định quy định về hợp tác, đầu tư của nước ngoài trong lĩnh vực giáo dục do Bộ Giáo dục và Đào tạo ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.012878787878787878
+            },
+            {
+                "index": 123,
+                "id": "dieu_124",
+                "id_document": 999999999672481,
+                "position": "Điều 124 / Mục 2 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Quyền và nghĩa vụ của văn phòng đại diện, văn phòng bán vé của hãng hàng không nước ngoài",
+                "so_hieu": "102/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Hàng không dân dụng Việt Nam do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.012011922503725783
+            },
+            {
+                "index": 123,
+                "id": "dieu_124",
+                "id_document": 999999999652013,
+                "position": "Điều 124 / Mục 2 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Quyền và nghĩa vụ của văn phòng đại diện, văn phòng bán vé của hãng hàng không nước ngoài",
+                "so_hieu": "41/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Hàng không dân dụng Việt Nam do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.012007168458781362
+            },
+            {
+                "index": 15,
+                "id": "dieu_16",
+                "id_document": 999999999623074,
+                "position": "Điều 16 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Đăng ký tên chi nhánh, văn phòng đại diện, địa điểm kinh doanh",
+                "so_hieu": "168/2025/NĐ-CP",
+                "trich_yeu": "Về đăng ký doanh nghiệp",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Chính phủ"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.011936936936936936
+            },
+            {
+                "index": 123,
+                "id": "dieu_124",
+                "id_document": 15068,
+                "position": "Điều 124 / Mục 2",
+                "dia_danh": "Trung ương",
+                "title": "Quyền và nghĩa vụ của văn phòng đại diện, văn phòng bán vé của hãng hàng không nước ngoài",
+                "so_hieu": "66/2006/QH11",
+                "trich_yeu": "Hàng không dân dụng Việt Nam 2006",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Giao thông vận tải"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.011853793505169652
+            },
+            {
+                "index": 28,
+                "id": "dieu_29",
+                "id_document": 96614,
+                "position": "Điều 29 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Tên Văn phòng đại diện, Chi nhánh",
+                "so_hieu": "07/2016/NĐ-CP",
+                "trich_yeu": "Quy định chi tiết văn phòng đại diện chi nhánh thương nhân nước ngoài",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công thương"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.011762414800389484
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 999999999415818,
+                "position": "Mục 2",
+                "dia_danh": "thành phố Huế",
+                "title": "Văn phòng đại diện là đơn vị phụ thuộc của doanh nghiệp, có nhiệm vụ đại diện theo ủy quyền cho lợi ích của doanh nghiệp và bảo vệ các lợi ích đó.",
+                "so_hieu": "72012/CT-TTHT",
+                "trich_yeu": "2018 chính sách thuế đối với kho hàng thuê ngoài Hà Nội",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Cục thuế thành phố Huế",
+                "don_vi": [
+                    "Huế"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.011761517615176152
+            },
+            {
+                "index": 15,
+                "id": "dieu_16",
+                "id_document": 168422,
+                "position": "Điều 16 / Mục 2 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Tên, trụ sở chính của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài, văn phòng đại diện nước ngoài",
+                "so_hieu": "34/2024/TT-NHNN",
+                "trich_yeu": "Quy định việc cấp đổi Giấy phép, cấp bổ sung nội dung hoạt động vào Giấy phép và tổ chức, hoạt động của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài, văn phòng đại diện tại Việt Nam của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng do Thống đốc Ngân hàng Nhà nước Việt Nam ban hành",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+                "don_vi": [
+                    "Ngân hàng Nhà nước Việt Nam",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tiền tệ - Ngân hàng",
+                "score": 0.011514904042466313
+            },
+            {
+                "index": 19,
+                "id": "dieu_20",
+                "id_document": 153870,
+                "position": "Điều 20 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Đăng ký tên chi nhánh, văn phòng đại diện, địa điểm kinh doanh",
+                "so_hieu": "01/2021/NĐ-CP",
+                "trich_yeu": "Đăng ký doanh nghiệp",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.01149113660062565
+            },
+            {
+                "index": 77,
+                "id": "dieu_78",
+                "id_document": 10548,
+                "position": "Mục 3 / Phần VII",
+                "dia_danh": "Trung ương",
+                "title": "Tên cơ sở kinh doanh: tên xí nghiệp, hợp tác xã... hoặc tên cửa hiệu, cửa hàng.",
+                "so_hieu": "73/A-TC-TCT",
+                "trich_yeu": "Hướng dẫn thi hành Nghị định số 55-CP ngày 28/8/93 của Chính phủ quy định chi tiết thi hành Luật thuế doanh thu và Luật sửa đổi, bổ sung một số Điều của Luật thuế doanh thu",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Tổng cục Thuế",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tài chính"
+                ],
+                "linh_vuc": null,
+                "score": 0.011326259946949604
+            },
+            {
+                "index": 36,
+                "id": "dieu_37",
+                "id_document": 999999999671127,
+                "position": "Điều 37 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tên doanh nghiệp",
+                "so_hieu": "67/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Doanh nghiệp do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.011238317757009345
+            },
+            {
+                "index": 6,
+                "id": "dieu_4_dk_1",
+                "id_document": 126482,
+                "position": "Điều 4 / Chương II",
+                "dia_danh": "tỉnh Thừa Thiên Huế",
+                "title": "Văn phòng đại diện",
+                "so_hieu": "101/2017/QĐ-UBND",
+                "trich_yeu": "Quy định quản lý nhà nước về báo chí Huế",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Thừa Thiên Huế",
+                "don_vi": [
+                    "Thừa Thiên Huế"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011193737769080236
+            },
+            {
+                "index": 25,
+                "id": "dieu_26",
+                "id_document": 9609,
+                "position": "Mục 1 / Phần VI",
+                "dia_danh": "Trung ương",
+                "title": "Thay đổi tên gọi Văn phòng Đại diện: Văn phòng đại diện chỉ được đổi tên trong trường hợp Công ty đã thay đổi tên gọi phù hợp với pháp luật của nước thành lập Công ty Các trường hợp sáp nhập, giải thể hoặc góp vốn để thành lập một pháp nhân với tên gọi và chức năng, nhiệm vụ mới, nếu có yêu cầu đặt Văn phòng đại diện tại Việt Nam thì Công ty mới phải làm thủ tục từ đầu theo quy định hiện hành.",
+                "so_hieu": "3/TM-PC",
+                "trich_yeu": "Hướng dẫn thực hiện Quy chế đặt và hoạt động của Văn phòng đại diện tổ chức kinh tế nước ngoài tại Việt Nam",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Thương mại",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công thương"
+                ],
+                "linh_vuc": null,
+                "score": 0.01091777024946104
+            },
+            {
+                "index": 40,
+                "id": "dieu_41",
+                "id_document": 999999999671127,
+                "position": "Điều 41 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tên trùng và tên gây nhầm lẫn",
+                "so_hieu": "67/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Doanh nghiệp do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.010856947763741891
+            },
+            {
+                "index": 39,
+                "id": "dieu_40",
+                "id_document": 999999999671127,
+                "position": "Điều 40 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tên chi nhánh, văn phòng đại diện và địa điểm kinh doanh",
+                "so_hieu": "67/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Doanh nghiệp do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.01036789297658863
+            }
+        ]
+    }
+]

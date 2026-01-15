@@ -1,0 +1,1980 @@
+[
+    {
+        "id": 19464,
+        "cau_hoi": "Tên chi nhánh doanh nghiệp có bắt buộc phải kèm theo tên doanh nghiệp không?",
+        "tra_loi": "Căn cứ theo khoản 2 Điều 40 Luật Doanh nghiệp 2020 quy định như sau:\nĐiều 40. Tên chi nhánh, văn phòng đại diện và địa điểm kinh doanh\n1. Tên chi nhánh, văn phòng đại diện, địa điểm kinh doanh phải được viết bằng các chữ cái trong bảng chữ cái tiếng Việt, các chữ cái F, J, Z, W, chữ số và các ký hiệu.\n2. Tên chi nhánh, văn phòng đại diện, địa điểm kinh doanh phải bao gồm tên doanh nghiệp kèm theo cụm từ “Chi nhánh” đối với chi nhánh, cụm từ “Văn phòng đại diện” đối với văn phòng đại diện, cụm từ “Địa điểm kinh doanh” đối với địa điểm kinh doanh.\n3. Tên chi nhánh, văn phòng đại diện, địa điểm kinh doanh phải được viết hoặc gắn tại trụ sở chi nhánh, văn phòng đại diện và địa điểm kinh doanh. Tên chi nhánh, văn phòng đại diện được in hoặc viết với khổ chữ nhỏ hơn tên tiếng Việt của doanh nghiệp trên các giấy tờ giao dịch, hồ sơ tài liệu và ấn phẩm do chi nhánh, văn phòng đại diện phát hành.\nNhư vậy, tên chi nhánh doanh nghiệp bắt buộc phải kèm theo tên doanh nghiệp và cụm từ “Chi nhánh”.",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "59/2020/QH14",
+                "khoan": "2",
+                "dieu": "40",
+                "trich_yeu": "Luật Doanh nghiệp 2020",
+                "noi_dung_kem_trich_dan": "Căn cứ theo khoản 2 Điều 40 Luật Doanh nghiệp 2020 quy định như sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 77,
+                "id": "dieu_78",
+                "id_document": 10548,
+                "position": "Mục 3 / Phần VII",
+                "dia_danh": "Trung ương",
+                "title": "Tên cơ sở kinh doanh: tên xí nghiệp, hợp tác xã... hoặc tên cửa hiệu, cửa hàng.",
+                "so_hieu": "73/A-TC-TCT",
+                "trich_yeu": "Hướng dẫn thi hành Nghị định số 55-CP ngày 28/8/93 của Chính phủ quy định chi tiết thi hành Luật thuế doanh thu và Luật sửa đổi, bổ sung một số Điều của Luật thuế doanh thu",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Tổng cục Thuế",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tài chính"
+                ],
+                "linh_vuc": null,
+                "score": 0.015023041474654376
+            },
+            {
+                "index": 15,
+                "id": "dieu_16",
+                "id_document": 999999999623074,
+                "position": "Điều 16 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Đăng ký tên chi nhánh, văn phòng đại diện, địa điểm kinh doanh",
+                "so_hieu": "168/2025/NĐ-CP",
+                "trich_yeu": "Về đăng ký doanh nghiệp",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Chính phủ"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.0126007326007326
+            },
+            {
+                "index": 19,
+                "id": "dieu_20",
+                "id_document": 153870,
+                "position": "Điều 20 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Đăng ký tên chi nhánh, văn phòng đại diện, địa điểm kinh doanh",
+                "so_hieu": "01/2021/NĐ-CP",
+                "trich_yeu": "Đăng ký doanh nghiệp",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.012467644521138913
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 999999999543879,
+                "position": "Mục 1",
+                "dia_danh": "Trung ương",
+                "title": "Chi nhánh là đơn vị phụ thuộc của doanh nghiệp...",
+                "so_hieu": "4498/TCT-KK",
+                "trich_yeu": "2022 khai lệ phí môn bài",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Tổng cục Thuế",
+                "don_vi": [
+                    "Trung ương",
+                    "Tổng cục Thuế"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.012463995810421576
+            },
+            {
+                "index": 36,
+                "id": "dieu_37",
+                "id_document": 999999999671127,
+                "position": "Điều 37 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tên doanh nghiệp",
+                "so_hieu": "67/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Doanh nghiệp do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.012316715542521993
+            },
+            {
+                "index": 36,
+                "id": "dieu_37",
+                "id_document": 999999999547841,
+                "position": "Điều 37 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tên doanh nghiệp",
+                "so_hieu": "07/VBHN-VPQH",
+                "trich_yeu": "2022 Luật Doanh nghiệp",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.012172202797202797
+            },
+            {
+                "index": 36,
+                "id": "dieu_37",
+                "id_document": 142881,
+                "position": "Điều 37 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tên doanh nghiệp",
+                "so_hieu": "59/2020/QH14",
+                "trich_yeu": "Doanh nghiệp 2020",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.011762414800389484
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 999999999228389,
+                "position": "Mục 2",
+                "dia_danh": "Trung ương",
+                "title": "Chi nhánh là đơn vị phụ thuộc của doanh nghiệp, có nhiệm vụ thực hiện toàn bộ hoặc một phần chức năng của doanh nghiệp kể cả chức năng đại diện theo ủy quyền. Ngành, nghề kinh doanh của chi nhánh phải phù hợp với ngành, nghề kinh doanh của doanh nghiệp.",
+                "so_hieu": "4693/TCT-KK",
+                "trich_yeu": "Năm 2013 giải quyết vướng mắc đối với đề nghị hoàn lại tiền thuê đất do Tổng cục Thuế ban hành",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Tổng cục Thuế",
+                "don_vi": [
+                    "Trung ương",
+                    "Tổng cục Thuế"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.011418803418803419
+            },
+            {
+                "index": 36,
+                "id": "dieu_37",
+                "id_document": 7160,
+                "position": "Mục 1 / Phần IV",
+                "dia_danh": "Trung ương",
+                "title": "Tên doanh nghiệp (ghi rõ tên tiếng Việt đầy đủ và cả tên viếttắt)",
+                "so_hieu": "04/1999/TTLT/BTM-BKHĐT-BCN",
+                "trich_yeu": "Về việc ưu tiên và thưởng hạn ngạch xuất khẩu hàng dệt may",
+                "loai_van_ban": "Thông tư liên tịch",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Kế hoạch và Đầu tư, Bộ Thương mại, Bộ Công nghiệp",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Bộ Công thương",
+                    "Bộ Công thương"
+                ],
+                "linh_vuc": null,
+                "score": 0.011109243697478993
+            },
+            {
+                "index": 32,
+                "id": "dieu_33",
+                "id_document": 7160,
+                "position": "Mục 1 / Phần IV",
+                "dia_danh": "Trung ương",
+                "title": "Tên doanh nghiệp (ghi rõ tên tiếng Việt đầy đủ và cả tên viếttắt)",
+                "so_hieu": "04/1999/TTLT/BTM-BKHĐT-BCN",
+                "trich_yeu": "Về việc ưu tiên và thưởng hạn ngạch xuất khẩu hàng dệt may",
+                "loai_van_ban": "Thông tư liên tịch",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Kế hoạch và Đầu tư, Bộ Thương mại, Bộ Công nghiệp",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Bộ Công thương",
+                    "Bộ Công thương"
+                ],
+                "linh_vuc": null,
+                "score": 0.010994502748625687
+            },
+            {
+                "index": 28,
+                "id": "dieu_29",
+                "id_document": 7160,
+                "position": "Mục 1 / Phần IV",
+                "dia_danh": "Trung ương",
+                "title": "Tên doanh nghiệp (ghi rõ tên tiếng Việt đầy đủ và cả tên viết tắt)",
+                "so_hieu": "04/1999/TTLT/BTM-BKHĐT-BCN",
+                "trich_yeu": "Về việc ưu tiên và thưởng hạn ngạch xuất khẩu hàng dệt may",
+                "loai_van_ban": "Thông tư liên tịch",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Kế hoạch và Đầu tư, Bộ Thương mại, Bộ Công nghiệp",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Bộ Công thương",
+                    "Bộ Công thương"
+                ],
+                "linh_vuc": null,
+                "score": 0.010762842953675812
+            },
+            {
+                "index": 38,
+                "id": "dieu_39",
+                "id_document": 999999999671127,
+                "position": "Điều 39 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tên doanh nghiệp bằng tiếng nước ngoài và tên viết tắt của doanh nghiệp",
+                "so_hieu": "67/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Doanh nghiệp do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.010659439927732611
+            },
+            {
+                "index": 15,
+                "id": "dieu_16",
+                "id_document": 168422,
+                "position": "Điều 16 / Mục 2 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Tên, trụ sở chính của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài, văn phòng đại diện nước ngoài",
+                "so_hieu": "34/2024/TT-NHNN",
+                "trich_yeu": "Quy định việc cấp đổi Giấy phép, cấp bổ sung nội dung hoạt động vào Giấy phép và tổ chức, hoạt động của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài, văn phòng đại diện tại Việt Nam của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng do Thống đốc Ngân hàng Nhà nước Việt Nam ban hành",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+                "don_vi": [
+                    "Ngân hàng Nhà nước Việt Nam",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tiền tệ - Ngân hàng",
+                "score": 0.010554988083077971
+            },
+            {
+                "index": 38,
+                "id": "dieu_39",
+                "id_document": 999999999547841,
+                "position": "Điều 39 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tên doanh nghiệp bằng tiếng nước ngoài và tên viết tắt của doanh nghiệp",
+                "so_hieu": "07/VBHN-VPQH",
+                "trich_yeu": "2022 Luật Doanh nghiệp",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.01022108843537415
+            },
+            {
+                "index": 49,
+                "id": "dieu_50",
+                "id_document": 166269,
+                "position": "Điều 50 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Tên của hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện và địa điểm kinh doanh",
+                "so_hieu": "17/2023/QH15",
+                "trich_yeu": "Hợp tác xã 2023",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.010194771012458326
+            },
+            {
+                "index": 38,
+                "id": "dieu_39",
+                "id_document": 142881,
+                "position": "Điều 39 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tên doanh nghiệp bằng tiếng nước ngoài và tên viết tắt của doanh nghiệp",
+                "so_hieu": "59/2020/QH14",
+                "trich_yeu": "Doanh nghiệp 2020",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.0100794087585502
+            },
+            {
+                "index": 84,
+                "id": "dieu_86",
+                "id_document": 999999999623074,
+                "position": "Điều 86 / Chương VIII",
+                "dia_danh": "Trung ương",
+                "title": "Tên hộ kinh doanh",
+                "so_hieu": "168/2025/NĐ-CP",
+                "trich_yeu": "Về đăng ký doanh nghiệp",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Chính phủ"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.009866573033707865
+            },
+            {
+                "index": 43,
+                "id": "dieu_44",
+                "id_document": 999999999671127,
+                "position": "Điều 44 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Chi nhánh, văn phòng đại diện và địa điểm kinh doanh của doanh nghiệp",
+                "so_hieu": "67/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Doanh nghiệp do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.00973030142781597
+            },
+            {
+                "index": 15,
+                "id": "dieu_16",
+                "id_document": 169135,
+                "position": "Điều 16 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Tên chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã, liên hiệp hợp tác xã",
+                "so_hieu": "92/2024/NĐ-CP",
+                "trich_yeu": "Về đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.009586374695863747
+            },
+            {
+                "index": 39,
+                "id": "dieu_40",
+                "id_document": 999999999671127,
+                "position": "Điều 40 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tên chi nhánh, văn phòng đại diện và địa điểm kinh doanh",
+                "so_hieu": "67/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Doanh nghiệp do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.00949135213427622
+            }
+        ]
+    },
+    {
+        "id": 36218,
+        "cau_hoi": "Đánh giá xếp loại kết quả học tập cả năm học của học sinh lớp 7 được thực hiện như thế nào?",
+        "tra_loi": "Căn cứ khoản 2 Điều 9 Thông tư 22/2021/TT-BGDĐT quy định đánh giá kết quả học tập của học sinh cụ thể:\nĐiều 9. Đánh giá kết quả học tập của học sinh\n[...]\n2. Kết quả học tập trong từng học kì, cả năm học\nĐối với môn học đánh giá bằng nhận xét kết hợp đánh giá bằng điểm số, ĐTBmhk được sử dụng để đánh giá kết quả học tập của học sinh trong từng học kì, ĐTBmcn được sử dụng để đánh giá kết quả học tập của học sinh trong cả năm học. Kết quả học tập của học sinh trong từng học kì và cả năm học được đánh giá theo 01 (một) trong 04 (bốn) mức: Tốt, Khá, Đạt, Chưa đạt.\na) Mức Tốt:\n- Tất cả các môn học đánh giá bằng nhận xét được đánh giá mức Đạt.\n- Tất cả các môn học đánh giá bằng nhận xét kết hợp đánh giá bằng điểm số có ĐTBmhk, ĐTBmcn từ 6,5 điểm trở lên, trong đó có ít nhất 06 môn học có ĐTBmhk, ĐTBmcn đạt từ 8,0 điểm trở lên.\n[...]\nNhư vậy, việc đánh giá xếp loại kết quả học tập cả năm học của học sinh lớp 7 được thực hiện như sau:\nĐối với môn học đánh giá bằng nhận xét kết hợp đánh giá bằng điểm số, ĐTBmhk được sử dụng để đánh giá kết quả học tập của học sinh trong từng học kì, ĐTBmcn được sử dụng để đánh giá kết quả học tập của học sinh trong cả năm học. Kết quả học tập của học sinh trong từng học kì và cả năm học được đánh giá theo 01 trong 04 mức: Tốt, Khá, Đạt, Chưa đạt.\n- Mức tốt\n+ Tất cả các môn học đánh giá bằng nhận xét được đánh giá mức Đạt\n+ Tất cả các môn học đánh giá bằng nhận xét kết hợp đánh giá bằng điểm số có ĐTBmhk, ĐTBmcn từ 6,5 điểm trở lên\n+ Có ít nhất 06 môn học có ĐTBmhk, ĐTBmcn đạt từ 8,0 điểm trở lên\n- Mức Khá\n+ Tất cả các môn học đánh giá bằng nhận xét được đánh giá mức Đạt\n+ Tất cả các môn học đánh giá bằng nhận xét kết hợp đánh giá bằng điểm số có ĐTBmhk, ĐTBmcn từ 5,0 điểm trở lên\n+ Có ít nhất 06 môn học có ĐTBmhk, ĐTBmcn đạt từ 6,5 điểm trở lên.\n- Mức Đạt\n+ Có nhiều nhất 01 môn học đánh giá bằng nhận xét được đánh giá mức Chưa đạt.\n+ Có ít nhất 06 môn học đánh giá bằng nhận xét kết hợp đánh giá bằng điểm số có ĐTBmhk, ĐTBmcn từ 5,0 điểm trở lên\n+ Không có môn học nào có ĐTBmhk, ĐTBmcn dưới 3,5 điểm.\n- Mức Chưa đạt: Các trường hợp còn lại.",
+        "trich_dan": [
+            {
+                "loai_vb": "Thông tư",
+                "so_hieu": "22/2021/TT-BGDĐT",
+                "khoan": "2",
+                "dieu": "9",
+                "trich_yeu": "Thông tư 22/2021/TT-BGDĐT",
+                "noi_dung_kem_trich_dan": "Căn cứ khoản 2 Điều 9 Thông tư 22/2021/TT-BGDĐT quy định đánh giá kết quả học tập của học sinh cụ thể:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 20,
+                "id": "dieu_21",
+                "id_document": 153460,
+                "position": "Điều 21 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Xếp loại kết quả học tập",
+                "so_hieu": "04/2022/TT-BLĐTBXH",
+                "trich_yeu": "Tổ chức đào tạo trình độ trung cấp cao đẳng theo niên chế",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Lao động - Thương binh và Xã hội",
+                "don_vi": [
+                    "Bộ Lao động - Thương Binh và Xã hội",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.01395977691397668
+            },
+            {
+                "index": 31,
+                "id": "dieu_32",
+                "id_document": 153460,
+                "position": "Điều 32 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Xếp loại kết quả học tập",
+                "so_hieu": "04/2022/TT-BLĐTBXH",
+                "trich_yeu": "Tổ chức đào tạo trình độ trung cấp cao đẳng theo niên chế",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Lao động - Thương binh và Xã hội",
+                "don_vi": [
+                    "Bộ Lao động - Thương Binh và Xã hội",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.013523809523809523
+            },
+            {
+                "index": 8,
+                "id": "dieu_6_dk_1",
+                "id_document": 160588,
+                "position": "Điều 6 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Đánh giá, xếp loại và bảo lưu kết quả học tập",
+                "so_hieu": "09/2023/TT-BGDĐT",
+                "trich_yeu": "Tổ chức đào tạo bồi dưỡng và cấp chứng chỉ tiếng dân tộc thiểu số",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.012653562653562656
+            },
+            {
+                "index": 12,
+                "id": "dieu_10_dk_1",
+                "id_document": 160579,
+                "position": "Điều 10 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Đánh giá kết quả học tập theo học kỳ, năm học",
+                "so_hieu": "07/2023/TT-BGDĐT",
+                "trich_yeu": "Quy chế đào tạo trình độ cao đẳng ngành Giáo dục Mầm non",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.011990541104465156
+            },
+            {
+                "index": 22,
+                "id": "dieu_23",
+                "id_document": 114180,
+                "position": "Điều 23 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Cách tính điểm kiểm tra, điểm thi, điểm trung bình chung và xếp loại kết quả học tập",
+                "so_hieu": "117/2009/TT-BQP",
+                "trich_yeu": "177/2010/TT-BQP đào tạo trung cấp chuyên nghiệp ngành quân sự cơ sở",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Quốc phòng",
+                "don_vi": [
+                    "Bộ Quốc phòng",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.011989389920424405
+            },
+            {
+                "index": 12,
+                "id": "dieu_10_dk_1",
+                "id_document": 131028,
+                "position": "Điều 10 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Quy trình đánh giá và xếp loại kết quả đánh giá theo chuẩn hiệu trưởng",
+                "so_hieu": "14/2018/TT-BGDĐT",
+                "trich_yeu": "Quy định chuẩn hiệu trưởng cơ sở giáo dục phổ thông",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.011654879773691656
+            },
+            {
+                "index": 23,
+                "id": "dieu_21_dk_1",
+                "id_document": 131033,
+                "position": "Điều 21 / Mục 3 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tiêu chuẩn 5: Hoạt động giáo dục và kết quả giáo dục",
+                "so_hieu": "18/2018/TT-BGDĐT",
+                "trich_yeu": "Công nhận đạt chuẩn quốc gia đối với trường trung học cơ sở",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.011307884035156764
+            },
+            {
+                "index": 26,
+                "id": "dieu_24_dk_1",
+                "id_document": 124842,
+                "position": "Điều 24 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Xếp loại công tác học sinh, sinh viên",
+                "so_hieu": "17/2017/TT-BLĐTBXH",
+                "trich_yeu": "Quy chế công tác học sinh sinh viên trường trung cấp cao đẳng",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Lao động - Thương binh và Xã hội",
+                "don_vi": [
+                    "Bộ Lao động - Thương Binh và Xã hội",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.010995512035903711
+            },
+            {
+                "index": 13,
+                "id": "dieu_11_dk_1",
+                "id_document": 124842,
+                "position": "Điều 11 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Phân loại kết quả rèn luyện",
+                "so_hieu": "17/2017/TT-BLĐTBXH",
+                "trich_yeu": "Quy chế công tác học sinh sinh viên trường trung cấp cao đẳng",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Lao động - Thương binh và Xã hội",
+                "don_vi": [
+                    "Bộ Lao động - Thương Binh và Xã hội",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.010992207792207793
+            },
+            {
+                "index": 14,
+                "id": "dieu_12_dk_1",
+                "id_document": 160579,
+                "position": "Điều 12 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Xử lý kết quả học tập theo niên chế",
+                "so_hieu": "07/2023/TT-BGDĐT",
+                "trich_yeu": "Quy chế đào tạo trình độ cao đẳng ngành Giáo dục Mầm non",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.010966183574879227
+            },
+            {
+                "index": 12,
+                "id": "dieu_10_dk_1",
+                "id_document": 147704,
+                "position": "Điều 10 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Đánh giá kết quả học tập theo học kỳ, năm học",
+                "so_hieu": "08/2021/TT-BGDĐT",
+                "trich_yeu": "Quy chế đào tạo trình độ đại học",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.010889830508474576
+            },
+            {
+                "index": 20,
+                "id": "dieu_18_dk_1",
+                "id_document": 144639,
+                "position": "Điều 18 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Xếp loại rèn luyện và học tập của học viên",
+                "so_hieu": "107/2010/TT-BQP",
+                "trich_yeu": "Quy chế đào tạo cán bộ quân sự Ban chỉ huy quân sự",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Quốc phòng",
+                "don_vi": [
+                    "Bộ Quốc phòng",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.010489510489510488
+            },
+            {
+                "index": 8,
+                "id": "dieu_9",
+                "id_document": 150073,
+                "position": "Điều 9 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Đánh giá kết quả học tập của học sinh",
+                "so_hieu": "22/2021/TT-BGDĐT",
+                "trich_yeu": "Đánh giá học sinh trung học cơ sở",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.010485516115871073
+            },
+            {
+                "index": 6,
+                "id": "dieu_7",
+                "id_document": 175610,
+                "position": "Điều 7 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tiêu chuẩn 4: Đánh giá kết quả học tập",
+                "so_hieu": "04/2025/TT-BGDĐT",
+                "trich_yeu": "Kiểm định chất lượng chương trình đào tạo giáo dục đại học",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.010420393559928444
+            },
+            {
+                "index": 6,
+                "id": "dieu_7",
+                "id_document": 158514,
+                "position": "Điều 7 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Xếp loại thi đua Việc xếp loại thi đua cho học sinh, trại viên được đánh giá theo 04 mức: tốt, khá, trung bình, kém.",
+                "so_hieu": "49/2022/TT-BCA",
+                "trich_yeu": "Xếp loại thi đua khen thưởng học sinh trường giáo dưỡng",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Công an",
+                "don_vi": [
+                    "Bộ Công an",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010377768128528007
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 175024,
+                "position": "Điều 4 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tiêu chí, tiêu chuẩn kiểm định chất lượng trường trung cấp, trường cao đẳng",
+                "so_hieu": "14/2024/TT-BLĐTBXH",
+                "trich_yeu": "Về tiêu chuẩn kiểm định chất lượng giáo dục nghề nghiệp",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Lao động - Thương binh và Xã hội",
+                "don_vi": [
+                    "Bộ Lao động - Thương Binh và Xã hội",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.010357142857142856
+            },
+            {
+                "index": 22,
+                "id": "dieu_23",
+                "id_document": 96229,
+                "position": "Điều 23 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Đánh giá, công nhận kết quả học tập",
+                "so_hieu": "42/2015/TT-BLĐTBXH",
+                "trich_yeu": "Đào tạo trình độ sơ cấp",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Lao động - Thương binh và Xã hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Lao động - Thương Binh và Xã hội"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.010347376201034738
+            },
+            {
+                "index": 11,
+                "id": "dieu_12",
+                "id_document": 128739,
+                "position": "Điều 12 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Thực hiện việc xếp loại",
+                "so_hieu": "03/2018/TT-BTP",
+                "trich_yeu": "Bộ tiêu chí đánh giá hiệu quả công tác phổ biến giáo dục pháp luật",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Tư pháp",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.010323438192290653
+            },
+            {
+                "index": 67,
+                "id": "dieu_68",
+                "id_document": 113560,
+                "position": "Điều 68 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tài khoản 911 - Xác định kết quả kinh doanh",
+                "so_hieu": "133/2016/TT-BTC",
+                "trich_yeu": "Hướng dẫn chế độ kế toán doanh nghiệp nhỏ và vừa",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Tài chính",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.01032258064516129
+            },
+            {
+                "index": 95,
+                "id": "dieu_96",
+                "id_document": 66801,
+                "position": "Điều 96 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tài khoản 911 - Xác định kết quả kinh doanh",
+                "so_hieu": "200/2014/TT-BTC",
+                "trich_yeu": "Hướng dẫn Chế độ kế toán Doanh nghiệp",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Tài chính",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tài chính"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.01030737704918033
+            }
+        ]
+    },
+    {
+        "id": 18349,
+        "cau_hoi": "Trách nhiệm của cơ quan cấp giấy phép môi trường là gì?",
+        "tra_loi": "Tại Điều 48 Luật Bảo vệ môi trường 2020 có quy định ctrách nhiệm của cơ quan cấp giấy phép môi trường là:\n- Tiếp nhận, kiểm tra, thẩm định, cấp giấy phép môi trường; cấp đổi, điều chỉnh, cấp lại giấy phép môi trường theo đề nghị của chủ dự án đầu tư, cơ sở; chịu trách nhiệm về nội dung của giấy phép môi trường; quản lý, lưu giữ hồ sơ, dữ liệu về giấy phép môi trường; đình chỉ một phần hoạt động gây hậu quả nghiêm trọng hoặc có khả năng thực tế gây hậu quả nghiêm trọng đối với môi trường của dự án đầu tư, cơ sở, khu sản xuất, kinh doanh, dịch vụ tập trung, cụm công nghiệp, thu hồi giấy phép môi trường.\n- Công khai trên cổng thông tin điện tử giấy phép môi trường, trừ các thông tin thuộc bí mật nhà nước, bí mật của doanh nghiệp theo quy định của pháp luật.\n- Tổ chức kiểm tra việc thực hiện nội dung, yêu cầu về bảo vệ môi trường đối với dự án đầu tư, cơ sở, khu sản xuất, kinh doanh, dịch vụ tập trung, cụm công nghiệp theo quy định của pháp luật.\n- Tiếp nhận và xử lý kiến nghị về bảo vệ môi trường đối với nội dung quy định trong giấy phép môi trường; hướng dẫn chủ dự án đầu tư vận hành thử nghiệm công trình xử lý chất thải và khắc phục ô nhiễm, sự cố môi trường (nếu có) trong quá trình vận hành thử nghiệm.\n- Cơ quan cấp giấy phép môi trường vận hành, cập nhật, tích hợp dữ liệu về giấy phép môi trường vào hệ thống thông tin, cơ sở dữ liệu môi trường. Việc báo cáo, chia sẻ thông tin, số liệu, dữ liệu về giấy phép môi trường được thực hiện liên thông, trực tuyến trong hệ thống thông tin, cơ sở dữ liệu môi trường quốc gia.",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "72/2020/QH14",
+                "khoan": "",
+                "dieu": "48",
+                "trich_yeu": "Luật Bảo vệ môi trường 2020",
+                "noi_dung_kem_trich_dan": "Tại Điều 48 Luật Bảo vệ môi trường 2020 có quy định ctrách nhiệm của cơ quan cấp giấy phép môi trường là:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 47,
+                "id": "dieu_48",
+                "id_document": 999999999648873,
+                "position": "Điều 48 / Mục 4 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của cơ quan cấp giấy phép môi trường",
+                "so_hieu": "15/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Bảo vệ môi trường do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Tài nguyên - Môi trường",
+                "score": 0.01639344262295082
+            },
+            {
+                "index": 47,
+                "id": "dieu_48",
+                "id_document": 146609,
+                "position": "Điều 48 / Mục 4 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của cơ quan cấp giấy phép môi trường",
+                "so_hieu": "72/2020/QH14",
+                "trich_yeu": "Bảo vệ môi trường 2020 số 72/2020/QH14 mới nhất",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tài nguyên - Môi trường",
+                "score": 0.016129032258064516
+            },
+            {
+                "index": 22,
+                "id": "dieu_20_dk_1",
+                "id_document": 155657,
+                "position": "Điều 20 / Chương IV",
+                "dia_danh": "tỉnh Bắc Giang",
+                "title": "Trách nhiệm của UBND cấp huyện",
+                "so_hieu": "27/2022/QĐ-UBND",
+                "trich_yeu": "Nội dung đánh giá tác động môi trường Bắc Giang",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Bắc Giang",
+                "don_vi": [
+                    "Bắc Giang"
+                ],
+                "linh_vuc": "Tài nguyên - Môi trường",
+                "score": 0.014700704225352112
+            },
+            {
+                "index": 17,
+                "id": "dieu_18",
+                "id_document": 999999999500694,
+                "position": "Điều 18 / Mục 3 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Nguyên tắc làm việc và trách nhiệm của hội đồng thẩm định, tổ thẩm định, đoàn kiểm tra, tổ kiểm tra cấp giấy phép môi trường",
+                "so_hieu": "02/2022/TT-BTNMT",
+                "trich_yeu": "Hướng dẫn Luật Bảo vệ môi trường",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Tài nguyên và Môi trường",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tài nguyên và Môi trường"
+                ],
+                "linh_vuc": "Tài nguyên - Môi trường",
+                "score": 0.013666279519938056
+            },
+            {
+                "index": 41,
+                "id": "dieu_39_dk_1",
+                "id_document": 72270,
+                "position": "Điều 39 / Chương V",
+                "dia_danh": "thành phố Hồ Chí Minh",
+                "title": "Sở Tài nguyên và Môi trường",
+                "so_hieu": "04/2015/QĐ-UBND",
+                "trich_yeu": "Quản lý hoạt động khoáng sản bảo vệ khoáng sản chưa khai thác Hồ Chí Minh",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND thành phố Hồ Chí Minh",
+                "don_vi": [
+                    "TP. Hồ Chí Minh"
+                ],
+                "linh_vuc": "Tài nguyên - Môi trường",
+                "score": 0.013113006396588484
+            },
+            {
+                "index": 13,
+                "id": "dieu_11_dk_1",
+                "id_document": 172154,
+                "position": "Điều 11 / Chương III",
+                "dia_danh": "tỉnh Yên Bái",
+                "title": "Trách nhiệm của cơ quan tài nguyên và môi trường, cơ quan đăng ký đất đai, Ủy ban nhân dân cấp huyện và Ủy ban nhân dân cấp xã.",
+                "so_hieu": "19/2024/QĐ-UBND",
+                "trich_yeu": "Quy định về Quy trình luân chuyển hồ sơ xác định nghĩa vụ tài chính về đất đai trên địa bàn tỉnh Yên Bái",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Yên Bái",
+                "don_vi": [
+                    "Yên Bái"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.012347826086956521
+            },
+            {
+                "index": 36,
+                "id": "dieu_2_2_dk_1",
+                "id_document": 38916,
+                "position": "Điều 2 / Chương IV",
+                "dia_danh": "tỉnh Bến Tre",
+                "title": "(Tổ chức, cá nhân) có trách nhiệm thực hiện các quy định trong giấy phép đã cấp và phần điều chỉnh (nếu có).",
+                "so_hieu": "03/2012/QĐ-UBND",
+                "trich_yeu": "Về Quy định việc cấp giấy phép đối với hoạt động có liên quan đến đê điều trên địa bàn tỉnh Bến Tre do Ủy ban nhân dân tỉnh Bến Tre ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Bến Tre",
+                "don_vi": [
+                    "Bến Tre"
+                ],
+                "linh_vuc": "Lĩnh vực khác",
+                "score": 0.012246173070915339
+            },
+            {
+                "index": 12,
+                "id": "dieu_10_dk_1",
+                "id_document": 130594,
+                "position": "Điều 10 / Chương III",
+                "dia_danh": "thành phố Hồ Chí Minh",
+                "title": "Trách nhiệm của cơ quan cấp giấy phép",
+                "so_hieu": "23/2018/QĐ-UBND",
+                "trich_yeu": "Hạn chế và cấp phép ô tô chở hàng lưu thông trong nội đô Hồ Chí Minh",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND thành phố Hồ Chí Minh",
+                "don_vi": [
+                    "TP. Hồ Chí Minh"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.012150055991041433
+            },
+            {
+                "index": 34,
+                "id": "dieu_35",
+                "id_document": 999999999668831,
+                "position": "Điều 35 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "[83] Cơ quan cấp giấy thuộc Bộ Nông nghiệp và Môi trường",
+                "so_hieu": "36/VBHN-BNNMT",
+                "trich_yeu": "Năm 2025 hợp nhất Thông tư quy định về cơ sở, vùng an toàn dịch bệnh động vật do Bộ trưởng Bộ Nông nghiệp và Môi trường ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Nông nghiệp và Môi trường",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Nông nghiệp và Môi trường"
+                ],
+                "linh_vuc": "Lĩnh vực khác",
+                "score": 0.011946386946386946
+            },
+            {
+                "index": 38,
+                "id": "dieu_36_dk_1",
+                "id_document": 999999999561748,
+                "position": "Điều 36 / Chương VII",
+                "dia_danh": "tỉnh Hà Nam",
+                "title": "Trách nhiệm của Ủy ban nhân dân cấp huyện",
+                "so_hieu": "19/2023/QĐ-UBND",
+                "trich_yeu": "Bảo vệ môi trường Hà Nam",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Hà Nam",
+                "don_vi": [
+                    "Hà Nam"
+                ],
+                "linh_vuc": "Tài nguyên - Môi trường",
+                "score": 0.010829196543482258
+            },
+            {
+                "index": 40,
+                "id": "dieu_41",
+                "id_document": 999999999648873,
+                "position": "Điều 41 / Mục 4 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Thẩm quyền cấp giấy phép môi trường",
+                "so_hieu": "15/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Bảo vệ môi trường do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Tài nguyên - Môi trường",
+                "score": 0.010793082886106142
+            },
+            {
+                "index": 19,
+                "id": "dieu_17_dk_1",
+                "id_document": 104240,
+                "position": "Điều 17 / Chương IV",
+                "dia_danh": "tỉnh Quảng Trị",
+                "title": "Trách nhiệm các cơ quan cấp Giấy phép",
+                "so_hieu": "04/2016/QĐ-UBND",
+                "trich_yeu": "Sử dụng tạm thời hè phố không mục đích giao thông Đông Hà Quảng Trị 2016",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Quảng Trị",
+                "don_vi": [
+                    "Quảng Trị"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.010518028656904424
+            },
+            {
+                "index": 33,
+                "id": "dieu_31_dk_1",
+                "id_document": 127632,
+                "position": "Điều 31 / Chương IV",
+                "dia_danh": "tỉnh Ninh Thuận",
+                "title": "Trách nhiệm của các tổ chức, cá nhân được cấp giấy phép hoạt động khoáng sản thuộc thẩm quyền của Bộ Tài nguyên và Môi trường",
+                "so_hieu": "16/2018/QĐ-UBND",
+                "trich_yeu": "Quy định quản lý hoạt động khoáng sản Ninh Thuận",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Ninh Thuận",
+                "don_vi": [
+                    "Ninh Thuận"
+                ],
+                "linh_vuc": "Tài nguyên - Môi trường",
+                "score": 0.010462505612932195
+            },
+            {
+                "index": 23,
+                "id": "dieu_22_dk_1",
+                "id_document": 160391,
+                "position": "Điều 22 / Chương V",
+                "dia_danh": "tỉnh Hà Tĩnh",
+                "title": "Trách nhiệm của cơ quan cấp Giấy phép lưu hành xe Trách nhiệm của cơ quan cấp Giấy phép lưu hành xe trên đường bộ theo quy định tại Điều 23 Thông tư 46/2015/TT-BGTVT ngày 07/9/2015 của Bộ trưởng Bộ Giao thông, vận tải.",
+                "so_hieu": "25/2023/QĐ-UBND",
+                "trich_yeu": "Quy định về quản lý, bảo trì và bảo vệ kết cấu hạ tầng giao thông đường bộ địa phương trên địa bàn tỉnh Hà Tĩnh",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Hà Tĩnh",
+                "don_vi": [
+                    "Hà Tĩnh"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.010412196499153021
+            },
+            {
+                "index": 40,
+                "id": "dieu_41",
+                "id_document": 146609,
+                "position": "Điều 41 / Mục 4 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Thẩm quyền cấp giấy phép môi trường",
+                "so_hieu": "72/2020/QH14",
+                "trich_yeu": "Bảo vệ môi trường 2020 số 72/2020/QH14 mới nhất",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tài nguyên - Môi trường",
+                "score": 0.010231232182451696
+            },
+            {
+                "index": 12,
+                "id": "dieu_10_dk_1",
+                "id_document": 90645,
+                "position": "Điều 10",
+                "dia_danh": "thành phố Hà Nội",
+                "title": "Trách nhiệm của các cơ quan có liên quan.",
+                "so_hieu": "228/2006/QĐ-UBND",
+                "trich_yeu": "Ban hành Quy định về xã hội hóa đầu tư phát triển, quản lý kinh doanh khai thác hệ thống cung cấp nước sạch trên địa bàn Hà Nội do Ủy ban nhân dân thành phố Hà Nội ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND thành phố Hà Nội",
+                "don_vi": [
+                    "Hà Nội"
+                ],
+                "linh_vuc": "Đầu tư",
+                "score": 0.010210526315789474
+            },
+            {
+                "index": 8,
+                "id": "dieu_9",
+                "id_document": 999999999543919,
+                "position": "Mục 1 / Phần I",
+                "dia_danh": "quận Tân Phú",
+                "title": "Bộ Tài nguyên và Môi trường cấp giấy phép môi trường đối với các đối tượng sau đây, trừ trường hợp quy định tại khoản 2 Điều 41 Luật Bảo vệ môi trường: a) Đối tượng quy định tại Điều 39 Luật Bảo vệ môi trường đã được Bộ Tài nguyên và Môi trường phê duyệt kết quả thẩm định báo cáo đánh giá tác động môi trường; b) Đối tượng quy định tại Điều 39 Luật Luật Bảo vệ môi trường nằm trên địa bàn từ 02 đơn vị hành chính cấp tỉnh trở lên hoặc nằm trên vùng biển chưa xác định trách nhiệm quản lý hành chính của Ủy ban nhân dân cấp tỉnh; cơ sở có nhập khẩu phế liệu từ nước ngoài làm nguyên liệu sản xuất, cơ sở thực hiện dịch vụ xử lý chất thải nguy hại.",
+                "so_hieu": "509/UBND-NĐ",
+                "trich_yeu": "2022 cấp đổi điều chỉnh giấy phép môi trường Tân Phú Hồ Chí Minh",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND quận Tân Phú",
+                "don_vi": [
+                    "TP. Hồ Chí Minh"
+                ],
+                "linh_vuc": "Tài nguyên - Môi trường",
+                "score": 0.009986582327007859
+            },
+            {
+                "index": 41,
+                "id": "dieu_42",
+                "id_document": 999999999648873,
+                "position": "Điều 42 / Mục 4 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Căn cứ và thời điểm cấp giấy phép môi trường",
+                "so_hieu": "15/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Bảo vệ môi trường do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Tài nguyên - Môi trường",
+                "score": 0.009926854754440962
+            },
+            {
+                "index": 12,
+                "id": "dieu_13",
+                "id_document": 999999999567805,
+                "position": "Điều 13 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của cơ quan cấp giấy phép hoạt động điện lực",
+                "so_hieu": "12/VBHN-BCT",
+                "trich_yeu": "Năm 2023 hợp nhất Thông tư quy định về trình tự, thủ tục cấp giấy phép hoạt động điện lực do Bộ trưởng Bộ Công Thương ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Công thương",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công thương"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.009836601307189542
+            },
+            {
+                "index": 23,
+                "id": "dieu_24",
+                "id_document": 177348,
+                "position": "Điều 24 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của cơ quan cấp giấy phép hoạt động điện lực",
+                "so_hieu": "61/2025/NĐ-CP",
+                "trich_yeu": "Hướng dẫn Luật Điện lực về giấy phép hoạt động điện lực",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Công thương",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.009768009768009768
+            }
+        ]
+    },
+    {
+        "id": 34333,
+        "cau_hoi": "Giáo viên THPT có bắt buộc phải có bằng đại học không?",
+        "tra_loi": "Tại Điều 72 Luật Giáo dục 2019 có quy định về trình độ chuẩn được đào tạo của giáo viên như sau:\nĐiều 72. Trình độ chuẩn được đào tạo của nhà giáo\n1. Trình độ chuẩn được đào tạo của nhà giáo được quy định như sau:\na) Có bằng tốt nghiệp cao đẳng sư phạm trở lên đối với giáo viên mầm non;\nb) Có bằng cử nhân thuộc ngành đào tạo giáo viên trở lên đối với giáo viên tiểu học, trung học cơ sở, trung học phổ thông.\nTrường hợp môn học chưa đủ giáo viên có bằng cử nhân thuộc ngành đào tạo giáo viên thì phải có bằng cử nhân chuyên ngành phù hợp và có chứng chỉ bồi dưỡng nghiệp vụ sư phạm;\nc) Có bằng thạc sĩ đối với nhà giáo giảng dạy trình độ đại học; có bằng tiến sĩ đối với nhà giáo giảng dạy, hướng dẫn luận văn thạc sĩ, luận án tiến sĩ;\nd) Trình độ chuẩn được đào tạo của nhà giáo giảng dạy trong cơ sở giáo dục nghề nghiệp thực hiện theo quy định của Luật Giáo dục nghề nghiệp.\n2. Chính phủ quy định lộ trình thực hiện nâng trình độ chuẩn được đào tạo của giáo viên mầm non, tiểu học, trung học cơ sở quy định tại điểm a và điểm b khoản 1 Điều này. Bộ trưởng Bộ Giáo dục và Đào tạo, Bộ trưởng Bộ Lao động - Thương binh và Xã hội, trong phạm vi nhiệm vụ, quyền hạn của mình, quy định việc sử dụng nhà giáo trong trường hợp không đáp ứng quy định tại khoản 1 Điều này.\nNhư vậy, giáo viên THPT bắt buộc phải có bằng đại học thuộc ngành đào tạo.",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "43/2019/QH14",
+                "khoan": "",
+                "dieu": "72",
+                "trich_yeu": "Luật Giáo dục 2019",
+                "noi_dung_kem_trich_dan": "Tại Điều 72 Luật Giáo dục 2019 có quy định về trình độ chuẩn được đào tạo của giáo viên như sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 10,
+                "id": "dieu_8_dk_1",
+                "id_document": 174720,
+                "position": "Điều 8 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tiêu chuẩn 2: Cán bộ quản lý, giáo viên, nhân viên và học sinh",
+                "so_hieu": "11/VBHN-BGDĐT",
+                "trich_yeu": "Năm 2024 hợp nhất Thông tư quy định về kiểm định chất lượng giáo dục và công nhận đạt chuẩn quốc gia đối với trường tiểu học do Bộ trưởng Bộ Giáo dục và Đào tạo ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.014230769230769233
+            },
+            {
+                "index": 18,
+                "id": "dieu_19",
+                "id_document": 1593,
+                "position": "Mục 1 / Phần VII",
+                "dia_danh": "Trung ương",
+                "title": "Giáo viên thể dục thể thao chuyên trách phải được qua các lớp đào tạo chính quy hoặc đã qua các lớp đào tạo ngắn hạn do Bộ Giáo dục, Bộ Đại học và Trung học chuyên nghiệp tổ chức, có giấy chứng nhận chính thức và được bố trí trực tiếp giảng dạy thể dục thể thao mới được hưởng các chế độ quy định trong thông tư này. Giáo viên nửa chuyên trách thể dục thể thao là những giáo viên dạy văn hoá (sinh vật, ngoại ngữ, kỹ thuật,...) đã qua được lớp tập huấn bồi dưỡng nghiệp vụ, phải được Phòng Giáo dục (nếu là trường trực thuộc huyện) hoặc Ty, Sở Giáo dục (nếu là trường thuộc Ty, Sở) chính thức ra quyết định và được các Phòng, Sở, Ty, Thể dục thể thao công nhận. Tổng số giờ giảng dạy thể dục thể thao phải chiếm 1/2 tổng số giờ giảng dạy theo quy định cho mỗi giáo viên của cấp đó.",
+                "so_hieu": "32/TTLB",
+                "trich_yeu": "Quy định chế độ trang phục, chế độ bồi dướng đối với giáo viên chuyên trách và nửa chuyên trách thể dục thể thao",
+                "loai_van_ban": "Thông tư liên tịch",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục, Bộ Đại học và Trung học chuyên nghiệp",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Văn hóa - Thể thao và Du lịch",
+                    "Bộ Giáo dục và Đào tạo"
+                ],
+                "linh_vuc": null,
+                "score": 0.014018334606569902
+            },
+            {
+                "index": 9,
+                "id": "dieu_10",
+                "id_document": 11453,
+                "position": "Điều 10",
+                "dia_danh": "Trung ương",
+                "title": "",
+                "so_hieu": "338/HĐBT",
+                "trich_yeu": "Về thi hành Luật phổ cập giáo dục tiểu học",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Hội đồng Bộ trưởng",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": null,
+                "score": 0.01395977691397668
+            },
+            {
+                "index": 20,
+                "id": "dieu_18_dk_1",
+                "id_document": 999999999165648,
+                "position": "Điều 18 / Chương IV",
+                "dia_danh": "tỉnh Bình Thuận",
+                "title": "Giáo viên.",
+                "so_hieu": "2682/QĐ-UBND",
+                "trich_yeu": "Năm 2011 Quy chế tổ chức và hoạt động của Trung tâm học tập cộng đồng tại các xã, phường, thị trấn trên địa bàn tỉnh Bình Thuận",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Bình Thuận",
+                "don_vi": [
+                    "Bình Thuận"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.013822393822393822
+            },
+            {
+                "index": 17,
+                "id": "dieu_15_dk_1",
+                "id_document": 999999999145807,
+                "position": "Điều 15 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Giáo viên của Trường gồm giảng viên cơ hữu, giảng viên kiêm chức và giảng viên thỉnh giảng là những người có phẩm chất chính trị vững vàng, có tư cách đạo đức, có trình độ chuyên môn bậc đại học trở lên, có kinh nghiệm thực tiễn, có kỹ năng và phương pháp sư phạm đáp ứng yêu cầu đào tạo, bồi dưỡng. Giảng viên cơ hữu là giảng viên thuộc biên chế sự nghiệp của Trường, thực hiện nhiệm vụ của giảng viên chuyên nghiệp, được hưởng các quyền lợi theo quy định của pháp luật và quy chế quản lý giảng viên. Giảng viên kiêm chức là những cán bộ, công chức, viên chức có trình độ chuyên môn cao trong và ngoài ngành Tài chính được Giám đốc Trường quyết định giao nhiệm vụ kiêm nhiệm giảng dạy. Giảng viên kiêm chức có nhiệm vụ tham gia giảng dạy theo kế hoạch hàng năm; xây dựng chương trình, viết giáo trình, quản lý học tập của học viên; được hưởng các chế độ và quyền lợi theo quy định của pháp luật và quy chế quản lý giảng viên kiêm chức của Trường.",
+                "so_hieu": "999/QĐ-BTC",
+                "trich_yeu": "Năm 2011 về Quy chế tổ chức và hoạt động của Trường Bồi dưỡng cán bộ tài chính do Bộ trưởng Bộ Tài chính ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Tài chính",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tài chính"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.01297945205479452
+            },
+            {
+                "index": 13,
+                "id": "dieu_14",
+                "id_document": 999999999474870,
+                "position": "Mục 1 / Phần IV",
+                "dia_danh": "Trung ương",
+                "title": "Yêu cầu: a) Là cơ sở giáo dục đại học công lập hoặc cơ sở giáo dục đại học tư thục Việt Nam; b) Có nhu cầu đào tạo giảng viên ở trình độ tiến sĩ (và thạc sĩ trong lĩnh vực nghệ thuật và nhóm ngành thể dục, thể thao) hoặc nhu cầu tuyển dụng giảng viên có trình độ tiến sĩ.",
+                "so_hieu": "1943/BGDĐT-GDĐH",
+                "trich_yeu": "2021 hướng dẫn triển khai đào tạo trình độ tiến sĩ bằng ngân sách",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Giáo dục và Đào tạo"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.012146555157307844
+            },
+            {
+                "index": 25,
+                "id": "dieu_23_dk_1",
+                "id_document": 159100,
+                "position": "Điều 23 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Giáo viên Trình độ chuẩn được đào tạo của giáo viên: có bằng cử nhân trở lên ngành Giáo dục đặc biệt hoặc đáp ứng chuẩn trình độ đào tạo giáo viên mầm non, phổ thông cùng với chứng chỉ nghiệp vụ sư phạm về giáo dục hòa nhập hoặc chứng chỉ nghiệp vụ giáo dục đặc biệt theo quy định của Bộ Giáo dục và Đào tạo.",
+                "so_hieu": "20/2022/TT-BGDĐT",
+                "trich_yeu": "Quy chế tổ chức Trung tâm hỗ trợ phát triển giáo dục hòa nhập",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.011722488038277511
+            },
+            {
+                "index": 40,
+                "id": "dieu_41",
+                "id_document": 8089,
+                "position": "Mục 2 / Phần VI",
+                "dia_danh": "Trung ương",
+                "title": "(*): Cho sở Giáo dục - Đào tạo (**): Cho Trường đại học. (***): Tiểu học (Trung học phổ thông) (****): Thay bằng: \"Môn.... lớp....\" (đối với bậc THPT).",
+                "so_hieu": "24/1997/TT-BGD",
+                "trich_yeu": "Hướng dẫn một số điều của quy chế thi chọn học sinh giỏi Quốc gia các bậc học phổ thông.",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Giáo dục và Đào tạo"
+                ],
+                "linh_vuc": null,
+                "score": 0.011707595659623073
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 137459,
+                "position": "Điều 1",
+                "dia_danh": "Trung ương",
+                "title": "Sửa đổi, bổ sung một số điều của Luật Giáo dục đại học",
+                "so_hieu": "34/2018/QH14",
+                "trich_yeu": "Giáo dục đại học sửa đổi 2018",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.011660714285714285
+            },
+            {
+                "index": 10,
+                "id": "dieu_8_dk_1",
+                "id_document": 131043,
+                "position": "Điều 8 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tiêu chuẩn 2: Cán bộ quản lý, giáo viên, nhân viên và học sinh",
+                "so_hieu": "17/2018/TT-BGDĐT",
+                "trich_yeu": "Kiểm định chất lượng giáo dục và công nhận đạt chuẩn trường tiểu học",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.0115608501421416
+            },
+            {
+                "index": 5,
+                "id": "dieu_5",
+                "id_document": 58514,
+                "position": "Điều 5",
+                "dia_danh": "tỉnh Nghệ An",
+                "title": "Về giáo viên.",
+                "so_hieu": "41/2003/QĐ-UB",
+                "trich_yeu": "Về việc ban hành Quy định về tổ chức và hoạt động trường THPT dân lập trên địa bàn tỉnh Nghệ An",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Nghệ An",
+                "don_vi": [
+                    "Nghệ An"
+                ],
+                "linh_vuc": null,
+                "score": 0.011544011544011544
+            },
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 999999999573709,
+                "position": "Điều 5 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Giáo viên trung học phổ thông hạng I - Mã số V.07.05.13",
+                "so_hieu": "11/VBHN-BGDĐT",
+                "trich_yeu": "Năm 2023 hợp nhất Thông tư quy định mã số, tiêu chuẩn chức danh nghề nghiệp và bổ nhiệm, xếp lương viên chức giảng dạy trong các trường trung học phổ thông công lập do Bộ trưởng Bộ Giáo dục và Đào tạo ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Giáo dục và Đào tạo"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011416740609287193
+            },
+            {
+                "index": 10,
+                "id": "dieu_8_dk_1",
+                "id_document": 999999999489196,
+                "position": "Điều 8 / Chương III",
+                "dia_danh": "tỉnh Thừa Thiên Huế",
+                "title": "Đối tượng, tiêu chuẩn và điều kiện tiếp nhận",
+                "so_hieu": "2100/QĐ-UBND",
+                "trich_yeu": "2021 tuyển chọn giáo viên Trường Quốc Học Huế tỉnh Thừa Thiên Huế",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Thừa Thiên Huế",
+                "don_vi": [
+                    "Thừa Thiên Huế"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.011399787910922589
+            },
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 147476,
+                "position": "Điều 5 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Giáo viên trung học phổ thông hạng I - Mã số V.07.05.13",
+                "so_hieu": "04/2021/TT-BGDĐT",
+                "trich_yeu": "Mã số viên chức giảng dạy trong trường trung học phổ thông công lập",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.010889728615596015
+            },
+            {
+                "index": 53,
+                "id": "dieu_54",
+                "id_document": 27706,
+                "position": "Điều 54 / Chương VIII",
+                "dia_danh": "Trung ương",
+                "title": "Giảng viên",
+                "so_hieu": "08/2012/QH13",
+                "trich_yeu": "Giáo dục đại học 2012",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Giáo dục và Đào tạo"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.010733590733590733
+            },
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 153174,
+                "position": "Điều 5",
+                "dia_danh": "Trung ương",
+                "title": "Quy định giảng viên trong xác định chỉ tiêu tuyển sinh",
+                "so_hieu": "03/2022/TT-BGDĐT",
+                "trich_yeu": "Xác định chỉ tiêu tuyển sinh đại học ngành Giáo dục Mầm non",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.010458839406207825
+            },
+            {
+                "index": 5,
+                "id": "dieu_3_1",
+                "id_document": 4286,
+                "position": "Điều 3 / Chương I",
+                "dia_danh": "tỉnh Lâm Đồng",
+                "title": "GDQP là môn học bắc buộc đối với tất cả học viên đào tạo và bồi dưỡng trong các trường Chính trị và đoàn thể, là yêu cầu không thể thiếu trong chương trình ở các Trường PTTH, dạy nghề, trung học chuyên nghiệp, cao đẳng, đại học, kể cả quốc lập , dân lập và các loại ngành đào tạo khác.",
+                "so_hieu": "109/1999/QĐ-UB",
+                "trich_yeu": "Về việc ban hành Qui chế hoạt động của Hội đồng giáo dục quốc phòng tỉnh Lâm Đồng",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Lâm Đồng",
+                "don_vi": [
+                    "Lâm Đồng"
+                ],
+                "linh_vuc": null,
+                "score": 0.010414593698175788
+            },
+            {
+                "index": 19,
+                "id": "dieu_18_dk_1",
+                "id_document": 16908,
+                "position": "Điều 18",
+                "dia_danh": "Trung ương",
+                "title": "Giảng viên Giảng viên bao gồm những người thuộc biên chế của Trường làm công tác giảng dạy và những cán bộ kinh tế - kỹ thuật, cán bộ quản lý làm việc trong và ngoài Trường tham gia giảng dạy theo chế độ kiêm nhiệm, có trình độ chuyên môn bậc đại học trở lên, có năng lực sư phạm, đạt tiêu chuẩn chuyên môn theo quy định của Bộ Giáo dục và Đào tạo, có khả năng giảng dạy lý thuyết và thực hành các môn học bậc cao đẳng và thấp hơn.",
+                "so_hieu": "41/2005/QĐ-BCN",
+                "trich_yeu": "Phê duyệt Quy chế Tổ chức và Hoạt động của Trường Cao đẳng Công nghiệp Sao Đỏ do Bộ trưởng Bộ Công nghiệp ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Công nghiệp",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công thương"
+                ],
+                "linh_vuc": null,
+                "score": 0.010395189003436426
+            },
+            {
+                "index": 24,
+                "id": "dieu_23_dk_1",
+                "id_document": 999999999275502,
+                "position": "Điều 23 / Chương VI",
+                "dia_danh": "tỉnh Hà Tĩnh",
+                "title": "Tiêu chuẩn của giảng viên",
+                "so_hieu": "10/2012/QĐ-UBND",
+                "trich_yeu": "Ban hành Quy chế tổ chức và hoạt động của Trường Đại học Hà Tĩnh",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Hà Tĩnh",
+                "don_vi": [
+                    "Hà Tĩnh"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.010377254121031087
+            },
+            {
+                "index": 5,
+                "id": "dieu_3_dk_1",
+                "id_document": 999999999366588,
+                "position": "Điều 3 / Chương I",
+                "dia_danh": "tỉnh Bắc Ninh",
+                "title": "Nguyên tắc tuyển, chọn giáo viên",
+                "so_hieu": "369/QĐ-UBND",
+                "trich_yeu": "2017 Quy chế tuyển chọn giáo viên Trường Chuyên Bắc Ninh",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Bắc Ninh",
+                "don_vi": [
+                    "Bắc Ninh"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.010272727272727274
+            }
+        ]
+    },
+    {
+        "id": 26236,
+        "cau_hoi": "Các công tác của Viện kiểm sát nhân dân như thế nào?",
+        "tra_loi": "Căn cứ Điều 6 Luật Tổ chức Viện kiểm sát nhân dân 2014 quy định các công tác của Viện kiểm sát nhân dân như sau:\n[1]. Viện kiểm sát nhân dân thực hiện chức năng thực hành quyền công tố bằng các công tác sau đây:\n- Thực hành quyền công tố trong việc giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố;\n- Thực hành quyền công tố trong giai đoạn khởi tố, điều tra vụ án hình sự;\n- Thực hành quyền công tố trong giai đoạn truy tố tội phạm;\n- Thực hành quyền công tố trong giai đoạn xét xử vụ án hình sự;\n- Điều tra một số loại tội phạm;\n- Thực hành quyền công tố trong hoạt động tương trợ tư pháp về hình sự.\n[2]. Viện kiểm sát nhân dân thực hiện chức năng kiểm sát hoạt động tư pháp bằng các công tác sau đây:\n- Kiểm sát việc tiếp nhận, giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố;\n- Kiểm sát việc khởi tố, điều tra vụ án hình sự;\n- Kiểm sát việc tuân theo pháp luật của người tham gia tố tụng trong giai đoạn truy tố;\n- Kiểm sát việc xét xử vụ án hình sự;\n- Kiểm sát việc tạm giữ, tạm giam, thi hành án hình sự;\n- Kiểm sát việc giải quyết các vụ án hành chính, vụ việc dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động và những việc khác theo quy định của pháp luật;\n- Kiểm sát việc thi hành án dân sự, thi hành án hành chính;\n- Kiểm sát việc giải quyết khiếu nại, tố cáo trong hoạt động tư pháp của các cơ quan có thẩm quyền theo quy định của pháp luật; giải quyết khiếu nại, tố cáo trong hoạt động tư pháp thuộc thẩm quyền;\n- Kiểm sát hoạt động tương trợ tư pháp.\n[3]. Các công tác khác của Viện kiểm sát nhân dân gồm có:\n- Thống kê tội phạm; xây dựng pháp luật; phổ biến, giáo dục pháp luật;\n- Đào tạo, bồi dưỡng; nghiên cứu khoa học; hợp tác quốc tế và các công tác khác để xây dựng Viện kiểm sát nhân dân.",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "63/2014/QH13",
+                "khoan": "",
+                "dieu": "6",
+                "trich_yeu": "Luật Tổ chức Viện kiểm sát nhân dân 2014",
+                "noi_dung_kem_trich_dan": "Căn cứ Điều 6 Luật Tổ chức Viện kiểm sát nhân dân 2014 quy định các công tác của Viện kiểm sát nhân dân như sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 8,
+                "id": "dieu_9",
+                "id_document": 999999999337870,
+                "position": "Mục 2 / Phần II",
+                "dia_danh": "Trung ương",
+                "title": "Các biện pháp cụ thể Để thực hiện tốt công tác kiểm sát việc giải quyết các vụ án hành chính, vụ việc kinh doanh thương mại, lao động và những việc khác theo quy định của pháp luật theo, Viện kiểm sát nhân dân các cấp cần chủ động đề ra các biện pháp cụ thể. Kiểm sát toàn diện các hoạt động tư pháp bằng hình thức mở sổ theo dõi và ghi chép kịp thời, đầy đủ, đúng cột mục các hoạt động của Tòa án từ khi thụ lý vụ án đến khi vụ án đã được giải quyết xong ở từng cấp. Đặc biệt chú trọng việc mở sổ theo dõi các hoạt động tố tụng của từng vụ án hành chính, vụ việc kinh doanh thương mại, lao động và những việc khác theo quy định của pháp luật bảo đảm nắm bắt kịp thời, chính xác: - Việc tiếp nhận đơn khởi kiện của đương sự gửi đến Tòa án; - Số vụ, việc Tòa án trả lại đơn khởi kiện của đương sự; Lý do trả lại đơn khởi kiện; - Số vụ, việc Tòa án không thụ lý nhưng không trả lại đơn khởi kiện; - Số vụ, việc Tòa án ra quyết định tạm đình chỉ giải quyết vụ án; Thời gian tiếp tục việc giải quyết vụ án; - Số vụ, việc Tòa án ra quyết định đình chỉ giải quyết vụ án; Căn cứ pháp luật đình chỉ; - Số vụ, việc Tòa án ra quyết định áp dụng hoặc không áp dụng biện pháp khẩn cấp tạm thời; Thời gian ra quyết định áp dụng và thời gian áp dụng biện pháp thay đổi biện pháp đã áp dụng; - Số vụ, việc đã thụ lý nhưng Tòa án để quá hạn luật định chưa giải quyết; thời hạn quá hạn của từng vụ án; - Số việc Tòa án thụ lý, giải quyết yêu cầu Phá sản. Số việc và thời gian Tòa án để quá hạn luật định; - Số vụ, việc Toà án thụ lý, tạm đình chỉ, đình chỉ, giải quyết việc xem xét quyết định áp dụng các biện pháp xử lý hành chính tại Toà án; - Số kiến nghị của Viện kiểm sát về những vi phạm của Tòa án trong quá trình giải quyết vụ án đối với từng vụ án hành chính, vụ việc kinh doanh thương mại, lao động và những việc khác theo quy định của pháp luật. - Số bản án, quyết định bị Viện kiểm sát kháng nghị phúc thẩm, giám đốc thẩm hoặc tái thẩm theo thẩm quyền; - Số vụ Viện kiểm sát ra quyết định rút kháng nghị hoặc bị Viện kiểm sát cấp trên ra quyết định rút kháng nghị; - Số vụ án do Viện kiểm sát kháng nghị, Tòa án xét xử không chấp nhận kháng nghị của Viện kiểm sát; - Số vụ án Viện kiểm sát có văn bản đề nghị Viện kiểm sát cấp trên kháng nghị theo thẩm quyền; - Số vụ án Viện kiểm sát có văn bản đề nghị Viện kiểm sát cấp trên kháng nghị do chậm phát hiện có vi phạm sau khi xét xử; - Số vụ án Viện kiểm sát phối hợp với Tòa án tổ chức phiên tòa rút kinh nghiệm; Tập hợp và báo cáo định kỳ hàng tháng gửi đến Viện kiểm sát nhân dân cấp trên trực tiếp để tổng hợp, phân loại, thông báo rút kinh nghiệm chung và thực hiện quyền kiến nghị đối với Tòa án.",
+                "so_hieu": "10/HD-VKSTC",
+                "trich_yeu": "Kiểm sát việc giải quyết vụ án hành chính vụ việc kinh doanh thương mại 2017",
+                "loai_van_ban": "Hướng dẫn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Viện kiểm sát nhân dân tối cao",
+                "don_vi": [
+                    "Trung ương",
+                    "Viện kiểm sát nhân dân tối cao"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.01357370095440085
+            },
+            {
+                "index": 5,
+                "id": "dieu_6",
+                "id_document": 999999999673902,
+                "position": "Điều 6 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Các công tác của Viện kiểm sát nhân dân",
+                "so_hieu": "110/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Tổ chức Viện kiểm sát nhân dân do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.013407494145199064
+            },
+            {
+                "index": 5,
+                "id": "dieu_6",
+                "id_document": 43951,
+                "position": "Điều 6 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Các công tác của Viện kiểm sát nhân dân",
+                "so_hieu": "63/2014/QH13",
+                "trich_yeu": "Tổ chức Viện kiểm sát nhân dân 2014",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Viện kiểm sát nhân dân tối cao"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012877419354838708
+            },
+            {
+                "index": 19,
+                "id": "dieu_17_dk_1",
+                "id_document": 999999999613797,
+                "position": "Điều 17 / Mục 1 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Các loại chương trình công tác",
+                "so_hieu": "185/QĐ-VKSTC",
+                "trich_yeu": "Năm 2024 về \"Quy chế tổ chức và hoạt động của Thanh tra Viện kiểm sát nhân dân tối cao\"",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Viện kiểm sát nhân dân tối cao",
+                "don_vi": [
+                    "Trung ương",
+                    "Viện kiểm sát nhân dân tối cao"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.01264957264957265
+            },
+            {
+                "index": 33,
+                "id": "dieu_31_dk_1",
+                "id_document": 999999999619909,
+                "position": "Điều 31 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Quan hệ công tác",
+                "so_hieu": "16/QĐ-VKSTC",
+                "trich_yeu": "2024 Quy chế kiểm sát việc Tòa án quyết định áp dụng xử lý hành chính",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Viện kiểm sát nhân dân tối cao",
+                "don_vi": [
+                    "Trung ương",
+                    "Viện kiểm sát nhân dân tối cao"
+                ],
+                "linh_vuc": "Vi phạm hành chính",
+                "score": 0.01215686274509804
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 999999999673902,
+                "position": "Điều 4 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Chức năng kiểm sát hoạt động tư pháp của Viện kiểm sát nhân dân",
+                "so_hieu": "110/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Tổ chức Viện kiểm sát nhân dân do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012003058103975535
+            },
+            {
+                "index": 65,
+                "id": "dieu_66",
+                "id_document": 999999999673902,
+                "position": "Điều 66 / Mục 2 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Viện trưởng Viện kiểm sát nhân dân cấp tỉnh",
+                "so_hieu": "110/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Tổ chức Viện kiểm sát nhân dân do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012002734107997265
+            },
+            {
+                "index": 27,
+                "id": "dieu_28",
+                "id_document": 999999999673902,
+                "position": "Điều 28 / Mục 7 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát thi hành án dân sự, thi hành án hành chính[9]",
+                "so_hieu": "110/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Tổ chức Viện kiểm sát nhân dân do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.01139558232931727
+            },
+            {
+                "index": 9,
+                "id": "dieu_7_dk_1",
+                "id_document": 999999999183119,
+                "position": "Điều 7 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Kiểm tra viên. Trong phạm vi công tác được giao, kiểm tra viên có nhiệm vụ, quyền hạn sau:",
+                "so_hieu": "21/2005/QĐ-VKSTC-V7",
+                "trich_yeu": "Về Quy chế tổ chức và hoạt động của Vụ khiếu tố do Viện trưởng Viện kiểm sát nhân dân tối cao ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Viện kiểm sát nhân dân tối cao",
+                "don_vi": [
+                    "Trung ương",
+                    "Viện kiểm sát nhân dân tối cao"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011185807656395892
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 43951,
+                "position": "Điều 4 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Chức năng kiểm sát hoạt động tư pháp của Viện kiểm sát nhân dân",
+                "so_hieu": "63/2014/QH13",
+                "trich_yeu": "Tổ chức Viện kiểm sát nhân dân 2014",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Viện kiểm sát nhân dân tối cao"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011120543293718164
+            },
+            {
+                "index": 16,
+                "id": "dieu_14_dk_1",
+                "id_document": 999999999183119,
+                "position": "Điều 14 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Chế độ kiểm tra.",
+                "so_hieu": "21/2005/QĐ-VKSTC-V7",
+                "trich_yeu": "Về Quy chế tổ chức và hoạt động của Vụ khiếu tố do Viện trưởng Viện kiểm sát nhân dân tối cao ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Viện kiểm sát nhân dân tối cao",
+                "don_vi": [
+                    "Trung ương",
+                    "Viện kiểm sát nhân dân tối cao"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.01111737089201878
+            },
+            {
+                "index": 26,
+                "id": "dieu_27",
+                "id_document": 999999999673902,
+                "position": "Điều 27 / Mục 7 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát việc giải quyết vụ án hành chính, vụ việc dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động và những việc khác theo quy định của pháp luật",
+                "so_hieu": "110/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Tổ chức Viện kiểm sát nhân dân do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011055390927741052
+            },
+            {
+                "index": 15,
+                "id": "dieu_13_dk_1",
+                "id_document": 999999999183119,
+                "position": "Điều 13 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Quan hệ với Viện kiểm sát nhân dân địa phương.",
+                "so_hieu": "21/2005/QĐ-VKSTC-V7",
+                "trich_yeu": "Về Quy chế tổ chức và hoạt động của Vụ khiếu tố do Viện trưởng Viện kiểm sát nhân dân tối cao ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Viện kiểm sát nhân dân tối cao",
+                "don_vi": [
+                    "Trung ương",
+                    "Viện kiểm sát nhân dân tối cao"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010903741840581042
+            },
+            {
+                "index": 22,
+                "id": "dieu_23",
+                "id_document": 19395,
+                "position": "Điều 23 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Đối với tổ chức và hoạt động của Viện kiểm sát nhân dân, Uỷ ban thường vụ Quốc hội có những nhiệm vụ và quyền hạn sau đây:",
+                "so_hieu": "26/2004/QH11",
+                "trich_yeu": "Về việc ban hành Quy chế hoạt động của Uỷ ban Thường vụ Quốc hội",
+                "loai_van_ban": "Nghị quyết",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": null,
+                "score": 0.010639753677728361
+            },
+            {
+                "index": 22,
+                "id": "dieu_23",
+                "id_document": 99999999952268,
+                "position": "Điều 23",
+                "dia_danh": "Trung ương",
+                "title": "Đối với tổ chức và hoạt động của Viện kiểm sát nhân dân, Uỷ ban thường vụ Quốc hội có những nhiệm vụ và quyền hạn sau đây:",
+                "so_hieu": "26/2004/NQ-QH11",
+                "trich_yeu": "Về việc ban hành Quy chế hoạt động của Uỷ ban Thường vụ Quốc hội do Quốc hội ban hành",
+                "loai_van_ban": "Nghị quyết",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010547770700636942
+            },
+            {
+                "index": 26,
+                "id": "dieu_27",
+                "id_document": 43951,
+                "position": "Điều 27 / Mục 7 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát việc giải quyết vụ án hành chính, vụ việc dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động và những việc khác theo quy định của pháp luật",
+                "so_hieu": "63/2014/QH13",
+                "trich_yeu": "Tổ chức Viện kiểm sát nhân dân 2014",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Viện kiểm sát nhân dân tối cao"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010460842521911224
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 999999999646561,
+                "position": "Điều 2",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ và quyền hạn Viện có các nhiệm vụ, quyền hạn sau:",
+                "so_hieu": "661/QĐ-BTP",
+                "trich_yeu": "2025 nhiệm vụ, quyền hạn của Viện Chiến lược và Khoa học pháp lý",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Tư pháp",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010444444444444444
+            },
+            {
+                "index": 65,
+                "id": "dieu_66",
+                "id_document": 43951,
+                "position": "Điều 66 / Mục 2 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Viện trưởng Viện kiểm sát nhân dân cấp tỉnh",
+                "so_hieu": "63/2014/QH13",
+                "trich_yeu": "Tổ chức Viện kiểm sát nhân dân 2014",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Viện kiểm sát nhân dân tối cao"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010357142857142856
+            },
+            {
+                "index": 106,
+                "id": "dieu_107",
+                "id_document": 32801,
+                "position": "Điều 107 / Chương VIII",
+                "dia_danh": "Trung ương",
+                "title": "",
+                "so_hieu": "Không số",
+                "trich_yeu": "Năm 2013",
+                "loai_van_ban": "Hiến pháp",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": null,
+                "score": 0.009985569985569986
+            },
+            {
+                "index": 22,
+                "id": "dieu_20_dk_1",
+                "id_document": 999999999174981,
+                "position": "Điều 20 / Mục 5",
+                "dia_danh": "Trung ương",
+                "title": "Những việc cán bộ, nhân viên giám sát, kiểm tra gồm:",
+                "so_hieu": "6257/QĐ-BCT",
+                "trich_yeu": "Năm 2009 về Quy chế thực hiện dân chủ trong đơn vị sự nghiệp thuộc Bộ Công Thương",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Công thương",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công thương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.009982174688057042
+            }
+        ]
+    }
+]

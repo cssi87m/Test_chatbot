@@ -1,0 +1,59 @@
+{
+  "timestamp": 1764651569.1316137,
+  "conversation_id": "\"c0e4d2f5-34b9-4889-93b2-deb528d0518e\"",
+  "workspace_id": "90602b2d-1d93-4478-8611-ea20b3760db2",
+  "query_params": {
+    "use_memory": false,
+    "intent": "legal_query",
+    "use_rag": false,
+    "reference_text": "",
+    "query": "hiến pháp",
+    "term_position": [],
+    "ten_van_ban": "",
+    "so_hieu": "",
+    "tinh_trang_hieu_luc": [],
+    "loai_van_ban": [],
+    "co_quan_ban_hanh": "",
+    "ngay_ban_hanh_start": "",
+    "ngay_ban_hanh_end": "",
+    "ngay_co_hieu_luc_start": "",
+    "ngay_co_hieu_luc_end": "",
+    "loai_hinh_van_ban": "văn bản quy phạm",
+    "retrieve_level": "term",
+    "query_external_search": "",
+    "need_subquery": false,
+    "_metadata": {
+      "extraction_method": "pipeline",
+      "has_selection_text": false,
+      "has_conversation_history": false,
+      "timestamp": "2025-12-02T11:59:28.247415"
+    }
+  },
+  "request_params": {
+    "selection_text": null,
+    "selected_save_files": [],
+    "selected_upload_files": [],
+    "use_law_database": true,
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hiến pháp là gì? Hiến pháp hiện hành của Việt Nam là Hiến pháp nào?"
+      }
+    ],
+    "current_user_message": "Hiến pháp là gì? hiến pháp hiện hành của việt nam là hiến pháp nào?",
+    "previous_user_message": "",
+    "previous_assistant_message": "",
+    "random_uuid": "559f997e-1dea-42e9-8e3b-394c6ff94649"
+  },
+  "contexts": {
+    "context": "Không tìm thấy thông tin liên quan trong cơ sở dữ liệu hay các tài liệu có liên quan.",
+    "retrieve_results": [],
+    "uploaded_docs_results": [],
+    "law_database_results": []
+  },
+  "response": {
+    "type": "streaming",
+    "content": "<answer>##### Trả lời:\nHiến pháp là văn bản pháp luật cơ bản và có giá trị pháp lý cao nhất trong hệ thống pháp luật của một quốc gia, quy định những nguyên tắc cơ bản về tổ chức, hoạt động của Nhà nước, quyền và nghĩa vụ cơ bản của công dân. Hiến pháp hiện hành của Việt Nam là Hiến pháp năm 2013.\n\n##### Chi tiết:\n- Hiến pháp là văn bản quy phạm pháp luật tối cao, đặt ra các nguyên tắc cơ bản về tổ chức và hoạt động của Nhà nước, quyền con người, quyền công dân, các quyền và nghĩa vụ cơ bản của công dân, cũng như các nguyên tắc về quản lý xã hội.\n- Hiến pháp năm 2013 là bản Hiến pháp hiện hành của nước Cộng hòa xã hội chủ nghĩa Việt Nam, được Quốc hội khóa XIII thông qua ngày 28 tháng 11 năm 2013 và có hiệu lực thi hành từ ngày 01 tháng 01 năm 2014. Đây là văn bản pháp luật cao nhất, làm cơ sở cho việc xây dựng và ban hành các văn bản pháp luật khác.\n\n##### Căn cứ pháp lý:\n- Văn bản pháp luật về Hiến pháp hiện hành của Việt Nam không được cung cấp trong thông tin pháp luật liên quan được cung cấp. Vì vậy, câu trả lời dựa trên kiến thức chung về Hiến pháp Việt Nam hiện hành.</answer> ",
+    "chunks_count": 288
+  }
+}

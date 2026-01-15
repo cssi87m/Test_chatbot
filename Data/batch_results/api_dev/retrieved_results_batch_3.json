@@ -1,0 +1,1599 @@
+[
+    {
+        "id": 5554,
+        "cau_hoi": "Tiêu chuẩn được tuyển chọn vào Dân quân tự vệ là gì?",
+        "tra_loi": "Căn cứ tại Điều 10 Luật Dân quân tự vệ 2019 quy định về tiêu chuẩn tuyển chọn và thẩm quyền quyết định công dân thực hiện nghĩa vụ tham gia Dân quân tự vệ như sau:\nĐiều 10. Tiêu chuẩn, tuyển chọn và thẩm quyền quyết định công dân thực hiện nghĩa vụ tham gia Dân quân tự vệ\n1. Công dân Việt Nam trong độ tuổi thực hiện nghĩa vụ tham gia Dân quân tự vệ, có đủ các tiêu chuẩn sau đây được tuyển chọn vào Dân quân tự vệ:\na) Lý lịch rõ ràng;\nb) Chấp hành nghiêm đường lối, quan điểm của Đảng, chính sách, pháp luật của Nhà nước;\nc) Đủ sức khỏe thực hiện nhiệm vụ của Dân quân tự vệ.\n2. Việc tuyển chọn vào Dân quân tự vệ được quy định như sau:\na) Bảo đảm công khai, dân chủ, đúng quy định của pháp luật;\nb) Hằng năm, Ban chỉ huy quân sự cấp huyện chỉ đạo, hướng dẫn Ủy ban nhân dân cấp xã, cơ quan, tổ chức tuyển chọn công dân thực hiện nghĩa vụ tham gia Dân quân tự vệ; nơi không có đơn vị hành chính cấp xã do Ban chỉ huy quân sự cấp huyện trực tiếp tuyển chọn.\n3. Quân nhân dự bị chưa sắp xếp vào đơn vị dự bị động viên được tuyển chọn vào đơn vị Dân quân tự vệ.\n[...]\nNhư vậy, tiêu chuẩn được tuyển chọn vào Dân quân tự vệ là:\n- Công dân Việt Nam trong độ tuổi thực hiện nghĩa vụ tham gia Dân quân tự vệ:\n+ Công dân nam từ đủ 18 tuổi đến hết 45 tuổi;\n+ Công dân nữ từ đủ 18 tuổi đến hết 40 tuổi;\nNếu tình nguyện tham gia Dân quân tự vệ thì có thể kéo dài đến hết 50 tuổi đối với nam, đến hết 45 tuổi đối với nữ.\n- Lý lịch rõ ràng;\n- Chấp hành nghiêm đường lối, quan điểm của Đảng, chính sách, pháp luật của Nhà nước;\n- Đủ sức khỏe thực hiện nhiệm vụ của Dân quân tự vệ.",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "48/2019/QH14",
+                "khoan": "",
+                "dieu": "10",
+                "trich_yeu": "Luật Dân quân tự vệ 2019",
+                "noi_dung_kem_trich_dan": "Căn cứ tại Điều 10 Luật Dân quân tự vệ 2019 quy định về tiêu chuẩn tuyển chọn và thẩm quyền quyết định công dân thực hiện nghĩa vụ tham gia Dân quân tự vệ như sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 9,
+                "id": "dieu_10",
+                "id_document": 999999999672427,
+                "position": "Điều 10 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Tiêu chuẩn, tuyển chọn và thẩm quyền quyết định công dân thực hiện nghĩa vụ tham gia Dân quân tự vệ",
+                "so_hieu": "141/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Dân quân tự vệ do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.013096222773642127
+            },
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 999999999670386,
+                "position": "Điều 8 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tiêu chuẩn tuyển chọn",
+                "so_hieu": "29/VBHN-BQP",
+                "trich_yeu": "Năm 2025 hợp nhất Thông tư quy định về tuyển chọn, tuyển dụng quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng do Bộ trưởng Bộ Quốc phòng ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Quốc phòng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Quốc phòng"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012775842044134726
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 999999999670379,
+                "position": "Điều 4",
+                "dia_danh": "Trung ương",
+                "title": "Tiêu chuẩn tuyển quân",
+                "so_hieu": "36/VBHN-BQP",
+                "trich_yeu": "Năm 2025 hợp nhất Thông tư quy định tuyển chọn và gọi công dân nhập ngũ do Bộ trưởng Bộ Quốc phòng ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Quốc phòng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Quốc phòng"
+                ],
+                "linh_vuc": "Quyền dân sự",
+                "score": 0.012708333333333334
+            },
+            {
+                "index": 9,
+                "id": "dieu_10",
+                "id_document": 139879,
+                "position": "Điều 10 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Tiêu chuẩn, tuyển chọn và thẩm quyền quyết định công dân thực hiện nghĩa vụ tham gia Dân quân tự vệ",
+                "so_hieu": "48/2019/QH14",
+                "trich_yeu": "Dân quân tự vệ 2019",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Trung ương",
+                    "Bộ Quốc phòng"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012502732240437159
+            },
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 170164,
+                "position": "Điều 5 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Tiêu chuẩn tuyển chọn",
+                "so_hieu": "21/2023/TT-BCA",
+                "trich_yeu": "Quy định về tuyển chọn công dân vào Công an nhân dân",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Hết hiệu lực một phần",
+                "co_quan_ban_hanh": "Bộ Công an",
+                "don_vi": [
+                    "Bộ Công an",
+                    "Trung ương"
+                ],
+                "linh_vuc": null,
+                "score": 0.011792103313221128
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 999999999438772,
+                "position": "Mục 2",
+                "dia_danh": "tỉnh Điện Biên",
+                "title": "Tiêu chuẩn tuyển chọn Tiêu chuẩn tuyển chọn được thực hiện theo Luật Nghĩa vụ quân sự năm 2015; Thông tư số 148/2018/TT-BQP ngày 04/10/2018 của Bộ Quốc phòng quy định tuyển chọn công dân nhập ngũ; Thông tư liên tịch số 16/2016/TTLT-BYT-BQP ngày 30/6/2016 của Bộ Y tế, Quốc phòng hướng dẫn việc khám sức khỏe nghĩa vụ quân sự; Thông tư liên tịch số 50/2016/TTLT-BQP-BCA ngày 15/4/2016 của Bộ Quốc phòng, Bộ Công an quy định tiêu chuẩn chính trị tuyển chọn và gọi công dân nhập ngũ vào phục vụ trong quân đội; việc tạm hoãn, miễn gọi nhập ngũ thực hiện theo Điều 41 Luật Nghĩa vụ quân sự năm 2015.",
+                "so_hieu": "08/CT-UBND",
+                "trich_yeu": "2019 tuyển chọn và gọi công dân nhập ngũ Điện Biên 2020",
+                "loai_van_ban": "Chỉ thị",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Điện Biên",
+                "don_vi": [
+                    "Điện Biên"
+                ],
+                "linh_vuc": "Quyền dân sự",
+                "score": 0.011744471744471744
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 999999999396402,
+                "position": "Điều 4",
+                "dia_danh": "Trung ương",
+                "title": "Tiêu chuẩn tuyển quân",
+                "so_hieu": "148/2018/TT-BQP",
+                "trich_yeu": "Quy định tuyển chọn và gọi công dân nhập ngũ",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Quốc phòng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Quốc phòng"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011699905033238367
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 999999999468407,
+                "position": "Mục 2",
+                "dia_danh": "tỉnh Điện Biên",
+                "title": "Tiêu chuẩn tuyển chọn Tiêu chuẩn tuyển chọn được thực hiện theo Luật Nghĩa vụ quân sự năm 2015; Thông tư số 148/2018/TT-BQP ngày 04/10/2018 của Bộ Quốc phòng quy định tuyển chọn công dân nhập ngũ; Thông tư liên tịch số 16/2016/TTLT-BYT-BQP ngày 30/6/2016 của Bộ Y tế, Quốc phòng hướng dẫn việc khám sức khỏe nghĩa vụ quân sự; Thông tư liên tịch số 50/2016/TTLT-BQP-BCA ngày 15/4/2016 của Bộ Quốc phòng, Bộ Công an quy định tiêu chuẩn chính trị tuyển chọn và gọi công dân nhập ngũ vào phục vụ trong quân đội; việc tạm hoãn, miễn gọi nhập ngũ thực hiện theo Điều 41 Luật Nghĩa vụ quân sự năm 2015.",
+                "so_hieu": "10/CT-UBND",
+                "trich_yeu": "2020 tuyển chọn và gọi công dân nhập ngũ tỉnh Điện Biên năm 2021",
+                "loai_van_ban": "Chỉ thị",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Điện Biên",
+                "don_vi": [
+                    "Điện Biên"
+                ],
+                "linh_vuc": "Quyền dân sự",
+                "score": 0.011669724770642202
+            },
+            {
+                "index": 13,
+                "id": "dieu_14",
+                "id_document": 999999999672009,
+                "position": "Điều 14 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tuyển chọn, tuyển dụng quân nhân chuyên nghiệp",
+                "so_hieu": "84/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011551479419150561
+            },
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 999999999363581,
+                "position": "Điều 8 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tiêu chuẩn tuyển chọn",
+                "so_hieu": "241/2017/TT-BQP",
+                "trich_yeu": "Tuyển chọn quân nhân chuyên nghiệp viên chức quốc phòng",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Quốc phòng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Quốc phòng"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.01144385026737968
+            },
+            {
+                "index": 17,
+                "id": "dieu_18",
+                "id_document": 999999999147538,
+                "position": "Mục 2 / Phần II",
+                "dia_danh": "Trung ương",
+                "title": "Về tuyển chọn cán bộ. Thực hiện chế độ dân chủ, công khai trong việc tuyển chọn cán bộ, công chức, bảo đảm tuyển chọn đúng những người có đủ tiêu chuẩn theo từng chức danh. Xây dựng và thực hiện các quy trình tuyển chọn, bổ nhiệm một cách chặt chẽ. Các tổ chức cơ quan có nhu cầu tuyển chọn cán bộ, công chức công bố công khai nhu cầu, đối tượng, tiêu chuẩn cán bộ cần tuyển. Kết quả sát hạch, thi tuyển là một căn cứ chủ yếu đề ra quyết định tuyển dụng cán bộ. Lập hội đồng thi tuyển quốc gia, các hội đồng thi tuyển của ngành, địa phương. Quy định nhiệm vụ, chức năng, quy chế làm việc của các hội đồng thi tuyển, bảo đảm việc thi tuyển tiến hành một cách chặt chẽ, khách quan và công bằng.",
+                "so_hieu": "03-NQ/TW",
+                "trich_yeu": "Năm 1997 về chiến lược cán bộ thời kỳ đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước do Ban Chấp hành Trung ương ban hành",
+                "loai_van_ban": "Nghị quyết",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Ban Chấp hành Trung ương",
+                "don_vi": [
+                    "Trung ương",
+                    "Ban Chấp hành Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011333333333333334
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 999999999516358,
+                "position": "Mục 1",
+                "dia_danh": "Trung ương",
+                "title": "Về tiêu chuẩn gọi nhập ngũ Tiêu chuẩn tuyển chọn công dân nhập ngũ được quy định tại Điều 31 Luật Nghĩa vụ quân sự năm 2015; chi tiết tại Điều 4 Thông tư số 148/2018/TT-BQP ngày 04/10/2018 Quy định tuyển chọn và gọi công dân nhập ngũ; cụ thể: a) Về tuổi đời: Công dân từ đủ 18 tuổi đến hết 25 tuổi, công dân nam được đào tạo trình độ cao đẳng, đại học đã được tạm hoãn gọi nhập ngũ trong thời gian một khóa đào tạo của một trình độ đào tạo thì tuyển chọn và gọi nhập ngũ đến hết 27 tuổi. b) Tiêu chuẩn chính trị: Thực hiện theo Thông tư liên tịch số 50/2016/TTLT-BQP-BCA ngày 15 tháng 4 năm 2016 của Bộ Quốc phòng và Bộ Công an quy định tiêu chuẩn chính trị tuyển chọn công dân vào phục vụ trong Quân đội nhân dân Việt Nam. Đối với các cơ quan, đơn vị và vị trí trọng yếu cơ mật trong Quân đội; lực lượng Tiêu binh, Nghi lễ; lực lượng Vệ binh và Kiểm soát quân sự chuyên nghiệp thực hiện tuyển chọn theo quy định của Bộ Quốc phòng. c) Tiêu chuẩn sức khoẻ: Tuyển chọn những công dân có sức khỏe loại 1, 2, 3 theo quy định tại Thông tư liên tịch số 16/2016/TTLT-BYT-BQP ngày 30 tháng 6 năm 2016 của Bộ Y tế và Bộ Quốc phòng quy định việc khám sức khoẻ thực hiện nghĩa vụ quân sự. Đối với các cơ quan, đơn vị, vị trí quy định tại Điểm b Khoản 2 Điều này, thực hiện tuyển chọn bảo đảm tiêu chuẩn riêng theo quy định của Bộ Quốc phòng. Không gọi nhập ngũ vào Quân đội những công dân có sức khỏe loại 3 tật khúc xạ về mắt (cận thị 1,5 diop trở lên, viễn thị các mức độ); nghiện ma túy, nhiễm HIV, AIDS. d) Tiêu chuẩn văn hóa: Tuyển chọn và gọi nhập ngũ những công dân có trình độ văn hóa lớp 8 trở lên, lấy từ cao xuống thấp. Những địa phương có khó khăn không đảm bảo đủ chỉ tiêu giao quân thì báo cáo cấp có thẩm quyền xem xét, quyết định được tuyển chọn số công dân có trình độ văn hóa lớp 7. Các xã thuộc vùng sâu, vùng xa, vùng điều kiện kinh tế - xã hội đặc biệt khó khăn theo quy định của pháp luật; đồng bào dân tộc thiểu số dưới 10.000 người thì được tuyển không quá 25% công dân có trình độ văn hóa cấp tiểu học, còn lại là trung học cơ sở trở lên. Quy định về tiêu chuẩn gọi nhập ngũ như trên nhằm nâng cao chất lượng nguồn nhân lực nhập ngũ vào Quân đội; bảo đảm người chiến sĩ có tiêu chuẩn chính trị, đủ sức khỏe, có trình độ văn hóa phù hợp với môi trường đặc thù trong quân đội hoạt động huấn luyện, rèn luyện cường độ cao, căng thẳng, có khả năng đào tạo, bồi dưỡng tiếp thu kỹ năng làm chủ, khai thác sử dụng vũ khí khí tài hiện có; sẵn sàng nhận và hoàn thành mọi nhiệm vụ trong mọi điều kiện, hoàn cảnh; đồng thời, vừa có chính sách tạo nguồn cơ sở của con em đồng bào dân tộc thiểu số, dân tộc rất ít người vùng sâu, vùng xa và không để “xã trắng” trong tuyển quân.",
+                "so_hieu": "5124/BQP-TM",
+                "trich_yeu": "Năm 2021 rà soát, điều chỉnh quy định về tiêu chuẩn công dân thực hiện nghĩa vụ quân sự do Bộ Quốc phòng ban hành",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Quốc phòng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Quốc phòng"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.01117056856187291
+            },
+            {
+                "index": 11,
+                "id": "dieu_9_dk_1",
+                "id_document": 999999999611426,
+                "position": "Điều 9 / Chương II",
+                "dia_danh": "tỉnh Bình Phước",
+                "title": "Xét tuyển",
+                "so_hieu": "11/2024/QĐ-UBND",
+                "trich_yeu": "Số 11/2024/QĐ-UBND về Quy chế tổ chức tuyển dụng công chức xã, phường, thị trấn trên địa bàn tỉnh Bình Phước",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Bình Phước",
+                "don_vi": [
+                    "Bình Phước"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011039208222306814
+            },
+            {
+                "index": 10,
+                "id": "dieu_8_dk_1",
+                "id_document": 167608,
+                "position": "Điều 8 / Chương III",
+                "dia_danh": "tỉnh Quảng Ngãi",
+                "title": "Điều kiện tuyển chọn",
+                "so_hieu": "16/2024/QĐ-UBND",
+                "trich_yeu": "Về Quy định quản lý, sử dụng đối với các chức danh người hoạt động không chuyên trách ở xã, phường, thị trấn trên địa bàn tỉnh Quảng Ngãi",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Quảng Ngãi",
+                "don_vi": [
+                    "Quảng Ngãi"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010984039210757824
+            },
+            {
+                "index": 13,
+                "id": "dieu_14",
+                "id_document": 96120,
+                "position": "Điều 14 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tuyển chọn, tuyển dụng quân nhân chuyên nghiệp",
+                "so_hieu": "98/2015/QH13",
+                "trich_yeu": "Quân nhân chuyên nghiệp công nhân viên chức quốc phòng 2015",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.01088356729975227
+            },
+            {
+                "index": 4,
+                "id": "dieu_2_dk_1",
+                "id_document": 999999999249885,
+                "position": "Điều 2 / Chương I",
+                "dia_danh": "tỉnh Sơn La",
+                "title": "Nguyên tắc tuyển chọn Việc tuyển chọn phải đảm bảo công khai, công bằng, khách quan, dân chủ, cạnh tranh và đúng quy định của pháp luật. Tuyển chọn người có đủ phẩm chất, năng lực và các điều kiện cần thiết theo yêu cầu, tiêu chuẩn của chức danh công chức cấp xã cần tuyển.",
+                "so_hieu": "2115/QĐ-UBND",
+                "trich_yeu": "Năm 2014 về tuyển chọn trí thức trẻ tình nguyện về xã tham gia phát triển nông thôn, miền núi giai đoạn 2013 - 2020 do tỉnh Sơn La ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Sơn La",
+                "don_vi": [
+                    "Sơn La"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.010861244019138756
+            },
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 156833,
+                "position": "Điều 5 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Tiêu chuẩn tuyển chọn",
+                "so_hieu": "55/2019/TT-BCA",
+                "trich_yeu": "Quy định tuyển chọn công dân vào Công an nhân dân",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Công an",
+                "don_vi": [
+                    "Bộ Công an",
+                    "Trung ương"
+                ],
+                "linh_vuc": null,
+                "score": 0.010442507542742206
+            },
+            {
+                "index": 7,
+                "id": "dieu_5_dk_1",
+                "id_document": 999999999379563,
+                "position": "Điều 5 / Chương II",
+                "dia_danh": "thành phố Hà Nội",
+                "title": "Đối tượng tham gia tuyển chọn:",
+                "so_hieu": "1594/QĐ-UBND",
+                "trich_yeu": "2018 thiết kế kiến trúc công trình cầu vượt đường Hoàng Quốc Việt Hà Nội",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND thành phố Hà Nội",
+                "don_vi": [
+                    "Hà Nội"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.010326449033977348
+            },
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 999999999672009,
+                "position": "Điều 8 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Nguyên tắc tuyển chọn, tuyển dụng quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng",
+                "so_hieu": "84/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010267857142857141
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 17419,
+                "position": "Mục 1 / Phần I",
+                "dia_danh": "Trung ương",
+                "title": "Tiêu chuẩn Tuyển chọn những người có đủ tiêu chuẩn chính trị, phẩm chất đạo đức tốt; có đủ trình độ, kiến thức chuyên môn, văn hóa, tuổi đời phù hợp theo từng đối tượng đào tạo, sức khỏe tốt; tự nguyện phục vụ quân đội lâu dài, chấp hành sự phân công ngành học và điều động công tác khi tốt nghiệp.",
+                "so_hieu": "119/2005/TTLT/BQP-BGD-BKH-BTC",
+                "trich_yeu": "Hướng dẫn thực hiện Nghị định số 73/2005/NĐ-CP của Chính phủ về đào tạo cán bộ cho Quân đội nhân dân Việt Nam tại các trường ngoài quân đội",
+                "loai_van_ban": "Thông tư liên tịch",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo, Bộ Giáo dục, Bộ Tài chính, Bộ Quốc phòng, Bộ Kế hoạch và Đầu tư",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Bộ Quốc phòng",
+                    "Bộ Tài chính",
+                    "Bộ Giáo dục và Đào tạo"
+                ],
+                "linh_vuc": null,
+                "score": 0.010238095238095239
+            }
+        ]
+    },
+    {
+        "id": 30197,
+        "cau_hoi": "Tỷ lệ % doanh thu sàn TMĐT khấu trừ thuế thay người bán hàng online là bao nhiêu?",
+        "tra_loi": "Tại khoản 2 Điều 5 Nghị định 117/2025/NĐ-CP có quy định tỷ lệ % doanh thu sàn TMĐT khấu trừ thuế thay người bán hàng online.\nTheo đó, số thuế giá trị gia tăng, số thuế thu nhập cá nhân phải thực hiện khấu trừ được xác định theo tỷ lệ % trên doanh thu của mỗi giao dịch bán hàng hóa, cung cấp dịch vụ.\n- Tỷ lệ % tính thuế giá trị gia tăng:\n+ Hàng hóa: 1%\n+ Dịch vụ: 5%\n+ Vận tải, dịch vụ có gắn với hàng hóa: 3%\n- Tỷ lệ % tính thuế thu nhập cá nhân:\n+ Đối với cá nhân cư trú\nHàng hóa: 0,5%\nDịch vụ: 2%\nVận tải, dịch vụ có gắn với hàng hóa: 1,5%\n+ Đối với cá nhân không cư trú\nHàng hóa: 1%\nDịch vụ: 5 %\nVận tải, dịch vụ có gắn với hàng hóa: 2%\nLưu ý: Doanh thu của mỗi giao dịch bán hàng hóa, cung cấp dịch vụ là số tiền bán hàng hóa, dịch vụ của hộ, cá nhân được hưởng mà tổ chức quản lý nền tảng thương mại điện tử thu hộ.\nNếu các tổ chức quản lý nền tảng thương mại điện tử thuộc diện phải khấu trừ, nộp thuế thay không thể xác định rõ ràng giao dịch phát sinh doanh thu từ nền tảng là hàng hóa hay dịch vụ, hoặc thuộc loại dịch vụ nào, thì việc xác định số thuế phải khấu trừ thực hiện theo mức tỷ lệ % cao nhất và theo mức tỷ lệ % cao nhất của dịch vụ quy định cho cá nhân cư trú hoặc cá nhân không cư trú.\nTrên đây là thông tin \"Tỷ lệ % doanh thu sàn TMĐT khấu trừ thuế thay người bán hàng online là bao nhiêu?\"\nTỷ lệ % doanh thu sàn TMĐT khấu trừ thuế thay người bán hàng online là bao nhiêu? (Hình từ Internet)",
+        "trich_dan": [
+            {
+                "loai_vb": "Nghị định",
+                "so_hieu": "117/2025/NĐ-CP",
+                "khoan": "2",
+                "dieu": "5",
+                "trich_yeu": "Nghị định 117/2025/NĐ-CP",
+                "noi_dung_kem_trich_dan": "Tại khoản 2 Điều 5 Nghị định 117/2025/NĐ-CP có quy định tỷ lệ % doanh thu sàn TMĐT khấu trừ thuế thay người bán hàng online."
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 174917,
+                "position": "Điều 4 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Người nộp thuế",
+                "so_hieu": "48/2024/QH15",
+                "trich_yeu": "Thuế giá trị gia tăng năm 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.014136904761904762
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 999999999670915,
+                "position": "Điều 4 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Người nộp thuế",
+                "so_hieu": "93/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Thuế giá trị gia tăng do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.014050046339202968
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 178299,
+                "position": "Điều 1 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Phạm vi điều chỉnh Nghị định này quy định:",
+                "so_hieu": "117/2025/NĐ-CP",
+                "trich_yeu": "Quản lý thuế đối với hoạt động kinh doanh trên nền tảng thương mại điện tử",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.013169398907103827
+            },
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 999999999662913,
+                "position": "Mục 5",
+                "dia_danh": "thành phố Huế",
+                "title": "Tổ chức là nhà quản lý sàn giao dịch thương mại điện tử, nhà quản lý nền tảng số có chức năng thanh toán thực hiện khấu trừ, nộp thuế thay, kê khai số thuế đã khấu trừ cho hộ kinh doanh, cá nhân kinh doanh trên sàn thương mại điện tử, nền tảng số.\" Từ các quy định trên, pháp luật quản lý thuế và pháp luật thuế GTGT đã có quy định các trường hợp khấu trừ, nộp thuế thay.",
+                "so_hieu": "2099/CT-CS",
+                "trich_yeu": "Năm 2025 đề xuất áp dụng thí điểm chính sách thuế và quản lý thuế do Cục Thuế ban hành",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Cục thuế thành phố Huế",
+                "don_vi": [
+                    "Huế"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.012956107879428873
+            },
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 178299,
+                "position": "Điều 5 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Thời điểm thực hiện khấu trừ, xác định số thuế phải khấu trừ",
+                "so_hieu": "117/2025/NĐ-CP",
+                "trich_yeu": "Quản lý thuế đối với hoạt động kinh doanh trên nền tảng thương mại điện tử",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.012630732099758648
+            },
+            {
+                "index": 2,
+                "id": "dieu_3",
+                "id_document": 999999999539881,
+                "position": "Mục 8 / Phần I",
+                "dia_danh": "Trung ương",
+                "title": "Tổ chức được thành lập và hoạt động theo pháp luật Việt Nam là chủ sở hữu sàn thương mại điện tử có trách nhiệm cung cấp đầy đủ, chính xác và đúng hạn theo quy định cho cơ quan thuế thông tin của thương nhân, tổ chức, cá nhân có tiến hành một phần hoặc toàn bộ quy trình mua bán hàng hóa, dịch vụ trên sàn giao dịch thương mại điện tử bao gồm: tên người bán hàng, mã số thuế hoặc số định danh cá nhân hoặc chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu, địa chỉ, số điện thoại liên lạc: doanh thu bán hàng thông qua chức năng đặt hàng trực tuyến của sàn. Việc cung cấp thông tin được thực hiện định kỳ hàng quý chậm nhất vào ngày cuối cùng của tháng đầu quý sau, bằng phương thức điện tử, qua Cổng thông tin điện tử của Tổng cục Thuế theo định dạng dữ liệu do Tổng cục Thuế công bố.” - Tại khoản 1 Điều 2 Nghị định số 91/2022/NĐ-CP ngày 30/10/2022 của Chính phủ quy định: “Điều 2. Tổ chức thực hiện và hiệu lực thi hành",
+                "so_hieu": "4205/TCT-DNNCN",
+                "trich_yeu": "2022 hướng dẫn chủ sở hữu Sàn giao dịch điện tử cung cấp thông tin",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Tổng cục Thuế",
+                "don_vi": [
+                    "Trung ương",
+                    "Tổng cục Thuế"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.012531328320802004
+            },
+            {
+                "index": 41,
+                "id": "dieu_42",
+                "id_document": 999999999651534,
+                "position": "Điều 42 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Nguyên tắc khai thuế, tính thuế",
+                "so_hieu": "29/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Quản lý thuế do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.012497971108586269
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 178299,
+                "position": "Điều 2 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Đối tượng áp dụng",
+                "so_hieu": "117/2025/NĐ-CP",
+                "trich_yeu": "Quản lý thuế đối với hoạt động kinh doanh trên nền tảng thương mại điện tử",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.012242332830568125
+            },
+            {
+                "index": 5,
+                "id": "dieu_6",
+                "id_document": 999999999531822,
+                "position": "Mục 2",
+                "dia_danh": "thành phố Huế",
+                "title": "Tỷ lệ % để tính thuế GTGT trên doanh thu: a) Tỷ lệ % để tính thuế GTGT trên doanh thu đối với ngành kinh doanh: [TABLE] <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><!--VABWAFAATABfADIAMAAyADIAMQAwADEAMwA=-->\n<tbody><tr>\n<td style=\"border:solid windowtext 1.0pt;padding:0in 0in 0in 0in\">\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><i><span lang=\"VI\">STT</span></i></p>\n</td>\n<td style=\"border:solid windowtext 1.0pt;border-left:\n  none;padding:0in 0in 0in 0in\">\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><i><span lang=\"VI\">Ngành\n  kinh doanh</span></i></p>\n</td>\n<td style=\"border:solid windowtext 1.0pt;border-left:\n  none;padding:0in 0in 0in 0in\">\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><i><span lang=\"VI\">Tỷ\n  lệ % để tính thuế GTGT</span></i></p>\n</td>\n</tr>\n<tr>\n<td style=\"border:solid windowtext 1.0pt;border-top:\n  none;padding:0in 0in 0in 0in\">\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><i>1</i></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Dịch vụ, cho thuê máy móc thiết\n  bị, bảo hiểm; xây dựng</span>,</i><i> <span lang=\"VI\">lắp đặt không bao thầu\n  nguyên vật liệu, má</span>y</i><i> <span lang=\"VI\">móc, thiết bị</span></i></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><i><span lang=\"VI\">5</span></i></p>\n</td>\n</tr>\n<tr>\n<td style=\"border:solid windowtext 1.0pt;border-top:\n  none;padding:0in 0in 0in 0in\">\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><i><span lang=\"VI\">2</span></i></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Sản xuất, vận tải, dịch vụ có\n  gắn với hàng hóa; xây dựng, lắp đặt có bao thầu nguyên vật liệu, máy móc,\n  thiết bị</span></i></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><i><span lang=\"VI\">3</span></i></p>\n</td>\n</tr>\n<tr>\n<td style=\"border:solid windowtext 1.0pt;border-top:\n  none;padding:0in 0in 0in 0in\">\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><i><span lang=\"VI\">3</span></i></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Hoạt động kinh doanh khác</span></i></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><i><span lang=\"VI\">2</span></i></p>\n</td>\n</tr>\n</tbody></table> [\\TABLE] … Căn cứ Quy định về thành phần chứa dữ liệu nghiệp vụ hóa đơn điện tử và phương thức truyền nhận với cơ quan thuế, ban hành kèm theo Quyết định số 1450/QĐ-TCT ngày 07/10/2021 của Tổng cục trưởng Tổng cục Thuế, tại Phụ lục V có quy định Danh mục thuế suất: PHỤ LỤC V DANH MỤC THUẾ SUẤT (Kèm theo Quy định về thành phần chứa dữ liệu hóa đơn điện tử và phương thức truyền nhận với cơ quan thuế ban hành tại Quyết định số 1450/QĐ-TCT ngày 07 tháng 10 năm 2021 của Tổng cục trưởng Tổng cục Thuế) [TABLE] <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><!--VABWAFAATABfADIAMAAyADIAMQAwADEAMwA=-->\n<tbody><tr>\n<td style=\"border:solid windowtext 1.0pt;padding:0in 0in 0in 0in\">\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><i><span lang=\"VI\">STT</span></i></b></p>\n</td>\n<td style=\"border:solid windowtext 1.0pt;border-left:\n  none;padding:0in 0in 0in 0in\">\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><i><span lang=\"VI\">Gi</span>á</i></b><b><i> <span lang=\"VI\">trị</span></i></b></p>\n</td>\n<td style=\"border:solid windowtext 1.0pt;border-left:\n  none;padding:0in 0in 0in 0in\">\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><i><span lang=\"VI\">M</span>ô</i></b><b><i> <span lang=\"VI\">tả</span></i></b></p>\n</td>\n</tr>\n<tr>\n<td style=\"border:solid windowtext 1.0pt;border-top:\n  none;padding:0in 0in 0in 0in\">\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><i>1</i></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><i><span lang=\"VI\">0%</span></i></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Thuế suất 0%</span></i></p>\n</td>\n</tr>\n<tr>\n<td style=\"border:solid windowtext 1.0pt;border-top:\n  none;padding:0in 0in 0in 0in\">\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><i><span lang=\"VI\">2</span></i></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><i><span lang=\"VI\">5%</span></i></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Thuế suất 5%</span></i></p>\n</td>\n</tr>\n<tr>\n<td style=\"border:solid windowtext 1.0pt;border-top:\n  none;padding:0in 0in 0in 0in\">\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><i><span lang=\"VI\">3</span></i></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><i>1</i><i><span lang=\"VI\">0%</span></i></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Thuế suất </span>1</i><i><span lang=\"VI\">0%</span></i></p>\n</td>\n</tr>\n<tr>\n<td style=\"border:solid windowtext 1.0pt;border-top:\n  none;padding:0in 0in 0in 0in\">\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><i><span lang=\"VI\">4</span></i></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><i><span lang=\"VI\">KCT</span></i></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Không chịu thuế GTGT</span></i></p>\n</td>\n</tr>\n<tr>\n<td style=\"border:solid windowtext 1.0pt;border-top:\n  none;padding:0in 0in 0in 0in\">\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><i><span lang=\"VI\">5</span></i></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><i><span lang=\"VI\">KKKNT</span></i></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Không kê khai, tính nộp thuế GTGT</span></i></p>\n</td>\n</tr>\n<tr>\n<td style=\"border:solid windowtext 1.0pt;border-top:\n  none;padding:0in 0in 0in 0in\">\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><i><span lang=\"VI\">6</span></i></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><i><span lang=\"VI\">KHAC:AB.CD%</span></i></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Trường hợp khác, với “:AB.CD” là\n  bắt buộc trong trường hợp xác định được giá trị thuế suất. A, B, </span></i><i><span lang=\"FR\">C</span></i><i><span lang=\"VI\">, D </span></i><i><span lang=\"FR\">l</span></i><i><span lang=\"VI\">à các số nguyên từ 0 đến 9. Ví dụ: KHAC:AB.CD%</span></i></p>\n</td>\n</tr>\n</tbody></table> [\\TABLE] Căn cứ các quy định và hướng dẫn nêu trên, trường hợp Công ty là đại lý của hãng tàu nước ngoài SITC tại Việt Nam, lập hóa đơn điện tử thu hộ hãng tàu nước ngoài và nộp thuế nhà thầu thì về nguyên tắc, đối với hóa đơn điện tử theo quy định của Nghị định số 123/2020/NĐ-CP , Công ty thực hiện lập nội dung hóa đơn theo hướng dẫn tại Điều 10 Nghị định số 123/2020/NĐ-CP. Thuế suất thuế giá trị gia tăng thể hiện trên hóa đơn là thuế suất thuế giá trị gia tăng tương ứng với từng loại hàng hóa, dịch vụ theo quy định của pháp luật về thuế giá trị gia tăng. Định dạng của hóa đơn điện tử phải đáp ứng quy định tại Điều 12 Nghị định số 123/2020/NĐ-CP. Thành phần dữ liệu của hóa đơn điện tử phải đáp ứng quy định về thành phần chứa dữ liệu nghiệp vụ hóa đơn điện tử và phương thức truyền nhận với cơ quan thuế, ban hành kèm theo Quyết định số 1450/QĐ-TCT . Cục Thuế TP Hồ Chí Minh thông báo Công ty biết để thực hiện./.",
+                "so_hieu": "7585/CTTPHCM-TTHT",
+                "trich_yeu": "2022 sử dụng hóa đơn điện tử Cục Thuế Hồ Chí Minh",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Cục thuế thành phố Huế",
+                "don_vi": [
+                    "Huế"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.01145578231292517
+            },
+            {
+                "index": 34,
+                "id": "dieu_35",
+                "id_document": 999999999496569,
+                "position": "Điều 35 / Mục 2 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Cung cấp dịch vụ sàn giao dịch thương mại điện tử",
+                "so_hieu": "14/VBHN-BCT",
+                "trich_yeu": "2021 Nghị định quản lý hoạt động thương mại điện tử",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Công thương",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công thương"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.011190430252749371
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 157326,
+                "position": "Điều 1",
+                "dia_danh": "Trung ương",
+                "title": "Sửa đổi, bổ sung một số điều của Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế",
+                "so_hieu": "91/2022/NĐ-CP",
+                "trich_yeu": "Sửa đổi Nghị định 126/2020/NĐ-CP hướng dẫn Luật Quản lý thuế",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.011055390927741052
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 178299,
+                "position": "Điều 4 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Khấu trừ, nộp thuế thay",
+                "so_hieu": "117/2025/NĐ-CP",
+                "trich_yeu": "Quản lý thuế đối với hoạt động kinh doanh trên nền tảng thương mại điện tử",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.011008771929824562
+            },
+            {
+                "index": 6,
+                "id": "dieu_7",
+                "id_document": 178299,
+                "position": "Điều 7 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của tổ chức quản lý nền tảng thương mại điện tử thuộc đối tượng khấu trừ, nộp thuế thay",
+                "so_hieu": "117/2025/NĐ-CP",
+                "trich_yeu": "Quản lý thuế đối với hoạt động kinh doanh trên nền tảng thương mại điện tử",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.010984767217335337
+            },
+            {
+                "index": 34,
+                "id": "dieu_35",
+                "id_document": 999999999377814,
+                "position": "Điều 35 / Mục 2 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Cung cấp dịch vụ sàn giao dịch thương mại điện tử",
+                "so_hieu": "11/VBHN-BCT",
+                "trich_yeu": "2018 thương mại điện tử",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Công thương",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công thương"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.010952380952380951
+            },
+            {
+                "index": 34,
+                "id": "dieu_35",
+                "id_document": 30470,
+                "position": "Điều 35 / Mục 2 / Chương 3",
+                "dia_danh": "Trung ương",
+                "title": "Cung cấp dịch vụ sàn giao dịch thương mại điện tử",
+                "so_hieu": "52/2013/NĐ-CP",
+                "trich_yeu": "Thương mại điện tử",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công thương"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.01090559692529426
+            },
+            {
+                "index": 36,
+                "id": "dieu_37",
+                "id_document": 999999999496569,
+                "position": "Điều 37 / Mục 2 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của người bán trên sàn giao dịch thương mại điện tử",
+                "so_hieu": "14/VBHN-BCT",
+                "trich_yeu": "2021 Nghị định quản lý hoạt động thương mại điện tử",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Công thương",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công thương"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.01079267186649737
+            },
+            {
+                "index": 36,
+                "id": "dieu_37",
+                "id_document": 999999999377814,
+                "position": "Điều 37 / Mục 2 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của người bán trên sàn giao dịch thương mại điện tử",
+                "so_hieu": "11/VBHN-BCT",
+                "trich_yeu": "2018 thương mại điện tử",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Công thương",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công thương"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.010757575757575757
+            },
+            {
+                "index": 17,
+                "id": "dieu_18",
+                "id_document": 999999999537489,
+                "position": "Điều 18 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của Cục Thuế",
+                "so_hieu": "24/VBHN-BTC",
+                "trich_yeu": "2022 Thông tư thuế giá trị gia tăng hộ kinh doanh cá nhân kinh doanh",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Tài chính",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tài chính"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.0105982905982906
+            },
+            {
+                "index": 36,
+                "id": "dieu_37",
+                "id_document": 30470,
+                "position": "Điều 37 / Mục 2 / Chương 3",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của người bán trên sàn giao dịch thương mại điện tử",
+                "so_hieu": "52/2013/NĐ-CP",
+                "trich_yeu": "Thương mại điện tử",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công thương"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.010404970431918556
+            },
+            {
+                "index": 14,
+                "id": "dieu_15",
+                "id_document": 172466,
+                "position": "Điều 15 / Mục 2 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Khuyến mại hàng hóa, dịch vụ mà quá trình thực hiện có sử dụng internet, phương tiện, thiết bị điện tử, ứng dụng công nghệ thông tin",
+                "so_hieu": "26/VBHN-BCT",
+                "trich_yeu": "Quy định chi tiết Luật Thương mại về hoạt động xúc tiến thương mại",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Công thương",
+                "don_vi": [
+                    "Bộ Công thương",
+                    "Trung ương"
+                ],
+                "linh_vuc": null,
+                "score": 0.010315925209542231
+            }
+        ]
+    },
+    {
+        "id": 23401,
+        "cau_hoi": "Thủ tục xét xử vắng mặt tất cả những người tham gia tố tụng dân sư tại phiên tòa sơ thẩm được quy định như thế nào?",
+        "tra_loi": "Căn cứ quy định Điều 238 Bộ luật Tố tụng dân sự 2015 quy định về thủ tục xét xử vắng mặt tất cả những người tham gia tố tụng như sau:\nThủ tục xét xử vắng mặt tất cả những người tham gia tố tụng\n1. Tòa án căn cứ vào tài liệu, chứng cứ có trong hồ sơ để xét xử vắng mặt đương sự, người tham gia tố tụng khác theo quy định của pháp luật khi có đủ các điều kiện sau đây:\na) Nguyên đơn, người đại diện hợp pháp của nguyên đơn có đơn đề nghị xét xử vắng mặt;\nb) Bị đơn, người có quyền lợi, nghĩa vụ liên quan; người đại diện hợp pháp của bị đơn, người có quyền lợi, nghĩa vụ liên quan có đơn đề nghị xét xử vắng mặt hoặc đã được triệu tập hợp lệ lần thứ hai mà vẫn vắng mặt;\nc) Người bảo vệ quyền và lợi ích hợp pháp của nguyên đơn, bị đơn, người có quyền lợi, nghĩa vụ liên quan có đơn đề nghị xét xử vắng mặt hoặc đã được triệu tập hợp lệ lần thứ hai mà vẫn vắng mặt.\n2. Chủ tọa phiên tòa công bố lý do đương sự vắng mặt hoặc đơn của đương sự đề nghị Hội đồng xét xử vắng mặt.\n3. Chủ tọa phiên tòa công bố tóm tắt nội dung vụ án và tài liệu, chứng cứ có trong hồ sơ vụ án. Hội đồng xét xử thảo luận về những vấn đề cần giải quyết trong vụ án.\n4. Kiểm sát viên phát biểu ý kiến của Viện kiểm sát.\n5. Hội đồng xét xử tiến hành nghị án và tuyên án theo quy định của Bộ luật này.\nNhư vậy, thủ tục xét xử vắng mặt tất cả những người tham gia tố tụng được quy định như sau:\n- Tòa án căn cứ vào tài liệu, chứng cứ có trong hồ sơ để xét xử vắng mặt đương sự, người tham gia tố tụng khác theo quy định của pháp luật khi có đủ các điều kiện sau đây:\n+ Nguyên đơn, người đại diện hợp pháp của nguyên đơn có đơn đề nghị xét xử vắng mặt;\n+ Bị đơn, người có quyền lợi, nghĩa vụ liên quan; người đại diện hợp pháp của bị đơn, người có quyền lợi, nghĩa vụ liên quan có đơn đề nghị xét xử vắng mặt hoặc đã được triệu tập hợp lệ lần thứ hai mà vẫn vắng mặt;\n+ Người bảo vệ quyền và lợi ích hợp pháp của nguyên đơn, bị đơn, người có quyền lợi, nghĩa vụ liên quan có đơn đề nghị xét xử vắng mặt hoặc đã được triệu tập hợp lệ lần thứ hai mà vẫn vắng mặt.\n- Chủ tọa phiên tòa công bố lý do đương sự vắng mặt hoặc đơn của đương sự đề nghị Hội đồng xét xử vắng mặt.\n- Chủ tọa phiên tòa công bố tóm tắt nội dung vụ án và tài liệu, chứng cứ có trong hồ sơ vụ án. Hội đồng xét xử thảo luận về những vấn đề cần giải quyết trong vụ án.\n- Kiểm sát viên phát biểu ý kiến của Viện kiểm sát.\n- Hội đồng xét xử tiến hành nghị án và tuyên án theo quy định của Bộ luật này.\nTrân trọng!",
+        "trich_dan": [
+            {
+                "loai_vb": "Bộ luật",
+                "so_hieu": "92/2015/QH13",
+                "khoan": "",
+                "dieu": "238",
+                "trich_yeu": "Bộ luật Tố tụng dân sự 2015",
+                "noi_dung_kem_trich_dan": "Căn cứ quy định Điều 238 Bộ luật Tố tụng dân sự 2015 quy định về thủ tục xét xử vắng mặt tất cả những người tham gia tố tụng như sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 9,
+                "id": "dieu_10",
+                "id_document": 999999999580434,
+                "position": "Điều 10 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Thực hiện chế độ xét xử sơ thẩm có Hội thẩm tham gia Tòa án xét xử sơ thẩm các vụ án có Hội thẩm tham gia theo quy định của luật, trừ trường hợp xét xử theo thủ tục rút gọn.",
+                "so_hieu": "34/2024/QH15",
+                "trich_yeu": "Tổ chức Tòa án nhân dân 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.014130434782608696
+            },
+            {
+                "index": 167,
+                "id": "dieu_168",
+                "id_document": 96035,
+                "position": "Điều 168 / Mục 1 / Chương XI",
+                "dia_danh": "Trung ương",
+                "title": "Thủ tục xét xử vắng mặt tất cả những người tham gia tố tụng",
+                "so_hieu": "93/2015/QH13",
+                "trich_yeu": "Tố tụng hành chính 2015",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Tòa án nhân dân tối cao"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.012936840767568942
+            },
+            {
+                "index": 21,
+                "id": "dieu_22",
+                "id_document": 96172,
+                "position": "Điều 22 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Thực hiện chế độ xét xử có Hội thẩm tham gia Việc xét xử sơ thẩm của Tòa án có Hội thẩm tham gia, trừ trường hợp xét xử theo thủ tục rút gọn do Bộ luật này quy định.",
+                "so_hieu": "101/2015/QH13",
+                "trich_yeu": "Tố tụng hình sự 2015",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Viện kiểm sát nhân dân tối cao",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Trách nhiệm hình sự",
+                "score": 0.0125
+            },
+            {
+                "index": 237,
+                "id": "dieu_238",
+                "id_document": 96115,
+                "position": "Điều 238 / Mục 1 / Chương XIV",
+                "dia_danh": "Trung ương",
+                "title": "Thủ tục xét xử vắng mặt tất cả những người tham gia tố tụng",
+                "so_hieu": "92/2015/QH13",
+                "trich_yeu": "Tố tụng dân sự 2015",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Tòa án nhân dân tối cao"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.011816456787993788
+            },
+            {
+                "index": 24,
+                "id": "dieu_25",
+                "id_document": 99999999981043,
+                "position": "Điều 25 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "SỰ VẮNG MẶT CỦA MỘT BÊN Nếu các bên không có thoả thuận nào khác, nếu, không có lý do chính đáng,",
+                "so_hieu": "Không số",
+                "trich_yeu": "về trọng tài thương mại quốc tế của ủy ban liên hiệp quốc về luật thương mại quốc tế",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Liên hợp quốc",
+                "don_vi": [
+                    "Trung ương",
+                    "Liên hợp quốc"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.011714770797962648
+            },
+            {
+                "index": 157,
+                "id": "dieu_158",
+                "id_document": 96035,
+                "position": "Điều 158 / Mục 1 / Chương XI",
+                "dia_danh": "Trung ương",
+                "title": "Xét xử trong trường hợp đương sự vắng mặt tại phiên tòa Tòa án vẫn tiến hành xét xử vụ án trong các trường hợp sau đây:",
+                "so_hieu": "93/2015/QH13",
+                "trich_yeu": "Tố tụng hành chính 2015",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Tòa án nhân dân tối cao"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.01160031052456471
+            },
+            {
+                "index": 224,
+                "id": "dieu_225",
+                "id_document": 96035,
+                "position": "Điều 225 / Mục 1 / Chương XIII",
+                "dia_danh": "Trung ương",
+                "title": "Sự có mặt của đương sự, người bảo vệ quyền và lợi ích hợp pháp của đương sự, người giám định, người phiên dịch và người làm chứng",
+                "so_hieu": "93/2015/QH13",
+                "trich_yeu": "Tố tụng hành chính 2015",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Tòa án nhân dân tối cao"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.011512605042016805
+            },
+            {
+                "index": 289,
+                "id": "dieu_290",
+                "id_document": 96172,
+                "position": "Điều 290 / Chương XXI",
+                "dia_danh": "Trung ương",
+                "title": "Sự có mặt của bị cáo tại phiên tòa",
+                "so_hieu": "101/2015/QH13",
+                "trich_yeu": "Tố tụng hình sự 2015",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Viện kiểm sát nhân dân tối cao",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Trách nhiệm hình sự",
+                "score": 0.011362032462949895
+            },
+            {
+                "index": 154,
+                "id": "dieu_155",
+                "id_document": 96035,
+                "position": "Điều 155 / Mục 1 / Chương XI",
+                "dia_danh": "Trung ương",
+                "title": "Sự có mặt của thành viên Hội đồng xét xử và Thư ký Tòa án",
+                "so_hieu": "93/2015/QH13",
+                "trich_yeu": "Tố tụng hành chính 2015",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Tòa án nhân dân tối cao"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.011094736842105261
+            },
+            {
+                "index": 350,
+                "id": "dieu_351",
+                "id_document": 96172,
+                "position": "Điều 351 / Chương XXII",
+                "dia_danh": "Trung ương",
+                "title": "Sự có mặt của người bào chữa, người bảo vệ quyền và lợi ích hợp pháp của bị hại, đương sự, người kháng cáo, người có quyền lợi, nghĩa vụ liên quan đến kháng cáo, kháng nghị",
+                "so_hieu": "101/2015/QH13",
+                "trich_yeu": "Tố tụng hình sự 2015",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Viện kiểm sát nhân dân tối cao",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Trách nhiệm hình sự",
+                "score": 0.010856947763741891
+            },
+            {
+                "index": 8,
+                "id": "dieu_9",
+                "id_document": 999999999580434,
+                "position": "Điều 9 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Chế độ xét xử sơ thẩm, phúc thẩm được bảo đảm",
+                "so_hieu": "34/2024/QH15",
+                "trich_yeu": "Tổ chức Tòa án nhân dân 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010800385728061718
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 999999999651570,
+                "position": "Điều 1",
+                "dia_danh": "Trung ương",
+                "title": "Sửa đổi, bổ sung một số điều của Bộ luật Tố tụng dân sự",
+                "so_hieu": "85/2025/QH15",
+                "trich_yeu": "Sửa đổi Bộ luật Tố tụng dân sự, Luật Tố tụng hành chính",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010748106060606062
+            },
+            {
+                "index": 361,
+                "id": "dieu_362",
+                "id_document": 96172,
+                "position": "Điều 362 / Chương XXII",
+                "dia_danh": "Trung ương",
+                "title": "Thủ tục phúc thẩm đối với quyết định sơ thẩm",
+                "so_hieu": "101/2015/QH13",
+                "trich_yeu": "Tố tụng hình sự 2015",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Viện kiểm sát nhân dân tối cao",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Trách nhiệm hình sự",
+                "score": 0.010701676963812886
+            },
+            {
+                "index": 62,
+                "id": "dieu_63",
+                "id_document": 96115,
+                "position": "Điều 63 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Hội đồng xét xử sơ thẩm vụ án dân sự Hội đồng xét xử sơ thẩm vụ án dân sự gồm một Thẩm phán và hai Hội thẩm nhân dân, trừ trường hợp quy định tại Điều 65 của Bộ luật này. Trong trường hợp đặc biệt thì Hội đồng xét xử sơ thẩm có thể gồm hai Thẩm phán và ba Hội thẩm nhân dân. Đối với vụ án có đương sự là người chưa thành niên thì phải có Hội thẩm nhân dân là người đã hoặc đang công tác tại Đoàn thanh niên Cộng sản Hồ Chí Minh, Hội liên hiệp phụ nữ Việt Nam, cơ quan quản lý nhà nước về gia đình, cơ quan quản lý nhà nước về trẻ em. Đối với vụ án lao động thì phải có Hội thẩm nhân dân là người đã hoặc đang công tác trong tổ chức đại diện tập thể lao động hoặc người có kiến thức về pháp luật lao động.",
+                "so_hieu": "92/2015/QH13",
+                "trich_yeu": "Tố tụng dân sự 2015",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Tòa án nhân dân tối cao"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.010597402597402598
+            },
+            {
+                "index": 240,
+                "id": "dieu_241",
+                "id_document": 96115,
+                "position": "Điều 241 / Mục 2 / Chương XIV",
+                "dia_danh": "Trung ương",
+                "title": "Xem xét, quyết định hoãn phiên tòa khi có người vắng mặt Khi có người tham gia tố tụng vắng mặt tại phiên tòa mà không thuộc trường hợp Tòa án phải hoãn phiên tòa thì chủ tọa phiên tòa phải hỏi xem có ai đề nghị hoãn phiên tòa hay không; nếu có người đề nghị thì Hội đồng xét xử xem xét, quyết định theo thủ tục do Bộ luật này quy định và có thể chấp nhận hoặc không chấp nhận; trường hợp không chấp nhận thì phải nêu rõ lý do.",
+                "so_hieu": "92/2015/QH13",
+                "trich_yeu": "Tố tụng dân sự 2015",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Tòa án nhân dân tối cao"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.010335580198593897
+            },
+            {
+                "index": 20,
+                "id": "dieu_21",
+                "id_document": 96172,
+                "position": "Điều 21 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Bảo đảm sự vô tư của người có thẩm quyền tiến hành tố tụng, người tham gia tố tụng Người có thẩm quyền tiến hành tố tụng, người phiên dịch, người dịch thuật, người giám định, người định giá tài sản, người chứng kiến không được tham gia tố tụng nếu có lý do cho rằng họ có thể không vô tư trong khi thực hiện nhiệm vụ.",
+                "so_hieu": "101/2015/QH13",
+                "trich_yeu": "Tố tụng hình sự 2015",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Viện kiểm sát nhân dân tối cao",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Trách nhiệm hình sự",
+                "score": 0.010280682443588332
+            },
+            {
+                "index": 20,
+                "id": "dieu_21",
+                "id_document": 96115,
+                "position": "Điều 21 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Kiểm sát việc tuân theo pháp luật trong tố tụng dân sự",
+                "so_hieu": "92/2015/QH13",
+                "trich_yeu": "Tố tụng dân sự 2015",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Tòa án nhân dân tối cao"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.010128495842781558
+            },
+            {
+                "index": 368,
+                "id": "dieu_369",
+                "id_document": 96115,
+                "position": "Điều 369 / Chương XXIII",
+                "dia_danh": "Trung ương",
+                "title": "Thủ tục tiến hành phiên họp giải quyết việc dân sự",
+                "so_hieu": "92/2015/QH13",
+                "trich_yeu": "Tố tụng dân sự 2015",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Tòa án nhân dân tối cao"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.010117789187556629
+            },
+            {
+                "index": 304,
+                "id": "dieu_305",
+                "id_document": 96172,
+                "position": "Điều 305 / Chương XXI",
+                "dia_danh": "Trung ương",
+                "title": "Giải quyết yêu cầu về xem xét chứng cứ và hoãn phiên tòa khi có người vắng mặt Chủ tọa phiên tòa phải hỏi Kiểm sát viên và những người tham gia tố tụng có mặt tại phiên tòa xem có ai yêu cầu triệu tập thêm người làm chứng hoặc yêu cầu đưa thêm vật chứng, tài liệu ra xem xét hay không. Nếu có người tham gia tố tụng vắng mặt hoặc tuy có mặt tại phiên tòa nhưng vì lý do sức khỏe không thể tham gia tố tụng thì chủ tọa phiên tòa phải hỏi xem có ai yêu cầu hoãn phiên tòa hay không; nếu có người yêu cầu thì Hội đồng xét xử xem xét, quyết định. Mục V. THỦ TỤC TRANH TỤNG TẠI PHIÊN TÒA",
+                "so_hieu": "101/2015/QH13",
+                "trich_yeu": "Tố tụng hình sự 2015",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Viện kiểm sát nhân dân tối cao",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Trách nhiệm hình sự",
+                "score": 0.010049019607843136
+            },
+            {
+                "index": 10,
+                "id": "dieu_11",
+                "id_document": 96115,
+                "position": "Điều 11 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Hội thẩm nhân dân tham gia xét xử vụ án dân sự",
+                "so_hieu": "92/2015/QH13",
+                "trich_yeu": "Tố tụng dân sự 2015",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Tòa án nhân dân tối cao"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.010026118459853399
+            }
+        ]
+    },
+    {
+        "id": 1594,
+        "cau_hoi": "Thẩm quyền quy định việc đặt tên tuyến, tên ga đường sắt thuộc về cơ quan nào?",
+        "tra_loi": "Căn cứ theo điểm a khoản 3 Điều 10 Luật Đường sắt 2017 quy định như sau:\nĐiều 10. Hệ thống đường sắt Việt Nam\n[...]\n3. Thẩm quyền quy định việc đặt tên tuyến, tên ga đường sắt; quyết định đưa tuyến, đoạn tuyến, ga đường sắt vào khai thác; dừng khai thác, tháo dỡ tuyến được quy định như sau:\na) Chính phủ quy định việc đặt tên tuyến, tên ga đường sắt và tháo dỡ tuyến, đoạn tuyến, ga đường sắt;\nb) Bộ trưởng Bộ Giao thông vận tải quyết định đưa vào khai thác, dừng khai thác tuyến, đoạn tuyến, ga đường sắt quốc gia;\nc) Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định đưa vào khai thác, dừng khai thác tuyến, đoạn tuyến, ga đường sắt đô thị;\nd) Chủ đầu tư quyết định đưa vào khai thác, dừng khai thác tuyến, đoạn tuyến, ga đường sắt chuyên dùng do mình đầu tư.\nNhư vậy, Chính phủ mới có thẩm quyền quy định việc đặt tên tuyến, tên ga đường sắt.",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "06/2017/QH14",
+                "khoan": "3",
+                "dieu": "10",
+                "trich_yeu": "Luật Đường sắt 2017",
+                "noi_dung_kem_trich_dan": "Căn cứ theo điểm a khoản 3 Điều 10 Luật Đường sắt 2017 quy định như sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 9,
+                "id": "dieu_10",
+                "id_document": 126171,
+                "position": "Điều 10 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Hệ thống đường sắt Việt Nam",
+                "so_hieu": "06/2017/QH14",
+                "trich_yeu": "Đường sắt 2017",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Giao thông vận tải"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.015625
+            },
+            {
+                "index": 9,
+                "id": "dieu_10",
+                "id_document": 999999999588951,
+                "position": "Điều 10 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Hệ thống đường sắt Việt Nam",
+                "so_hieu": "05/VBHN-VPQH",
+                "trich_yeu": "Năm 2023 hợp nhất Luật Đường sắt do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.01544011544011544
+            },
+            {
+                "index": 9,
+                "id": "dieu_10",
+                "id_document": 999999999629296,
+                "position": "Điều 10 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Hệ thống đường sắt Việt Nam",
+                "so_hieu": "07/VBHN-VPQH",
+                "trich_yeu": "Năm 2024 hợp nhất Luật Đường sắt do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.01540683678382282
+            },
+            {
+                "index": 9,
+                "id": "dieu_10",
+                "id_document": 999999999651352,
+                "position": "Điều 10 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Hệ thống đường sắt Việt Nam",
+                "so_hieu": "20/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Đường sắt do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.015380906460945035
+            },
+            {
+                "index": 6,
+                "id": "dieu_4_dk_1",
+                "id_document": 134890,
+                "position": "Điều 4 / Chương I",
+                "dia_danh": "tỉnh Hải Dương",
+                "title": "Nguyên tắc chung",
+                "so_hieu": "13/2014/QĐ-UBND",
+                "trich_yeu": "Về đặt tên, đổi tên đường, phố và công trình công cộng trên địa bàn tỉnh Hải Dương",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Hải Dương",
+                "don_vi": [
+                    "Hải Dương"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.012622309197651662
+            },
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 128973,
+                "position": "Điều 5 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Thẩm quyền, trình tự đặt tên, đổi tên tuyến, tên ga đường sắt",
+                "so_hieu": "56/2018/NĐ-CP",
+                "trich_yeu": "Quy định về quản lý bảo vệ kết cấu hạ tầng đường sắt",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Giao thông vận tải",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.012613843351548271
+            },
+            {
+                "index": 20,
+                "id": "dieu_18_dk_1",
+                "id_document": 171560,
+                "position": "Điều 18 / Chương IV",
+                "dia_danh": "thành phố Hồ Chí Minh",
+                "title": "Ga đường sắt đô thị",
+                "so_hieu": "97/2024/QĐ-UBND",
+                "trich_yeu": "Quy định về quản lý, điều hành giao thông vận tải đường sắt đô thị trên địa bàn Thành phố Hồ Chí Minh",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND thành phố Hồ Chí Minh",
+                "don_vi": [
+                    "TP. Hồ Chí Minh"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.012611832611832612
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 128973,
+                "position": "Điều 4 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Nguyên tắc đặt tên tuyến, tên ga đường sắt",
+                "so_hieu": "56/2018/NĐ-CP",
+                "trich_yeu": "Quy định về quản lý bảo vệ kết cấu hạ tầng đường sắt",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Giao thông vận tải",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.012474622152041506
+            },
+            {
+                "index": 7,
+                "id": "dieu_5_dk_1",
+                "id_document": 153361,
+                "position": "Điều 5 / Chương II",
+                "dia_danh": "thành phố Cần Thơ",
+                "title": "Thẩm quyền đặt tên, đổi tên đường và công trình công cộng",
+                "so_hieu": "09/2022/QĐ-UBND",
+                "trich_yeu": "Quy chế đặt đổi tên đường công trình công cộng Cần Thơ",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND thành phố Cần Thơ",
+                "don_vi": [
+                    "Cần Thơ"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.011756489349319055
+            },
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 173895,
+                "position": "Điều 8 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Đặt tên, đổi tên, số hiệu đường bộ",
+                "so_hieu": "165/2024/NĐ-CP",
+                "trich_yeu": "Hướng dẫn Luật Đường bộ số 35/2024/QH15",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Giao thông vận tải",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.011679844638646136
+            },
+            {
+                "index": 16,
+                "id": "dieu_14_dk_1",
+                "id_document": 167296,
+                "position": "Điều 14 / Chương V",
+                "dia_danh": "tỉnh Bạc Liêu",
+                "title": "Thẩm quyền đặt tên, đổi tên đường và công trình công cộng",
+                "so_hieu": "18/2024/QĐ-UBND",
+                "trich_yeu": "Về Quy chế đặt tên, đổi tên đường và công trình công cộng trên địa bàn tỉnh Bạc Liêu",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Bạc Liêu",
+                "don_vi": [
+                    "Bạc Liêu"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.011652703731911653
+            },
+            {
+                "index": 14,
+                "id": "dieu_12_dk_1",
+                "id_document": 151420,
+                "position": "Điều 12 / Chương V",
+                "dia_danh": "tỉnh Khánh Hòa",
+                "title": "Thẩm quyền đặt tên, đổi tên đường và công trình công cộng",
+                "so_hieu": "16/2021/QĐ-UBND",
+                "trich_yeu": "Quy chế đặt tên đổi tên đường Khánh Hòa",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Khánh Hòa",
+                "don_vi": [
+                    "Khánh Hòa"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.01141917808219178
+            },
+            {
+                "index": 6,
+                "id": "dieu_4_dk_1",
+                "id_document": 149978,
+                "position": "Điều 4 / Chương I",
+                "dia_danh": "tỉnh Lai Châu",
+                "title": "Nguyên tắc về đặt tên, đổi tên đường, phố và công trình công cộng",
+                "so_hieu": "35/2021/QĐ-UBND",
+                "trich_yeu": "Quy chế đặt tên đổi tên đường phố tỉnh Lai Châu",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Lai Châu",
+                "don_vi": [
+                    "Lai Châu"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.011294180175391974
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 68824,
+                "position": "Điều 2",
+                "dia_danh": "tỉnh Gia Lai",
+                "title": "Các Quyết định trước đây về việc đặt tên, uỷ quyền quản lý các tuyến Đường tỉnh trái với Quyết định này được bãi bỏ.",
+                "so_hieu": "91/2007/QĐ-UBND",
+                "trich_yeu": "Điều chỉnh đổi tên và uỷ quyền quản lý hệ thống đường tỉnh do Ủy ban nhân dân tỉnh Gia Lai ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Gia Lai",
+                "don_vi": [
+                    "Gia Lai"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.010921985815602837
+            },
+            {
+                "index": 6,
+                "id": "dieu_4_dk_1",
+                "id_document": 161305,
+                "position": "Điều 4 / Chương II",
+                "dia_danh": "tỉnh Vĩnh Long",
+                "title": "Thẩm quyền đặt tên, đổi tên đường và công trình công cộng",
+                "so_hieu": "17/2023/QĐ-UBND",
+                "trich_yeu": "Về Quy định đặt tên, đổi tên đường và công trình công cộng trên địa bàn tỉnh Vĩnh Long",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Vĩnh Long",
+                "don_vi": [
+                    "Vĩnh Long"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.010888501742160278
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 128973,
+                "position": "Điều 1 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Phạm vi điều chỉnh Nghị định này quy định về quản lý, bảo vệ kết cấu hạ tầng đường sắt, bao gồm: Đặt tên tuyến, tên ga đường sắt; tháo dỡ tuyến, đoạn tuyến, ga đường sắt; phạm vi bảo vệ công trình, hành lang an toàn giao thông đường sắt; quản lý, sử dụng, khai thác đất dành cho đường sắt; trách nhiệm quản lý, bảo vệ kết cấu hạ tầng đường sắt.",
+                "so_hieu": "56/2018/NĐ-CP",
+                "trich_yeu": "Quy định về quản lý bảo vệ kết cấu hạ tầng đường sắt",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Giao thông vận tải",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giao thông - Vận tải",
+                "score": 0.010758620689655173
+            },
+            {
+                "index": 6,
+                "id": "dieu_4",
+                "id_document": 134431,
+                "position": "Điều 4 / Chương II",
+                "dia_danh": "tỉnh Quảng Bình",
+                "title": "Đặt tên, số hiệu đường huyện, đường xã, đường chuyên dùng",
+                "so_hieu": "06/2019/QĐ-UBND",
+                "trich_yeu": "Ban hành Quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ đối với hệ thống đường địa phương trên địa bàn tỉnh Quảng Bình",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Hết hiệu lực một phần",
+                "co_quan_ban_hanh": "UBND tỉnh Quảng Bình",
+                "don_vi": [
+                    "Quảng Bình"
+                ],
+                "linh_vuc": null,
+                "score": 0.010647279549718575
+            },
+            {
+                "index": 14,
+                "id": "dieu_12_dk_1",
+                "id_document": 147654,
+                "position": "Điều 12 / Chương IV",
+                "dia_danh": "tỉnh Quảng Nam",
+                "title": "Thẩm quyền đặt tên, đổi tên đường và công trình công cộng",
+                "so_hieu": "02/2021/QĐ-UBND",
+                "trich_yeu": "Quy chế đặt đổi tên đường và công trình công cộng Quảng Nam",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Quảng Nam",
+                "don_vi": [
+                    "Quảng Nam"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.010460842521911224
+            },
+            {
+                "index": 9,
+                "id": "dieu_7_dk_1",
+                "id_document": 158662,
+                "position": "Điều 7 / Chương III",
+                "dia_danh": "tỉnh Lạng Sơn",
+                "title": "Thẩm quyền đặt tên, đổi tên đường phố và công trình công cộng",
+                "so_hieu": "35/2022/QĐ-UBND",
+                "trich_yeu": "Quy chế đặt tên đổi tên đường công trình công cộng Lạng Sơn",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Lạng Sơn",
+                "don_vi": [
+                    "Lạng Sơn"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.010455005055611729
+            },
+            {
+                "index": 16,
+                "id": "dieu_14_dk_1",
+                "id_document": 157971,
+                "position": "Điều 14 / Chương IV",
+                "dia_danh": "tỉnh Đồng Nai",
+                "title": "Xác định mức giá của các đường chưa có quy định mức giá cụ thể Đối với đất tại các tuyến đường đã được cơ quan có thẩm quyền đặt tên nhưng chưa quy định mức giá đất cụ thể thì được xác định vị trí theo nguyên tắc quy định tại các điểm b, c, d khoản 1 và điểm b, c, d khoản 2 Điều 7 của quy định này.",
+                "so_hieu": "56/2022/QĐ-UBND",
+                "trich_yeu": "Điều chỉnh bảng giá đất tại 49/2019/QĐ-UBND Đồng Nai",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Đồng Nai",
+                "don_vi": [
+                    "Đồng Nai"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.010408432147562582
+            }
+        ]
+    },
+    {
+        "id": 26745,
+        "cau_hoi": "Từ ngày 01/07/2025 thời hạn thuê trụ sở của Phòng công chứng tối thiểu là bao lâu?",
+        "tra_loi": "Căn cứ Điều 8 Nghị định 104/2025/NĐ-CP quy định:\nĐiều 8. Điều kiện về trụ sở của Phòng công chứng\n1. Có địa chỉ cụ thể theo địa giới hành chính.\n2. Bảo đảm diện tích làm việc cho công chứng viên, viên chức khác, người lao động, diện tích sử dụng chung và diện tích chuyên dùng theo quy định pháp luật về tiêu chuẩn, định mức sử dụng trụ sở làm việc của cơ sở hoạt động sự nghiệp và pháp luật về quản lý, sử dụng tài sản công; bảo đảm các điều kiện về phòng, chống cháy nổ và lưu trữ hồ sơ công chứng theo quy định của pháp luật.\n3. Trường hợp thuê trụ sở thì thời hạn thuê tối thiểu là 02 năm.\nNhư vậy, thời hạn thuê trụ sở của Phòng công chứng tối thiểu là 02 năm.\nTừ ngày 01/07/2025 thời hạn thuê trụ sở của Phòng công chứng tối thiểu là bao lâu? (Hình từ Internet)",
+        "trich_dan": [
+            {
+                "loai_vb": "Nghị định",
+                "so_hieu": "104/2025/NĐ-CP",
+                "khoan": "",
+                "dieu": "8",
+                "trich_yeu": "Nghị định 104/2025/NĐ-CP",
+                "noi_dung_kem_trich_dan": "Căn cứ Điều 8 Nghị định 104/2025/NĐ-CP quy định:"
+            }
+        ],
+        "msg": "Không có kết quả tìm kiếm!",
+        "retrieved": []
+    }
+]

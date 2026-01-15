@@ -1,0 +1,1387 @@
+[
+    {
+        "id": 15111,
+        "cau_hoi": "Giải thích Hiến pháp được thực hiện khi nào?",
+        "tra_loi": "Căn cứ theo Điều 60 Luật Ban hành văn bản quy phạm pháp luật 2025 quy định như sau:\nĐiều 60. Giải thích Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban Thường vụ Quốc hội\n1. Việc giải thích Hiến pháp, luật, pháp lệnh, nghị quyết không được làm thay đổi nội dung quy định được giải thích và được thực hiện trong các trường hợp sau đây:\na) Có cách hiểu khác nhau về quy định của văn bản;\nb) Chưa thống nhất việc áp dụng các văn bản.\n2. Việc giải thích Hiến pháp, luật, pháp lệnh, nghị quyết phải bảo đảm thực hiện theo thứ tự các nguyên tắc, tiêu chí sau đây:\na) Phù hợp với nghĩa phổ thông của từ ngữ sử dụng trong văn bản quy phạm pháp luật đó;\nb) Căn cứ vào quá trình xây dựng nội dung liên quan đến quy định cần giải thích;\nc) Phù hợp với quan điểm chỉ đạo, mục đích, tinh thần ban hành văn bản;\nd) Bảo đảm tính thống nhất trong hệ thống pháp luật.\n3. Ủy ban Thường vụ Quốc hội tự mình hoặc theo đề nghị của Chủ tịch nước, Hội đồng Dân tộc, Ủy ban của Quốc hội, Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, cơ quan trung ương của tổ chức thành viên của Mặt trận và đại biểu Quốc hội thực hiện giải thích Hiến pháp, luật, pháp lệnh, nghị quyết.\nNhư vậy, việc giải thích Hiến pháp được thực hiện trong các trường hợp sau đây:\n- Có cách hiểu khác nhau về quy định của văn bản;\n- Chưa thống nhất việc áp dụng các văn bản.\nLưu ý: Việc giải thích Hiến pháp không được làm thay đổi nội dung quy định được giải thích.",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "64/2025/QH15",
+                "khoan": "",
+                "dieu": "60",
+                "trich_yeu": "Luật Ban hành văn bản quy phạm pháp luật 2025",
+                "noi_dung_kem_trich_dan": "Căn cứ theo Điều 60 Luật Ban hành văn bản quy phạm pháp luật 2025 quy định như sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 32801,
+                "position": "Điều 2 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "",
+                "so_hieu": "Không số",
+                "trich_yeu": "Năm 2013",
+                "loai_van_ban": "Hiến pháp",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": null,
+                "score": 0.015932377049180328
+            },
+            {
+                "index": 37,
+                "id": "dieu_38",
+                "id_document": 32801,
+                "position": "Điều 38 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "",
+                "so_hieu": "Không số",
+                "trich_yeu": "Năm 2013",
+                "loai_van_ban": "Hiến pháp",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": null,
+                "score": 0.01592741935483871
+            },
+            {
+                "index": 113,
+                "id": "dieu_114",
+                "id_document": 32801,
+                "position": "Điều 114 / Chương IX",
+                "dia_danh": "Trung ương",
+                "title": "",
+                "so_hieu": "Không số",
+                "trich_yeu": "Năm 2013",
+                "loai_van_ban": "Hiến pháp",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": null,
+                "score": 0.015896671634376552
+            },
+            {
+                "index": 14,
+                "id": "dieu_15",
+                "id_document": 32801,
+                "position": "Điều 15 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "",
+                "so_hieu": "Không số",
+                "trich_yeu": "Năm 2013",
+                "loai_van_ban": "Hiến pháp",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": null,
+                "score": 0.01568238213399504
+            },
+            {
+                "index": 102,
+                "id": "dieu_103",
+                "id_document": 32801,
+                "position": "Điều 103 / Chương VIII",
+                "dia_danh": "Trung ương",
+                "title": "",
+                "so_hieu": "Không số",
+                "trich_yeu": "Năm 2013",
+                "loai_van_ban": "Hiến pháp",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": null,
+                "score": 0.015677655677655677
+            },
+            {
+                "index": 30,
+                "id": "dieu_31",
+                "id_document": 32801,
+                "position": "Điều 31 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "",
+                "so_hieu": "Không số",
+                "trich_yeu": "Năm 2013",
+                "loai_van_ban": "Hiến pháp",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": null,
+                "score": 0.01544011544011544
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "cau_hoi": "Các hành vi nào là hành vi bị nghiêm cấm trong tín ngưỡng, tôn giáo?",
+        "tra_loi": "Căn cứ theo Điều 5 Luật Tín ngưỡng, tôn giáo 2016 quy định về các hành vi bị nghiêm cấm trong tín ngưỡng, tôn giáo như sau:\n[1] Phân biệt đối xử, kỳ thị vì lý do tín ngưỡng, tôn giáo.\n[2] Ép buộc, mua chuộc hoặc cản trở người khác theo hoặc không theo tín ngưỡng, tôn giáo.\n[3] Xúc phạm tín ngưỡng, tôn giáo.\n[4] Hoạt động tín ngưỡng, hoạt động tôn giáo:\n- Xâm phạm quốc phòng, an ninh, chủ quyền quốc gia, trật tự, an toàn xã hội, môi trường;\n- Xâm hại đạo đức xã hội; xâm phạm thân thể, sức khỏe, tính mạng, tài sản; xúc phạm danh dự, nhân phẩm của người khác;\n- Cản trở việc thực hiện quyền và nghĩa vụ công dân;\n- Chia rẽ dân tộc; chia rẽ tôn giáo; chia rẽ người theo tín ngưỡng, tôn giáo với người không theo tín ngưỡng, tôn giáo, giữa những người theo các tín ngưỡng, tôn giáo khác nhau.\n[5] Lợi dụng hoạt động tín ngưỡng, hoạt động tôn giáo để trục lợi.",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "02/2016/QH14",
+                "khoan": "",
+                "dieu": "5",
+                "trich_yeu": "Luật Tín ngưỡng, tôn giáo 2016",
+                "noi_dung_kem_trich_dan": "Căn cứ theo Điều 5 Luật Tín ngưỡng, tôn giáo 2016 quy định về các hành vi bị nghiêm cấm trong tín ngưỡng, tôn giáo như sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 999999999671133,
+                "position": "Điều 5 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Các hành vi bị nghiêm cấm",
+                "so_hieu": "74/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Tín ngưỡng, tôn giáo do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.012777242044358728
+            },
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 117201,
+                "position": "Điều 5 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Các hành vi bị nghiêm cấm",
+                "so_hieu": "02/2016/QH14",
+                "trich_yeu": "Tín ngưỡng tôn giáo 2016",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Nội vụ",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.012225190055475652
+            },
+            {
+                "index": 5,
+                "id": "dieu_3_dk_1",
+                "id_document": 999999999657678,
+                "position": "Điều 3 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Các hành vi nghiêm cấm Các hành vi bị nghiêm cấm gồm:",
+                "so_hieu": "1489/QĐ-BNNMT",
+                "trich_yeu": "2025 Quy chế Bảo vệ bí mật nhà nước của Bộ Nông nghiệp",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Nông nghiệp và Môi trường",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Nông nghiệp và Môi trường"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011328402067078731
+            },
+            {
+                "index": 9,
+                "id": "dieu_7_dk_1",
+                "id_document": 999999999588817,
+                "position": "Điều 7 / Chương I",
+                "dia_danh": "thành phố Hà Nội",
+                "title": "Các hành vi bị nghiêm cấm",
+                "so_hieu": "2223/QĐ-UBND",
+                "trich_yeu": "Năm 2023 về Quy chế bảo đảm an toàn thông tin mạng trong hoạt động của cơ quan nhà nước Thành phố Hà Nội",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND thành phố Hà Nội",
+                "don_vi": [
+                    "Hà Nội"
+                ],
+                "linh_vuc": "Công nghệ thông tin",
+                "score": 0.011251646903820817
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 999999999669225,
+                "position": "Điều 4 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Hành vi bị nghiêm cấm",
+                "so_hieu": "06/2025/TT-TANDTC",
+                "trich_yeu": "Quy định mẫu, việc cấp phát, sử dụng trang phục, Giấy chứng nhận chức danh tư pháp, Giấy chứng nhận Tòa án nhân dân, biển tên của Thẩm tra viên Tòa án, Thư ký Tòa án, công chức khác, viên chức và người lao động trong Tòa án nhân dân do Chánh án Tòa án nhân dân tối cao ban hành",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Tòa án nhân dân tối cao",
+                "don_vi": [
+                    "Trung ương",
+                    "Tòa án nhân dân tối cao"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011231884057971014
+            },
+            {
+                "index": 7,
+                "id": "dieu_5_dk_1",
+                "id_document": 999999999541278,
+                "position": "Điều 5 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Các hành vi bị nghiêm cấm",
+                "so_hieu": "3710/QĐ-BGDĐT",
+                "trich_yeu": "2022 Quy chế đảm bảo An toàn thông tin mạng của Bộ Giáo dục",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Giáo dục và Đào tạo"
+                ],
+                "linh_vuc": "Công nghệ thông tin",
+                "score": 0.011215932914046121
+            },
+            {
+                "index": 7,
+                "id": "dieu_5_dk_1",
+                "id_document": 999999999529913,
+                "position": "Điều 5 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Các hành vi bị nghiêm cấm",
+                "so_hieu": "2356/QĐ-BTNMT",
+                "trich_yeu": "2022 khai thác hồ sơ tài liệu lưu trữ tại Kho lưu trữ Bộ Tài nguyên",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Tài nguyên và Môi trường",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tài nguyên và Môi trường"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011193737769080236
+            },
+            {
+                "index": 14,
+                "id": "dieu_15",
+                "id_document": 999999999630410,
+                "position": "Điều 15 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Hành vi bị nghiêm cấm",
+                "so_hieu": "29/VBHN-VPQH",
+                "trich_yeu": "Năm 2024 hợp nhất Luật Các tổ chức tín dụng do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Tiền tệ - Ngân hàng",
+                "score": 0.011016380879394577
+            },
+            {
+                "index": 14,
+                "id": "dieu_15",
+                "id_document": 166170,
+                "position": "Điều 15 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Hành vi bị nghiêm cấm",
+                "so_hieu": "32/2024/QH15",
+                "trich_yeu": "Các tổ chức tín dụng 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Ngân hàng Nhà nước Việt Nam",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tiền tệ - Ngân hàng",
+                "score": 0.010866728797763282
+            },
+            {
+                "index": 7,
+                "id": "dieu_5_dk_1",
+                "id_document": 115311,
+                "position": "Điều 5 / Chương I",
+                "dia_danh": "tỉnh Lai Châu",
+                "title": "Các hành vi bị nghiêm cấm",
+                "so_hieu": "04/2016/QĐ-UBND",
+                "trich_yeu": "An toàn an ninh thông tin ứng dụng công nghệ thông tin Lai Châu 2016",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Lai Châu",
+                "don_vi": [
+                    "Lai Châu"
+                ],
+                "linh_vuc": "Công nghệ thông tin",
+                "score": 0.010818713450292398
+            },
+            {
+                "index": 4,
+                "id": "dieu_3_dk_1",
+                "id_document": 58637,
+                "position": "Điều 3 / Chương II",
+                "dia_danh": "tỉnh Ninh Thuận",
+                "title": "Những hành vi bị nghiêm cấm",
+                "so_hieu": "58/2014/QĐ-UBND",
+                "trich_yeu": "Về Quy chế phối hợp quản lý hoạt động kinh doanh du lịch trên địa bàn tỉnh Ninh Thuận",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Ninh Thuận",
+                "don_vi": [
+                    "Ninh Thuận"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.010752688172043012
+            },
+            {
+                "index": 6,
+                "id": "dieu_7",
+                "id_document": 999999999666032,
+                "position": "Điều 7 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Các hành vi bị nghiêm cấm Nghiêm cấm các hành vi sau đây:",
+                "so_hieu": "04/VBHN-BDTTG",
+                "trich_yeu": "Năm 2025 hợp nhất Nghị định về Công tác dân tộc do Bộ Dân tộc và Tôn giáo ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Dân tộc và Tôn giáo",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Dân tộc và Tôn giáo"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.010612015721504772
+            },
+            {
+                "index": 6,
+                "id": "dieu_7",
+                "id_document": 999999999628628,
+                "position": "Điều 7 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Các hành vi bị nghiêm cấm Nghiêm cấm các hành vi sau đây:",
+                "so_hieu": "01/VBHN-UBDT",
+                "trich_yeu": "Năm 2024 hợp nhất Nghị định về Công tác dân tộc do Ủy ban Dân tộc ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Ủy ban Dân tộc",
+                "don_vi": [
+                    "Trung ương",
+                    "Ủy ban Dân tộc"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010609109200658497
+            },
+            {
+                "index": 6,
+                "id": "dieu_4_dk_1",
+                "id_document": 93535,
+                "position": "Điều 4 / Chương I",
+                "dia_danh": "tỉnh Đắk Nông",
+                "title": "Các hành vi bị nghiêm cấm Nghiêm cấm mọi tổ chức và cá nhân thực hiện các hành vi sau đây:",
+                "so_hieu": "37/2015/QĐ-UBND",
+                "trich_yeu": "Quản lý bảo vệ phát huy di tích lịch sử danh lam thắng cảnh Đắk Nông",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Đắk Nông",
+                "don_vi": [
+                    "Đắk Nông"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.0105
+            },
+            {
+                "index": 15,
+                "id": "dieu_1_1_dk_1",
+                "id_document": 107222,
+                "position": "Điều 1 / Chương III",
+                "dia_danh": "tỉnh An Giang",
+                "title": "Các hành vi bị nghiêm cấm:",
+                "so_hieu": "30/2016/QĐ-UBND",
+                "trich_yeu": "Quản lý điểm truy nhập Internet công cộng trò chơi điện tử An Giang",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh An Giang",
+                "don_vi": [
+                    "An Giang"
+                ],
+                "linh_vuc": "Công nghệ thông tin",
+                "score": 0.010445804195804195
+            },
+            {
+                "index": 5,
+                "id": "dieu_6",
+                "id_document": 113088,
+                "position": "Điều 6 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Các hành vi bị nghiêm cấm",
+                "so_hieu": "96/2016/NĐ-CP",
+                "trich_yeu": "Hoạt động kinh doanh ngành nghề đầu tư kinh doanh điều kiện an ninh trật tự",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công an"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.010338088723861638
+            },
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 165688,
+                "position": "Điều 8",
+                "dia_danh": "Trung ương",
+                "title": "Các hành vi bị nghiêm cấm",
+                "so_hieu": "96/2023/QH15",
+                "trich_yeu": "Lấy phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn",
+                "loai_van_ban": "Nghị quyết",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010297639411563461
+            },
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 123878,
+                "position": "Điều 5 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Các hành vi bị nghiêm cấm",
+                "so_hieu": "66/2017/NĐ-CP",
+                "trich_yeu": "Điều kiện kinh doanh thiết bị phần mềm ngụy trang ghi âm ghi hình định vị",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Công an",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.010175240248728096
+            },
+            {
+                "index": 10,
+                "id": "dieu_8_dk_1",
+                "id_document": 999999999679398,
+                "position": "Điều 8 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Các hành vi bị nghiêm cấm",
+                "so_hieu": "2064/QĐ-CHK",
+                "trich_yeu": "Năm 2025 về Quy chế quản lý, cung cấp thông tin trên Trang Thông tin điện tử Cục Hàng không Việt Nam",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Cục Hàng không Việt Nam",
+                "don_vi": [
+                    "Trung ương",
+                    "Cục Hàng không Việt Nam"
+                ],
+                "linh_vuc": "Công nghệ thông tin",
+                "score": 0.010107705053852526
+            },
+            {
+                "index": 14,
+                "id": "dieu_15",
+                "id_document": 999999999672559,
+                "position": "Điều 15 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Hành vi bị nghiêm cấm",
+                "so_hieu": "158/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Các tổ chức tín dụng do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Tiền tệ - Ngân hàng",
+                "score": 0.010043898156277436
+            }
+        ]
+    },
+    {
+        "id": 5385,
+        "cau_hoi": "Quy định về hình thức tổ chức biểu diễn nghệ thuật như thế nào?",
+        "tra_loi": "Căn cứ Điều 8 Nghị định 144/2020/NĐ-CP quy định về hình thức tổ chức biểu diễn nghệ thuật như sau:\n[1] Tổ chức biểu diễn nghệ thuật phục vụ nhiệm vụ chính trị; biểu diễn nghệ thuật phục vụ nội bộ cơ quan và tổ chức, thực hiện thông báo theo quy định tại Điều 9 Nghị định 144/2020/NĐ-CP.\n[2] Tổ chức biểu diễn nghệ thuật phục vụ tại các cơ sở kinh doanh dịch vụ du lịch, vui chơi, giải trí, nhà hàng không bán vé xem biểu diễn nghệ thuật, thực hiện thông báo theo quy định tại Điều 9 Nghị định 144/2020/NĐ-CP.\n[3] Tổ chức biểu diễn nghệ thuật khác không thuộc hình thức quy định tại các khoản 1 và 2 Điều này, thực hiện quy định tại Điều 10 Nghị định 144/2020/NĐ-CP.\n[4] Tổ chức biểu diễn nghệ thuật không trực tiếp trước công chúng được đăng tải trên hệ thống phát thanh, truyền hình và môi trường mạng do người đăng, phát chịu trách nhiệm.",
+        "trich_dan": [
+            {
+                "loai_vb": "Nghị định",
+                "so_hieu": "144/2020/NĐ-CP",
+                "khoan": "",
+                "dieu": "8",
+                "trich_yeu": "Nghị định 144/2020/NĐ-CP",
+                "noi_dung_kem_trich_dan": "Căn cứ Điều 8 Nghị định 144/2020/NĐ-CP quy định về hình thức tổ chức biểu diễn nghệ thuật như sau:"
+            },
+            {
+                "loai_vb": "Nghị định",
+                "so_hieu": "144/2020/NĐ-CP",
+                "khoan": "",
+                "dieu": "9",
+                "trich_yeu": "Nghị định 144/2020/NĐ-CP",
+                "noi_dung_kem_trich_dan": "[1] Tổ chức biểu diễn nghệ thuật phục vụ nhiệm vụ chính trị; biểu diễn nghệ thuật phục vụ nội bộ cơ quan và tổ chức, thực hiện thông báo theo quy định tại Điều 9 Nghị định 144/2020/NĐ-CP."
+            },
+            {
+                "loai_vb": "Nghị định",
+                "so_hieu": "144/2020/NĐ-CP",
+                "khoan": "",
+                "dieu": "9",
+                "trich_yeu": "Nghị định 144/2020/NĐ-CP",
+                "noi_dung_kem_trich_dan": "[2] Tổ chức biểu diễn nghệ thuật phục vụ tại các cơ sở kinh doanh dịch vụ du lịch, vui chơi, giải trí, nhà hàng không bán vé xem biểu diễn nghệ thuật, thực hiện thông báo theo quy định tại Điều 9 Nghị định 144/2020/NĐ-CP."
+            },
+            {
+                "loai_vb": "Nghị định",
+                "so_hieu": "144/2020/NĐ-CP",
+                "khoan": "",
+                "dieu": "10",
+                "trich_yeu": "Nghị định 144/2020/NĐ-CP",
+                "noi_dung_kem_trich_dan": "[3] Tổ chức biểu diễn nghệ thuật khác không thuộc hình thức quy định tại các khoản 1 và 2 Điều này, thực hiện quy định tại Điều 10 Nghị định 144/2020/NĐ-CP."
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 146674,
+                "position": "Điều 8 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Hình thức tổ chức biểu diễn nghệ thuật",
+                "so_hieu": "144/2020/NĐ-CP",
+                "trich_yeu": "Quy định hoạt động nghệ thuật biểu diễn",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Văn hóa - Thể thao và Du lịch",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.01639344262295082
+            },
+            {
+                "index": 7,
+                "id": "dieu_5_dk_1",
+                "id_document": 14196,
+                "position": "Điều 5",
+                "dia_danh": "Trung ương",
+                "title": "Hình thức và phạm vi tổ chức",
+                "so_hieu": "101/2006/QĐ-BVHTT",
+                "trich_yeu": "Ban hành Quy chế khen thưởng trong liên hoan, triển lãm, hội thi, hội diễn các lĩnh vực văn hóa - thông tin do Bộ trưởng Bộ Văn hóa - Thông tin ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Văn hoá",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Văn hóa - Thể thao và Du lịch"
+                ],
+                "linh_vuc": null,
+                "score": 0.013171399247348614
+            },
+            {
+                "index": 23,
+                "id": "dieu_24",
+                "id_document": 32542,
+                "position": "Điều 24 / Chương 6",
+                "dia_danh": "Trung ương",
+                "title": "Biểu diễn nghệ thuật, tặng quà, chiêu đãi",
+                "so_hieu": "145/2013/NĐ-CP",
+                "trich_yeu": "Tổ chức ngày kỷ niệm nghi thức trao tặng đón nhận hình thức khen thưởng",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012574061882817643
+            },
+            {
+                "index": 9,
+                "id": "dieu_10",
+                "id_document": 146674,
+                "position": "Điều 10 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Điều kiện, thủ tục tổ chức biểu diễn nghệ thuật quy định tại khoản 3 Điều 8 Nghị định này",
+                "so_hieu": "144/2020/NĐ-CP",
+                "trich_yeu": "Quy định hoạt động nghệ thuật biểu diễn",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Văn hóa - Thể thao và Du lịch",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.012355769230769233
+            },
+            {
+                "index": 10,
+                "id": "dieu_11",
+                "id_document": 146674,
+                "position": "Điều 11 / Mục 2 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Hình thức tổ chức cuộc thi, liên hoan các loại hình nghệ thuật biểu diễn",
+                "so_hieu": "144/2020/NĐ-CP",
+                "trich_yeu": "Quy định hoạt động nghệ thuật biểu diễn",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Văn hóa - Thể thao và Du lịch",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.012144344205412907
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 146674,
+                "position": "Điều 4 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Quyền, trách nhiệm của tổ chức, cá nhân tổ chức biểu diễn nghệ thuật",
+                "so_hieu": "144/2020/NĐ-CP",
+                "trich_yeu": "Quy định hoạt động nghệ thuật biểu diễn",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Văn hóa - Thể thao và Du lịch",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.011918186843559976
+            },
+            {
+                "index": 9,
+                "id": "dieu_10",
+                "id_document": 15461,
+                "position": "Mục 5 / Phần II",
+                "dia_danh": "Trung ương",
+                "title": "Nghệ thuật biểu diễn a) Hạng của các đơn vị nghệ thuật biểu diễn. - Hạng I gồm: các đơn vị nghệ thuật biểu diễn trực thuộc Bộ Văn hóa-Thông tin; Ban Quản lý Nhà hát lớn Hà Nội; Nhà hát trực thuộc Sở Văn hóa - Thông tin thành phố Hà Nội, thành phố Hồ Chí Minh; - Hạng II gồm: các đoàn nghệ thuật biểu diễn trực thuộc Sở Văn hóa - Thông tin thành phố Hà Nội, thành phố Hồ Chí Minh; Nhà hát trực thuộc Sở Văn hóa - Thông tin các tỉnh, thành phố trực thuộc Trung ương còn lại; - Hạng III gồm: các đoàn nghệ thuật biểu diễn trực thuộc Sở Văn hóa - Thông tin các tỉnh, thành phố trực thuộc Trung ương còn lại. b) Bảng hệ số phụ cấp chức vụ lãnh đạo đơn vị nghệ thuật biểu diễn [TABLE] <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><!--VABWAFAATABfADIAMAAyADQAMAA3ADIAMgA=-->\n<tbody><tr style=\"page-break-inside:avoid\">\n<td rowspan=\"2\" style=\"border:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\"><b>TT</b></p>\n</td>\n<td rowspan=\"2\" style=\"border:solid windowtext 1.0pt;\n  border-left:none;padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\"><b>Chức\n  danh</b></p>\n</td>\n<td colspan=\"3\" style=\"border:solid windowtext 1.0pt;\n  border-left:none;padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\"><b>Hệ số\n  phụ cấp chức vụ</b></p>\n</td>\n</tr>\n<tr style=\"page-break-inside:avoid\">\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\"><b>Hạng I</b></p>\n</td>\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\"><b>Hạng II</b></p>\n</td>\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\"><b>Hạng\n  III</b></p>\n</td>\n</tr>\n<tr>\n<td style=\"border:solid windowtext 1.0pt;\n  border-top:none;padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\">1</p>\n</td>\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p>Giám đốc</p>\n</td>\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\">0,80</p>\n</td>\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\">0,60</p>\n</td>\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\">0,50</p>\n</td>\n</tr>\n<tr>\n<td style=\"border:solid windowtext 1.0pt;\n  border-top:none;padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\">2</p>\n</td>\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p>Phó Giám đốc</p>\n</td>\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\">0,60</p>\n</td>\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\">0,45</p>\n</td>\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\">0,35</p>\n</td>\n</tr>\n<tr>\n<td style=\"border:solid windowtext 1.0pt;\n  border-top:none;padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\">3</p>\n</td>\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p>Trưởng phòng và chức vụ tương đương trực thuộc</p>\n</td>\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\">0,40</p>\n</td>\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\">0,30</p>\n</td>\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\">0,25</p>\n</td>\n</tr>\n<tr>\n<td style=\"border:solid windowtext 1.0pt;\n  border-top:none;padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\">4</p>\n</td>\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p>Phó Trưởng phòng và chức vụ tương đương trực thuộc</p>\n</td>\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\">0,30</p>\n</td>\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\">0,20</p>\n</td>\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\">0,15</p>\n</td>\n</tr>\n<tr>\n<td style=\"border:solid windowtext 1.0pt;\n  border-top:none;padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\">5</p>\n</td>\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p>Trưởng đoàn trực thuộc nhà hát</p>\n</td>\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\">0,45</p>\n</td>\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\">0,35</p>\n</td>\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\"> </p>\n</td>\n</tr>\n<tr>\n<td style=\"border:solid windowtext 1.0pt;\n  border-top:none;padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\">6</p>\n</td>\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p>Phó Trưởng đoàn trực thuộc nhà hát</p>\n</td>\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\">0,35</p>\n</td>\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\">0,25</p>\n</td>\n<td style=\"border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"text-align:center\"> </p>\n</td>\n</tr>\n</tbody></table> [\\TABLE]",
+                "so_hieu": "67/2006/TT-BVHTT",
+                "trich_yeu": "Hướng dẫn phân hạng thực hiện chế độ phụ cấp chức vụ lãnh đạo tổ chức sự nghiệp dịch vụ công lập hoạt động VH-TT",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Văn hoá và Thông tin",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Văn hóa - Thể thao và Du lịch"
+                ],
+                "linh_vuc": null,
+                "score": 0.011398176291793311
+            },
+            {
+                "index": 12,
+                "id": "dieu_13",
+                "id_document": 146674,
+                "position": "Điều 13 / Mục 2 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Điều kiện, thủ tục tổ chức cuộc thi, liên hoan các loại hình nghệ thuật biểu diễn quy định tại khoản 2 Điều 11 Nghị định này",
+                "so_hieu": "144/2020/NĐ-CP",
+                "trich_yeu": "Quy định hoạt động nghệ thuật biểu diễn",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Văn hóa - Thể thao và Du lịch",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.011388329979879274
+            },
+            {
+                "index": 20,
+                "id": "dieu_21",
+                "id_document": 146674,
+                "position": "Điều 21 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Hình thức lưu hành bản ghi âm, ghi hình có nội dung biểu diễn nghệ thuật",
+                "so_hieu": "144/2020/NĐ-CP",
+                "trich_yeu": "Quy định hoạt động nghệ thuật biểu diễn",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Văn hóa - Thể thao và Du lịch",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.011287583657976226
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 999999999647209,
+                "position": "Điều 1",
+                "dia_danh": "Trung ương",
+                "title": "Vị trí và chức năng Cục Nghệ thuật biểu diễn là tổ chức hành chính thuộc Bộ Văn hóa, Thể thao và Du lịch, thực hiện chức năng tham mưu, giúp Bộ trưởng quản lý nhà nước và tổ chức thực thi pháp luật về hoạt động nghệ thuật biểu diễn và văn học trên phạm vi cả nước; quản lý các dịch vụ công về lĩnh vực nghệ thuật biểu diễn và văn học theo quy định của pháp luật. Cục Nghệ thuật biểu diễn có con dấu riêng, có tài khoản tại Kho bạc Nhà nước.",
+                "so_hieu": "489/QĐ-BVHTTDL",
+                "trich_yeu": "Năm 2025 quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Cục Nghệ thuật biểu diễn do Bộ trưởng Bộ Văn hoá, Thể thao và du lịch ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Văn hóa - Thể thao và Du lịch",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Văn hóa - Thể thao và Du lịch"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010986797941373909
+            },
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 146674,
+                "position": "Điều 5 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Quyền, trách nhiệm của tổ chức, cá nhân tham gia biểu diễn nghệ thuật",
+                "so_hieu": "144/2020/NĐ-CP",
+                "trich_yeu": "Quy định hoạt động nghệ thuật biểu diễn",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Văn hóa - Thể thao và Du lịch",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.010602455505853241
+            },
+            {
+                "index": 5,
+                "id": "dieu_3_dk_1",
+                "id_document": 89246,
+                "position": "Điều 3",
+                "dia_danh": "thành phố Hà Nội",
+                "title": "Giải thích từ ngữ Biểu diễn và tổ chức biểu diễn nghệ thuật, thời trang chuyên nghiệp: là hoạt động đưa chương trình, tiết mục, vở diễn, mẫu thiết kế thời trang đến với công chúng qua sự trình diễn của diễn viên và người mẫu chuyên nghiệp thể hiện hình tượng nghệ thuật phản ánh cuộc sống thông qua tác phẩm nghệ thuật nhằm giáo dục tư tưởng, tình cảm, đạo đức, lối sống, nâng cao dân trí, thẩm mỹ đáp ứng nhu cầu hưởng thụ văn hóa tinh thần của nhân dân, góp phần xây dựng và phát triển nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc. Diễn viên, người mẫu chuyên nghiệp là người có chuyên môn nghệ thuật được đào tạo tại các trường nghệ thuật, các trung tâm đào tạo có tư cách pháp nhân hoặc được truyền nghề và đang hoạt động biểu diễn nghệ thuật như nghề nghiệp chính của bản thân.",
+                "so_hieu": "30/2010/QĐ-UBND",
+                "trich_yeu": "Ban hành Quy chế quản lý hoạt động biểu diễn và tổ chức biểu diễn nghệ thuật, thời trang chuyên nghiệp trên địa bàn Hà Nội do Ủy ban nhân dân thành phố Hà Nội ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND thành phố Hà Nội",
+                "don_vi": [
+                    "Hà Nội"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.010509115927072581
+            },
+            {
+                "index": 13,
+                "id": "dieu_10_dk_1",
+                "id_document": 23833,
+                "position": "Điều 10 / Chương 3 / Quy chế",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của người tổ chức biểu diễn nghệ thuật, trình diễn thời trang Người tổ chức biểu diễn nghệ thuật, trình diễn thời trang trước công chúng phải tuân theo các quy định sau đây:",
+                "so_hieu": "103/2009/NĐ-CP",
+                "trich_yeu": "Quy chế hoạt động  kinh doanh dịch vụ văn hóa công cộng",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.010439024390243903
+            },
+            {
+                "index": 21,
+                "id": "dieu_19_dk_1",
+                "id_document": 171087,
+                "position": "Điều 19 / Chương III",
+                "dia_danh": "tỉnh Quảng Ninh",
+                "title": "Trách nhiệm của các tổ chức, đơn vị, cá nhân tổ chức lễ hội, sự kiện",
+                "so_hieu": "54/2024/QĐ-UBND",
+                "trich_yeu": "Về Quy chế phối hợp giữa các sở, ban, ngành, địa phương thực hiện quản lý nhà nước đối với lễ hội và sự kiện văn hóa, tín ngưỡng, tôn giáo, thể thao, du lịch tập trung đông người trên địa bàn tỉnh Quảng Ninh",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Quảng Ninh",
+                "don_vi": [
+                    "Quảng Ninh"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010381913959613697
+            },
+            {
+                "index": 11,
+                "id": "dieu_8_dk_1",
+                "id_document": 23833,
+                "position": "Điều 8 / Chương 3 / Quy chế",
+                "dia_danh": "Trung ương",
+                "title": "Tổ chức biểu diễn nghệ thuật không bán vé thu tiền",
+                "so_hieu": "103/2009/NĐ-CP",
+                "trich_yeu": "Quy chế hoạt động  kinh doanh dịch vụ văn hóa công cộng",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.010261343594676928
+            },
+            {
+                "index": 9,
+                "id": "dieu_7_dk_1",
+                "id_document": 999999999482601,
+                "position": "Điều 7 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Quy trình cung cấp dịch vụ tổ chức cuộc thi, liên hoan nghệ thuật",
+                "so_hieu": "2201/QĐ-BVHTTDL",
+                "trich_yeu": "2021 định mức kinh tế tổ chức liên hoan nghệ thuật chuyên nghiệp",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Văn hóa - Thể thao và Du lịch",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Văn hóa - Thể thao và Du lịch"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.010135708227311281
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 92996,
+                "position": "Điều 2 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ và quyền hạn",
+                "so_hieu": "07/2015/TTLT-BVHTTDL-BNV",
+                "trich_yeu": "Hướng dẫn chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Văn hóa, Thể thao và Du lịch thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương; Phòng Văn hóa và Thông tin thuộc Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh",
+                "loai_van_ban": "Thông tư liên tịch",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Nội vụ, Bộ Văn hóa - Thể thao và Du lịch",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Văn hóa - Thể thao và Du lịch",
+                    "Bộ Nội vụ"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010054107230693556
+            },
+            {
+                "index": 5,
+                "id": "dieu_6",
+                "id_document": 146674,
+                "position": "Điều 6 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Quyền, trách nhiệm của chủ địa điểm tổ chức biểu diễn nghệ thuật",
+                "so_hieu": "144/2020/NĐ-CP",
+                "trich_yeu": "Quy định hoạt động nghệ thuật biểu diễn",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Văn hóa - Thể thao và Du lịch",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.009896452215243592
+            },
+            {
+                "index": 8,
+                "id": "dieu_7_dk_1",
+                "id_document": 129105,
+                "position": "Điều 7 / Chương II",
+                "dia_danh": "tỉnh Quảng Trị",
+                "title": "Các thể loại và đơn vị tác phẩm",
+                "so_hieu": "07/2018/QĐ-UBND",
+                "trich_yeu": "Quy chế Giải thưởng Văn học Nghệ thuật Quảng Trị",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Quảng Trị",
+                "don_vi": [
+                    "Quảng Trị"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.00985901409859014
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 105317,
+                "position": "Điều 2",
+                "dia_danh": "tỉnh Thừa Thiên Huế",
+                "title": "Nhiệm vụ và quyền hạn",
+                "so_hieu": "34/2016/QĐ-UBND",
+                "trich_yeu": "Kiện toàn Sở văn hóa thể thao du lịch thành lập Sở văn hóa thể thao Huế",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Thừa Thiên Huế",
+                "don_vi": [
+                    "Thừa Thiên Huế"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.009834190966266438
+            }
+        ]
+    },
+    {
+        "id": 31106,
+        "cau_hoi": "Chủ tịch UBND tỉnh thực hiện nhiệm vụ và quyền hạn gì?",
+        "tra_loi": "Căn cứ theo Điều 17 Luật Tổ chức chính quyền địa phương 2025 số 72/2025/QH15, Chủ tịch UBND tỉnh thực hiện các nhiệm vụ và quyền hạn dưới đây:\n- Lãnh đạo và điều hành công việc của Ủy ban nhân dân; triệu tập và chủ tọa các phiên họp của Ủy ban nhân dân.\n- Lãnh đạo, chỉ đạo việc thực hiện các nhiệm vụ thi hành Hiến pháp, pháp luật, các văn bản của cơ quan nhà nước cấp trên và của Hội đồng nhân dân, Ủy ban nhân dân cấp mình.\n- Lãnh đạo và chịu trách nhiệm về hoạt động của bộ máy hành chính nhà nước ở địa phương, bảo đảm tính thống nhất, thông suốt của nền hành chính; về thực hiện cải cách hành chính, cải cách công vụ, công chức trong hệ thống cơ quan hành chính nhà nước ở địa phương; chịu trách nhiệm thực hiện hiệu quả ứng dụng công nghệ thông tin, chuyển đổi số trong hoạt động của chính quyền địa phương cấp mình và cấp xã trong giải quyết thủ tục hành chính và cung ứng dịch vụ công của địa phương theo quy định của pháp luật.\n- Lãnh đạo, chỉ đạo, đôn đốc, kiểm tra công tác của các cơ quan chuyên môn, tổ chức hành chính khác thuộc Ủy ban nhân dân cấp mình, Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân cấp xã.\n- Chỉ đạo và chịu trách nhiệm tổ chức thực hiện dự toán ngân sách của địa phương; quản lý, sử dụng có hiệu quả nguồn lực tài chính, nguồn ngân sách, tài sản công, cơ sở hạ tầng của địa phương thuộc phạm vi quản lý theo quy định của pháp luật.\n- Chỉ đạo và tổ chức thực hiện các nhiệm vụ phát triển kinh tế - xã hội, phát triển các ngành, lĩnh vực, phát triển đô thị, phát triển kinh tế tư nhân, phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số ở địa phương; tổ chức thực hiện quản lý nhà nước tại địa phương trong các lĩnh vực tài chính, đầu tư, đất đai, nông nghiệp, tài nguyên, môi trường, thương mại, dịch vụ, công nghiệp, xây dựng, giao thông vận tải, giáo dục, y tế, xây dựng pháp luật, hành chính tư pháp, bổ trợ tư pháp, công tác pháp chế, nội vụ, lao động, thông tin, văn hóa, xã hội, du lịch, thể dục, thể thao của địa phương theo quy định của pháp luật.\n- Chỉ đạo, tổ chức thực hiện các nhiệm vụ về đối ngoại theo quy định của pháp luật.\n- Chỉ đạo và tổ chức thực hiện nhiệm vụ về quốc phòng, an ninh, trật tự, an toàn xã hội tại địa phương theo quy định của pháp luật; xây dựng nền quốc phòng toàn dân, thế trận an ninh nhân dân; xây dựng lực lượng dân quân tự vệ, lực lượng dự bị động viên, lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở và chế độ, chính sách đối với các lực lượng này ở địa phương theo quy định của pháp luật.\n- Chỉ đạo và chịu trách nhiệm thực hiện các nhiệm vụ về bảo vệ tài sản của cơ quan, tổ chức, bảo vệ tính mạng, sức khỏe, tự do, danh dự, nhân phẩm, tài sản, các quyền và lợi ích hợp pháp khác của công dân, bảo đảm quyền con người; phòng, chống tội phạm và các hành vi vi phạm pháp luật khác tại địa phương theo quy định của pháp luật.\n- Chỉ đạo việc thực hiện các chính sách về dân tộc, tôn giáo ở địa phương; giữ gìn và phát huy bản sắc văn hóa của đồng bào dân tộc thiểu số, tín đồ tôn giáo ở địa phương theo quy định của pháp luật.\n- Chỉ đạo và tổ chức thực hiện quy hoạch cấp quốc gia, quy hoạch vùng, quy hoạch tỉnh, các quy hoạch, kế hoạch ngành, lĩnh vực, kế hoạch phát triển kinh tế - xã hội cấp tỉnh đã được cấp có thẩm quyền phê duyệt tại địa phương; quản lý các khu công nghiệp, khu kinh tế của địa phương theo quy định của pháp luật.\n- Chỉ đạo và chịu trách nhiệm bảo đảm an sinh xã hội, thực hiện chính sách ưu đãi đối với người có công với cách mạng, các đối tượng bảo trợ xã hội; quản lý các cơ sở giáo dục đại học, cơ sở giáo dục nghề nghiệp, cơ sở giáo dục trung học phổ thông, cơ sở y tế, cơ sở phúc lợi xã hội thuộc phạm vi quản lý của địa phương theo quy định của pháp luật.\n- Chỉ đạo và chịu trách nhiệm trong công tác tuyển dụng, sử dụng, quản lý công chức, viên chức, sử dụng và phát triển nguồn nhân lực, lao động, việc làm, bảo hiểm xã hội trên địa bàn theo quy định của pháp luật; quyết định bổ nhiệm, miễn nhiệm, điều động, cách chức, khen thưởng, kỷ luật người đứng đầu, cấp phó của người đứng đầu cơ quan chuyên môn, tổ chức hành chính khác, đơn vị sự nghiệp công lập thuộc Ủy ban nhân dân cấp mình.\n- Chỉ đạo, xử lý kịp thời các tình huống khẩn cấp liên quan đến thiên tai, dịch bệnh, thảm họa tại địa phương; quyết định áp dụng các biện pháp cấp bách khác quy định của pháp luật hoặc vượt thẩm quyền trong trường hợp thật cần thiết vì lợi ích quốc gia, phòng, chống thiên tai, dịch bệnh, bảo đảm tính mạng, tài sản của Nhân dân trên địa bàn, sau đó báo cáo cơ quan có thẩm quyền của Đảng và Thủ tướng Chính phủ trong thời gian sớm nhất.\n- Chỉ đạo việc thực hiện công tác thanh tra, kiểm tra, hướng dẫn và xử lý vi phạm trong việc thi hành Hiến pháp, pháp luật và các văn bản của cơ quan nhà nước cấp trên tại địa phương.\n- Chỉ đạo và tổ chức thực hiện việc tiếp công dân, giải quyết khiếu nại, tố cáo, phòng, chống tham nhũng, lãng phí, tiêu cực trong hoạt động của bộ máy hành chính nhà nước và trong các hoạt động kinh tế - xã hội tại địa phương theo quy định của pháp luật.\n- Phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm và quyết định điều động, cách chức Chủ tịch, Phó Chủ tịch Ủy ban nhân dân cấp xã; giao quyền Chủ tịch Ủy ban nhân dân cấp xã; quyết định tạm đình chỉ công tác đối với Phó Chủ tịch Ủy ban nhân dân cấp mình, Chủ tịch Ủy ban nhân dân cấp xã; quyết định bổ nhiệm, điều động, tạm đình chỉ, cách chức người đứng đầu cơ quan chuyên môn, tổ chức hành chính khác thuộc Ủy ban nhân dân cấp mình, người đứng đầu đơn vị sự nghiệp công lập trực thuộc Ủy ban nhân dân cấp mình.\n- Ban hành quyết định, chỉ thị và các văn bản hành chính khác về những vấn đề thuộc nhiệm vụ, quyền hạn của mình; bãi bỏ, sửa đổi, bổ sung, thay thế văn bản do mình ban hành khi xét thấy không còn phù hợp hoặc trái pháp luật.\n- Đình chỉ việc thi hành, bãi bỏ một phần hoặc toàn bộ văn bản trái pháp luật của cơ quan chuyên môn thuộc Ủy ban nhân dân cấp mình và văn bản trái pháp luật của Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân cấp xã.\n- Đình chỉ việc thi hành văn bản trái pháp luật của Hội đồng nhân dân cấp xã, báo cáo Ủy ban nhân dân cấp mình để đề nghị Hội đồng nhân dân cùng cấp bãi bỏ.\n- Được thay mặt Ủy ban nhân dân cấp mình quyết định những vấn đề thuộc thẩm quyền của Ủy ban nhân dân, trừ những nội dung quy định tại khoản 2 Điều 40 của Luật này và báo cáo Ủy ban nhân dân tại phiên họp gần nhất.\n- Căn cứ tình hình thực tiễn, tăng cường phân cấp, ủy quyền các nhiệm vụ, quyền hạn của mình cho Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân cấp xã nhằm tăng cường hiệu năng, hiệu lực, hiệu quả trong quản lý nhà nước, thúc đẩy phát triển kinh tế - xã hội của địa phương, quản lý và phát triển đô thị, đặc khu.\n- Thực hiện nhiệm vụ, quyền hạn được phân cấp, ủy quyền và các nhiệm vụ, quyền hạn khác theo quy định của pháp luật.",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "72/2025/QH15",
+                "khoan": "",
+                "dieu": "17",
+                "trich_yeu": "Luật Tổ chức chính quyền địa phương 2025 số 72/2025/QH15",
+                "noi_dung_kem_trich_dan": "Căn cứ theo Điều 17 Luật Tổ chức chính quyền địa phương 2025 số 72/2025/QH15, Chủ tịch UBND tỉnh thực hiện các nhiệm vụ và quyền hạn dưới đây:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 16,
+                "id": "dieu_17",
+                "id_document": 999999999649675,
+                "position": "Điều 17 / Mục 1 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ, quyền hạn của Chủ tịch Ủy ban nhân dân tỉnh",
+                "so_hieu": "72/2025/QH15",
+                "trich_yeu": "Tổ chức chính quyền địa phương số 72/2025/QH15 năm 2025",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.01639344262295082
+            },
+            {
+                "index": 10,
+                "id": "dieu_11",
+                "id_document": 999999999661801,
+                "position": "Điều 11 / Mục 2 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ, quyền hạn khác",
+                "so_hieu": "09/2025/TT-BTP",
+                "trich_yeu": "Hướng dẫn chức năng, nhiệm vụ, quyền hạn của Sở Tư pháp thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và chức năng, nhiệm vụ, quyền hạn của Văn phòng Hội đồng nhân dân và Ủy ban nhân dân thuộc Ủy ban nhân dân xã, phường, đặc khu trong lĩnh vực tư pháp do Bộ trưởng Bộ Tư pháp ban hành",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Tư pháp",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.014136904761904762
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 999999999662839,
+                "position": "Điều 2 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ, quyền hạn",
+                "so_hieu": "10/2025/TT-BKHCN",
+                "trich_yeu": "Hướng dẫn chức năng, nhiệm vụ, quyền hạn của cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh, cấp xã về các lĩnh vực thuộc phạm vi quản lý nhà nước của Bộ Khoa học và Công nghệ",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Khoa học và Công nghệ",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Khoa học và Công nghệ"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.01357370095440085
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 154104,
+                "position": "Điều 2 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ và quyền hạn",
+                "so_hieu": "01/2021/TT-UBDT",
+                "trich_yeu": "Chức năng cơ quan chuyên môn về dân tộc thuộc Ủy ban cấp tỉnh",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Ủy ban Dân tộc",
+                "don_vi": [
+                    "Ủy ban Dân tộc",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012867132867132869
+            },
+            {
+                "index": 32,
+                "id": "dieu_33",
+                "id_document": 7969,
+                "position": "Điều 33 / Chương 3",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ, quyền hạn của Uỷ ban nhân dân cấp tỉnh:",
+                "so_hieu": "14/1998/NĐ-CP",
+                "trich_yeu": "Về quản lý tài sản Nhà nước",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": null,
+                "score": 0.012749615975422426
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 156532,
+                "position": "Điều 2",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ và quyền hạn",
+                "so_hieu": "01/2022/TT-VPCP",
+                "trich_yeu": "Chức năng nhiệm vụ quyền hạn Văn phòng Ủy ban nhân dân tỉnh",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Văn phòng Chính phủ",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012417582417582416
+            },
+            {
+                "index": 28,
+                "id": "dieu_29",
+                "id_document": 146674,
+                "position": "Điều 29 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ, quyền hạn của Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương",
+                "so_hieu": "144/2020/NĐ-CP",
+                "trich_yeu": "Quy định hoạt động nghệ thuật biểu diễn",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Văn hóa - Thể thao và Du lịch",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.012246173070915339
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 154773,
+                "position": "Điều 2 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ và quyền hạn",
+                "so_hieu": "04/2022/TT-BTC",
+                "trich_yeu": "Chức năng của cơ quan tài chính địa phương thuộc Ủy ban tỉnh",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Tài chính",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011530525549217137
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 149577,
+                "position": "Điều 2 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ, quyền hạn",
+                "so_hieu": "01/2021/TT-BKHCN",
+                "trich_yeu": "Quyền hạn cơ quan chuyên môn về khoa học thuộc Ủy ban cấp tỉnh",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Khoa học và Công nghệ",
+                "don_vi": [
+                    "Bộ Khoa học và Công nghệ",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Công nghệ thông tin",
+                "score": 0.011469452645923235
+            },
+            {
+                "index": 15,
+                "id": "dieu_16",
+                "id_document": 999999999649675,
+                "position": "Điều 16 / Mục 1 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ, quyền hạn của Ủy ban nhân dân tỉnh",
+                "so_hieu": "72/2025/QH15",
+                "trich_yeu": "Tổ chức chính quyền địa phương số 72/2025/QH15 năm 2025",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011339274183133151
+            },
+            {
+                "index": 92,
+                "id": "dieu_93",
+                "id_document": 142882,
+                "position": "Điều 93 / Chương IX",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ, quyền hạn của Ủy ban nhân dân cấp tỉnh",
+                "so_hieu": "64/2020/QH14",
+                "trich_yeu": "Đầu tư theo phương thức đối tác công tư 2020",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Đầu tư",
+                "score": 0.011292016806722689
+            },
+            {
+                "index": 2,
+                "id": "dieu_3",
+                "id_document": 999999999662105,
+                "position": "Điều 3 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ và quyền hạn",
+                "so_hieu": "20/2025/TT-BYT",
+                "trich_yeu": "Hướng dẫn chức năng, nhiệm vụ, quyền hạn của cơ quan chuyên môn về y tế thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và Ủy ban nhân dân xã, phường, đặc khu thuộc tỉnh, thành phố trực thuộc Trung ương do Bộ trưởng Bộ Y tế ban hành",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Y tế",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Y tế"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011000000000000001
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 999999999662134,
+                "position": "Điều 2 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ và quyền hạn",
+                "so_hieu": "10/2025/TT-BNV",
+                "trich_yeu": "Hướng dẫn chức năng, nhiệm vụ, quyền hạn của Sở Nội vụ thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và lĩnh vực nội vụ của phòng chuyên môn thuộc Ủy ban nhân dân xã, phường, đặc khu thuộc tỉnh, thành phố trực thuộc trung ương do Bộ trưởng Bộ Nội vụ ban hành",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Nội vụ",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Nội vụ"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010998877665544332
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 155973,
+                "position": "Điều 2 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ và quyền hạn",
+                "so_hieu": "11/2021/TT-BLĐTBXH",
+                "trich_yeu": "Chức năng nhiệm vụ quyền hạn Sở Lao động thuộc Ủy ban tỉnh",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Lao động - Thương binh và Xã hội",
+                "don_vi": [
+                    "Bộ Lao động - Thương Binh và Xã hội",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.010768738671500161
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 999999999662559,
+                "position": "Điều 4 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ và quyền hạn",
+                "so_hieu": "02/2025/TT-BDTTG",
+                "trich_yeu": "Hướng dẫn chức năng, nhiệm vụ, quyền hạn của Sở Dân tộc và Tôn giáo thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và công tác dân tộc, tín ngưỡng, tôn giáo của phòng chuyên môn thuộc Ủy ban nhân dân xã, phường, đặc khu thuộc tỉnh, thành phố trực thuộc trung ương do Bộ trưởng Bộ Dân tộc và Tôn giáo ban hành",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Dân tộc và Tôn giáo",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Dân tộc và Tôn giáo"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010577819198508854
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 159793,
+                "position": "Điều 2 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ và quyền hạn",
+                "so_hieu": "30/2022/TT-BNNPTNT",
+                "trich_yeu": "Chức năng cơ quan chuyên môn về nông nghiệp thuộc Ủy ban tỉnh",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Nông nghiệp và Phát triển nông thôn",
+                "don_vi": [
+                    "Bộ Nông nghiệp và Phát triển nông thôn",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010492016943629848
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 155581,
+                "position": "Điều 2 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ và quyền hạn",
+                "so_hieu": "11/2022/TT-BTTTT",
+                "trich_yeu": "Hướng dẫn chức năng nhiệm vụ Sở Thông tin Truyền thông",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Thông tin và Truyền thông",
+                "don_vi": [
+                    "Bộ Thông tin và Truyền thông",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010476901739037661
+            },
+            {
+                "index": 22,
+                "id": "dieu_23",
+                "id_document": 999999999649675,
+                "position": "Điều 23 / Mục 3 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ, quyền hạn của Chủ tịch Ủy ban nhân dân xã",
+                "so_hieu": "72/2025/QH15",
+                "trich_yeu": "Tổ chức chính quyền địa phương số 72/2025/QH15 năm 2025",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010470275066548358
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 149688,
+                "position": "Điều 4 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ và quyền hạn",
+                "so_hieu": "15/2021/TT-BGTVT",
+                "trich_yeu": "Chức năng cơ quan chuyên môn về giao thông thuộc Ủy ban tỉnh",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giao thông vận tải",
+                "don_vi": [
+                    "Bộ Giao thông vận tải",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010425020048115477
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 999999999668054,
+                "position": "Điều 4",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ, quyền hạn chung",
+                "so_hieu": "03/2025/TT-TTCP",
+                "trich_yeu": "Hướng dẫn chức năng nhiệm vụ quyền hạn của Thanh tra tỉnh",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Thanh tra Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Thanh tra Chính phủ"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010130614845492195
+            }
+        ]
+    },
+    {
+        "id": 35309,
+        "cau_hoi": "Mẫu điều lệ công ty TNHH hai thành viên trở lên năm 2025?",
+        "tra_loi": "Đầu tiên, theo khoản 1 Điều 46 Luật Doanh nghiệp 2020 có thể hiểu công ty TNHH hai thành viên trở lên là doanh nghiệp có từ 02 đến 50 thành viên là tổ chức, cá nhân.\nThành viên chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản khác của doanh nghiệp trong phạm vi số vốn đã góp vào doanh nghiệp,\nTrừ trường hợp quy định tại khoản 4 Điều 47 Luật Doanh nghiệp 2020. Phần vốn góp của thành viên chỉ được chuyển nhượng theo quy định tại các Điều 51 Luật Doanh nghiệp 2020, Điều 52 Luật Doanh nghiệp 2020 và Điều 53 Luật Doanh nghiệp 2020.\nĐồng thời, công ty TNHH hai thành viên trở lên có tư cách pháp nhân kể từ ngày được cấp giấy chứng nhận đăng ký doanh nghiệp.\nTải về mẫu điều lệ công ty TNHH hai thành viên trở lên năm 2025\nTại đây",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "59/2020/QH14",
+                "khoan": "1",
+                "dieu": "46",
+                "trich_yeu": "Luật Doanh nghiệp 2020",
+                "noi_dung_kem_trich_dan": "Đầu tiên, theo khoản 1 Điều 46 Luật Doanh nghiệp 2020 có thể hiểu công ty TNHH hai thành viên trở lên là doanh nghiệp có từ 02 đến 50 thành viên là tổ chức, cá nhân."
+            },
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "59/2020/QH14",
+                "khoan": "4",
+                "dieu": "47",
+                "trich_yeu": "Luật Doanh nghiệp 2020",
+                "noi_dung_kem_trich_dan": "Trừ trường hợp quy định tại khoản 4 Điều 47 Luật Doanh nghiệp 2020. Phần vốn góp của thành viên chỉ được chuyển nhượng theo quy định tại các Điều 51 Luật Doanh nghiệp 2020, Điều 52 Luật Doanh nghiệp 2020 và Điều 53 Luật Doanh nghiệp 2020."
+            },
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "59/2020/QH14",
+                "khoan": "",
+                "dieu": "51",
+                "trich_yeu": "Luật Doanh nghiệp 2020",
+                "noi_dung_kem_trich_dan": "Trừ trường hợp quy định tại khoản 4 Điều 47 Luật Doanh nghiệp 2020. Phần vốn góp của thành viên chỉ được chuyển nhượng theo quy định tại các Điều 51 Luật Doanh nghiệp 2020, Điều 52 Luật Doanh nghiệp 2020 và Điều 53 Luật Doanh nghiệp 2020."
+            },
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "59/2020/QH14",
+                "khoan": "",
+                "dieu": "52",
+                "trich_yeu": "Luật Doanh nghiệp 2020",
+                "noi_dung_kem_trich_dan": "Trừ trường hợp quy định tại khoản 4 Điều 47 Luật Doanh nghiệp 2020. Phần vốn góp của thành viên chỉ được chuyển nhượng theo quy định tại các Điều 51 Luật Doanh nghiệp 2020, Điều 52 Luật Doanh nghiệp 2020 và Điều 53 Luật Doanh nghiệp 2020."
+            },
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "59/2020/QH14",
+                "khoan": "",
+                "dieu": "53",
+                "trich_yeu": "Luật Doanh nghiệp 2020",
+                "noi_dung_kem_trich_dan": "Trừ trường hợp quy định tại khoản 4 Điều 47 Luật Doanh nghiệp 2020. Phần vốn góp của thành viên chỉ được chuyển nhượng theo quy định tại các Điều 51 Luật Doanh nghiệp 2020, Điều 52 Luật Doanh nghiệp 2020 và Điều 53 Luật Doanh nghiệp 2020."
+            }
+        ],
+        "msg": "Không có kết quả tìm kiếm!",
+        "retrieved": []
+    }
+]

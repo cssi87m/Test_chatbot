@@ -1,0 +1,58 @@
+{
+  "timestamp": 1764650352.5821002,
+  "conversation_id": "\"2607046c-a1d4-4360-a409-ebf0e21d544c\"",
+  "workspace_id": "90602b2d-1d93-4478-8611-ea20b3760db2",
+  "query_params": {
+    "use_memory": false,
+    "intent": "chitchat",
+    "query": "",
+    "reference_text": "",
+    "term_position": [],
+    "ten_van_ban": "",
+    "so_hieu": "",
+    "tinh_trang_hieu_luc": [],
+    "loai_van_ban": [],
+    "co_quan_ban_hanh": "",
+    "ngay_ban_hanh_start": "",
+    "ngay_ban_hanh_end": "",
+    "ngay_co_hieu_luc_start": "",
+    "ngay_co_hieu_luc_end": "",
+    "loai_hinh_van_ban": "văn bản quy phạm",
+    "retrieve_level": "document",
+    "use_rag": true,
+    "need_subquery": false,
+    "_metadata": {
+      "extraction_method": "pipeline",
+      "has_selection_text": false,
+      "has_conversation_history": false,
+      "timestamp": "2025-12-02T11:39:11.859690"
+    }
+  },
+  "request_params": {
+    "selection_text": null,
+    "selected_save_files": [],
+    "selected_upload_files": [],
+    "use_law_database": true,
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bạn có nuôi thú cưng không?"
+      }
+    ],
+    "current_user_message": "Bạn có nuôi thú cưng không?",
+    "previous_user_message": "",
+    "previous_assistant_message": "",
+    "random_uuid": "550403a8-8146-4ef1-834a-26e1f07e7ee3"
+  },
+  "contexts": {
+    "context": "",
+    "retrieve_results": [],
+    "uploaded_docs_results": [],
+    "law_database_results": []
+  },
+  "response": {
+    "type": "streaming",
+    "content": "<answer>##### Trả lời:  \nTôi là trợ lý ảo hỗ trợ tra cứu văn bản pháp luật Việt Nam, không có khả năng nuôi thú cưng.\n\n##### Tóm tắt:  \nTôi không phải là thực thể sống nên không thể nuôi thú cưng.\n\n##### Chi tiết:  \nLà một trợ lý ảo được phát triển để hỗ trợ tra cứu và phân tích văn bản pháp luật, tôi không có hình thức vật lý hay khả năng chăm sóc thú cưng. Mục đích của tôi là cung cấp thông tin pháp luật chính xác và chi tiết dựa trên các văn bản pháp luật được cung cấp.\n\n##### Căn cứ pháp lý:  \nVăn bản được cung cấp không đề cập đến vấn đề này.</answer> ",
+    "chunks_count": 152
+  }
+}

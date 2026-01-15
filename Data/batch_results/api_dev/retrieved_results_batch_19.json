@@ -1,0 +1,1610 @@
+[
+    {
+        "id": 23058,
+        "cau_hoi": "Dịch vụ nào thuộc đối tượng chịu thuế tiêu thụ đặc biệt?",
+        "tra_loi": "Căn cứ tại Điều 2 Luật Thuế tiêu thụ đặc biệt 2008 quy định các dịch vụ thuộc đối tượng chịu thuế tiêu thụ đặc biệt như sau:\n- Kinh doanh vũ trường.\n- Kinh doanh mát-xa (massage), ka-ra-ô-kê (karaoke).\n- Kinh doanh ca-si-nô (casino); trò chơi điện tử có thưởng bao gồm trò chơi bằng máy giắc-pót (jackpot), máy sờ-lot (slot) và các loại máy tương tự.\n- Kinh doanh đặt cược.\n- Kinh doanh gôn (golf) bao gồm bán thẻ hội viên, vé chơi gôn.\n- Kinh doanh xổ số.",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "27/2008/QH12",
+                "khoan": "",
+                "dieu": "2",
+                "trich_yeu": "Luật Thuế tiêu thụ đặc biệt 2008",
+                "noi_dung_kem_trich_dan": "Căn cứ tại Điều 2 Luật Thuế tiêu thụ đặc biệt 2008 quy định các dịch vụ thuộc đối tượng chịu thuế tiêu thụ đặc biệt như sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 12324,
+                "position": "Điều 4 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Người nộp thuế Người nộp thuế tiêu thụ đặc biệt là tổ chức, cá nhân sản xuất, nhập khẩu hàng hóa và kinh doanh dịch vụ thuộc đối tượng chịu thuế tiêu thụ đặc biệt. Trường hợp tổ chức, cá nhân có hoạt động kinh doanh xuất khẩu mua hàng hoá thuộc diện chịu thuế tiêu thụ đặc biệt của cơ sở sản xuất để xuất khẩu nhưng không xuất khẩu mà tiêu thụ trong nước thì tổ chức, cá nhân có hoạt động kinh doanh xuất khẩu là người nộp thuế tiêu thụ đặc biệt.",
+                "so_hieu": "27/2008/QH12",
+                "trich_yeu": "Thuế tiêu thụ đặc biệt 2008 số 26/2008/QH12",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tài chính"
+                ],
+                "linh_vuc": null,
+                "score": 0.014189327335923124
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 999999999312442,
+                "position": "Điều 4 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Người nộp thuế Người nộp thuế tiêu thụ đặc biệt là tổ chức, cá nhân sản xuất, nhập khẩu hàng hóa và kinh doanh dịch vụ thuộc đối tượng chịu thuế tiêu thụ đặc biệt. Trường hợp tổ chức, cá nhân có hoạt động kinh doanh xuất khẩu mua hàng hóa thuộc diện chịu thuế tiêu thụ đặc biệt của cơ sở sản xuất để xuất khẩu nhưng không xuất khẩu mà tiêu thụ trong nước thì tổ chức, cá nhân có hoạt động kinh doanh xuất khẩu là người nộp thuế tiêu thụ đặc biệt.",
+                "so_hieu": "02/VBHN-VPQH",
+                "trich_yeu": "Hợp nhất Luật thuế tiêu thụ đặc biệt 2016",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.013955342902711323
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 999999999548515,
+                "position": "Điều 4 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Người nộp thuế Người nộp thuế tiêu thụ đặc biệt là tổ chức, cá nhân sản xuất, nhập khẩu hàng hóa và kinh doanh dịch vụ thuộc đối tượng chịu thuế tiêu thụ đặc biệt. Trường hợp tổ chức, cá nhân có hoạt động kinh doanh xuất khẩu mua hàng hóa thuộc diện chịu thuế tiêu thụ đặc biệt của cơ sở sản xuất để xuất khẩu nhưng không xuất khẩu mà tiêu thụ trong nước thì tổ chức, cá nhân có hoạt động kinh doanh xuất khẩu là người nộp thuế tiêu thụ đặc biệt.",
+                "so_hieu": "08/VBHN-VPQH",
+                "trich_yeu": "2022 Luật Thuế tiêu thụ đặc biệt",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.013946053946053947
+            },
+            {
+                "index": 2,
+                "id": "dieu_3",
+                "id_document": 92518,
+                "position": "Điều 3 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Đối tượng không chịu thuế Đối tượng không chịu thuế tiêu thụ đặc biệt thực hiện theo quy định tại Điều 3 của Luật Thuế tiêu thụ đặc biệt và Khoản 2 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Thuế tiêu thụ đặc biệt.",
+                "so_hieu": "108/2015/NĐ-CP",
+                "trich_yeu": "Hướng dẫn Luật Thuế tiêu thụ đặc biệt sửa đổi",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tài chính"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.011876881900301105
+            },
+            {
+                "index": 2,
+                "id": "dieu_3",
+                "id_document": 999999999548515,
+                "position": "Điều 3 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Đối tượng không chịu thuế Hàng hóa quy định tại khoản 1 Điều 2 của Luật này không thuộc diện chịu thuế tiêu thụ đặc biệt trong các trường hợp sau:",
+                "so_hieu": "08/VBHN-VPQH",
+                "trich_yeu": "2022 Luật Thuế tiêu thụ đặc biệt",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.0112409381663113
+            },
+            {
+                "index": 2,
+                "id": "dieu_3",
+                "id_document": 999999999312442,
+                "position": "Điều 3 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Đối tượng không chịu thuế Hàng hóa quy định tại khoản 1 Điều 2 của Luật này không thuộc diện chịu thuế tiêu thụ đặc biệt trong các trường hợp sau:",
+                "so_hieu": "02/VBHN-VPQH",
+                "trich_yeu": "Hợp nhất Luật thuế tiêu thụ đặc biệt 2016",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.011196172248803827
+            },
+            {
+                "index": 2,
+                "id": "dieu_3",
+                "id_document": 12324,
+                "position": "Điều 3 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Đối tượng không chịu thuế Hàng hóa quy định tại khoản 1 Điều 2 của Luật này không thuộc diện chịu thuế tiêu thụ đặc biệt trong các trường hợp sau:",
+                "so_hieu": "27/2008/QH12",
+                "trich_yeu": "Thuế tiêu thụ đặc biệt 2008 số 26/2008/QH12",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tài chính"
+                ],
+                "linh_vuc": null,
+                "score": 0.011181988742964354
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 999999999611300,
+                "position": "Mục 5",
+                "dia_danh": "Trung ương",
+                "title": "Ưu đãi đầu tư quy định tại các điểm b, c và d khoản 2 Điều này không áp dụng đối với các dự án đầu tư sau đây: … b) Dự án đầu tư sản xuất, kinh doanh hàng hóa, dịch vụ thuộc đối tượng chịu thuế tiêu thụ đặc biệt theo quy định của Luật tiêu thụ đặc biệt, trừ dự án sản xuất ô tô, tàu bay, du thuyền;” Tại Điều 4 Luật Thuế tiêu thụ đặc biệt số 27/2008/QH12 ngày 14/11/2008 quy định về người nộp thuế: “Điều 4. Người nộp thuế Người nộp thuế tiêu thụ đặc biệt là tổ chức, cá nhân sản xuất, nhập khẩu hàng hóa và kinh doanh dịch vụ thuộc đối tượng chịu thuế tiêu thụ đặc biệt. Trường hợp tổ chức, cá nhân có hoạt động kinh doanh xuất khẩu mua hàng hóa thuộc diện chịu thuế tiêu thụ đặc biệt của cơ sở sản xuất để xuất khẩu nhưng không xuất khẩu mà tiêu thụ trong nước thì tổ chức, cá nhân có hoạt động kinh doanh xuất khẩu là người nộp thuế tiêu thụ đặc biệt.” Tại khoản 2 và khoản 5 Điều 3 Nghị định số 83/2014/NĐ-CP ngày 03/9/2014 của Chính phủ về kinh doanh xăng dầu quy định: “Điều 3. Giải thích từ ngữ",
+                "so_hieu": "2216/TCT-CS",
+                "trich_yeu": "Năm 2024 về ưu đãi thuế thu nhập doanh nghiệp do Tổng cục Thuế ban hành",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Tổng cục Thuế",
+                "don_vi": [
+                    "Trung ương",
+                    "Tổng cục Thuế"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.010962891098714529
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 999999999348276,
+                "position": "Mục 1",
+                "dia_danh": "Trung ương",
+                "title": "Đối tượng chịu thuế tiêu thụ đặc biệt thực hiện theo quy định tại Điều 2 của Luật Thuế tiêu thụ đặc biệt và Khoản 1 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Thuế tiêu thụ đặc biệt. ” - Tại Khoản 1, Khoản 2 Điều 2 Luật số 106/2016/QH13 ngày 06/4/2016 sửa đổi, bổ sung một số Điều của Luật thuế tiêu thụ đặc biệt số 27/2008/QH12 đã được sửa đổi, bổ sung một số Điều theo Luật số 70/2014/QH13, quy định: “Điều 2. Sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt số 27/2008/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 70/2014/QH13:",
+                "so_hieu": "4616/TCT-TTr",
+                "trich_yeu": "Năm 2016 về việc xác định nghĩa vụ thuế đối với xe ô tô nhập khẩu theo hình thức quà biếu, tặng do Tổng cục Thuế ban hành",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Tổng cục Thuế",
+                "don_vi": [
+                    "Trung ương",
+                    "Tổng cục Thuế"
+                ],
+                "linh_vuc": "Xuất nhập khẩu",
+                "score": 0.010064102564102563
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 999999999315220,
+                "position": "Mục 2",
+                "dia_danh": "thành phố Huế",
+                "title": "Đối tượng chịu thuế tiêu thụ đặc biệt đối với hàng hóa quy định tại Khoản 1 Điều 2 Luật Thuế tiêu thụ đặc biệt là các sản phẩm hàng hóa hoàn chỉnh, không bao gồm bộ linh kiện để lắp ráp các hàng hóa này.” + Tại Điều 7 quy định về khấu trừ thuế: ...",
+                "so_hieu": "40753/CT-HTr",
+                "trich_yeu": "Chính sách thuế tiêu thụ đặc biệt Hà Nội 2016",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Cục thuế thành phố Huế",
+                "don_vi": [
+                    "Huế"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.009546444840562487
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 92518,
+                "position": "Điều 2 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Đối tượng chịu thuế",
+                "so_hieu": "108/2015/NĐ-CP",
+                "trich_yeu": "Hướng dẫn Luật Thuế tiêu thụ đặc biệt sửa đổi",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tài chính"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.009194139194139193
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 10546,
+                "position": "Mục 1 / Phần I",
+                "dia_danh": "Trung ương",
+                "title": "Đối tượng chịu thuế tiêu thụ đặc biệt gồm thuốc lá điếu, xì gà, rượu các loại, bia các loại, pháo các loại. Đối tượng nộp thuế tiêu thụ đặc biệt là các tổ chức, cá nhân thuộc mọi thành phần kinh tế, đoàn thể xã hội; các doanh nghiệp thành lập và hoạt động theo Luật đầu tư nước ngoài tại Việt Nam, có sản xuất và tiêu thụ trên lãnh thổ Việt Nam các mặt hàng thuộc diện chịu thuế tiêu thụ đặc biệt.",
+                "so_hieu": "74/A-TC-TCT",
+                "trich_yeu": "Hướng dẫn thi hành Nghị định số 56-CP ngày 28/8/90 của Chính phủ quy định chi tiết thi hành Luật thuế tiêu thụ đặc biệt và Luật sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Tổng cục Thuế",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tài chính"
+                ],
+                "linh_vuc": null,
+                "score": 0.009143557188996548
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 110919,
+                "position": "Điều 2 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Đối tượng chịu thuế Đối tượng chịu thuế tiêu thụ đặc biệt (TTĐB) được thực hiện theo quy định tại Điều 2 Luật thuế tiêu thụ đặc biệt số 27/2008/QH12 ngày 14 tháng 11 năm 2008, tại khoản 1 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt số 70/2014/QH13 ngày 26 tháng 11 năm 2014 và Điều 2 Nghị định số 108/2015/NĐ-CP ngày 28 tháng 10 năm 2015 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật thuế tiêu thụ đặc biệt và Luật sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt. Đối với mặt hàng điều hoà nhiệt độ công suất từ 90.000 BTU trở xuống thuộc đối tượng chịu thuế TTĐB: trường hợp cơ sở sản xuất bán hoặc cơ sở nhập khẩu nhập tách riêng từng bộ phận là cục nóng hoặc cục lạnh thì hàng hóa bán ra hoặc nhập khẩu (cục nóng, cục lạnh) vẫn thuộc đối tượng chịu thuế TTĐB như đối với sản phẩm hoàn chỉnh (máy điều hoà nhiệt độ hoàn chỉnh).",
+                "so_hieu": "195/2015/TT-BTC",
+                "trich_yeu": "Hướng dẫn 108/2015/NĐ-CP hướng dẫn Luật thuế tiêu thụ đặc biệt",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Tài chính",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tài chính"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.009131362389515391
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 999999999619359,
+                "position": "Mục 5",
+                "dia_danh": "Trung ương",
+                "title": "Ưu đãi đầu tư quy định tại các điểm b, c và d khoản 2 Điều này không áp dụng đối với các dự án đầu tư sau đây: b) Dự án đầu tư sản xuất, kinh doanh hàng hóa, dịch vụ thuộc đối tượng chịu thuế tiêu thụ đặc biệt theo quy định của Luật Thuế tiêu thụ đặc biệt, trừ dự án sản xuất ô tô, tàu bay, du thuyền;” - Tại Khoản 1 Điều 1 Luật số 70/2014/QH13 ngày 26/11/2014 của Quốc hội sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt quy định đối tượng chịu thuế tiêu thụ đặc biệt: “Điều 1. Sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt.",
+                "so_hieu": "3308/TCT-CS",
+                "trich_yeu": "Năm 2024 về miễn, giảm tiền thuê đất đối với dự án đầu tư kinh doanh xăng dầu do Tổng cục Thuế ban hành",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Tổng cục Thuế",
+                "don_vi": [
+                    "Trung ương",
+                    "Tổng cục Thuế"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.009003831417624522
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 999999999126841,
+                "position": "Mục 1",
+                "dia_danh": "Trung ương",
+                "title": "Người nộp thuế sản xuất hàng hóa thuộc đối tượng chịu thuế tiêu thụ đặc biệt bằng các nguyên liệu chịu thuế tiêu thụ đặc biệt được khấu trừ số thuế tiêu thụ đặc biệt đã nộp đối với nguyên liệu khi xác định số thuế tiêu thụ đặc biệt phải nộp ở khâu sản xuất. Số thuế tiêu thụ đặc biệt được khấu trừ tương ứng với số thuế tiêu thụ đặc biệt của nguyên liệu đã sử dụng để sản xuất hàng hóa bán ra.",
+                "so_hieu": "2389/TCT-CS",
+                "trich_yeu": "Về chính sách thuế tiêu thụ đặc biệt do Tổng cục Thuế ban hành",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Tổng cục Thuế",
+                "don_vi": [
+                    "Trung ương",
+                    "Tổng cục Thuế"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.008905600633287157
+            },
+            {
+                "index": 2,
+                "id": "dieu_3",
+                "id_document": 999999999586736,
+                "position": "Mục 4",
+                "dia_danh": "Trung ương",
+                "title": "Ưu đãi đầu tư đối với các đối tượng quy định tại các điểm b, c và d khoản 2 Điều này không áp dụng đối với dự án đầu tư khai thác khoáng sản; sản xuất, kinh doanh hàng hóa, dịch vụ thuộc đối tượng chịu thuế tiêu thụ đặc biệt theo quy định của Luật thuế tiêu thụ đặc biệt, trừ sản xuất ô tô.” - Tại khoản 1 Điều 2 Thông tư số 83/2014/TT-BTC ngày 17/6/2016 của Bộ Tài chính quy định đối tượng áp dụng: “Điều 2. Đối tượng áp dụng",
+                "so_hieu": "5115/TCT-CS",
+                "trich_yeu": "Năm 2023 về chính sách thuế thu nhập doanh nghiệp do Tổng cục Thuế ban hành",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Tổng cục Thuế",
+                "don_vi": [
+                    "Trung ương",
+                    "Tổng cục Thuế"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.008902397838568051
+            },
+            {
+                "index": 19,
+                "id": "dieu_16_dk_1",
+                "id_document": 12165,
+                "position": "Điều 16",
+                "dia_danh": "Trung ương",
+                "title": "",
+                "so_hieu": "69/2009/QĐ-TTg",
+                "trich_yeu": "Về việc thành lập và ban hành quy chế hoạt động của khu kinh tế Định An, tỉnh Trà Vinh do Thủ tướng Chính phủ ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Thủ tướng Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Kế hoạch và Đầu tư"
+                ],
+                "linh_vuc": null,
+                "score": 0.008881632653061224
+            },
+            {
+                "index": 2,
+                "id": "dieu_3",
+                "id_document": 999999999469486,
+                "position": "Mục 4",
+                "dia_danh": "Trung ương",
+                "title": "Ưu đãi đầu tư đối với các đối tượng quy định tại các điểm b, c và d khoản 2 Điều này không áp dụng đối với dự án đầu tư khai thác khoáng sản; sản xuất, kinh doanh hàng hóa, dịch vụ thuộc đối tượng chịu thuế tiêu thụ đặc biệt theo quy định của Luật thuế tiêu thụ đặc biệt, trừ sản xuất ô tô.” - Tại khoản 1 Điều 2 Thông tư số 83/2014/TT-BTC ngày 17/6/2016 của Bộ Tài chính quy định đối tượng áp dụng: “Điều 2. Đối tượng áp dụng",
+                "so_hieu": "5626/TCT-CS",
+                "trich_yeu": "2020 hướng dẫn chính sách thuế thu nhập doanh nghiệp",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Tổng cục Thuế",
+                "don_vi": [
+                    "Trung ương",
+                    "Tổng cục Thuế"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.008814102564102564
+            },
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 999999999519417,
+                "position": "Mục 2",
+                "dia_danh": "Trung ương",
+                "title": "Về thuế tiêu thụ đặc biệt (TTĐB) Căn cứ khoản 3 Điều 3 Luật Thuế TTĐB số 27/2008/QH12 sửa đổi, bổ sung tại khoản 2 Điều 1 Luật số 70/2014/QH13 sửa đổi, bổ sung một số điều của Luật Thuế TTĐB số 27/2008/QH12 quy định đối tượng không chịu thuế TTĐB: “3. Tàu bay, du thuyền sử dụng cho mục đích kinh doanh vận chuyển hàng hóa, hành khách, khách du lịch và tàu bay sử dụng cho mục đích an ninh, quốc phòng;” Căn cứ khoản 3 Điều 3 Nghị định số 108/2015/NĐ-CP ngày 28/10/2015 sửa đổi, bổ sung tại khoản 1 Điều 1 Nghị định số 14/2019/NĐ-CP ngày 01/02/2019 của Chính phủ quy định đối tượng không chịu thuế TTĐB: “3. Tàu bay, du thuyền sử dụng cho mục đích kinh doanh vận chuyển hàng hóa, hành khách, khách du lịch; tàu bay sử dụng cho mục đích: phun thuốc trừ sâu, chữa cháy, quay phim, chụp ảnh, đo đạc bản đồ, an ninh, quốc phòng. Trường hợp tàu bay, du thuyền không sử dụng cho mục đích kinh doanh vận chuyển hàng hóa, hành khách, kinh doanh du lịch; tàu bay không sử dụng cho mục đích: phun thuốc trừ sâu, chữa cháy, quay phim, chụp ảnh, đo đạc bản đồ, an ninh, quốc phòng thì phải chịu thuế tiêu thụ đặc biệt theo quy định của Luật thuế tiêu thụ đặc biệt và hướng dẫn của Bộ Tài chính.” Căn cứ các quy định nêu trên, trường hợp Công ty nhập khẩu 01 máy bay Diamond DA20-C1 (máy bay huấn luyện) không đáp ứng quy định về đối tượng không chịu thuế TTĐB và phải kê khai, nộp đủ thuế TTĐB theo quy định.",
+                "so_hieu": "2428/TCHQ-TXNK",
+                "trich_yeu": "Năm 2022 về miễn thuế nhập khẩu, thuế tiêu thụ đặc biệt, thuế giá trị gia tăng đối với máy bay huấn luyện nhập khẩu do Tổng cục Hải quan ban hành",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Tổng cục Hải quan",
+                "don_vi": [
+                    "Trung ương",
+                    "Tổng cục Hải quan"
+                ],
+                "linh_vuc": "Xuất nhập khẩu",
+                "score": 0.00879523591387998
+            },
+            {
+                "index": 0,
+                "id": "dieu_3",
+                "id_document": 999999999353013,
+                "position": "Điều 3",
+                "dia_danh": "Trung ương",
+                "title": "Đối tượng chịu thuế Hàng hóa, dịch vụ sử dụng cho sản xuất, kinh doanh và tiêu dùng ở Việt Nam là đối tượng chịu thuế giá trị gia tăng, trừ các đối tượng quy định tại Điều 5 của Luật này.",
+                "so_hieu": "2705/TCT-CS",
+                "trich_yeu": "2017 về chính sách thuế giá trị gia tăng",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Tổng cục Thuế",
+                "don_vi": [
+                    "Trung ương",
+                    "Tổng cục Thuế"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.008767720828789531
+            }
+        ]
+    },
+    {
+        "id": 26898,
+        "cau_hoi": "Cơ quan, tổ chức thực hiện chế độ báo cáo thống kê có quyền và nghĩa vụ gì?",
+        "tra_loi": "Căn cứ theo quy định tại Điều 44 Luật Thống kê 2015, quyền và nghĩa vụ của cơ quan, tổ chức thực hiện chế độ báo cáo thống kê là:\n- Cơ quan, tổ chức thực hiện chế độ báo cáo thống kê có các quyền sau:\n+ Độc lập về chuyên môn, nghiệp vụ trong thực hiện nhiệm vụ thu thập, tổng hợp thông tin;\n+ Được hướng dẫn nghiệp vụ thực hiện chế độ báo cáo thống kê;\n+ Được cung cấp, sử dụng dữ liệu từ cơ sở dữ liệu hành chính thuộc quyền quản lý của cơ quan nhà nước có liên quan để tổng hợp số liệu thống kê;\n+ Khiếu nại quyết định hành chính, hành vi hành chính khi có căn cứ cho rằng quyết định, hành vi đó vi phạm quy định về chế độ báo cáo thống kê.\n- Cơ quan, tổ chức thực hiện chế độ báo cáo thống kê có các nghĩa vụ sau:\n+ Thu thập, tổng hợp, lập và nộp báo cáo theo quy định của chế độ báo cáo thống kê và hướng dẫn của cơ quan nhà nước có thẩm quyền; chịu trách nhiệm về tính chính xác của thông tin thống kê;\n+ Bảo đảm bí mật thông tin liên quan đến cơ quan, tổ chức, cá nhân trong quá trình thực hiện chế độ báo cáo thống kê;\n+ Không được từ chối hoặc cản trở việc thực hiện chế độ báo cáo thống kê;\n+ Chịu sự kiểm tra về nghiệp vụ của cơ quan nhận báo cáo;\n+ Chịu sự kiểm tra, thanh tra về chuyên môn, nghiệp vụ thống kê của thanh tra chuyên ngành thống kê.",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "89/2015/QH13",
+                "khoan": "",
+                "dieu": "44",
+                "trich_yeu": "Luật Thống kê 2015",
+                "noi_dung_kem_trich_dan": "Căn cứ theo quy định tại Điều 44 Luật Thống kê 2015, quyền và nghĩa vụ của cơ quan, tổ chức thực hiện chế độ báo cáo thống kê là:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 10,
+                "id": "dieu_11",
+                "id_document": 999999999100435,
+                "position": "Mục 1 / Phần III",
+                "dia_danh": "Trung ương",
+                "title": "Tình hình thực hiện Nghị định số 130/2005/NĐ-CP ngày 17/10/2005 của Chính phủ quy định chế độ tự chủ, tự chịu trách nhiệm về sử dụng biên chế và kinh phí quản lý hành chính đối với các cơ quan nhà nước Chưa có gì thay đổi so với tháng trước.",
+                "so_hieu": "27/BC-BYT",
+                "trich_yeu": "Về công tác cải cách hành chính tháng 1 năm 2010 do Bộ Y tế ban hành",
+                "loai_van_ban": "Báo cáo",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Y tế",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Y tế"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.014973262032085561
+            },
+            {
+                "index": 13,
+                "id": "dieu_14",
+                "id_document": 99999999988458,
+                "position": "Mục 2 / Phần IV",
+                "dia_danh": "Trung ương",
+                "title": "Tình hình thực hiện Nghị định số 130/2005/NĐ-CP ngày 17/10/2005 của Chính phủ quy định chế độ tự chủ, tự chịu trách nhiệm về sử dụng biên chế và kinh phí quản lý hành chính đối với các cơ quan hành chính nhà nước Cục Quản lý Khám chữa bệnh đã được giao dự toán riêng để thực hiện chế độ tự chủ, tự chịu trách nhiệm về sử dụng biên chế và kinh phí quản lý hành chính. Cục Quản lý Khám chữa bệnh cũng đã tiến hành xây dựng và ban hành quy chế chi tiêu nội bộ.",
+                "so_hieu": "429/BC-BYT",
+                "trich_yeu": "Số 429/BC-BYT về công tác cải cách hành chính tháng 5 năm 2009 do Bộ Y tế ban hành",
+                "loai_van_ban": "Báo cáo",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Y tế",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Y tế"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.014884135472370767
+            },
+            {
+                "index": 10,
+                "id": "dieu_11",
+                "id_document": 99999999997552,
+                "position": "Mục 1 / Phần III",
+                "dia_danh": "Trung ương",
+                "title": "Tình hình thực hiện Nghị định số 130/2005/NĐ-CP ngày 17/10/2005 của Chính phủ quy định chế độ tự chủ, tự chịu trách nhiệm về sử dụng biên chế và kinh phí quản lý hành chính đối với các cơ quan nhà nước Chưa có gì thay đổi so với tháng trước.",
+                "so_hieu": "1088/BC-BYT",
+                "trich_yeu": "Về việc công tác cải cách hành chính tháng 11 năm 2009 do Bộ Y tế ban hành",
+                "loai_van_ban": "Báo cáo",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Y tế",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Y tế"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.014752325329872376
+            },
+            {
+                "index": 6,
+                "id": "dieu_7",
+                "id_document": 99999999993622,
+                "position": "Mục 1 / Phần II",
+                "dia_danh": "Trung ương",
+                "title": "Nghị định 88/2003/NĐ-CP về cơ bản đã thể chế hóa được chủ trương của Đảng và pháp luật của nhà nước, bảo đảm quyền lập hội của công dân theo Hiến pháp quy định và đường lối xây dựng nền kinh tế thị trường theo định hướng xã hội chủ nghĩa cũng như chủ trương cải cách hành chính là Nhà nước dần chuyển giao dịch vụ công cho hội và tổ chức phi chính phủ;",
+                "so_hieu": "3628/BC-BNV",
+                "trich_yeu": "Số 3628/BC-BNV về việc tổng kết tình hình thực hiện Nghị định 88/2003/NĐ-CP, ngày 30/7/2003 của Chính phủ quy định về tổ chức, hoạt động và quản lý hội và phương hướng bổ sung, sửa đổi nghị định do Bộ Nội vụ ban hành",
+                "loai_van_ban": "Báo cáo",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Nội vụ",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Nội vụ"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.014652014652014652
+            },
+            {
+                "index": 5,
+                "id": "dieu_6",
+                "id_document": 999999999102378,
+                "position": "Mục 1 / Phần III",
+                "dia_danh": "Trung ương",
+                "title": "Đánh giá về xác định chức năng, nhiệm vụ của các cơ quan, đơn vị trực thuộc, tiến hành rà soát kết quả thực hiện chức năng, nhiệm vụ, cơ cấu tổ chức của các đơn vị thuộc Bộ theo Nghị định 186/2007/NĐ-CP ngày 25/12/2007 của Chính phủ xây dựng và ban hành các tiêu chuẩn chức danh viên chức thuộc ngành quản lý, qua đó có những điều chỉnh và kiến nghị Lãnh đạo Bộ điều chỉnh.",
+                "so_hieu": "23/BC-LĐTBXH",
+                "trich_yeu": "Về công tác cải cách hành chính tháng 03 năm 2010 do Bộ Lao động - Thương binh và Xã hội ban hành",
+                "loai_van_ban": "Báo cáo",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Lao động",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Lao động"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.013571428571428571
+            },
+            {
+                "index": 11,
+                "id": "dieu_12",
+                "id_document": 99999999991335,
+                "position": "Mục 6 / Phần II",
+                "dia_danh": "Trung ương",
+                "title": "Thực hiện cơ chế tự chủ, tự chịu trách nhiệm theo các Nghị định số 130/2005/NĐ-CP ; Nghị định số 43/2006/NĐ-CP ; Nghị định số 115/2005/NĐ-CP đối với các cơ quan hành chính nhà nước, đơn vị sự nghiệp công lập và các tổ chức Khoa học và Công nghệ. Trên đây là báo cáo tình hình thực hiện công tác cải cách hành chính quý II/2009. Bộ Nội vụ xin trình Chính phủ và Thủ tướng Chính phủ xem xét.",
+                "so_hieu": "1934/BC-BNV",
+                "trich_yeu": "Số 1934/BC-BNV về tình hình thực hiện công tác cải cách hành chính quý II/2009 do Bộ Nội vụ ban hành",
+                "loai_van_ban": "Báo cáo",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Nội vụ",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Nội vụ"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012985671872983091
+            },
+            {
+                "index": 5,
+                "id": "dieu_6",
+                "id_document": 999999999100165,
+                "position": "Mục 1 / Phần II",
+                "dia_danh": "Trung ương",
+                "title": "Đánh giá về xác định chức năng, nhiệm vụ của các cơ quan, đơn vị trực thuộc, tiến hành rà soát kết quả thực hiện chức năng, nhiệm vụ, cơ cấu tổ chức của các đơn vị thuộc Bộ theo Nghị định 186/2007/NĐ-CP ngày 25/12/2007 của Chính phủ xây dựng và ban hành các tiêu chuẩn chức danh viên chức thuộc ngành quản lý, qua đó có những điều chỉnh và kiến nghị Lãnh đạo Bộ điều chỉnh.",
+                "so_hieu": "03/BC-LĐTBXH",
+                "trich_yeu": "Về công tác cải cách hành chính tháng 01 năm 2010 do Bộ Lao động - Thương binh và Xã hội ban hành",
+                "loai_van_ban": "Báo cáo",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Lao động",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Lao động"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.012433969930922389
+            },
+            {
+                "index": 6,
+                "id": "dieu_7",
+                "id_document": 99999999991400,
+                "position": "Mục 1 / Phần II",
+                "dia_danh": "Trung ương",
+                "title": "Các văn bản đề án, đã trình trong 6 tháng đầu năm 2009 a. Các văn bản, đề án trình Bộ Chính trị, Ban Bí thư - Đề án đổi mới công tác đào tạo, bồi dưỡng cán bộ, công chức. - Quy chế về quan hệ công tác giữa Ban cán sự đảng Chính phủ với Thường trực Chính phủ, với các đảng đoàn, Ban cán sự đảng ủy trực thuộc Trung ương, các Ban Trung ương đảng và các tỉnh, thành ủy. - Đề án thực hiện thí điểm việc không tổ chức HĐND huyện, quận, phường. - Đề án thực hiện thí điểm nhân dân trực tiếp bầu Chủ tịch UBND xã. - Đề án tổ chức việc thi tuyển đối với một số chức danh lãnh đạo gắn với chuyên môn nghiệp vụ trong bộ máy hành chính nhà nước và đơn vị sự nghiệp. - Báo cáo về xã hội dân sự. - Chỉ thị của Bộ Chính trị về lãnh đạo, chỉ đạo thực hiện thí điểm không tổ chức HĐND huyện, quận, phường. b. Các văn bản, đề án trình Quốc hội, Ủy ban thường vụ Quốc hội - Luật Cơ yếu. - Nghị quyết của Ủy ban thường vụ Quốc hội về danh sách huyện, quận, phường của các tỉnh, thành phố trực thuộc Trung ương thực hiện thí điểm không tổ chức HĐND huyện, quận, phường. - Nghị quyết của Ủy ban thường vụ Quốc hội điều chỉnh nhiệm vụ, quyền hạn của HĐND, UBND tỉnh, thành phố trực thuộc Trung ương và quy định nhiệm vụ, quyền hạn của UBND huyện, quận, phường nơi thí điểm không tổ chức HĐND huyện, quận, phường. - Nghị quyết sửa đổi, bổ sung bảng phụ cấp chức vụ lãnh đạo quy định tại Nghị quyết số 730/2004/NQ-UBTVQH11 ngày 30/9/2004 của Ủy ban thường vụ Quốc hội về việc phê chuẩn bảng lương chức vụ, bảng phụ cấp chức vụ đối với cán bộ lãnh đạo của Nhà nước; bảng lương chuyên môn, nghiệp vụ ngành Tòa án, Kiểm sát. c. Các văn bản, đề án trình Chính phủ - Nghị định quy định về chức danh, số lượng, một số chế độ, chính sách đối với cán bộ, công chức ở xã, phường, thị trấn. - Chương trình hành động thực hiện Nghị quyết số 25-NQ/TW ngày 25/7/2008 của Hội nghị lần thứ bảy Ban chấp hành Trung ương khóa X về tăng cường sự lãnh đạo của Đảng đối với công tác thanh niên trong thời kỳ đẩy mạnh công nghiệp hóa, hiện đại hóa. - Đề án thành lập Trường bồi dưỡng nghiệp vụ công tác tôn giáo. - Tổ chức bộ máy quản lý nhà nước về thanh niên. - Nghị định của Chính phủ quy định chế độ phụ cấp công vụ. - Nghị định sửa đổi, bổ sung Nghị định số 204/2004/NĐ-CP ngày 14/12/2004 về chế độ tiền lương đối với cán bộ, công chức, viên chức và lực lượng vũ trang. - Nghị định sửa đổi Nghị định số 107/2004/NĐ-CP về số Phó Chủ tịch và Ủy viên UBND các cấp. - Báo cáo công tác cải cách hành chính tháng 1, tháng 2, tháng 4, tháng 5, quý I và 6 tháng đầu năm 2009. d. Các văn bản, đề án trình Thủ tướng Chính phủ - Quyết định của Thủ tướng Chính phủ về chính sách luân chuyển, tăng cường cán bộ chủ chốt cho các xã, thị trấn thuộc 61 huyện nghèo và chính sách ưu đãi, khuyến khích thu hút tri thức trẻ, cán bộ kỹ thuật về tham gia tổ công tác tại các xã, thị trấn thuộc 61 huyện nghèo theo Nghị quyết số 30a/2008/NQ-CP ngày 27/12/2008 của Chính phủ. - Đề án về chế độ phụ cấp đối với cán bộ công tác ở vùng sâu, vùng xa, vùng biên giới hải đảo, vùng có đông đồng bào dân tộc thiểu số; chính sách thu hút đối với sinh viên tốt nghiệp đại học, cao đẳng về công tác ở xã, phường, thị trấn. - Quyết định của Thủ tướng Chính phủ về ban hành kế hoạch thực hiện Nghị quyết của Quốc hội về thí điểm không tổ chức HĐND huyện, quận, phường. - Báo cáo về tiến độ giải ngân, tác động của Chương trình vốn vay ADB và xin kéo dài thời gian hoạt động của Chương trình để Thủ tướng quyết định. - Quyết định của Thủ tướng Chính phủ về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ban Tôn giáo Chính phủ. - Quyết định của Thủ tướng Chính phủ về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Cục Văn thư và Lưu trữ nhà nước. - Quyết định của Thủ tướng Chính phủ về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ban Thi đua - Khen thưởng Trung ương. - Quyết định của Thủ tướng Chính phủ về chế độ đào tạo trước khi bổ nhiệm. - Đề án đào tạo CBCC xã đến năm 2020 phục vụ công nghiệp hóa, hiện đại hóa nông nghiệp, nông thôn. đ. Các văn bản, đề án trình Bộ trưởng - Quyết định ban hành kế hoạch kiểm tra văn bản quy phạm pháp luật của Bộ Nội vụ năm 2009. - Quyết định ban hành Kế hoạch phổ biến, giáo dục pháp luật của Bộ Nội vụ năm 2009. - Quyết định về việc phê duyệt Kế hoạch đào tạo, bồi dưỡng của Bộ Nội vụ năm 2009. - Quyết định ban hành Chương trình xây dựng văn bản quy phạm pháp luật của Bộ Nội vụ năm 2009. - Quyết định ban hành Quy chế xây dựng, thẩm định và ban hành văn bản quy phạm pháp luật của Bộ Nội vụ. - Thông tư hướng dẫn triển khai thực hiện thí điểm không tổ chức HĐND huyện, quận, phường. - Thông tư hướng dẫn trình tự, thủ tục bổ nhiệm, miễn nhiệm, cách chức Chủ tịch, Phó Chủ tịch và Ủy viên UBND huyện, quận, phường nơi không tổ chức HĐND. - Quyết định ban hành Kế hoạch hoạt động năm 2009 của Dự án ADB - Bộ Nội vụ. - Thông tư hướng dẫn Nghị định số 01/2009/NĐ-CP ngày 02/01/2009 của Chính phủ quy định tiêu chuẩn vật chất hậu cần đối với người làm công tác cơ yếu. - Thông tư liên tịch hướng dẫn thực hiện điều chỉnh trợ cấp hàng tháng đối với cán bộ xã già yếu nghỉ việc. - Thông tư liên tịch hướng dẫn thực hiện điều chỉnh mức lương tối thiểu chung. - Quyết định ban hành Quy chế quản lý, duy trì và phát triển Trang thông tin điện tử của Bộ Nội vụ.",
+                "so_hieu": "1931/BC-BNV",
+                "trich_yeu": "Số 1931/BC-BNV về việc sơ kết công tác phòng, chống tham nhũng trong 6 tháng đầu năm 2009 của Bộ Nội vụ do Bộ Nội vụ ban hành",
+                "loai_van_ban": "Báo cáo",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Nội vụ",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Nội vụ"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012430769230769231
+            },
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 99999999990953,
+                "position": "Mục 2 / Phần VI",
+                "dia_danh": "Trung ương",
+                "title": "Căn cứ vào tình hình và kết quả triển khai thời gian qua, Tổ công tác chuyên trách đề nghị: a) Các đồng chí lãnh đạo Bộ, cơ quan ngang bộ cần vào cuộc một cách mạnh mẽ, quyết tâm, sát sao hơn trong chỉ đạo điều hành hoạt động của Tổ công tác. Trước hết đề nghị cần quan tâm, tạo điều kiện thuận lợi để các thành viên Tổ công tác (chế độ chính sách, điều kiện, phương tiện làm việc) hoàn thành tốt nhiệm vụ được giao). Ở các bộ, việc thực hiện các nhiệm vụ công việc của Đề án 30 không những có liên quan mà còn phụ thuộc rất nhiều vào hoạt động của các cơ quan, đơn vị trực thuộc. Do vậy, đề nghị các đồng chí Bộ trưởng quán triệt về mục tiêu, yêu cầu của Đề án tới tất cả các lãnh đạo các vụ, cục chuyên môn để các đơn vị này vào cuộc thực sự, triển khai các công việc theo đúng tiến độ đề án đặt ra. b) Đề nghị các Bộ có cơ quan ngành dọc cần tổ chức quán triệt, hướng dẫn cụ thể các đơn vị trực thuộc đóng tại địa phương triển khai thực hiện thống kê thủ tục hành chính theo đúng tiến độ và hướng dẫn của Tổ công tác chuyên trách, khẩn trương hoàn thành việc thống kê thủ tục hành chính để không làm ảnh hưởng tới việc thực hiện ý kiến chỉ đạo của Thủ tướng về công bố công khai bộ thủ tục hành chính chung ở cấp xã, cấp huyện trong phạm vi từng tỉnh vào tháng 6/2009. Tổ công tác chuyên trách đề nghị các bộ: Tài chính, Quốc phòng, Công an; các cơ quan: Ngân hàng Phát triển Việt Nam, Ngân hàng chính sách xã hội, Bảo hiểm xã hội Việt Nam có công văn gửi các Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương đề nghị Tổ công tác thực hiện đề án 30 của các địa phương hỗ trợ tập huấn thống kê thủ tục hành chính cho các đơn vị ngành dọc đóng tại địa phương; đồng thời lựa chọn 05 địa phương để tổ chức thống kê thủ tục hành chính điểm đối với các cơ quan ngành học của bộ, ngành mình đóng tại 05 địa phương đó. Trên cơ sở tổng hợp kết quả của các đơn vị thống kê điểm, tổng hợp thành bộ thủ tục hành chính (danh mục thủ tục hành chính và Biểu mẫu 1 đã được điền đầy đủ) của các đơn vị được chọn làm điểm gửi tới các đơn vị ngành dọc còn lại đóng trên địa bàn các địa phương khác để lấy ý kiến và hoàn chỉnh thành bộ thủ tục hành chính chung của các đơn vị ngành dọc đóng tại các địa phương. Sau khi có bộ thủ tục hành chính này, Tổ công tác thực hiện đề án 30 của bộ nhập dữ liệu vào phần mềm máy xén gửi Tổ công tác chuyên trách; đồng thời gửi Tổ công tác thực hiện đề án 30 của các địa phương để tổng hợp theo từng địa phương. c) Đề nghị các Tổ công tác tập trung thực hiện khẩn trương các việc sau đây: - Đôn đốc các vụ, cục đơn vị trực thuộc tập trung hoàn tất việc điền Biểu mẫu 1 cho tất cả các thủ tục hành chính thuộc phạm vi chức năng quản lý của bộ, cơ quan ngang bộ trước ngày 01/4/2009 theo đúng yêu cầu chỉ đạo của Thủ tướng, kiểm soát chất lượng tất cả các thủ tục hành chính được thống kê theo Biểu mẫu 1 và các văn bản có liên quan đính kèm, nhập vào phần mềm máy xén gửi Tổ công tác chuyên trách. - Căn cứ danh mục những thủ tục hành chính do Hội đồng tư vấn cải cách thủ tục hành chính cung cấp và thực tiễn quản lý, tiếp tục hoàn thiện danh mục thủ tục hành chính thuộc phạm vi quản lý bộ, cơ quan ngang bộ để tiếp tục thống kê những thủ tục hành chính còn thiếu. - Đẩy nhanh việc nhập văn bản, bảo đảm đúng tiến độ quy định tại Công văn số 22/CCTTHC ngày 12/2/2009. - Tổ trưởng, Tổ phó thường trực Tổ công tác thực hiện đề án 30 của bộ, cơ quan ngang bộ tham dự đầy đủ các buổi giao định kỳ hàng tháng của Tổ công tác chuyên trách. - Bảo đảm chế độ báo cáo định kỳ hàng tháng đúng thời hạn (trước ngày 25 hàng tháng) và lập theo đúng mẫu do Tổ công tác chuyên trách quy định (Công văn số 2026/TTg-TCCV ngày 21/11/2008). Trong trường hợp Bộ trưởng đi công tác, Tổ công tác trình Thứ trưởng ký Báo cáo. - Phối hợp với Tổ công tác chuyên trách của Thủ tướng trong việc xây dựng giao diện đầu ra của Cơ sở dữ liệu quốc gia về thủ tục hành chính. Đây là tài sản chung của các bộ, địa phương. Dự kiến cuối tháng 8/2009, căn cứ vào kết quả thống kê của các bộ và địa phương, Tổ công tác chuyên trách sẽ ra mắt cơ sở dữ liệu này để công khai thủ tục hành chính phục vụ nhân dân.",
+                "so_hieu": "47/BC-CCTTHC",
+                "trich_yeu": "Số 47/BC-CCTTHC về tình hình triển khai thực hiện đề án 30 tại các bộ, cơ quan ngang bộ tính đến ngày 12/3/2009 do Tổ công tác chuyên trách cải cách thủ tục hành chính của Thủ tướng Chính phủ ban hành",
+                "loai_van_ban": "Báo cáo",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Thủ tướng Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Thủ tướng Chính phủ"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012382149591451917
+            },
+            {
+                "index": 5,
+                "id": "dieu_6",
+                "id_document": 999999999104128,
+                "position": "Mục 1 / Phần III",
+                "dia_danh": "Trung ương",
+                "title": "Đánh giá về xác định chức năng, nhiệm vụ của các cơ quan, đơn vị trực thuộc Tiến hành rà soát, đánh giá kết quả thực hiện chức năng, nhiệm vụ, cơ cấu tổ chức của các đơn vị thuộc Bộ theo Nghị định 186/2007/NĐ-CP ngày 25/12/2007 của Chính phủ để kiến nghị sửa đổi, bổ sung cho phù hợp.",
+                "so_hieu": "37/BC-LĐTBXH",
+                "trich_yeu": "Về công tác cải cách hành chính tháng 4 năm 2010 do Bộ Lao động - Thương binh và Xã hội ban hành",
+                "loai_van_ban": "Báo cáo",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Lao động",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Lao động"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012380364309972212
+            },
+            {
+                "index": 5,
+                "id": "dieu_6",
+                "id_document": 99999999991887,
+                "position": "Mục 1 / Phần II",
+                "dia_danh": "Trung ương",
+                "title": "Đổi mới cơ chế Kết quả nổi bật khi thực hiện Nghị quyết của Chính phủ là các Bộ, ngành và địa phương đã rà soát lại chức năng, nhiệm vụ của các cơ quan hành chính, đơn vị sự nghiệp. Phân biệt cơ quan hành chính có chức năng quản lý hành chính nhà nước với các đơn vị sự nghiệp có chức năng cung cấp các hoạt động dịch vụ công; từ đó có cơ chế quản lý phù hợp với từng lĩnh vực, xóa bỏ tình trạng “hành chính hóa” các hoạt động sự nghiệp. Thông qua việc rà soát về chức năng, nhiệm vụ và việc tách quản lý hành chính với sự nghiệp dịch vụ công, Chính phủ ban hành các Nghị định quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của các Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ. Thực hiện thí điểm khoán biên chế và kinh phí quản lý hành chính đối với các cơ quan thuộc thành phố Hồ Chí Minh, mở rộng thí điểm khoán biên chế và kinh phí quản lý hành chính đối với các cơ quan hành chính Nhà nước và thực hiện thí điểm khoán biên chế và kinh phí hoạt động đối với Tổng cục thuế, Kho bạc Nhà nước thuộc Bộ Tài chính. Sau 3 năm thực hiện, theo báo cáo của 13 tỉnh với 107 đơn vị thực hiện thí điểm khoán, số biên chế giảm được 357 người, kinh phí tiết kiệm được 14.604.000.000 đồng, thu nhập bình quân của cán bộ công chức tăng thêm 182.000 đồng/tháng. Thực hiện giao quyền tự chủ cho các đơn vị sự nghiệp công (Nghị định 10/2002/NĐ-CP ngày 16/01/2002 của Chính phủ về cơ chế tài chính áp dụng đối với đơn vị sự nghiệp có thu) đã thúc đẩy đơn vị sự nghiệp sắp xếp tổ chức bộ máy, biên chế theo hướng tinh gọn, hiệu quả. Theo báo cáo của các đơn vị sự nghiệp có thu thuộc Bộ, ngành và địa phương đã tiết kiệm chi thường xuyên từ 3 – 10% góp phần tạo nguồn kinh phí cho đơn vị hoạt động, tăng thu nhập cho người lao động. Theo báo cáo của 13 đơn vị thuộc Bộ Tư pháp, Công nghiệp, Giao thông vận tải, thu nhập bình quân của đơn vị tăng 52,3% so với lương bình quân cấp bậc, chức vụ và theo báo cáo của 575 đơn vị của địa phương thu nhập bình quân năm 2002 tăng so với năm 2001 là 4%. Một số đơn vị có thu tự bảo đảm toàn bộ chi phí hoạt động thường xuyên thuộc lĩnh vực sự nghiệp kinh tế, quỹ lương tăng thêm đã vượt quá mức tối đa 2,5 lần. Chuyển đổi cơ chế quản lý đối với Bảo hiểm xã hội Việt Nam, Đài truyền hình Việt Nam, Thông tấn xã Việt Nam và Đài tiếng nói Việt Nam sang cơ chế tự chủ với số lượng 18.000 người.",
+                "so_hieu": "330/BC-BNV",
+                "trich_yeu": "Số 330/BC-BNV về việc thực hiện Nghị quyết số 16/2000/NQ-CP ngày 18/10/2000 và Nghị quyết số 09/2003/NQ-CP ngày 28/09/2003 của Chính phủ về việc tinh giản biên chế trong các cơ quan hành chính, đơn vị sự nghiệp do Bộ Nội vụ ban hành",
+                "loai_van_ban": "Báo cáo",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Nội vụ",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Nội vụ"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012177419354838709
+            },
+            {
+                "index": 2,
+                "id": "dieu_3",
+                "id_document": 99999999991647,
+                "position": "Mục 1 / Phần II",
+                "dia_danh": "Trung ương",
+                "title": "Về thực hiện các nhiệm vụ theo chương trình, kế hoạch năm: Bám sát sự chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ, Bộ Nội vụ đã cơ bản hoàn thành các nhiệm vụ trong chương trình công tác năm 2007 của Chính phủ, cụ thể đã xây dựng và trình các văn bản, đề án sau: - Nghị quyết về đổi mới quản lý và cung ứng dịch vụ công. - Các nội dung về cải cách hành chính liên quan đến nhiệm vụ của Chính phủ được Hội nghị Trung ương lần thứ 4 (khóa X) thông qua. - Nghị định về trách nhiệm của cán bộ công chức trong thực thi công vụ. - Quyết định của Trưởng Ban Chỉ đạo nghiên cứu cải cách chính sách tiền lương nhà nước về tổng kết việc thực hiện đề án cải cách chính sách tiền lương, bảo hiểm xã hội và trợ cấp ưu đãi người có công từ năm 2003 đến năm 2006. - Nghị định sửa đổi, bổ sung Nghị định 121/2003/NĐ-CP về chế độ, chính sách đối với cán bộ, công chức cấp xã (trình tại Tờ trình số 792/TTr-BNV ngày 26/3/2007). - Đề án kiểm soát thu nhập của người có chức vụ, quyền hạn (trình từ tháng 3/2007 tại Tờ trình số 833/TTr-BNV). - Nghị định của Chính phủ sửa đổi những quy định về phân cấp trong các Nghị định của Chính phủ. - Nghị định về chính sách tinh giản biên chế (Đã ban hành). - Nghị định hướng dẫn thi hành Luật Thanh niên (đã ban hành). - Nghị định quy định thủ tục thực hiện nghỉ hưu đối với cán bộ công chức đủ điều kiện nghỉ hưu (đã ban hành). - Đề án cơ cấu Chính phủ khóa XII. - Đề án nâng cao hiệu quả sử dụng thời giờ làm việc của cán bộ, công chức, viên chức. - Nghị định về trách nhiệm của cán bộ công chức trong thực thi nhiệm vụ, công vụ. - Quyết định của Thủ tướng Chính phủ phê duyệt Chương trình xây dựng, nâng cao chất lượng đội ngũ cán bộ công chức hành chính nhà nước giai đoạn 2007-2010. - Đề án tiếp tục cải cách chính sách tiền lương, bảo hiểm xã hội và trợ cấp ưu đãi người có công giai đoạn 2008 – 2012 (đã trình Chính phủ tháng 7/2007 và Bộ Chính trị tháng 9-10/2007). - Quyết định về việc đào tạo bồi dưỡng cán bộ công chức xã, phường, thị trấn các tỉnh vực miền núi phía Bắc (đã ban hành). - Quyết định phê duyệt một số giải pháp tăng cường công tác đào tạo và nguồn đội ngũ cán bộ hệ thống chính trị cơ sở vùng Tây Bắc giai đoạn 2007 – 2010 (đã ban hành). - Chương trình hành động thực hiện Nghị quyết Trung ương 5 khóa X về đẩy mạnh cải cách hành chính, nâng cao hiệu lực, hiệu quả hoạt động của bộ máy nhà nước (Đã ban hành). - Tham mưu, làm đầu mối giúp Thủ tướng Chính phủ tổ chức Hội nghị sơ kết 3 năm thực hiện Chương trình hành động của Chính phủ thực hiện Nghị quyết lần thứ 7 Ban Chấp hành Trung ương Đảng (khóa IX) về công tác tôn giáo. - Tham mưu với Thủ tướng Chính phủ một số chính sách cụ thể quản lý Nhà nước đối với hoạt động tôn giáo. - Tham mưu giúp Bộ trưởng giải quyết khiếu nại, tố cáo theo đúng quy định của pháp luật; chuyển đến cơ quan có thẩm quyền hoặc hướng dẫn công dân gửi đến cơ quan có thẩm quyền để xem xét, giải quyết; thẩm tra, xác minh, kiến nghị biện pháp xử lý đối với những khiếu nại, tố cáo thuộc thẩm quyền của Bộ Nội vụ. - Tổ chức thanh tra theo Kế hoạch thanh tra năm 2007 và thanh tra đột xuất tại thị xã Móng Cái, tỉnh Quảng Ninh theo chỉ đạo của Lãnh đạo Bộ. - Tổ chức tiếp công dân theo đúng quy định của Luật Khiếu nại, tố cáo và các quy định của pháp luật hiện hành. - Đã trình Chính phủ: + Việc tiếp thu ý kiến thẩm định của Bộ Tư pháp vào dự thảo Nghị định quy định về tổ chức, hoạt động của quỹ xã hội, quỹ từ thiện. + Việc ban hành Quy chế làm việc của Ban Chỉ đạo tiền lương Nhà nước. + Việc thành lập Viện Công nghiệp phần mềm và nội dung số Việt Nam. + Nghị định về chế độ trách nhiệm của cán bộ công chức khi thực thi nhiệm vụ, công vụ. + Quyết định của Thủ tướng Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ban Quản lý Khu kinh tế cửa khẩu quốc tế Bờ Y. + Về thành lập Ủy ban chỉ đạo quốc gia và Ban điều phối quốc gia đại lễ Phật đản (Vesak) Liên hợp quốc 2008 tại Việt Nam. + Việc rà soát, sắp xếp các tổ chức tư vấn, phối hợp liên ngành do Thủ tướng Chính phủ thành lập và tổng hợp các báo cáo về rà soát, sắp xếp lại các tổ chức tư vấn, phối hợp liên ngành do các Bộ, ngành, địa phương thành lập. + Về tổ chức Ban Chỉ đạo Cải cách hành chính của các Bộ, ngành, địa phương. + Việc quy định các chức danh tương đương làm căn cứ xét khen thưởng cán bộ có quá trình cống hiến. + Việc thành lập Ban quản lý các Khu công nghiệp tỉnh Yên Bái, tỉnh Đắc Lắc; Ban Quản lý Khu kinh tế Đông Nam Nghệ An. + Quyết định ban hành Quy định tạm thời về tiêu chuẩn thanh tra viên chuyên ngành xây dựng cấp quận, cấp phường tại TP Hà Nội và TP Hồ Chí Minh. + Báo cáo Chính phủ việc tách Bảo hiểm Y tế từ Bảo hiểm Xã hội Việt Nam về Bộ Y tế. + Các Nghị định thay thế Nghị định 171/2004/NĐ-CP và 172/2004/NĐ-CP về tổ chức cơ quan chuyên môn ở cấp tỉnh, cấp huyện.",
+                "so_hieu": "3298/BC-BNV",
+                "trich_yeu": "Số 3298/BC-BNV về việc tổng kết, đánh giá tình hình thực hiện Nghị quyết số 03/2007/NQ-CP về những giải pháp chủ yếu chỉ đạo, điều hành thực hiện kế hoạch kinh tế - xã hội và ngân sách nhà nước năm 2007 do Bộ Nội vụ ban hành",
+                "loai_van_ban": "Báo cáo",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Nội vụ",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Nội vụ"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012041666666666666
+            },
+            {
+                "index": 10,
+                "id": "dieu_11",
+                "id_document": 999999999100165,
+                "position": "Mục 2 / Phần III",
+                "dia_danh": "Trung ương",
+                "title": "Tình hình thực hiện Nghị định 130/2005/NĐ-CP và Nghị định 43/2006/NĐ-CP ngày 25/4/2006 của Chính phủ. - Giao quyền tự chủ, tự chịu trách nhiệm về tài chính cho 05 đơn vị sự nghiệp, gồm: Trung tâm Quốc gia dự báo và thông tin thị trường lao động; Trung tâm hỗ trợ phát triển quan hệ lao động; Trường Cao đẳng nghề Dung Quất; Bệnh viện Chỉnh hình- Phục hồi chức năng Đà Nẵng; Quỹ Bảo trợ trẻ em Việt Nam. - Hướng dẫn triển khai thực hiện công tác lập dự toán, phân bổ và giao dự toán gắn với nhiệm vụ được giao và kết quả đầu ra.",
+                "so_hieu": "03/BC-LĐTBXH",
+                "trich_yeu": "Về công tác cải cách hành chính tháng 01 năm 2010 do Bộ Lao động - Thương binh và Xã hội ban hành",
+                "loai_van_ban": "Báo cáo",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Lao động",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Lao động"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.011992762987852158
+            },
+            {
+                "index": 10,
+                "id": "dieu_11",
+                "id_document": 999999999113204,
+                "position": "Mục 1 / Phần III",
+                "dia_danh": "Trung ương",
+                "title": "Tình hình thực hiện Nghị định số 130/2005/NĐ-CP ngày 17/10/2005 của Chính phủ quy định chế độ tự chủ, tự chịu trách nhiệm về sử dụng biên chế và kinh phí quản lý hành chính đối với các cơ quan nhà nước Các cơ quan hành chính trực thuộc Bộ gồm có: Văn phòng Bộ Y tế (bao gồm cả cơ quan đại diện Bộ Y tế tại Thành phố Hồ Chí Minh), Cục Quản lý Dược, Cục Y tế Dự phòng, Cục Quản lý Môi trường y tế, Cục An toàn vệ sinh thực phẩm, Cục phòng chống HIV/AIDS, Tổng cục Dân số – Kế hoạch hoá gia đình và Cục Quản lý khám, chữa bệnh. Hiện nay, các đơn vị đều triển khai thực hiện tốt Nghị định số 130/2005/NĐ-CP ngày 17/10/2005 của Chính phủ quy định chế độ tự chủ, tự chịu trách nhiệm về sử dụng biên chế và kinh phí quản lý hành chính đối với các cơ quan hành chính Nhà nước. Riêng đối với Văn phòng Bộ Y tế có nhiều khó khăn về kinh phí do đặc thù: như tình hình dịch bệnh diễn biến phức tạp, có nhiều chính sách mới được triển khai cần kinh phí chi cho công tác kiểm tra, giám sát nên có ảnh hưởng rất lớn đến việc thực hiện chế độ tự chủ, tự chịu trách nhiệm về sử dụng biên chế và kinh phí quản lý hành chính của Văn phòng Bộ, hàng năm đều thiếu kinh phí hoạt động thường xuyên và không có kinh phí để chi thêm thu nhập cho cán bộ, công chức.",
+                "so_hieu": "852/BC-BYT",
+                "trich_yeu": "Về công tác cải cách hành chính tháng 10 năm 2010 do Bộ Y tế ban hành",
+                "loai_van_ban": "Báo cáo",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Y tế",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Y tế"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011880078453348278
+            },
+            {
+                "index": 24,
+                "id": "dieu_25",
+                "id_document": 999999999107282,
+                "position": "Mục 2 / Phần III",
+                "dia_danh": "Trung ương",
+                "title": "Tình hình thực hiện Nghị định số 130/2005/NĐ-CP ngày 17/10/2005 của Chính phủ quy định chế độ tự chủ, tự chịu trách nhiệm về sử dụng biên chế và kinh phí quản lý hành chính đối với các cơ quan hành chính nhà nước: - Các cơ quan hành chính trực thuộc Bộ gồm có: Văn phòng Bộ Y tế, Cục Quản lý Dược, Cục Y tế Dự phòng, Cục Quản lý Môi trường y tế, Cục An toàn vệ sinh thực phẩm, Cục phòng chống HIV/AIDS, Tổng cục Dân số – Kế hoạch hoá gia đình và Cục Quản lý khám, chữa bệnh. Hiện nay, các đơn vị đều triển khai thực hiện tốt Nghị định số 130/2005/NĐ-CP ngày 17/10/2005 của Chính phủ quy định chế độ tự chủ, tự chịu trách nhiệm về sử dụng biên chế và kinh phí quản lý hành chính đối với các cơ quan hành chính Nhà nước. Riêng đối với Văn phòng Bộ Y tế có nhiều khó khăn về kinh phí do đặc thù: như tình hình dịch bệnh diễn biến phức tạp, có nhiều chính sách mới được triển khai cần kinh phí chi cho công tác kiểm tra, giám sát nên có ảnh hưởng rất lớn đến việc thực hiện chế độ tự chủ, tự chịu trách nhiệm về sử dụng biên chế và kinh phí quản lý hành chính của Văn phòng Bộ. - Đã gửi văn bản cho các đơn vị sự nghiệp trực thuộc Bộ đề nghị tổng kết, đánh giá tình hình thực hiện Nghị định 130/2005/NĐ-CP giai đoạn 2007-2010 và đề xuất, kiến nghị đổi mới cơ chế tự chủ, tự chịu trách nhiệm giai đoạn 2011-2015 theo đề cương yêu cầu của Bộ Tài chính.",
+                "so_hieu": "495/BC-BYT",
+                "trich_yeu": "Về công tác cải cách hành chính Quý II năm 2010 do Bộ Y tế ban hành",
+                "loai_van_ban": "Báo cáo",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Y tế",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Y tế"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011623711340206185
+            },
+            {
+                "index": 11,
+                "id": "dieu_12",
+                "id_document": 99999999993663,
+                "position": "Mục 3 / Phần III",
+                "dia_danh": "Trung ương",
+                "title": "Về chế độ, chính sách đối với cán bộ ở cơ sở: Căn cứ chức năng, nhiệm vụ được giao, trong thời gian tới Bộ Nội vụ sẽ chủ động phối hợp với các Bộ, ngành liên quan tiếp tục nghiên cứu để xây dựng Đề án tổng thể về chế độ, chính sách đối với cán bộ cơ sở và xây dựng Nghị định thay thế Nghị định số 121/2003/NĐ-CP ngày 21/10/2003 của Chính phủ về chế độ, chính sách đối với cán bộ, công chức xã, phường, thị trấn trình Chính phủ xem xét, cho ý kiến chỉ đạo để thực hiện theo tinh thần Nghị quyết Hội nghị Trung ương 6, Khóa X sắp tới. Trên đây là báo cáo của Bộ Nội vụ về kết quả thực hiện công tác hướng dẫn, xây dựng hệ thống chính trị cơ sở, xây dựng chính quyền cơ sở vững mạnh đối với tuyến biên giới Việt – Lào từ năm 2005 đến nay, theo tinh thần Chỉ thị số 14/CT-TTg ngày 14 tháng 4 năm 2005 của Thủ tướng Chính phủ. Bộ Nội vụ xin báo cáo Ban Chỉ đạo Tây Bắc, để kịp thời tổng hợp báo cáo Bộ Chính trị, Ban Bí thư và Thủ tướng Chính phủ đúng thời gian quy định./.",
+                "so_hieu": "3642/BC-BNV",
+                "trich_yeu": "Số 3642/BC-BNV về kết quả thực hiện công tác hướng dẫn xây dựng hệ thống chính trị cơ sở và xây dựng chính quyền cơ sở vững mạnh đối với tuyến biên giới Việt Nam – Lào, theo tinh thần Chỉ thị số 14/2005/CT-TTg ngày 14 tháng 4 năm 2005 của Thủ tướng Chính phủ do Bộ Nội vụ ban hành",
+                "loai_van_ban": "Báo cáo",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Nội vụ",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Nội vụ"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011525704809286899
+            },
+            {
+                "index": 2,
+                "id": "dieu_3",
+                "id_document": 999999999113183,
+                "position": "Mục 2 / Phần I",
+                "dia_danh": "Trung ương",
+                "title": "Xây dựng và ban hành mới văn bản pháp luật Bộ Lao động – Thương binh và Xã hội đã ban hành 6 Thông tư, trong đó 4 Thông tư của Bộ và phối hợp với Bộ Tài chính, Bộ Y tế và Bộ Nội vụ ban hành 2 Thông tư liên tịch, cụ thể: + Thông tư số 29/2010/TT-BLĐTBXH ngày 23/09/2010 của Bộ Lao động – Thương binh và Xã hội Hướng dẫn định mức biên chế của Trung tâm dạy nghề công lập; + Thông tư số 30/2010/TT-BLĐTBXH ngày 29/9/2010 của Bộ Lao động – Thương binh và Xã hội Quy định chuẩn giáo viên, giảng viên dạy nghề; + Thông tư số 26/2010/TT-BLĐTBXH ngày 13/09/2010 của Bộ Lao động – Thương binh và Xã hội Về sửa đổi, bổ sung Thông tư số 24/2007/TT-BLĐTBXH ngày 09 tháng 11 năm 2007 về hướng dẫn tính thời gian để hưởng chế độ bảo hiểm xã hội theo Quyết định số 107/2007/QĐ-TTg ngày 13 tháng 7 năm 2007 của Thủ tướng Chính phủ; + Thông tư số 27/2010/TT-BLĐTBXH ngày 14/9/2010 của Bộ Lao động – Thương binh và Xã hội Hướng dẫn thực hiện quản lý lao động, tiền lương, thù lao và tiền thưởng trong công ty trách nhiệm hữu hạn một thành viên do nhà nước làm chủ sở hữu; + Thông tư Liên tịch số 28/2010/TTLT-BLĐTBXH-BNV ngày 16/9/2010 của Bộ Lao động – Thương binh và Xã hội và Bộ Nội vụ Hướng dẫn chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức và biên chế của Trung tâm quản lý sau cai nghiện ma túy; + Thông tư Liên tịch số 25/2010/TTLT-BLĐTBXH-BTC-BYT ngày 11/9/2010 của Bộ Lao động – Thương binh và Xã hội, Bộ Tài chính và Bộ Y tế Sửa đổi, bổ sung Thông tư liên tịch số 17/2006/TTLT-BLĐTBXH-BTC-BYT ngày 21 tháng 11 năm 2006 và thay thế Thông tư liên tịch số 06/2007/TTLT-BLĐTBXH-BTC-BYT ngày 12 tháng 4 năm 2007 của liên Bộ Lao động – Thương binh và Xã hội – Bộ Tài chính – Bộ Y tế hướng dẫn chế độ chăm sóc sức khỏe đối với người có công với cách mạng.",
+                "so_hieu": "97/BC-LĐTBXH",
+                "trich_yeu": "Về công tác cải cách hành chính tháng 10 năm 2010 do Bộ Lao động - Thương binh và Xã hội ban hành",
+                "loai_van_ban": "Báo cáo",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Lao động",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Lao động"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011399787910922589
+            },
+            {
+                "index": 10,
+                "id": "dieu_11",
+                "id_document": 999999999110404,
+                "position": "Mục 1 / Phần III",
+                "dia_danh": "Trung ương",
+                "title": "Tình hình thực hiện Nghị định số 130/2005/NĐ-CP ngày 17/10/2005 của Chính phủ quy định chế độ tự chủ, tự chịu trách nhiệm về sử dụng biên chế và kinh phí quản lý hành chính đối với các cơ quan nhà nước - Các cơ quan hành chính trực thuộc Bộ gồm có: Văn phũng Bộ Y tế, Cục Quản lý Dược, Cục Y tế Dự phũng, Cục Quản lý Môi trường y tế, Cục An toàn vệ sinh thực phẩm, Cục phũng chống HIV/AIDS, Tổng cục Dân số – Kế hoạch hoá gia đình và Cục Quản lý khỏm, chữa bệnh. Hiện nay, các đơn vị đều triển khai thực hiện tốt Nghị định số 130/2005/NĐ-CP ngày 17/10/2005 của Chính phủ quy định chế độ tự chủ, tự chịu trách nhiệm về sử dụng biên chế và kinh phí quản lý hành chính đối với các cơ quan hành chính Nhà nước. Riêng đối với Văn phũng Bộ Y tế cú nhiều khú khăn về kinh phí do đặc thù: như tình hình dịch bệnh diễn biến phức tạp, cú nhiều chính sách mới được triển khai cần kinh phí chi cho công tác kiểm tra, giám sát nên có ảnh hưởng rất lớn đến việc thực hiện chế độ tự chủ, tự chịu trách nhiệm về sử dụng biên chế và kinh phớ quản lý hành chính của Văn phũng Bộ. - Đã gửi văn bản cho các đơn vị sự nghiệp trực thuộc Bộ đề nghị tổng kết, đánh giá tình hình thực hiện Nghị định 130/2005/NĐ-CP giai đoạn 2007-2010 và đề xuất, kiến nghị đổi mới cơ chế tự chủ, tự chịu trách nhiệm giai đoạn 2011-2015 theo đề cương yêu cầu của Bộ Tài chính.",
+                "so_hieu": "674/BC-BYT",
+                "trich_yeu": "Về công tác cải cách hành chính tháng 8 năm 2010 do Bộ Y tế ban hành",
+                "loai_van_ban": "Báo cáo",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Y tế",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Y tế"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011398176291793311
+            },
+            {
+                "index": 15,
+                "id": "dieu_16",
+                "id_document": 99999999996151,
+                "position": "Mục 2 / Phần III",
+                "dia_danh": "Trung ương",
+                "title": "Tình hình thực hiện Nghị định 130/2005/NĐ-CP 100% đơn vị quản lý hành chính thuộc Bộ (11/11 đơn vị) đã thực hiện chế độ tự quản, tự chịu trách nhiệm về sử dụng biên chế và kinh phí quản lý hành chính đối với cơ quan nhà nước theo quy định tại Nghị định 130/2005/NĐ-CP ngày 17/10/2005.",
+                "so_hieu": "113/BC-LĐTBXH",
+                "trich_yeu": "Về công tác cải cách hành chính tháng 10 năm 2009 do Bộ Lao động - Thương binh và Xã hội ban hành",
+                "loai_van_ban": "Báo cáo",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Lao động",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Lao động"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011363636363636364
+            },
+            {
+                "index": 2,
+                "id": "dieu_3",
+                "id_document": 99999999992562,
+                "position": "Mục 2 / Phần I",
+                "dia_danh": "Trung ương",
+                "title": "Công tác xây dựng văn bản, đề án: - Trình Ủy ban Thường vụ Quốc hội Báo cáo tổng kết 10 năm thực hiện Chỉ thị số 30-CT/TW của Bộ Chính trị về xây dựng và thực hiện Quy chế dân chủ ở cơ sở. - Văn bản đã trình Chính phủ, Thủ tướng Chính phủ: + Đề án hỗ trợ các địa phương xây dựng kho lưu trữ chuyên dụng. + Nghị định sửa đổi, bổ sung Nghị định số 110/2004/NĐ-CP về công tác văn thư. + Nghị định sửa đổi, bổ sung Nghị định 204/2004/NĐ-CP về chế độ tiền lương đối với cán bộ, công chức, viên chức và lực lượng vũ trang. + Nghị định quy định những người là công chức trong cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội và trong bộ máy lãnh đạo, quản lý đơn vị sự nghiệp công lập. + Tờ trình Chính phủ về sửa đổi, bổ sung một số điều của Nghị định 14/2008/NĐ-CP quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh. - Bộ trưởng Bộ Nội vụ đã ký ban hành một số văn bản sau: + Thông tư liên tịch hướng dẫn thực hiện Quyết định số 15/2009/QĐ-TTg về chế độ phụ cấp đặc thù quân sự đối với một số đối tượng trong Quân đội nhân dân Việt Nam. + Thông tư hướng dẫn việc chuyển biên chế và viên chức cấp tỉnh, cấp huyện của Bảo hiểm xã hội nông dân Nghệ An sang Bảo hiểm xã hội Nghệ An thuộc Bảo hiểm xã hội Việt Nam quản lý. + Quyết định về giao bổ sung chỉ tiêu biên chế hành chính năm 2009 đối với Bộ Giao thông vận tải, Bộ Y tế, Ngân hàng Nhà nước, Ủy ban dân tộc và các tỉnh Vĩnh Phúc, Bắc Kạn, Tuyên Quang, Quảng Ninh, Thừa Thiên Huế, Gia Lai, Bình Dương, Bến Tre, Đồng Tháp, Đắk Lắk. + Quyết định ban hành Quy chế hoạt động của Hội đồng phối hợp công tác phổ biến giáo dục pháp luật của Bộ Nội vụ. + Kết luận thanh tra về tuyển dụng công chức hành chính, công chức dự bị năm 2008 của UBND tỉnh Đắk Lắk. - Tiếp tục hoàn thiện các dự thảo: + Đề án chế độ phụ cấp đặc thù đối với cán bộ làm công tác quản lý nhà nước về tôn giáo. + Nghị định thay thế Nghị định 114/2003/NĐ-CP về công chức xã, phường, thị trấn. + Nghị định quy định về đào tạo, bồi dưỡng đối với công chức. + Nghị định quy định về thôi việc và nghỉ hưu đối với cán bộ, công chức. + Nghị định quy định về hoạt động thanh tra công vụ. + Nghị định thay thế Nghị định 88/2003/NĐ-CP về tổ chức, hoạt động và quản lý hội. + Nghị định hướng dẫn thực hiện Luật Hoạt động chữ thập đỏ. + Nghị định về tổ chức và chính sách đối với thanh niên xung phong. + Chương trình hành động của Chính phủ về tăng cường sự lãnh đạo của Đảng đối với công tác thanh niên thời kỳ đẩy mạnh công nghiệp hóa, hiện đại hóa. + Thông tư hướng dẫn thành lập Ban công tác người cao tuổi cấp tỉnh. + Báo cáo Ban Bí thư về phụ cấp chức vụ lãnh đạo đối với chức danh Phó trưởng đoàn thể ở Trung ương. + Văn bản hướng dẫn thi hành Chỉ thị số 1940/CT-TTg về nhà, đất liên quan đến tôn giáo. + Kế hoạch thực hiện Chiến lược quốc gia phòng, chống tham nhũng đến năm 2020 của Bộ Nội vụ.",
+                "so_hieu": "2339/BC-BNV",
+                "trich_yeu": "Số 2339/BC-BNV về công tác chỉ đạo, điều hành tháng 7, dự kiến chương trình công tác tháng 8 năm 2009 do Bộ Nội vụ ban hành",
+                "loai_van_ban": "Báo cáo",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Nội vụ",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Nội vụ"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011361344537815126
+            }
+        ]
+    },
+    {
+        "id": 33150,
+        "cau_hoi": "Trình tự thủ tục thẩm định phê duyệt kế hoạch sử dụng đất 05 năm của thành phố trực thuộc trung ương như thế nào?",
+        "tra_loi": "Theo quy định tại khoản 3 Điều 19 Nghị định 102/2024/NĐ-CP trình tự thủ tục thẩm định phê duyệt kế hoạch sử dụng đất 05 năm của thành phố trực thuộc trung ương như sau:\nBước 1: Cơ quan có chức năng quản lý đất đai thuộc thành phố trực thuộc trung ương trình Ủy ban nhân dân thành phố trực thuộc trung ương thành lập Hội đồng thẩm định kế hoạch sử dụng đất 05 năm của thành phố trực thuộc trung ương;\nBước 2: Trong thời hạn không quá 05 ngày làm việc kể từ ngày có quyết định thành lập Hội đồng, cơ quan có chức năng quản lý đất đai thuộc thành phố trực thuộc trung ương có trách nhiệm gửi hồ sơ kế hoạch sử dụng đất đến các thành viên của Hội đồng thẩm định kế hoạch sử dụng đất của thành phố trực thuộc trung ương để lấy ý kiến;\nBước 3: Trong thời hạn không quá 15 ngày kể từ ngày nhận được hồ sơ hợp lệ, các thành viên Hội đồng thẩm định kế hoạch sử dụng đất của thành phố trực thuộc trung ương gửi ý kiến góp ý bằng văn bản đến cơ quan có chức năng quản lý đất đai thuộc thành phố trực thuộc trung ương;\nBước 4: Trong thời hạn không quá 10 ngày kể từ ngày kết thúc thời hạn lấy ý kiến góp ý, cơ quan có chức năng quản lý đất đai thuộc thành phố trực thuộc trung ương có trách nhiệm tham mưu cho Ủy ban nhân dân thành phố trực thuộc trung ương tổ chức họp Hội đồng thẩm định kế hoạch sử dụng đất của thành phố trực thuộc trung ương;\nBước 5: Trong thời hạn không quá 15 ngày kể từ ngày nhận được thông báo kết quả thẩm định kế hoạch sử dụng đất, cơ quan có chức năng quản lý đất đai thuộc thành phố trực thuộc trung ương hoàn chỉnh hồ sơ kế hoạch sử dụng đất báo cáo Ủy ban nhân dân thành phố trực thuộc trung ương để trình Hội đồng nhân dân thành phố trực thuộc trung ương thông qua trước khi Ủy ban nhân dân thành phố trực thuộc trung ương trình Thủ tướng Chính phủ phê duyệt.\nTrình tự thủ tục thẩm định phê duyệt kế hoạch sử dụng đất 05 năm của thành phố trực thuộc trung ương như thế nào? (Hình từ Internet)",
+        "trich_dan": [
+            {
+                "loai_vb": "Nghị định",
+                "so_hieu": "102/2024/NĐ-CP",
+                "khoan": "3",
+                "dieu": "19",
+                "trich_yeu": "Nghị định 102/2024/NĐ-CP",
+                "noi_dung_kem_trich_dan": "Theo quy định tại khoản 3 Điều 19 Nghị định 102/2024/NĐ-CP trình tự thủ tục thẩm định phê duyệt kế hoạch sử dụng đất 05 năm của thành phố trực thuộc trung ương như sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 18,
+                "id": "dieu_19",
+                "id_document": 169363,
+                "position": "Điều 19 / Mục 1 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Kế hoạch sử dụng đất của thành phố trực thuộc trung ương",
+                "so_hieu": "102/2024/NĐ-CP",
+                "trich_yeu": "Hướng dẫn Luật Đất đai 2024",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài nguyên và Môi trường",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.0162876784769963
+            },
+            {
+                "index": 11,
+                "id": "dieu_10_dk_1",
+                "id_document": 152725,
+                "position": "Điều 10 / Chương II",
+                "dia_danh": "tỉnh Ninh Thuận",
+                "title": "Trình tự, thủ tục thẩm định, phê duyệt văn kiện chương trình, dự án, khoản viện trợ phi dự án thuộc thẩm quyền phê duyệt của Chủ tịch Ủy ban nhân dân tỉnh",
+                "so_hieu": "23/2021/QĐ-UBND",
+                "trich_yeu": "Quản lý viện trợ không hoàn lại của cơ quan nước ngoài Ninh Thuận",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Ninh Thuận",
+                "don_vi": [
+                    "Ninh Thuận"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.01405088062622309
+            },
+            {
+                "index": 28,
+                "id": "dieu_29",
+                "id_document": 999999999604027,
+                "position": "Điều 29",
+                "dia_danh": "Trung ương",
+                "title": "Sửa đổi, bổ sung một số điều của Luật Quy hoạch đô thị",
+                "so_hieu": "45/VBHN-VPQH",
+                "trich_yeu": "Năm 2023 hợp nhất Luật sửa đổi 37 luật có liên quan đến quy hoạch do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.012939958592132504
+            },
+            {
+                "index": 71,
+                "id": "dieu_72",
+                "id_document": 999999999672272,
+                "position": "Điều 72 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Thẩm quyền quyết định, phê duyệt quy hoạch, kế hoạch sử dụng đất",
+                "so_hieu": "133/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Đất đai do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.012509457755359396
+            },
+            {
+                "index": 27,
+                "id": "dieu_29",
+                "id_document": 132982,
+                "position": "Điều 29",
+                "dia_danh": "Trung ương",
+                "title": "Sửa đổi, bổ sung một số điều của Luật Quy hoạch đô thị",
+                "so_hieu": "35/2018/QH14",
+                "trich_yeu": "Sửa đổi các Luật có liên quan đến quy hoạch 2018",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương",
+                    "Bộ Nông nghiệp và Phát triển nông thôn"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.012375375850609273
+            },
+            {
+                "index": 71,
+                "id": "dieu_72",
+                "id_document": 177815,
+                "position": "Điều 72 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Thẩm quyền quyết định, phê duyệt quy hoạch, kế hoạch sử dụng đất",
+                "so_hieu": "31/2024/QH15",
+                "trich_yeu": "Đất đai 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tài nguyên và Môi trường",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.012340710932260227
+            },
+            {
+                "index": 71,
+                "id": "dieu_72",
+                "id_document": 999999999652284,
+                "position": "Điều 72 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Thẩm quyền quyết định, phê duyệt quy hoạch, kế hoạch sử dụng đất",
+                "so_hieu": "45/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Đất đai do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.01229470802919708
+            },
+            {
+                "index": 22,
+                "id": "dieu_23",
+                "id_document": 999999999672453,
+                "position": "Điều 23 / Mục 2 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Quy hoạch chung thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương, thị xã và quy hoạch chung đô thị mới dự kiến trở thành thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương",
+                "so_hieu": "116/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Quy hoạch đô thị và nông thôn do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.012075561932089909
+            },
+            {
+                "index": 22,
+                "id": "dieu_23",
+                "id_document": 172548,
+                "position": "Điều 23 / Mục 2 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Quy hoạch chung thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương, thị xã và quy hoạch chung đô thị mới dự kiến trở thành thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương",
+                "so_hieu": "47/2024/QH15",
+                "trich_yeu": "Quy hoạch đô thị và nông thôn năm 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Xây dựng",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.01200865899510083
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 999999999614377,
+                "position": "Điều 1",
+                "dia_danh": "thành phố Hồ Chí Minh",
+                "title": "Phê duyệt kèm theo Quyết định này là quy trình nội bộ giải quyết thủ tục hành chính đối với thủ tục thẩm định đồ án, điều chỉnh quy hoạch tổng mặt bằng tỷ lệ 1/500 thuộc thẩm quyền tiếp nhận của Ủy ban nhân dân các quận, huyện (trừ thành phố Thủ Đức). Danh mục và nội dung chi tiết của các quy trình nội bộ được đăng tải trên Cổng thông tin điện tử của Văn phòng Ủy ban nhân dân Thành phố tại địa chỉ https://vpub.hochiminhcity.gov.vn/portal/KenhTin/Quy-trinh-noi-bo-TTHC.aspx.",
+                "so_hieu": "1895/QĐ-UBND",
+                "trich_yeu": "Năm 2024 phê duyệt quy trình nội bộ giải quyết thủ tục hành chính đối với thủ tục thẩm định đồ án, điều chỉnh quy hoạch tổng mặt bằng tỷ lệ 1/500 thuộc thẩm quyền tiếp nhận của Ủy ban nhân dân các quận, huyện, thành phố Hồ Chí Minh (trừ thành phố Thủ Đức)",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND thành phố Hồ Chí Minh",
+                "don_vi": [
+                    "TP. Hồ Chí Minh"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011922881785895484
+            },
+            {
+                "index": 9,
+                "id": "dieu_10",
+                "id_document": 999999999663508,
+                "position": "Điều 10 / Mục 1 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Đối với thành phố trực thuộc trung ương",
+                "so_hieu": "16/2025/TT-BXD",
+                "trich_yeu": "Hướng dẫn Luật Quy hoạch đô thị và nông thôn do Bộ trưởng Bộ Xây dựng ban hành",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Xây dựng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Xây dựng"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.011725955204216074
+            },
+            {
+                "index": 2,
+                "id": "dieu_3",
+                "id_document": 999999999627142,
+                "position": "Điều 3 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Nguyên tắc đầu tư phát triển đô thị",
+                "so_hieu": "04/VBHN-BXD",
+                "trich_yeu": "2024 Nghị định quản lý đầu tư phát triển đô thị",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Xây dựng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Xây dựng"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.011407407407407408
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 999999999552499,
+                "position": "Điều 2",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ và quyền hạn",
+                "so_hieu": "1155/QĐ-BXD",
+                "trich_yeu": "2022 chức năng nhiệm vụ quyền hạn của Cục Hạ tầng kỹ thuật",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Xây dựng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Xây dựng"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.01140446051838457
+            },
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 46714,
+                "position": "Điều 8 / Chương 2",
+                "dia_danh": "Trung ương",
+                "title": "Quy trình thẩm định và phê duyệt kế hoạch khuyến công quốc gia",
+                "so_hieu": "36/2013/TT-BCT",
+                "trich_yeu": "Xây dựng kế hoạch quản lý kinh phí khuyến công",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Công thương",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công thương"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.011314142678347934
+            },
+            {
+                "index": 21,
+                "id": "dieu_22",
+                "id_document": 172548,
+                "position": "Điều 22 / Mục 2 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Quy hoạch chung thành phố trực thuộc trung ương",
+                "so_hieu": "47/2024/QH15",
+                "trich_yeu": "Quy hoạch đô thị và nông thôn năm 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Xây dựng",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.010995512035903711
+            },
+            {
+                "index": 21,
+                "id": "dieu_22",
+                "id_document": 999999999672453,
+                "position": "Điều 22 / Mục 2 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Quy hoạch chung thành phố trực thuộc trung ương",
+                "so_hieu": "116/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Quy hoạch đô thị và nông thôn do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.010966810966810967
+            },
+            {
+                "index": 13,
+                "id": "dieu_11_dk_1",
+                "id_document": 152573,
+                "position": "Điều 11 / Chương II",
+                "dia_danh": "tỉnh Bạc Liêu",
+                "title": "Trình tự, thủ tục thẩm định, phê duyệt văn kiện chương trình, dự án, khoản viện trợ phi dự án thuộc thẩm quyền phê duyệt của Ủy ban nhân dân tỉnh",
+                "so_hieu": "03/2022/QĐ-UBND",
+                "trich_yeu": "Về Quy chế tiếp nhận, quản lý và sử dụng viện trợ không hoàn lại không thuộc hỗ trợ phát triển chính thức của các cơ quan, tổ chức, cá nhân nước ngoài trên địa bàn tỉnh Bạc Liêu",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Bạc Liêu",
+                "don_vi": [
+                    "Bạc Liêu"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.01059258015779755
+            },
+            {
+                "index": 13,
+                "id": "dieu_11_dk_1",
+                "id_document": 999999999513516,
+                "position": "Điều 11 / Chương II",
+                "dia_danh": "tỉnh Thừa Thiên Huế",
+                "title": "Trình tự, thủ tục thẩm định, phê duyệt văn kiện chương trình, dự án, khoản viện trợ phi dự án thuộc thẩm quyền phê duyệt của Ủy ban nhân dân tỉnh",
+                "so_hieu": "23/2022/QĐ-UBND",
+                "trich_yeu": "Về Quy chế tiếp nhận, quản lý và sử dụng viện trợ không hoàn lại không thuộc hỗ trợ phát triển chính thức của các cơ quan, tổ chức, cá nhân nước ngoài trên địa bàn tỉnh Thừa Thiên Huế",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Thừa Thiên Huế",
+                "don_vi": [
+                    "Thừa Thiên Huế"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.0105
+            },
+            {
+                "index": 10,
+                "id": "dieu_11",
+                "id_document": 999999999130160,
+                "position": "Điều 11 / Mục 1",
+                "dia_danh": "Trung ương",
+                "title": "Trình tự, thủ tục thẩm định, phê duyệt thiết kế, dự toán công trình",
+                "so_hieu": "65/2011/TT-BCA",
+                "trich_yeu": "Quản lý dự án đầu tư, đấu thầu xây dựng",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Công an",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công an"
+                ],
+                "linh_vuc": "Đầu tư",
+                "score": 0.010385038503850384
+            },
+            {
+                "index": 5,
+                "id": "dieu_6",
+                "id_document": 159420,
+                "position": "Điều 6 / Mục 2 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Nội dung hồ sơ đồ án quy hoạch chung thành phố trực thuộc Trung ương",
+                "so_hieu": "04/2022/TT-BXD",
+                "trich_yeu": "Hồ sơ nhiệm vụ đồ án quy hoạch xây dựng liên huyện đô thị",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Xây dựng",
+                "don_vi": [
+                    "Bộ Xây dựng",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.010240078392944635
+            }
+        ]
+    },
+    {
+        "id": 16323,
+        "cau_hoi": "Người dân có quyền tự do tín ngưỡng như thế nào?",
+        "tra_loi": "Căn cứ theo Điều 6 Luật tín ngưỡng, tôn giáo 2016 thì người dân có quyền tự do tín ngưỡng như sau:\n- Mọi người có quyền tự do tín ngưỡng, tôn giáo, theo hoặc không theo một tôn giáo nào.\n- Mỗi người có quyền bày tỏ niềm tin tín ngưỡng, tôn giáo; thực hành lễ nghi tín ngưỡng, tôn giáo; tham gia lễ hội; học tập và thực hành giáo lý, giáo luật tôn giáo.\n- Mỗi người có quyền vào tu tại cơ sở tôn giáo, học tại cơ sở đào tạo tôn giáo, lớp bồi dưỡng của tổ chức tôn giáo. Người chưa thành niên khi vào tu tại cơ sở tôn giáo, học tại cơ sở đào tạo tôn giáo phải được cha, mẹ hoặc người giám hộ đồng ý.\n- Chức sắc, chức việc, nhà tu hành có quyền thực hiện lễ nghi tôn giáo, giảng đạo, truyền đạo tại cơ sở tôn giáo hoặc địa điểm hợp pháp khác.\n- Người bị tạm giữ, người bị tạm giam theo quy định của pháp luật về thi hành tạm giữ, tạm giam; người đang chấp hành hình phạt tù; người đang chấp hành biện pháp đưa vào trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc có quyền sử dụng kinh sách, bày tỏ niềm tin tín ngưỡng, tôn giáo.\n- Chính phủ quy định chi tiết việc bảo đảm thực hiện các quyền quy định tại khoản 5 Điều 6 Luật tín ngưỡng, tôn giáo 2016.",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "02/2016/QH14",
+                "khoan": "",
+                "dieu": "6",
+                "trich_yeu": "Luật tín ngưỡng, tôn giáo 2016",
+                "noi_dung_kem_trich_dan": "Căn cứ theo Điều 6 Luật tín ngưỡng, tôn giáo 2016 thì người dân có quyền tự do tín ngưỡng như sau:"
+            },
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "02/2016/QH14",
+                "khoan": "5",
+                "dieu": "6",
+                "trich_yeu": "Luật tín ngưỡng, tôn giáo 2016",
+                "noi_dung_kem_trich_dan": "- Chính phủ quy định chi tiết việc bảo đảm thực hiện các quyền quy định tại khoản 5 Điều 6 Luật tín ngưỡng, tôn giáo 2016."
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 5,
+                "id": "dieu_6",
+                "id_document": 999999999671133,
+                "position": "Điều 6 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Quyền tự do tín ngưỡng, tôn giáo của mọi người",
+                "so_hieu": "74/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Tín ngưỡng, tôn giáo do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.013096222773642127
+            },
+            {
+                "index": 5,
+                "id": "dieu_6",
+                "id_document": 117201,
+                "position": "Điều 6 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Quyền tự do tín ngưỡng, tôn giáo của mọi người",
+                "so_hieu": "02/2016/QH14",
+                "trich_yeu": "Tín ngưỡng tôn giáo 2016",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Nội vụ",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.012672945006394607
+            },
+            {
+                "index": 23,
+                "id": "dieu_24",
+                "id_document": 999999999665872,
+                "position": "Điều 24 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "",
+                "so_hieu": "52/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012075561932089909
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 999999999275799,
+                "position": "Điều 1",
+                "dia_danh": "Trung ương",
+                "title": "",
+                "so_hieu": "Không số",
+                "trich_yeu": "Tuyên bố xóa bỏ mọi hình thức không khoan dung và phân biệt đối xử dựa trên cơ sở tôn giáo hay tín ngưỡng, 1981",
+                "loai_van_ban": "Điều ước quốc tế",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Liên hợp quốc",
+                "don_vi": [
+                    "Trung ương",
+                    "Liên hợp quốc"
+                ],
+                "linh_vuc": "Lĩnh vực khác",
+                "score": 0.011809523809523808
+            },
+            {
+                "index": 6,
+                "id": "dieu_3_dk_1",
+                "id_document": 95915,
+                "position": "Điều 3 / Chương I",
+                "dia_danh": "thành phố Đà Nẵng",
+                "title": "Quyền tự do Tín ngưỡng, tôn giáo",
+                "so_hieu": "52/2008/QĐ-UBND",
+                "trich_yeu": "Quy định về quản lý Nhà nước đối với hoạt động tôn giáo tại thành phố Đà Nẵng do Ủy ban nhân dân thành phố Đà Nẵng ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND thành phố Đà Nẵng",
+                "don_vi": [
+                    "Đà Nẵng"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.011655011655011654
+            },
+            {
+                "index": 23,
+                "id": "dieu_24",
+                "id_document": 32801,
+                "position": "Điều 24 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "",
+                "so_hieu": "Không số",
+                "trich_yeu": "Năm 2013",
+                "loai_van_ban": "Hiến pháp",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": null,
+                "score": 0.011586802827965434
+            },
+            {
+                "index": 18,
+                "id": "dieu_19",
+                "id_document": 999999999672485,
+                "position": "Điều 19 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Quyền tự do tín ngưỡng, tôn giáo Trẻ em có quyền tự do tín ngưỡng, tôn giáo, theo hoặc không theo một tôn giáo nào và phải được bảo đảm an toàn, vì lợi ích tốt nhất của trẻ em.",
+                "so_hieu": "108/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Trẻ em do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.011511387163561076
+            },
+            {
+                "index": 18,
+                "id": "dieu_19",
+                "id_document": 999999999651536,
+                "position": "Điều 19 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Quyền tự do tín ngưỡng, tôn giáo Trẻ em có quyền tự do tín ngưỡng, tôn giáo, theo hoặc không theo một tôn giáo nào và phải được bảo đảm an toàn, vì lợi ích tốt nhất của trẻ em.",
+                "so_hieu": "32/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Trẻ em do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.011483516483516483
+            },
+            {
+                "index": 18,
+                "id": "dieu_19",
+                "id_document": 101871,
+                "position": "Điều 19 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Quyền tự do tín ngưỡng, tôn giáo Trẻ em có quyền tự do tín ngưỡng, tôn giáo, theo hoặc không theo một tôn giáo nào và phải được bảo đảm an toàn, vì lợi ích tốt nhất của trẻ em.",
+                "so_hieu": "102/2016/QH13",
+                "trich_yeu": "Trẻ em 2016",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.011294180175391974
+            },
+            {
+                "index": 145,
+                "id": "dieu_164",
+                "id_document": 999999999672275,
+                "position": "Điều 164 / Chương XV",
+                "dia_danh": "Trung ương",
+                "title": "Tội xâm phạm quyền tự do tín ngưỡng, tôn giáo của người khác",
+                "so_hieu": "135/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Hình sự do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Trách nhiệm hình sự",
+                "score": 0.010978260869565217
+            },
+            {
+                "index": 11,
+                "id": "dieu_12",
+                "id_document": 999999999275806,
+                "position": "Điều 12",
+                "dia_danh": "Trung ương",
+                "title": "",
+                "so_hieu": "Không số",
+                "trich_yeu": "Công ước quốc tế về bảo vệ quyền của tất cả những người lao động di trú và các thành viên gia đình họ, 1990",
+                "loai_van_ban": "Điều ước quốc tế",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Liên hợp quốc",
+                "don_vi": [
+                    "Trung ương",
+                    "Liên hợp quốc"
+                ],
+                "linh_vuc": "Lĩnh vực khác",
+                "score": 0.010614387663030104
+            },
+            {
+                "index": 145,
+                "id": "dieu_164",
+                "id_document": 999999999650257,
+                "position": "Điều 164 / Chương XV",
+                "dia_danh": "Trung ương",
+                "title": "Tội xâm phạm quyền tự do tín ngưỡng, tôn giáo của người khác",
+                "so_hieu": "11/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Hình sự do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Trách nhiệm hình sự",
+                "score": 0.010442073170731706
+            },
+            {
+                "index": 2,
+                "id": "dieu_3",
+                "id_document": 999999999671133,
+                "position": "Điều 3 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của Nhà nước trong việc bảo đảm quyền tự do tín ngưỡng, tôn giáo",
+                "so_hieu": "74/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Tín ngưỡng, tôn giáo do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.010229885057471265
+            },
+            {
+                "index": 163,
+                "id": "dieu_164",
+                "id_document": 96122,
+                "position": "Điều 164 / Chương XV",
+                "dia_danh": "Trung ương",
+                "title": "Tội xâm phạm quyền tự do tín ngưỡng, tôn giáo của người khác",
+                "so_hieu": "100/2015/QH13",
+                "trich_yeu": "Hình sự 2015",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Trách nhiệm hình sự",
+                "score": 0.010147133434804667
+            },
+            {
+                "index": 17,
+                "id": "dieu_15",
+                "id_document": 66576,
+                "position": "Điều 15 / Chương IV",
+                "dia_danh": "tỉnh Nghệ An",
+                "title": "Thờ cúng tổ tiên, đi nhà thờ, thắp hương ở các đền chùa... là tín gưởng của mọi người. Xem bói, xem số, gọi hồn, lên đồng, xóc thẻ, yểm bùa, đội bát nhang, chữa bệnh bằng phù phép... là hình thức để lợi dụng mê tín dị đoan. Công dân có quyền tự do tín ngưỡng nhưng không được lợi dụng để thực hiện các hành vi mê tín, dị đoan đã bị pháp luật nghiêm cấm.",
+                "so_hieu": "82/QĐ-UB",
+                "trich_yeu": "Về việc ban hành “Quy ước thực hiện nếp sống vân hóa trong việc cưới, việc tang, ngày giỗ, ngày hôi và bài trừ hủ tuc, mê tín, dị đoan”",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Nghệ An",
+                "don_vi": [
+                    "Nghệ An"
+                ],
+                "linh_vuc": null,
+                "score": 0.010119047619047618
+            },
+            {
+                "index": 5,
+                "id": "dieu_6",
+                "id_document": 999999999275799,
+                "position": "Điều 6",
+                "dia_danh": "Trung ương",
+                "title": "Căn cứ theo Điều 1 của Tuyên bố này, và căn cứ theo các quy định tại Điều 1, khoản 3, quyền tự do tư tưởng, lương tâm, tôn giáo hay tín ngưỡng bao gồm những tự do sau đây:",
+                "so_hieu": "Không số",
+                "trich_yeu": "Tuyên bố xóa bỏ mọi hình thức không khoan dung và phân biệt đối xử dựa trên cơ sở tôn giáo hay tín ngưỡng, 1981",
+                "loai_van_ban": "Điều ước quốc tế",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Liên hợp quốc",
+                "don_vi": [
+                    "Trung ương",
+                    "Liên hợp quốc"
+                ],
+                "linh_vuc": "Lĩnh vực khác",
+                "score": 0.01001788908765653
+            },
+            {
+                "index": 5,
+                "id": "dieu_3_dk_1",
+                "id_document": 999999999149807,
+                "position": "Điều 3 / Chương I",
+                "dia_danh": "tỉnh Bắc Ninh",
+                "title": "Giải thích từ ngữ. Các hoạt động tín ngưỡng, tôn giáo được nêu tại Quy định này bao gồm các việc sau: - Tuyên truyền đạo, hành đạo, quản đạo của tổ chức, cá nhân tôn giáo; - Thực hành giáo lý, giáo luật, lễ nghi tôn giáo của tín đồ, nhà tu hành, chức sắc tôn giáo.; - Mở lớp bồi dưỡng, tổ chức quyên góp, hoạt động từ thiện nhân đạo, in và phát hành văn hoá phẩm tôn giáo; - Tổ chức các cuộc lễ, hội nghị, đại hội, phong chức, phong phẩm, bổ nhiệm, bầu cử, suy cử, thuyên chuyển chức sắc, nhà tu hành trong tôn giáo; - Quản lý, sử dụng cơ sở thờ tự, đất đai tôn giáo; - Sửa chữa, cải tạo, nâng cấp, xây dựng mới công trình tín ngưỡng, tôn giáo (gồm Chùa, nhà thờ, nhà nguyện, thánh thất, thánh đường, tu viện, tự viện, tịnh xá, tịnh thất, niệm phật đường, đình, đền, nghè, miếu, lăng tẩm, điện, đài, tượng, bia, tháp và các công trình phụ trợ phục vụ hoạt động tín ngưỡng, tôn giáo)…",
+                "so_hieu": "69/2012/QĐ-UBND",
+                "trich_yeu": "Về Quy định chế độ trách nhiệm của Người đứng đầu cơ quan nhà nước, đơn vị địa phương trong việc thực hiện nhiệm vụ quản lý nhà nước đối với hoạt động tín ngưỡng, tôn giáo trên địa bàn tỉnh Bắc Ninh",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Bắc Ninh",
+                "don_vi": [
+                    "Bắc Ninh"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.009882305194805195
+            },
+            {
+                "index": 2,
+                "id": "dieu_3",
+                "id_document": 117201,
+                "position": "Điều 3 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của Nhà nước trong việc bảo đảm quyền tự do tín ngưỡng, tôn giáo",
+                "so_hieu": "02/2016/QH14",
+                "trich_yeu": "Tín ngưỡng tôn giáo 2016",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Nội vụ",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.00985444202777313
+            },
+            {
+                "index": 4,
+                "id": "dieu_2_dk_1",
+                "id_document": 62436,
+                "position": "Điều 2 / Chương I",
+                "dia_danh": "tỉnh Nghệ An",
+                "title": "Nhiệm vụ và quyền hạn.",
+                "so_hieu": "100/2004/QĐ-UB",
+                "trich_yeu": "Quy định chức năng, nhiệm vụ, quyền hạn, tổ chức bộ máy quản lý Nhà nước về công tác tôn giáo tỉnh Nghệ An",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Nghệ An",
+                "don_vi": [
+                    "Nghệ An"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.009819277108433735
+            },
+            {
+                "index": 8,
+                "id": "dieu_9",
+                "id_document": 999999999671133,
+                "position": "Điều 9 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Nghĩa vụ của tổ chức, cá nhân trong thực hiện quyền tự do tín ngưỡng, tôn giáo",
+                "so_hieu": "74/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Tín ngưỡng, tôn giáo do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.009812957441040934
+            }
+        ]
+    },
+    {
+        "id": 15169,
+        "cau_hoi": "Cách đổi tiền mới ở ngân hàng mới nhất năm 2025?",
+        "tra_loi": "Căn cứ khoản 2 Điều 6 Thông tư 25/2013/TT-NHNN quy định như sau:\nĐiều 6. Đổi tiền không đủ tiêu chuẩn lưu thông\n[...]\n2. Đối với tiền không đủ tiêu chuẩn lưu thông quy định tại Khoản 2 Điều 4 Thông tư này, khách hàng nộp hiện vật cho Ngân hàng Nhà nước chi nhánh, Sở Giao dịch Ngân hàng Nhà nước, đơn vị thu đổi. Các đơn vị nhận và xét đổi theo các điều kiện sau:\na) Tiền rách nát, hư hỏng không phải do hành vi hủy hoại;\nb) Trường hợp tờ tiền bị cháy, thủng, rách mất một phần thì diện tích còn lại phải bằng hoặc lớn hơn 60% so với diện tích tờ tiền cùng loại; nếu được can dán thì phải có diện tích tối thiểu bằng 90% so với diện tích tờ tiền cùng loại và đảm bảo nguyên gốc, nguyên bố cục một tờ tiền (mặt trước, mặt sau; trên, dưới; bên phải, bên trái), đồng thời nhận biết được các yếu tố bảo an;\nĐối với tiền polymer bị cháy hoặc biến dạng co nhỏ lại do tiếp xúc với nguồn nhiệt cao, thì diện tích còn lại tối thiểu phải bằng 30% so với diện tích tờ tiền cùng loại và còn giữ nguyên bố cục một tờ tiền, đồng thời nhận biết được ít nhất hai trong các yếu tố bảo an như: yếu tố hình ẩn trong cửa sổ nhỏ, mực không màu phát quang, phát quang hàng số sêri, dây bảo hiểm, yếu tố IRIODIN, chân dung Chủ tịch Hồ Chí Minh.\n[...]\nTheo đó, ngân hàng chỉ đổi tiền cho trường hợp tiền không đủ tiêu chuẩn lưu thông và điều kiện về việc đổi tiền không đủ điều kiện lưu thông mà không có quy định cụ thể cho việc ngân hàng đổi tiền lẻ hay tiền cũ - mới\nTuy nhiên trên thực tế, một số ngân hàng vẫn tạo điều kiện cho khách hàng có nhu cầu đổi tiền mới. Do đó, điều kiện để đổi tiền lẻ tại ngân hàng sẽ tùy thuộc vào yêu cầu của ngân hàng.\nDưới đây là cách đổi tiền mới ở ngân hàng mới nhất năm 2025:\n(1) Chuẩn bị giấy tờ tùy thân như chứng minh thư, hộ chiếu hoặc thẻ căn cước công dân.\n(2) Tìm địa chỉ và đi đến ngân hàng đổi tiền mới gần nhất, có thể tìm thông tin về ngân hàng trên trang web của họ hoặc sử dụng ứng dụng di động để tìm kiếm địa chỉ.\n(3) Đi đến quầy giao dịch và yêu cầu đổi tiền mới. Nhân viên sẽ yêu cầu cung cấp giấy tờ tùy thân để xác nhận danh tính.\n(4) Sau khi xác nhận danh tính, nhân viên sẽ đưa cho tiền mới và thu lại tiền cũ (nếu có).\n(5) Kiểm tra lại số tiền đã đổi và tiền lẻ để đảm bảo rằng không có sai sót.\n(5) Khi đã xác nhận chính xác, có thể rời khỏi quầy giao dịch.\nLưu ý: Một số ngân hàng có thể áp dụng mức phí đổi tiền, nên kiểm tra trước khi đến ngân hàng để biết thông tin chi tiết.\nXem thêm: Giờ mở cửa Ngân hàng năm 2025? Ngân hàng có làm việc thứ 7 chủ nhật không?\nPhát hiện 5 tờ tiền giả ngân hàng phải báo công an từ ngày 14/02/2025?\nCách đổi tiền mới ở ngân hàng mới nhất năm 2025? (Hình từ Internet)",
+        "trich_dan": [
+            {
+                "loai_vb": "Thông tư",
+                "so_hieu": "25/2013/TT-NHNN",
+                "khoan": "2",
+                "dieu": "6",
+                "trich_yeu": "Thông tư 25/2013/TT-NHNN",
+                "noi_dung_kem_trich_dan": "Căn cứ khoản 2 Điều 6 Thông tư 25/2013/TT-NHNN quy định như sau:"
+            }
+        ],
+        "msg": "Không có kết quả tìm kiếm!",
+        "retrieved": []
+    }
+]

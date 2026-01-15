@@ -1,0 +1,1989 @@
+[
+    {
+        "id": 14295,
+        "cau_hoi": "Xây dựng, ban hành văn bản quy phạm pháp luật theo nguyên tắc nào?",
+        "tra_loi": "Căn cứ Điều 5 Luật Ban hành văn bản quy phạm pháp luật 2025 quy định nguyên tắc xây dựng, ban hành văn bản quy phạm pháp luật như sau:\n- Bảo đảm sự lãnh đạo toàn diện, trực tiếp của Đảng Cộng sản Việt Nam.\n- Bảo đảm tính hợp hiến, tính hợp pháp, tính thống nhất của văn bản quy phạm pháp luật trong hệ thống pháp luật và không trái với điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên; tuân thủ đúng thẩm quyền, nội dung, hình thức và trình tự, thủ tục xây dựng, ban hành văn bản quy phạm pháp luật.\n- Bảo đảm chủ quyền quốc gia, quốc phòng, an ninh, lợi ích quốc gia, dân tộc; kiểm soát quyền lực, phòng, chống tham nhũng, tiêu cực, lãng phí; phòng, chống lợi ích nhóm, cục bộ.\n- Tôn trọng, bảo vệ và bảo đảm quyền con người, quyền công dân, bình đẳng giới; bảo đảm dân chủ, công bằng, nhân đạo, công khai, minh bạch, khoa học, kịp thời, ổn định, khả thi, hiệu quả.\n- Bảo đảm việc thực hiện chủ trương phân quyền, phân cấp; giải quyết vấn đề bất cập, phát sinh từ thực tiễn; vấn đề mới, xu hướng mới; yêu cầu quản lý nhà nước và khuyến khích sáng tạo, khơi thông mọi nguồn lực, thúc đẩy phát triển kinh tế - xã hội.\n- Văn bản quy phạm pháp luật quy định thực hiện thí điểm phải xác định thời gian thực hiện thí điểm và phải được sơ kết, tổng kết để xem xét, quyết định việc tiếp tục áp dụng hoặc ban hành văn bản quy phạm pháp luật để áp dụng chính thức.\n- Bảo đảm thực hiện quy định của pháp luật về bảo vệ bí mật nhà nước đối với nội dung văn bản quy phạm pháp luật thuộc phạm vi bí mật nhà nước.",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "64/2025/QH15",
+                "khoan": "",
+                "dieu": "5",
+                "trich_yeu": "Luật Ban hành văn bản quy phạm pháp luật 2025",
+                "noi_dung_kem_trich_dan": "Căn cứ Điều 5 Luật Ban hành văn bản quy phạm pháp luật 2025 quy định nguyên tắc xây dựng, ban hành văn bản quy phạm pháp luật như sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 175440,
+                "position": "Điều 5 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Nguyên tắc xây dựng, ban hành văn bản quy phạm pháp luật",
+                "so_hieu": "64/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.01639344262295082
+            },
+            {
+                "index": 44,
+                "id": "dieu_45",
+                "id_document": 175440,
+                "position": "Điều 45 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Xây dựng, ban hành văn bản quy phạm pháp luật của Chính phủ, Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, chính quyền địa phương Chính phủ quy định trình tự, thủ tục xây dựng, ban hành văn bản quy phạm pháp luật của Chính phủ, Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, chính quyền địa phương.",
+                "so_hieu": "64/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.013661106233538192
+            },
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 175440,
+                "position": "Điều 8 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Sửa đổi, bổ sung, thay thế, bãi bỏ hoặc đình chỉ việc thi hành văn bản quy phạm pháp luật",
+                "so_hieu": "64/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.013633923778851316
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 175440,
+                "position": "Điều 2 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Văn bản quy phạm pháp luật Văn bản quy phạm pháp luật là văn bản có chứa quy phạm pháp luật, được ban hành đúng thẩm quyền, hình thức, trình tự, thủ tục theo quy định của Luật này.",
+                "so_hieu": "64/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.013449477351916376
+            },
+            {
+                "index": 67,
+                "id": "dieu_68",
+                "id_document": 175440,
+                "position": "Điều 68 / Chương VIII",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm của cơ quan, tổ chức, người có thẩm quyền trong xây dựng, ban hành và tổ chức thi hành văn bản quy phạm pháp luật",
+                "so_hieu": "64/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.01337126600284495
+            },
+            {
+                "index": 60,
+                "id": "dieu_61",
+                "id_document": 175440,
+                "position": "Điều 61 / Chương VII",
+                "dia_danh": "Trung ương",
+                "title": "Hướng dẫn áp dụng văn bản quy phạm pháp luật",
+                "so_hieu": "64/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012611484900641528
+            },
+            {
+                "index": 26,
+                "id": "dieu_27",
+                "id_document": 175440,
+                "position": "Điều 27 / Mục 2 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Các trường hợp thực hiện quy trình xây dựng chính sách",
+                "so_hieu": "64/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012423720857455798
+            },
+            {
+                "index": 58,
+                "id": "dieu_59",
+                "id_document": 175440,
+                "position": "Điều 59 / Chương VII",
+                "dia_danh": "Trung ương",
+                "title": "Nội dung và trách nhiệm tổ chức thi hành văn bản quy phạm pháp luật",
+                "so_hieu": "64/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012301075268817206
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 999999999662673,
+                "position": "Điều 1",
+                "dia_danh": "Trung ương",
+                "title": "Sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật",
+                "so_hieu": "87/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật sửa đổi 2025",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012229885057471265
+            },
+            {
+                "index": 69,
+                "id": "dieu_70",
+                "id_document": 175440,
+                "position": "Điều 70 / Chương VIII",
+                "dia_danh": "Trung ương",
+                "title": "Cơ sở vật chất, kinh phí cho công tác xây dựng, ban hành và tổ chức thi hành văn bản quy phạm pháp luật",
+                "so_hieu": "64/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012039381153305204
+            },
+            {
+                "index": 49,
+                "id": "dieu_50",
+                "id_document": 175440,
+                "position": "Điều 50 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Trường hợp và thẩm quyền quyết định xây dựng, ban hành văn bản quy phạm pháp luật theo trình tự, thủ tục rút gọn",
+                "so_hieu": "64/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011902834008097166
+            },
+            {
+                "index": 56,
+                "id": "dieu_57",
+                "id_document": 175440,
+                "position": "Điều 57 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Văn bản quy phạm pháp luật hết hiệu lực",
+                "so_hieu": "64/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011862527716186254
+            },
+            {
+                "index": 47,
+                "id": "dieu_48",
+                "id_document": 44168,
+                "position": "Điều 48 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Xây dựng luật, pháp lệnh",
+                "so_hieu": "57/2014/QH13",
+                "trich_yeu": "Tổ chức Quốc hội 2014",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011513157894736843
+            },
+            {
+                "index": 51,
+                "id": "dieu_52",
+                "id_document": 175440,
+                "position": "Điều 52 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Xây dựng, ban hành văn bản quy phạm pháp luật trong trường hợp đặc biệt",
+                "so_hieu": "64/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.01148904006046863
+            },
+            {
+                "index": 35,
+                "id": "dieu_36",
+                "id_document": 36867,
+                "position": "Điều 36 / Mục 6 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Nguyên tắc điều chỉnh quy hoạch xây dựng",
+                "so_hieu": "50/2014/QH13",
+                "trich_yeu": "Xây dựng 2014",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Xây dựng"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.011284567350579838
+            },
+            {
+                "index": 11,
+                "id": "dieu_12",
+                "id_document": 32905,
+                "position": "Điều 12 / Mục 1",
+                "dia_danh": "Trung ương",
+                "title": "Nguyên tắc ban hành định mức, tiêu chuẩn, chế độ",
+                "so_hieu": "44/2013/QH13",
+                "trich_yeu": "Thực hành tiết kiệm chống lãng phí 2013",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Thanh tra Chính phủ"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.0110968759239184
+            },
+            {
+                "index": 19,
+                "id": "dieu_20",
+                "id_document": 14838,
+                "position": "Điều 20 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Bảo đảm các nguyên tắc cơ bản về bình đẳng giới trong việc hoàn thiện hệ thống pháp luật",
+                "so_hieu": "73/2006/QH11",
+                "trich_yeu": "Bình đẳng giới 2006",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp",
+                    "Bộ Lao động - Thương Binh và Xã hội"
+                ],
+                "linh_vuc": null,
+                "score": 0.011091954022988506
+            },
+            {
+                "index": 52,
+                "id": "dieu_53",
+                "id_document": 175440,
+                "position": "Điều 53 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Thời điểm có hiệu lực của văn bản quy phạm pháp luật",
+                "so_hieu": "64/2025/QH15",
+                "trich_yeu": "Ban hành văn bản quy phạm pháp luật",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010996892182644035
+            },
+            {
+                "index": 13,
+                "id": "dieu_14",
+                "id_document": 36867,
+                "position": "Điều 14 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Yêu cầu và nguyên tắc tuân thủ đối với quy hoạch xây dựng",
+                "so_hieu": "50/2014/QH13",
+                "trich_yeu": "Xây dựng 2014",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Xây dựng"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.010567595459236325
+            },
+            {
+                "index": 39,
+                "id": "dieu_40",
+                "id_document": 999999999649688,
+                "position": "Điều 40 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Nội dung quản lý cán bộ, công chức",
+                "so_hieu": "80/2025/QH15",
+                "trich_yeu": "Cán bộ công chức 2025",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010501672240802677
+            }
+        ]
+    },
+    {
+        "id": 23631,
+        "cau_hoi": "Phó Chủ tịch UBND cấp xã có nhiệm vụ gì?",
+        "tra_loi": "Theo quy định khoản 6 Điều 9 Nghị định 33/2023/NĐ-CP quy định Phó Chủ tịch UBND cấp xã có nhiệm vụ như sau:\n- Trực tiếp chỉ đạo các lĩnh vực và địa bàn công tác do Chủ tịch Ủy ban nhân dân cấp xã phân công; chủ động xây dựng chương trình, kế hoạch triển khai công việc theo lĩnh vực, địa bàn; được sử dụng quyền hạn của Chủ tịch Ủy ban nhân dân cấp xã khi giải quyết các công việc và ký các văn bản khi được Chủ tịch Ủy ban nhân dân cấp xã ủy quyền;\n- Chịu trách nhiệm cá nhân trước Chủ tịch Ủy ban nhân dân cấp xã về lĩnh vực công tác được giao và về những quyết định chỉ đạo, điều hành của mình; cùng Chủ tịch Ủy ban nhân dân cấp xã và các Ủy viên Ủy ban nhân dân cấp xã chịu trách nhiệm tập thể về toàn bộ hoạt động của Ủy ban nhân dân cấp xã trước Đảng ủy, Hội đồng nhân dân cấp xã và Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân cấp trên. Đối với những vấn đề vượt quá phạm vi thẩm quyền thì Phó Chủ tịch Ủy ban nhân dân cấp xã phải báo cáo Chủ tịch Ủy ban nhân dân cấp xã xem xét, quyết định;\n- Khi giải quyết công việc, nếu có vấn đề liên quan đến phạm vi và trách nhiệm giải quyết công việc của Phó Chủ tịch Ủy ban nhân dân khác thì chủ động trao đổi, phối hợp để thống nhất cách giải quyết; nếu vẫn còn ý kiến khác nhau thì báo cáo Chủ tịch Ủy ban nhân dân cấp xã xem xét, quyết định;\n- Các nhiệm vụ khác theo quy định của Đảng, của pháp luật có liên quan, của cơ quan có thẩm quyền quản lý cán bộ và theo phân công của Chủ tịch Ủy ban nhân dân cấp xã.",
+        "trich_dan": [
+            {
+                "loai_vb": "Nghị định",
+                "so_hieu": "33/2023/NĐ-CP",
+                "khoan": "6",
+                "dieu": "9",
+                "trich_yeu": "Nghị định 33/2023/NĐ-CP",
+                "noi_dung_kem_trich_dan": "Theo quy định khoản 6 Điều 9 Nghị định 33/2023/NĐ-CP quy định Phó Chủ tịch UBND cấp xã có nhiệm vụ như sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 48,
+                "id": "dieu_46_dk_1",
+                "id_document": 138163,
+                "position": "Điều 46 / Chương VII",
+                "dia_danh": "tỉnh An Giang",
+                "title": "Nhiệm vụ của Chủ tịch UBND cấp huyện, cấp xã",
+                "so_hieu": "25/2019/QĐ-UBND",
+                "trich_yeu": "Thủ tục hành chính theo cơ chế một cửa một cửa liên thông An Giang",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh An Giang",
+                "don_vi": [
+                    "An Giang"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.013428357089272317
+            },
+            {
+                "index": 44,
+                "id": "dieu_42_dk_1",
+                "id_document": 138102,
+                "position": "Điều 42 / Chương VI",
+                "dia_danh": "tỉnh An Giang",
+                "title": "Nhiệm vụ của Chủ tịch UBND cấp huyện, cấp xã",
+                "so_hieu": "49/2018/QĐ-UBND",
+                "trich_yeu": "Giải quyết thủ tục hành chính theo cơ chế một cửa tỉnh An Giang",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh An Giang",
+                "don_vi": [
+                    "An Giang"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.013146551724137931
+            },
+            {
+                "index": 6,
+                "id": "dieu_4_dk_1",
+                "id_document": 174869,
+                "position": "Điều 4 / Chương II",
+                "dia_danh": "tỉnh Hà Nam",
+                "title": "Nhiệm vụ",
+                "so_hieu": "04/2025/QĐ-UBND",
+                "trich_yeu": "Quy định việc quản lý, sử dụng đối với các chức danh người hoạt động không chuyên trách ở xã, phường, thị trấn trên địa bàn tỉnh Hà Nam",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Hà Nam",
+                "don_vi": [
+                    "Hà Nam"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.01309125656951744
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 999999999310734,
+                "position": "Điều 2",
+                "dia_danh": "tỉnh Thừa Thiên Huế",
+                "title": "Nhiệm vụ của Tổ văn bản hành chính:",
+                "so_hieu": "744/QĐ-UBND",
+                "trich_yeu": "Thành lập Tổ công tác xây dựng hệ thống văn bản hành chính Huế 2016",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Thừa Thiên Huế",
+                "don_vi": [
+                    "Thừa Thiên Huế"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012914823008849557
+            },
+            {
+                "index": 22,
+                "id": "dieu_20_dk_1",
+                "id_document": 167951,
+                "position": "Điều 20 / Chương III",
+                "dia_danh": "tỉnh Nghệ An",
+                "title": "Nhiệm vụ, quyền hạn của Chủ tịch UBND cấp xã",
+                "so_hieu": "13/2024/QĐ-UBND",
+                "trich_yeu": "Quy định về phân công, phân cấp quản lý tổ chức bộ máy, biên chế và cán bộ, công chức, viên chức, người lao động trong các cơ quan, đơn vị thuộc thẩm quyền quản lý của Ủy ban nhân dân tỉnh Nghệ An",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Nghệ An",
+                "don_vi": [
+                    "Nghệ An"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.012652966982221197
+            },
+            {
+                "index": 17,
+                "id": "dieu_15_dk_1",
+                "id_document": 130651,
+                "position": "Điều 15 / Chương II",
+                "dia_danh": "tỉnh Bắc Ninh",
+                "title": "UBND xã, phường, thị trấn (gọi tắt là UBND cấp xã)",
+                "so_hieu": "21/2018/QĐ-UBND",
+                "trich_yeu": "Phân công phân cấp quản lý an toàn thực phẩm Bắc Ninh",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Bắc Ninh",
+                "don_vi": [
+                    "Bắc Ninh"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012373737373737374
+            },
+            {
+                "index": 20,
+                "id": "dieu_18_dk_1",
+                "id_document": 167951,
+                "position": "Điều 18 / Chương III",
+                "dia_danh": "tỉnh Nghệ An",
+                "title": "Nhiệm vụ, quyền hạn của Chủ tịch UBND cấp huyện",
+                "so_hieu": "13/2024/QĐ-UBND",
+                "trich_yeu": "Quy định về phân công, phân cấp quản lý tổ chức bộ máy, biên chế và cán bộ, công chức, viên chức, người lao động trong các cơ quan, đơn vị thuộc thẩm quyền quản lý của Ủy ban nhân dân tỉnh Nghệ An",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Nghệ An",
+                "don_vi": [
+                    "Nghệ An"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.01232101232101232
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 999999999662421,
+                "position": "Điều 4 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ và quyền hạn",
+                "so_hieu": "19/2025/TT-BNNMT",
+                "trich_yeu": "Hướng dẫn chức năng, nhiệm vụ, quyền hạn của cơ quan chuyên môn về Nông nghiệp và Môi trường thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân xã, phường, đặc khu thuộc tỉnh, thành phố trực thuộc trung ương do Bộ trưởng Bộ Nông nghiệp và Môi trường ban hành",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Nông nghiệp và Môi trường",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Nông nghiệp và Môi trường"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012265512265512264
+            },
+            {
+                "index": 89,
+                "id": "dieu_90",
+                "id_document": 999999999673599,
+                "position": "Điều 90 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ, quyền hạn của Ủy ban nhân dân cấp xã[98]",
+                "so_hieu": "96/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Đầu tư công do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Đầu tư",
+                "score": 0.01210221793635487
+            },
+            {
+                "index": 7,
+                "id": "dieu_6",
+                "id_document": 18902,
+                "position": "Điều 6 / Chương II",
+                "dia_danh": "tỉnh Ninh Thuận",
+                "title": "Nhiệm vụ và mối quan hệ của sinh viên khi được bố trí công tác:",
+                "so_hieu": "51/2003/QĐ-UB",
+                "trich_yeu": "Về việc tăng cường sinh viên tốt nghiệp đại học, cao đẳng về công tác tại xã,phường, thị trấn ở tỉnh Ninh Thuận",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Ninh Thuận",
+                "don_vi": [
+                    "Ninh Thuận"
+                ],
+                "linh_vuc": null,
+                "score": 0.01177823198773633
+            },
+            {
+                "index": 6,
+                "id": "dieu_4_dk_1",
+                "id_document": 167345,
+                "position": "Điều 4 / Chương II",
+                "dia_danh": "tỉnh Kon Tum",
+                "title": "Nhiệm vụ cụ thể của từng chức danh người hoạt động không chuyên trách cấp xã",
+                "so_hieu": "24/2024/QĐ-UBND",
+                "trich_yeu": "Về Quy định cụ thể việc quản lý, sử dụng người hoạt động không chuyên trách ở xã, phường, thị trấn trên địa bàn tỉnh Kon Tum",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Kon Tum",
+                "don_vi": [
+                    "Kon Tum"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011572392319667876
+            },
+            {
+                "index": 6,
+                "id": "dieu_4_dk_1",
+                "id_document": 171229,
+                "position": "Điều 4 / Chương II",
+                "dia_danh": "tỉnh Lạng Sơn",
+                "title": "Nhiệm vụ của từng chức danh người hoạt động không chuyên trách ở cấp xã",
+                "so_hieu": "50/2024/QĐ-UBND",
+                "trich_yeu": "Về Quy định cụ thể việc quản lý, sử dụng đối với từng chức danh người hoạt động không chuyên trách ở xã, phường, thị trấn trên địa bàn tỉnh Lạng Sơn",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Lạng Sơn",
+                "don_vi": [
+                    "Lạng Sơn"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011512605042016805
+            },
+            {
+                "index": 14,
+                "id": "dieu_12_dk_1",
+                "id_document": 29818,
+                "position": "Điều 12 / Chương II",
+                "dia_danh": "tỉnh Lào Cai",
+                "title": "Nhiệm vụ, quyền hạn của UBND cấp xã.",
+                "so_hieu": "49/2012/QĐ-UBND",
+                "trich_yeu": "Về Quy định quản lý hội trên địa bàn tỉnh Lào Cai",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Lào Cai",
+                "don_vi": [
+                    "Lào Cai"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.011477960242005187
+            },
+            {
+                "index": 12,
+                "id": "dieu_10_dk_1",
+                "id_document": 46658,
+                "position": "Điều 10",
+                "dia_danh": "thành phố Hà Nội",
+                "title": "Trách nhiệm của UBND cấp xã.",
+                "so_hieu": "70/2009/QĐ-UBND",
+                "trich_yeu": "Về tổ chức và hoạt động của nhân viên bảo vệ thực vật tại các xã, phường, thị trấn nơi có sản xuất nông nghiệp trên địa bàn thành phố Hà Nội do Ủy ban nhân dân thành phố Hà Nội ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND thành phố Hà Nội",
+                "don_vi": [
+                    "Hà Nội"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011004844118743013
+            },
+            {
+                "index": 34,
+                "id": "dieu_32_dk_1",
+                "id_document": 168233,
+                "position": "Điều 32 / Mục 6 / Chương II",
+                "dia_danh": "tỉnh Ninh Bình",
+                "title": "Nhiệm vụ, quyền hạn của Chủ tịch Ủy ban nhân dân cấp xã",
+                "so_hieu": "25/2024/QĐ-UBND",
+                "trich_yeu": "Quy định về quản lý tổ chức bộ máy và cán bộ, công chức, viên chức, lao động trong các cơ quan, đơn vị thuộc tỉnh Ninh Bình",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Ninh Bình",
+                "don_vi": [
+                    "Ninh Bình"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.010903741840581042
+            },
+            {
+                "index": 12,
+                "id": "dieu_10_dk_1",
+                "id_document": 154753,
+                "position": "Điều 10 / Chương II",
+                "dia_danh": "tỉnh Thanh Hóa",
+                "title": "Nhiệm vụ, quyền hạn của UBND, Chủ tịch UBND cấp xã",
+                "so_hieu": "08/2022/QĐ-UBND",
+                "trich_yeu": "Phân công quản lý tổ chức bộ máy biên chế cán bộ Thanh Hóa",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Thanh Hóa",
+                "don_vi": [
+                    "Thanh Hóa"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010874946649594536
+            },
+            {
+                "index": 43,
+                "id": "dieu_41_dk_1",
+                "id_document": 160117,
+                "position": "Điều 41 / Mục 7 / Chương II",
+                "dia_danh": "tỉnh Hưng Yên",
+                "title": "Nhiệm vụ và quyền hạn của Chủ tịch Ủy ban nhân dân cấp xã",
+                "so_hieu": "08/2023/QĐ-UBND",
+                "trich_yeu": "Quản lý tổ chức bộ máy vị trí việc làm biên chế Hưng Yên",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Hưng Yên",
+                "don_vi": [
+                    "Hưng Yên"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.01062383137854836
+            },
+            {
+                "index": 5,
+                "id": "dieu_6",
+                "id_document": 999999999660830,
+                "position": "Điều 6 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ và quyền hạn",
+                "so_hieu": "37/2025/TT-BCT",
+                "trich_yeu": "Quyền hạn cơ quan chuyên môn công thương Ủy ban nhân dân tỉnh",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Công thương",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công thương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010514975220857575
+            },
+            {
+                "index": 7,
+                "id": "dieu_5_dk_1",
+                "id_document": 999999999678655,
+                "position": "Điều 5 / Mục 1 / Chương II",
+                "dia_danh": "tỉnh Phú Thọ",
+                "title": "Nhiệm vụ, quyền hạn của Ủy ban nhân dân xã, phường (sau đây gọi là Ủy ban nhân dân cấp xã)",
+                "so_hieu": "55/2025/QĐ-UBND",
+                "trich_yeu": "Về Quy định phân công nhiệm vụ quản lý nhà nước về giá, thẩm định giá trên địa bàn tỉnh Phú Thọ",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Phú Thọ",
+                "don_vi": [
+                    "Phú Thọ"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.010477626948215184
+            },
+            {
+                "index": 14,
+                "id": "dieu_12_dk_1",
+                "id_document": 82816,
+                "position": "Điều 12",
+                "dia_danh": "tỉnh Thanh Hóa",
+                "title": "Ủy ban nhân dân cấp xã có trách nhiệm:",
+                "so_hieu": "3074/2013/QĐ-UBND",
+                "trich_yeu": "Về Quy định quản lý tài nguyên nước trên địa bàn tỉnh Thanh Hóa",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Thanh Hóa",
+                "don_vi": [
+                    "Thanh Hóa"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010457963089542038
+            }
+        ]
+    },
+    {
+        "id": 24671,
+        "cau_hoi": "Giáo viên đang dạy học tại các nhà trường tham gia dạy thêm ngoài nhà trường phải báo cáo với Hiệu trưởng những nội dung gì?",
+        "tra_loi": "Căn cứ tại khoản 3 Điều 6 Thông tư 29/2024/TT-BGDĐT quy định về dạy thêm, học thêm ngoài nhà trường như sau:\nĐiều 6. Dạy thêm, học thêm ngoài nhà trường\n1. Tổ chức hoặc cá nhân tổ chức hoạt động dạy thêm, học thêm ngoài nhà trường có thu tiền của học sinh (sau đây gọi chung là cơ sở dạy thêm) phải thực hiện các yêu cầu sau:\na) Đăng kí kinh doanh theo quy định của pháp luật;\nb) Công khai trên cổng thông tin điện tử hoặc niêm yết tại nơi cơ sở dạy thêm đặt trụ sở về các môn học được tổ chức dạy thêm; thời lượng dạy thêm đối với từng môn học theo từng khối lớp; địa điểm, hình thức, thời gian tổ chức dạy thêm, học thêm; danh sách người dạy thêm và mức thu tiền học thêm trước khi tuyển sinh các lớp dạy thêm, học thêm (theo Mẫu số 02 tại Phụ lục kèm theo Thông tư này).\n2. Người dạy thêm ngoài nhà trường phải bảo đảm có phẩm chất đạo đức tốt; có năng lực chuyên môn phù hợp với môn học tham gia dạy thêm.\n3. Giáo viên đang dạy học tại các nhà trường tham gia dạy thêm ngoài nhà trường phải báo cáo với Hiệu trưởng hoặc Giám đốc hoặc người đứng đầu nhà trường (sau đây gọi chung là Hiệu trưởng) về môn học, địa điểm, hình thức, thời gian tham gia dạy thêm (theo Mẫu số 03 tại Phụ lục kèm theo Thông tư này).\nNhư vậy, giáo viên đang dạy học tại các nhà trường tham gia dạy thêm ngoài nhà trường phải báo cáo với Hiệu trưởng hoặc Giám đốc hoặc người đứng đầu nhà trường (sau đây gọi chung là Hiệu trưởng) về:\n- Môn học dạy thêm\n- Địa điểm dạy thêm\n- Hình thức dạy thêm\n- Thời gian tham gia dạy thêm\nGiáo viên đang dạy học tại các nhà trường tham gia dạy thêm ngoài nhà trường phải báo cáo với Hiệu trưởng những nội dung gì? (Hình từ Internet)",
+        "trich_dan": [
+            {
+                "loai_vb": "Thông tư",
+                "so_hieu": "29/2024/TT-BGDĐT",
+                "khoan": "3",
+                "dieu": "6",
+                "trich_yeu": "Thông tư 29/2024/TT-BGDĐT",
+                "noi_dung_kem_trich_dan": "Căn cứ tại khoản 3 Điều 6 Thông tư 29/2024/TT-BGDĐT quy định về dạy thêm, học thêm ngoài nhà trường như sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 999999999668651,
+                "position": "Điều 5 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Người dạy, người học thực hiện việc dạy và học bằng tiếng nước ngoài",
+                "so_hieu": "222/2025/NĐ-CP",
+                "trich_yeu": "Quy định việc dạy và học bằng tiếng nước ngoài trong cơ sở giáo dục",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Chính phủ"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.014091384722706664
+            },
+            {
+                "index": 12,
+                "id": "dieu_13",
+                "id_document": 999999999668651,
+                "position": "Điều 13 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Gia hạn hoặc điều chỉnh Đề án dạy và học bằng tiếng nước ngoài",
+                "so_hieu": "222/2025/NĐ-CP",
+                "trich_yeu": "Quy định việc dạy và học bằng tiếng nước ngoài trong cơ sở giáo dục",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Chính phủ"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.013871635610766046
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 999999999668651,
+                "position": "Điều 4 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Chương trình, giáo trình, tài liệu sử dụng để dạy và học bằng tiếng nước ngoài và thẩm quyền phê duyệt chương trình, giáo trình, tài liệu giảng dạy",
+                "so_hieu": "222/2025/NĐ-CP",
+                "trich_yeu": "Quy định việc dạy và học bằng tiếng nước ngoài trong cơ sở giáo dục",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Chính phủ"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.013541666666666667
+            },
+            {
+                "index": 2,
+                "id": "dieu_3",
+                "id_document": 999999999668651,
+                "position": "Điều 3 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Nguyên tắc dạy và học bằng tiếng nước ngoài",
+                "so_hieu": "222/2025/NĐ-CP",
+                "trich_yeu": "Quy định việc dạy và học bằng tiếng nước ngoài trong cơ sở giáo dục",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Chính phủ"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.013486513486513488
+            },
+            {
+                "index": 6,
+                "id": "dieu_7",
+                "id_document": 19141,
+                "position": "Điều 7 / Chương 2",
+                "dia_danh": "Trung ương",
+                "title": "Nội dung phối hợp giữa nhà trường, gia đình và chính quyền địa phương quy định tại khoản 2 Điều 12 của Pháp lệnh Nội dung phối hợp giữa nhà trường, gia đình và chính quyền địa phương bao gồm:",
+                "so_hieu": "178/2004/NĐ-CP",
+                "trich_yeu": "Hướng dẫn Pháp lệnh Phòng, chống mại dâm",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Lao động - Thương Binh và Xã hội"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.013374188896899782
+            },
+            {
+                "index": 12,
+                "id": "dieu_13",
+                "id_document": 33548,
+                "position": "Điều 13",
+                "dia_danh": "Trung ương",
+                "title": "Nội dung chi của doanh nghiệp ngoài khu vực nhà nước, đơn vị sự nghiệp ngoài công lập",
+                "so_hieu": "13/2014/NĐ-CP",
+                "trich_yeu": "Hướng dẫn Luật giáo dục quốc phòng an ninh",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012436040044493881
+            },
+            {
+                "index": 9,
+                "id": "dieu_10",
+                "id_document": 146457,
+                "position": "Điều 10 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Nội dung của hóa đơn",
+                "so_hieu": "123/2020/NĐ-CP",
+                "trich_yeu": "Quy định hóa đơn chứng từ",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Kế toán - Kiểm toán",
+                "score": 0.011842105263157895
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 49842,
+                "position": "Điều 2",
+                "dia_danh": "Trung ương",
+                "title": "Vị trí, mục tiêu giáo dục thể chất và hoạt động thể thao trong nhà trường",
+                "so_hieu": "11/2015/NĐ-CP",
+                "trich_yeu": "Giáo dục thể chất hoạt động thể thao trong nhà trường",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "",
+                    "Bộ Giáo dục và Đào tạo"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.011792103313221128
+            },
+            {
+                "index": 103,
+                "id": "dieu_113",
+                "id_document": 134025,
+                "position": "Điều 113 / Chương IX",
+                "dia_danh": "Trung ương",
+                "title": "Trách nhiệm thi hành Bộ trưởng Bộ Giáo dục và Đào tạo, các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này./. BỘ GIÁO DỤC VÀ ĐÀO TẠO Số:  07/VBHN-BGDĐT XÁC THỰC VĂN BẢN HỢP NHẤT Nơi nhận: - Bộ trưởng (để b/c); - Văn phòng Chính phủ (để đăng Công báo); - Website Bộ GDĐT; - Lưu: VT, PC(3b). Hà Nội, ngày 01 tháng 11 năm 2018 KT. BỘ TRƯỞNG THỨ TRƯỞNG (Đã ký) Nguyễn Hữu Độ [1] Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục có căn cứ ban hành như sau: “Căn cứ Luật tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Căn cứ Luật giáo dục ngày 14 tháng 6 năm 2005; Luật sửa đổi, bổ sung một số điều của Luật giáo dục ngày 25 tháng 11 năm 2009; Căn cứ Luật giáo dục đại học ngày 18 tháng 6 năm 2012; Căn cứ Luật đầu tư ngày 26 tháng 11 năm 2014; Căn cứ Luật sửa đổi, bổ sung Điều 6 và Phụ lục 4 về Danh mục ngành, nghề đầu tư kinh doanh có điều kiện của Luật đầu tư ngày 22 tháng 11 năm 2016 ; Căn cứ Luật giáo dục nghề nghiệp ngày 27 tháng 11 năm 2014; Theo đề nghị của Bộ trưởng Bộ Giáo dục và Đào tạo; Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục.” [2] Điểm này được sửa đổi theo quy định tại khoản 1 Điều 1 của Nghị định số  135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [3] Điểm này được bãi bỏ theo quy định tại Điều 2 của Nghị định số  135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [4] Điểm này được bãi bỏ theo quy định tại Điều 2 của Nghị định số  135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [5] Điểm này được sửa đổi theo quy định tại khoản 1 Điều 1 của Nghị định số  135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [6] Điểm này được sửa đổi theo quy định tại khoản 1 Điều 1 của Nghị định số  135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [7] Điểm này được sửa đổi theo quy định tại khoản 2 Điều 1 của Nghị định số  135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [8] Điểm này được sửa đổi theo quy định tại khoản 2 Điều 1 của Nghị định số  135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [9] Đoạn “Sân vườn gồm: Sân chơi của nhóm, lớp; sân chơi chung, sân chơi - cây xanh” được sửa đổi bởi đoạn “Sân chơi gồm: Sân chơi của nhóm, lớp; sân chơi chung” theo quy định tại khoản 2 Điều 1 của Nghị định số  135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [10] Khoản này được sửa đổi theo quy định tại khoản 3 Điều 1 của Nghị định số  135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [11] Điểm này được sửa đổi theo quy định tại khoản 3 Điều 1 của Nghị định số  135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [12] Điểm này được sửa đổi theo quy định tại khoản 3 Điều 1 của Nghị định số  135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [13] Khoản này được bãi bỏ theo quy định tại Điều 2 của Nghị định số  135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [14] Điểm này được sửa đổi theo quy định tại khoản 4 Điều 1 của Nghị định số  135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [15] Điểm này được sửa đổi theo quy định tại khoản 4 Điều 1 của Nghị định số  135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [16] Điểm này được sửa đổi theo quy định tại khoản 4 Điều 1 của Nghị định số  135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [17] Điều này được sửa đổi theo quy định tại khoản 5 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [18] Điểm này được sửa đổi theo quy định tại khoản 6 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [19] Điểm này được sửa đổi theo quy định tại khoản 6 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [20] Khoản này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [21] Khoản này được sửa đổi theo quy định tại khoản 7 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [22] Điểm này được sửa đổi theo quy định tại khoản 7 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [23] Điểm này được sửa đổi theo quy định tại khoản 8 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [24] Điểm này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [25] Điểm này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [26] Điểm này được sửa đổi theo quy định tại khoản 8 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [27] Điểm này được sửa đổi theo quy định tại khoản 8 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [28] Khoản này được sửa đổi theo quy định tại khoản 9 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [29] Điều này được sửa đổi theo quy định tại khoản 10 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [30] Khoản này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [31] Điểm này được sửa đổi theo quy định tại khoản 11 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [32] Điểm này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [33] Đoạn “Quyết định thành lập đoàn kiểm tra” được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [34] Đoạn “Biên bản kiểm tra” được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [35] Đoạn “Tờ trình đề nghị giải thể của Phòng Giáo dục và Đào tạo” được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [36] Điều này được sửa đổi theo quy định tại khoản 12 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [37] Điểm này được sửa đổi theo quy định tại khoản 13 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [38] Điểm này được sửa đổi theo quy định tại khoản 13 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [39] Điểm này được sửa đổi theo quy định tại khoản 14 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [40] Điểm này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [41] Điểm này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [42] Điểm này được sửa đổi theo quy định tại khoản 14 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [43] Điểm này được sửa đổi theo quy định tại khoản 14 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [44] Điểm này được sửa đổi theo quy định tại khoản 15 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [45] Khoản này được sửa đổi theo quy định tại khoản 15 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [46] Điểm này được sửa đổi theo quy định tại khoản 16 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [47] Điểm này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [48] Điểm này được sửa đổi theo quy định tại khoản 16 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [49] Khoản này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [50] Điểm này được sửa đổi theo quy định tại khoản 17 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [51] Điểm này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [52] Đoạn “Quyết định thành lập đoàn kiểm tra” được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [53] Đoạn “Biên bản kiểm tra” được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [54] Đoạn “Tờ trình đề nghị giải thể của Phòng Giáo dục và Đào tạo đối với trường trung học cơ sở, Sở Giáo dục và Đào tạo đối với trường trung học phổ thông” được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [55] Điều này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [56] Điều này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [57] Điều này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [58] Điều này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [59] Điều này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [60] Điều này được sửa đổi theo quy định tại khoản 18 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [61] Đoạn “Quyết định thành lập đoàn kiểm tra” được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [62] Đoạn “Biên bản kiểm tra” được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [63] Điểm này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [64] Điều này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [65] Điều này được sửa đổi theo quy định tại khoản 19 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [66] Điểm này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [67] Điểm này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [68] Điều này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [69] Điều này được sửa đổi theo quy định tại khoản 20 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [70] Điều này được sửa đổi theo quy định tại khoản 21 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [71] Khoản này được sửa đổi theo quy định tại khoản 22 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [72] Khoản này được sửa đổi theo quy định tại khoản 22 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [73] Khoản này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [74] Đoạn “Quyết định thành lập đoàn kiểm tra” được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [75] Đoạn “Biên bản kiểm tra” được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [76] Điểm này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [77] Điều này được sửa đổi theo quy định tại khoản 23 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [78] Điểm này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [79] Điểm này được sửa đổi theo quy định tại khoản 24 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [80] Điều này được sửa đổi theo quy định tại khoản 25 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [81] Điểm này được sửa đổi theo quy định tại khoản 26 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [82] Khoản này được sửa đổi theo quy định tại khoản 26 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [83] Khoản này được sửa đổi theo quy định tại khoản 27 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [84] Đoạn “Quyết định thành lập đoàn kiểm tra” được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [85] Đoạn “Biên bản kiểm tra” được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [86] Điểm này được sửa đổi theo quy định tại khoản 28 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [87] Điểm này được sửa đổi theo quy định tại khoản 28 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [88] Khoản này được sửa đổi theo quy định tại khoản 29 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [89] Khoản này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [90] Khoản này được sửa đổi theo quy định tại khoản 29 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [91] Điều này được sửa đổi theo quy định tại khoản 30 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [92] Khoản này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [93] Điểm này được sửa đổi theo quy định tại khoản 31 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [94] Điểm này được sửa đổi theo quy định tại khoản 31 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [95] Điểm này được sửa đổi theo quy định tại khoản 32 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [96] Điểm này được sửa đổi theo quy định tại khoản 32 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [97] Điểm này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [98] Điểm này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [99] Khoản này được sửa đổi theo quy định tại khoản 33 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [100] Điểm này được sửa đổi theo quy định tại khoản 34 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [101] Khoản này được sửa đổi theo quy định tại khoản 35 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [102] Khoản này được sửa đổi theo quy định tại khoản 35 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [103] Điểm này được sửa đổi theo quy định tại khoản 36 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [104] Khoản này được sửa đổi theo quy định tại khoản 37 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [105] Khoản này được sửa đổi theo quy định tại khoản 37 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [106] Khoản này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [107] Đoạn “Đề án thành lập phân hiệu” được sửa đổi bởi đoạn “Đề án thành lập phân hiệu. Nội dung đề án thành lập phân hiệu cần nêu rõ: Sự cần thiết thành lập phân hiệu; căn cứ pháp lý xây dựng đề án; phương hướng chiến lược xây dựng và phát triển phân hiệu theo từng giai đoạn; tên, địa điểm, vị trí pháp lý, chức năng, nhiệm vụ của phân hiệu; tổ chức bộ máy quản lý, ngành nghề và quy mô đào tạo; số lượng, cơ cấu đội ngũ giảng viên và cán bộ quản lý; quy hoạch xây dựng phân hiệu; giải pháp thực hiện đề án: Giải pháp tổ chức bộ máy quản lý và nhân sự, giải pháp xây dựng cơ sở vật chất, giải pháp tài chính, các bước triển khai đề án và nhiệm vụ ưu tiên và các minh chứng kèm theo về điều kiện thành lập phân hiệu” theo quy định tại khoản 38 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [108] Điểm này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [109] Điểm này được sửa đổi theo quy định tại khoản 39 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [110] Điểm này được sửa đổi theo quy định tại khoản 39 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [111] Khoản này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [112] Điều này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [113] Điều này được sửa đổi theo quy định tại khoản 40 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [114] Điều này được sửa đổi theo quy định tại khoản 41 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [115] Điểm này được sửa đổi theo quy định tại khoản 42 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [116] Điều này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [117] Khoản này được sửa đổi theo quy định tại khoản 43 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [118] Điểm này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [119] Khoản này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [120] Khoản này được bãi bỏ theo quy định tại Điều 2 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [121] Điểm này được sửa đổi theo quy định tại khoản 44 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [122] Điểm này được sửa đổi theo quy định tại khoản 44 Điều 1 của Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018. [123] Điều 3 Nghị định số 135/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 46/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 20 tháng 11 năm 2018 quy định như sau: “ Điều 3. Điều khoản thi hành Nghị định này có hiệu lực thi hành từ ngày 20 tháng 11 năm 2018. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm thi hành Nghị định này ./.”",
+                "so_hieu": "07/BGDĐT-VBHN",
+                "trich_yeu": "Quy định về điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": null,
+                "score": 0.011730769230769232
+            },
+            {
+                "index": 12,
+                "id": "dieu_13",
+                "id_document": 92755,
+                "position": "Điều 13 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Hiệu lực thi hành",
+                "so_hieu": "113/2015/NĐ-CP",
+                "trich_yeu": "Phụ cấp đặc thù trách nhiệm công việc nguy hiểm nhà giáo cơ sở giáo dục nghề nghiệp",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.0115527950310559
+            },
+            {
+                "index": 15,
+                "id": "dieu_16",
+                "id_document": 127060,
+                "position": "Điều 16 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Quyền và trách nhiệm của người giảng dạy thực hành",
+                "so_hieu": "111/2017/NĐ-CP",
+                "trich_yeu": "Quy định tổ chức đào tạo thực hành trong đào tạo khối ngành sức khỏe",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Y tế",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.011435778852217783
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 170766,
+                "position": "Điều 1",
+                "dia_danh": "Trung ương",
+                "title": "Sửa đổi, bổ sung một số điều của Nghị định số 86/2018/NĐ-CP ngày 06 tháng 6 năm 2018 của Chính phủ quy định về hợp tác, đầu tư của nước ngoài trong lĩnh vực giáo dục",
+                "so_hieu": "124/2024/NĐ-CP",
+                "trich_yeu": "Sửa đổi Nghị định 86/2018/NĐ-CP đầu tư của nước ngoài lĩnh vực giáo dục",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Đầu tư",
+                "score": 0.011398705823792932
+            },
+            {
+                "index": 5,
+                "id": "dieu_6",
+                "id_document": 158468,
+                "position": "Điều 6",
+                "dia_danh": "Trung ương",
+                "title": "Nhà giáo của trường đào tạo, bồi dưỡng",
+                "so_hieu": "103/2022/NĐ-CP",
+                "trich_yeu": "Trường của cơ quan nhà nước tổ chức chính trị tổ chức chính trị xã hội",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011395811395811396
+            },
+            {
+                "index": 16,
+                "id": "dieu_17",
+                "id_document": 14851,
+                "position": "Điều 17 / Mục 1 / Chương 5",
+                "dia_danh": "Trung ương",
+                "title": "Nội dung hợp đồng học nghề",
+                "so_hieu": "139/2006/NĐ-CP",
+                "trich_yeu": "Dạy nghề hướng dẫn Luật Giáo dục và Bộ luật Lao động",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": null,
+                "score": 0.011274131274131273
+            },
+            {
+                "index": 9,
+                "id": "dieu_10",
+                "id_document": 92755,
+                "position": "Điều 10 / Mục 3 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Điều kiện hưởng",
+                "so_hieu": "113/2015/NĐ-CP",
+                "trich_yeu": "Phụ cấp đặc thù trách nhiệm công việc nguy hiểm nhà giáo cơ sở giáo dục nghề nghiệp",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.010985805949834728
+            },
+            {
+                "index": 2,
+                "id": "dieu_3",
+                "id_document": 170766,
+                "position": "Điều 3",
+                "dia_danh": "Trung ương",
+                "title": "Hiệu lực thi hành",
+                "so_hieu": "124/2024/NĐ-CP",
+                "trich_yeu": "Sửa đổi Nghị định 86/2018/NĐ-CP đầu tư của nước ngoài lĩnh vực giáo dục",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Đầu tư",
+                "score": 0.01090497737556561
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 160908,
+                "position": "Điều 4",
+                "dia_danh": "Trung ương",
+                "title": "Sửa đổi, bổ sung một số điều của Nghị định số 11/2013/NĐ-CP ngày 14 tháng 01 năm 2013 của Chính phủ về quản lý đầu tư phát triển đô thị",
+                "so_hieu": "35/2023/NĐ-CP",
+                "trich_yeu": "Sửa đổi các Nghị định thuộc lĩnh vực quản lý nhà nước",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Xây dựng",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010788582486695694
+            },
+            {
+                "index": 2,
+                "id": "dieu_3",
+                "id_document": 157303,
+                "position": "Điều 3 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Giải thích từ ngữ Trong Nghị định này, các thuật ngữ dưới đây được hiểu như sau:",
+                "so_hieu": "90/2022/NĐ-CP",
+                "trich_yeu": "Quản lý sử dụng nhà đất Bộ Ngoại giao quản lý phục vụ đối ngoại",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.0106826801517067
+            },
+            {
+                "index": 6,
+                "id": "dieu_7",
+                "id_document": 131026,
+                "position": "Điều 7 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Chương trình giáo dục, cơ sở vật chất và đội ngũ nhà giáo",
+                "so_hieu": "86/2018/NĐ-CP",
+                "trich_yeu": "Quy định về hợp tác đầu tư của nước ngoài trong lĩnh vực giáo dục",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Đầu tư",
+                "score": 0.01060077519379845
+            },
+            {
+                "index": 41,
+                "id": "dieu_42",
+                "id_document": 999999999584299,
+                "position": "Điều 42 / Chương IX",
+                "dia_danh": "Trung ương",
+                "title": "Chế độ đối với người làm nhiệm vụ trực",
+                "so_hieu": "200/2025/NĐ-CP",
+                "trich_yeu": "Hướng dẫn Luật Phòng thủ dân sự 2023",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Chính phủ"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.01053324555628703
+            }
+        ]
+    },
+    {
+        "id": 30664,
+        "cau_hoi": "Cách tính tiền thuê đất trong trường hợp chuyển từ thuê đất trả tiền hằng năm sang thuê đất trả tiền một lần theo Nghị định 103?",
+        "tra_loi": "Tại khoản 1 Điều 33 Nghị định 103/2024/NĐ-CP có quy định về cách tính tiền thuê đất trong trường hợp chuyển từ thuê đất trả tiền hằng năm sang thuế đất trả tiền một lần như sau:\n- Trường hợp người sử dụng đất được Nhà nước ban hành quyết định cho phép chuyển từ thuê đất trả tiền hằng năm sang thuê đất trả tiền thuê đất một lần cho cả thời gian thuê thì phải nộp tiền thuê đất một lần cho thời gian thuê đất còn lại theo quy định tại khoản 2 Điều 30 Nghị định 103/2024/NĐ-CP.\nĐơn giá thuê đất trả tiền thuê đất một lần của thời gian thuê đất còn lại được xác định theo quy định tại khoản 2 Điều 26 Nghị định 103/2024/NĐ-CP; trong đó giá đất để tính đơn giá thuê đất là giá đất tại thời điểm Nhà nước ban hành quyết định cho phép chuyển sang thuê đất trả tiền thuê đất một lần.\n- Trường hợp người sử dụng đất đang được khấu trừ kinh phí bồi thường, hỗ trợ, tái định cư hoặc được trừ khoản tiền đã trả để nhận chuyển nhượng quyền sử dụng đất vào tiền thuê đất theo hình thức quy đổi ra số năm, tháng hoàn thành nghĩa vụ về tiền thuê đất theo quy định thì nay số còn lại (chưa được khấu trừ) được khấu trừ vào tiền thuê đất trả tiền thuê đất một lần cho cả thời gian thuê.\nXem thêm: Tính tiền thuê đất khi Nhà nước cho thuê đất thu tiền thuê đất hằng năm có áp dụng bảng giá đất không?",
+        "trich_dan": [
+            {
+                "loai_vb": "Nghị định",
+                "so_hieu": "103/2024/NĐ-CP",
+                "khoan": "1",
+                "dieu": "33",
+                "trich_yeu": "Nghị định 103/2024/NĐ-CP",
+                "noi_dung_kem_trich_dan": "Tại khoản 1 Điều 33 Nghị định 103/2024/NĐ-CP có quy định về cách tính tiền thuê đất trong trường hợp chuyển từ thuê đất trả tiền hằng năm sang thuế đất trả tiền một lần như sau:"
+            },
+            {
+                "loai_vb": "Nghị định",
+                "so_hieu": "103/2024/NĐ-CP",
+                "khoan": "2",
+                "dieu": "30",
+                "trich_yeu": "Nghị định 103/2024/NĐ-CP",
+                "noi_dung_kem_trich_dan": "- Trường hợp người sử dụng đất được Nhà nước ban hành quyết định cho phép chuyển từ thuê đất trả tiền hằng năm sang thuê đất trả tiền thuê đất một lần cho cả thời gian thuê thì phải nộp tiền thuê đất một lần cho thời gian thuê đất còn lại theo quy định tại khoản 2 Điều 30 Nghị định 103/2024/NĐ-CP."
+            },
+            {
+                "loai_vb": "Nghị định",
+                "so_hieu": "103/2024/NĐ-CP",
+                "khoan": "2",
+                "dieu": "26",
+                "trich_yeu": "Nghị định 103/2024/NĐ-CP",
+                "noi_dung_kem_trich_dan": "Đơn giá thuê đất trả tiền thuê đất một lần của thời gian thuê đất còn lại được xác định theo quy định tại khoản 2 Điều 26 Nghị định 103/2024/NĐ-CP; trong đó giá đất để tính đơn giá thuê đất là giá đất tại thời điểm Nhà nước ban hành quyết định cho phép chuyển sang thuê đất trả tiền thuê đất một lần."
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 33,
+                "id": "dieu_33",
+                "id_document": 172729,
+                "position": "Điều 33 / Mục 1 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Tính tiền thuê đất trong trường hợp thay đổi hình thức thuê đất theo quy định tại khoản 1, khoản 2 Điều 30 Luật Đất đai",
+                "so_hieu": "103/2024/NĐ-CP",
+                "trich_yeu": "Về tiền sử dụng đất, tiền thuê đất",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.013061872025383395
+            },
+            {
+                "index": 52,
+                "id": "dieu_51",
+                "id_document": 172729,
+                "position": "Điều 51 / Mục 1 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Điều khoản chuyển tiếp đối với thu tiền thuê đất",
+                "so_hieu": "103/2024/NĐ-CP",
+                "trich_yeu": "Về tiền sử dụng đất, tiền thuê đất",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.01281936351411923
+            },
+            {
+                "index": 34,
+                "id": "dieu_34",
+                "id_document": 172729,
+                "position": "Điều 34 / Mục 1 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Tính tiền thuê đất khi chuyển mục đích sử dụng đất",
+                "so_hieu": "103/2024/NĐ-CP",
+                "trich_yeu": "Về tiền sử dụng đất, tiền thuê đất",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.012723809523809523
+            },
+            {
+                "index": 30,
+                "id": "dieu_30",
+                "id_document": 172729,
+                "position": "Điều 30 / Mục 1 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Tính tiền thuê đất",
+                "so_hieu": "103/2024/NĐ-CP",
+                "trich_yeu": "Về tiền sử dụng đất, tiền thuê đất",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.012536554354736175
+            },
+            {
+                "index": 26,
+                "id": "dieu_26",
+                "id_document": 172729,
+                "position": "Điều 26 / Mục 1 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Đơn giá thuê đất",
+                "so_hieu": "103/2024/NĐ-CP",
+                "trich_yeu": "Về tiền sử dụng đất, tiền thuê đất",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.012374027299400433
+            },
+            {
+                "index": 35,
+                "id": "dieu_35",
+                "id_document": 172729,
+                "position": "Điều 35 / Mục 1 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Tính tiền thuê đất khi gia hạn sử dụng đất, điều chỉnh thời hạn sử dụng đất theo quy định tại khoản 2 Điều 156, điều chỉnh quyết định cho thuê đất theo quy định tại điểm c khoản 3 Điều 155 Luật Đất đai",
+                "so_hieu": "103/2024/NĐ-CP",
+                "trich_yeu": "Về tiền sử dụng đất, tiền thuê đất",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.01199813258636788
+            },
+            {
+                "index": 23,
+                "id": "dieu_23",
+                "id_document": 172729,
+                "position": "Điều 23 / Mục 1 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Căn cứ tính tiền thuê đất",
+                "so_hieu": "103/2024/NĐ-CP",
+                "trich_yeu": "Về tiền sử dụng đất, tiền thuê đất",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.011959476155176674
+            },
+            {
+                "index": 43,
+                "id": "dieu_42",
+                "id_document": 172729,
+                "position": "Điều 42 / Mục 3 / Danh mục Danh mục",
+                "dia_danh": "Trung ương",
+                "title": "Trình tự, thủ tục tính tiền thuê đất",
+                "so_hieu": "103/2024/NĐ-CP",
+                "trich_yeu": "Về tiền sử dụng đất, tiền thuê đất",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.011947626841243862
+            },
+            {
+                "index": 97,
+                "id": "dieu_98",
+                "id_document": 999999999664470,
+                "position": "Điều 98 / Chương XI",
+                "dia_danh": "Trung ương",
+                "title": "Xác định giá trị quyền sử dụng đất",
+                "so_hieu": "186/2025/NĐ-CP",
+                "trich_yeu": "Hướng dẫn Luật Quản lý, sử dụng tài sản công",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Chính phủ"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.011808755760368663
+            },
+            {
+                "index": 36,
+                "id": "dieu_36",
+                "id_document": 172729,
+                "position": "Điều 36 / Mục 1 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Tính tiền thuê đất khi thay đổi quy hoạch chi tiết của dự án theo đúng quy định của pháp luật mà không thay đổi quyết định cho thuê đất quy định tại điểm d khoản 3 Điều 155, điểm a khoản 2 Điều 160 Luật Đất đai",
+                "so_hieu": "103/2024/NĐ-CP",
+                "trich_yeu": "Về tiền sử dụng đất, tiền thuê đất",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.011482939632545932
+            },
+            {
+                "index": 24,
+                "id": "dieu_24",
+                "id_document": 172729,
+                "position": "Điều 24 / Mục 1 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Diện tích tính tiền thuê đất",
+                "so_hieu": "103/2024/NĐ-CP",
+                "trich_yeu": "Về tiền sử dụng đất, tiền thuê đất",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.01127046866177301
+            },
+            {
+                "index": 32,
+                "id": "dieu_32",
+                "id_document": 172729,
+                "position": "Điều 32 / Mục 1 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Ổn định tiền thuê đất trả tiền thuê hằng năm",
+                "so_hieu": "103/2024/NĐ-CP",
+                "trich_yeu": "Về tiền sử dụng đất, tiền thuê đất",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.011252032520325203
+            },
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 172729,
+                "position": "Điều 8 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tính tiền sử dụng đất khi chuyển mục đích sử dụng đất đối với hộ gia đình, cá nhân",
+                "so_hieu": "103/2024/NĐ-CP",
+                "trich_yeu": "Về tiền sử dụng đất, tiền thuê đất",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.01107506950880445
+            },
+            {
+                "index": 37,
+                "id": "dieu_37",
+                "id_document": 172729,
+                "position": "Điều 37 / Mục 1 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Tính tiền thuê đất phải nộp trong trường hợp được miễn, giảm tiền thuê đất",
+                "so_hieu": "103/2024/NĐ-CP",
+                "trich_yeu": "Về tiền sử dụng đất, tiền thuê đất",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.011019736842105263
+            },
+            {
+                "index": 6,
+                "id": "dieu_7",
+                "id_document": 999999999641751,
+                "position": "Điều 7",
+                "dia_danh": "Trung ương",
+                "title": "Điều khoản chuyển tiếp",
+                "so_hieu": "230/2025/NĐ-CP",
+                "trich_yeu": "Nghị định quy định trường hợp khác miễn giảm tiền sử dụng đất khoản 2 Điều 157 Luật Đất đai",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Chính phủ"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.010825242718446603
+            },
+            {
+                "index": 101,
+                "id": "dieu_102",
+                "id_document": 127385,
+                "position": "Điều 102 / Chương XI",
+                "dia_danh": "Trung ương",
+                "title": "Xác định giá trị quyền sử dụng đất",
+                "so_hieu": "151/2017/NĐ-CP",
+                "trich_yeu": "Hướng dẫn Luật Quản lý sử dụng tài sản công",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.010639009702241553
+            },
+            {
+                "index": 53,
+                "id": "dieu_52",
+                "id_document": 172729,
+                "position": "Điều 52 / Mục 1 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Xử lý một số vấn đề cụ thể",
+                "so_hieu": "103/2024/NĐ-CP",
+                "trich_yeu": "Về tiền sử dụng đất, tiền thuê đất",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.010464611376465479
+            },
+            {
+                "index": 44,
+                "id": "dieu_43",
+                "id_document": 172729,
+                "position": "Điều 43 / Mục 3 / Danh mục Danh mục",
+                "dia_danh": "Trung ương",
+                "title": "Thu, nộp tiền thuê đất",
+                "so_hieu": "103/2024/NĐ-CP",
+                "trich_yeu": "Về tiền sử dụng đất, tiền thuê đất",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.010460526315789472
+            },
+            {
+                "index": 41,
+                "id": "dieu_40",
+                "id_document": 172729,
+                "position": "Điều 40 / Danh mục Danh mục",
+                "dia_danh": "Trung ương",
+                "title": "Giảm tiền thuê đất Việc giảm tiền thuê đất đối với trường hợp Nhà nước cho thuê đất theo quy định tại khoản 1 Điều 157 Luật Đất đai được thực hiện như sau:",
+                "so_hieu": "103/2024/NĐ-CP",
+                "trich_yeu": "Về tiền sử dụng đất, tiền thuê đất",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.010196292257360958
+            },
+            {
+                "index": 17,
+                "id": "dieu_18",
+                "id_document": 174275,
+                "position": "Điều 18 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Chuyển quyền, cho thuê, cho thuê lại, thế chấp đối với đất không thuộc trường hợp được chuyển quyền, cho thuê, cho thuê lại, thế chấp theo quy định",
+                "so_hieu": "123/2024/NĐ-CP",
+                "trich_yeu": "Xử phạt vi phạm hành chính lĩnh vực đất đai",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài nguyên và Môi trường",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.009747899159663866
+            }
+        ]
+    },
+    {
+        "id": 25974,
+        "cau_hoi": "Thành phần hồ sơ xác lập quyền sở hữu toàn dân đối với tài sản là di sản không có người thừa kế?",
+        "tra_loi": "Theo hướng dẫn tại Điều 28 Nghị định 77/2025/NĐ-CP thành phần hồ sơ xác lập quyền sở hữu toàn dân đối với tài sản là di sản không có người thừa kế cần chuẩn bị bao gồm:\n- Báo cáo quá trình mở thừa kế đối với di sản: bản chính;\n- Bảng kê chủng loại, số lượng, khối lượng, hiện trạng của di sản, giá trị (nếu có thông tin về giá trị): bản chính;\n- Các hồ sơ, tài liệu liên quan đến quá trình mở thừa kế, văn bản từ chối quyền hưởng di sản, bản án hoặc quyết định của Tòa án xác định người không được quyền hưởng di sản thừa kế (nếu có): bản sao;\n- Văn bản từ bỏ phần quyền sở hữu đối với tài sản sở hữu chung quy định tại khoản 4 Điều 218 Bộ luật Dân sự 2015: bản chính.",
+        "trich_dan": [
+            {
+                "loai_vb": "Nghị định",
+                "so_hieu": "77/2025/NĐ-CP",
+                "khoan": "",
+                "dieu": "28",
+                "trich_yeu": "Nghị định 77/2025/NĐ-CP",
+                "noi_dung_kem_trich_dan": "Theo hướng dẫn tại Điều 28 Nghị định 77/2025/NĐ-CP thành phần hồ sơ xác lập quyền sở hữu toàn dân đối với tài sản là di sản không có người thừa kế cần chuẩn bị bao gồm:"
+            },
+            {
+                "loai_vb": "Bộ luật",
+                "so_hieu": "91/2015/QH13",
+                "khoan": "4",
+                "dieu": "218",
+                "trich_yeu": "Bộ luật Dân sự 2015",
+                "noi_dung_kem_trich_dan": "- Văn bản từ bỏ phần quyền sở hữu đối với tài sản sở hữu chung quy định tại khoản 4 Điều 218 Bộ luật Dân sự 2015: bản chính."
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 27,
+                "id": "dieu_28",
+                "id_document": 177777,
+                "position": "Điều 28 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Trình tự, thủ tục quyết định xác lập quyền sở hữu toàn dân đối với tài sản là di sản không có người thừa kế",
+                "so_hieu": "77/2025/NĐ-CP",
+                "trich_yeu": "Thẩm quyền thủ tục xác lập quyền sở hữu toàn dân về tài sản",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.014171801377310618
+            },
+            {
+                "index": 2,
+                "id": "dieu_3",
+                "id_document": 177777,
+                "position": "Điều 3 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Tài sản được xác lập quyền sở hữu toàn dân Tài sản được xác lập quyền sở hữu toàn dân quy định tại Nghị định này gồm:",
+                "so_hieu": "77/2025/NĐ-CP",
+                "trich_yeu": "Thẩm quyền thủ tục xác lập quyền sở hữu toàn dân về tài sản",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.01395977691397668
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 177777,
+                "position": "Điều 4 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Nguyên tắc xác lập quyền sở hữu toàn dân về tài sản và quản lý, xử lý tài sản được xác lập quyền sở hữu toàn dân",
+                "so_hieu": "77/2025/NĐ-CP",
+                "trich_yeu": "Thẩm quyền thủ tục xác lập quyền sở hữu toàn dân về tài sản",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.013095238095238096
+            },
+            {
+                "index": 11,
+                "id": "dieu_9_dk_1",
+                "id_document": 41359,
+                "position": "Điều 9 / Chương II",
+                "dia_danh": "tỉnh Cao Bằng",
+                "title": "Quy định xác lập quyền sở hữu Nhà nước đối với tài sản Việc xác lập quyền sở hữu tài sản Nhà nước theo quy định của pháp luật đối với: bất động sản trên địa bàn được xác định là vô chủ hoặc không xác định được chủ sở hữu; di sản không có người thừa kế theo di chúc, theo pháp luật hoặc có nhưng người đó không được quyền hưởng di sản hoặc từ chối quyền hưởng di sản; tài sản của các dự án sử dụng vốn nước ngoài do địa phương quản lý sau khi hoạt động của dự án kết thúc được chuyển giao cho Nhà nước Việt Nam; tài sản được chủ sở hữu chuyển quyền sở hữu dưới hình thức tặng, cho, đóng góp, viện trợ và các hình thức chuyển giao khác theo quy định của pháp luật cho các tổ chức thuộc địa phương.",
+                "so_hieu": "1575/2008/QĐ-UBND",
+                "trich_yeu": "Ban hành Quy định về phân cấp thẩm quyền, trách nhiệm quản lý Nhà nước đối với tài sản Nhà nước tại cơ quan hành chính, đơn vị sự nghiệp công lập trên địa bàn tỉnh Cao Bằng do Ủy ban nhân dân tỉnh Cao Bằng ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Cao Bằng",
+                "don_vi": [
+                    "Cao Bằng"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.013050397877984087
+            },
+            {
+                "index": 105,
+                "id": "dieu_106",
+                "id_document": 999999999673607,
+                "position": "Điều 106 / Mục 2 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Tài sản được xác lập quyền sở hữu toàn dân",
+                "so_hieu": "97/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Quản lý, sử dụng tài sản công do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.01282051282051282
+            },
+            {
+                "index": 51,
+                "id": "dieu_52",
+                "id_document": 177777,
+                "position": "Điều 52 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Trình tự, thủ tục quyết định xác lập quyền sở hữu toàn dân đối với tài sản",
+                "so_hieu": "77/2025/NĐ-CP",
+                "trich_yeu": "Thẩm quyền thủ tục xác lập quyền sở hữu toàn dân về tài sản",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.012816879231617067
+            },
+            {
+                "index": 5,
+                "id": "dieu_3_dk_1",
+                "id_document": 135298,
+                "position": "Điều 3 / Chương II",
+                "dia_danh": "tỉnh Thừa Thiên Huế",
+                "title": "Tài sản thuộc đối tượng được xác lập quyền sở hữu toàn dân Quy định chi tiết tại Điều 3 Nghị định số 29/2018/NĐ-CP ngày 05 tháng 3 năm 2018 của Chính phủ quy định trình tự, thủ tục xác lập quyền sở hữu toàn dân về tài sản và xử lý đối với tài sản được xác lập quyền sở hữu toàn dân (viết tắt là Nghị định số 29/2018/NĐ-CP ngày 05 tháng 3 năm 2018 của Chính phủ).",
+                "so_hieu": "15/2019/QĐ-UBND",
+                "trich_yeu": "Phân cấp thẩm quyền xác lập quyền sở hữu toàn dân Huế",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Thừa Thiên Huế",
+                "don_vi": [
+                    "Thừa Thiên Huế"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.012700534759358287
+            },
+            {
+                "index": 24,
+                "id": "dieu_25",
+                "id_document": 177777,
+                "position": "Điều 25 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Thẩm quyền quyết định xác lập quyền sở hữu toàn dân",
+                "so_hieu": "77/2025/NĐ-CP",
+                "trich_yeu": "Thẩm quyền thủ tục xác lập quyền sở hữu toàn dân về tài sản",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.012210526315789474
+            },
+            {
+                "index": 43,
+                "id": "dieu_44",
+                "id_document": 177777,
+                "position": "Điều 44 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Trình tự, thủ tục quyết định xác lập quyền sở hữu toàn dân đối với tài sản",
+                "so_hieu": "77/2025/NĐ-CP",
+                "trich_yeu": "Thẩm quyền thủ tục xác lập quyền sở hữu toàn dân về tài sản",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.012048192771084338
+            },
+            {
+                "index": 105,
+                "id": "dieu_106",
+                "id_document": 999999999651528,
+                "position": "Điều 106 / Mục 2 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Tài sản được xác lập quyền sở hữu toàn dân",
+                "so_hieu": "23/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Quản lý, sử dụng tài sản công do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.011594936708860758
+            },
+            {
+                "index": 25,
+                "id": "dieu_26",
+                "id_document": 177777,
+                "position": "Điều 26 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Trình tự, thủ tục quyết định xác lập quyền sở hữu toàn dân đối với bất động sản vô chủ",
+                "so_hieu": "77/2025/NĐ-CP",
+                "trich_yeu": "Thẩm quyền thủ tục xác lập quyền sở hữu toàn dân về tài sản",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.011447455386649041
+            },
+            {
+                "index": 22,
+                "id": "dieu_21_dk_1",
+                "id_document": 130886,
+                "position": "Điều 21 / Mục 3 / Chương III",
+                "dia_danh": "tỉnh Bắc Kạn",
+                "title": "Thẩm quyền xác lập quyền sở hữu toàn dân về tài sản.",
+                "so_hieu": "15/2018/NQ-HĐND",
+                "trich_yeu": "Quy định phân cấp quản lý tài sản công Bắc Kạn",
+                "loai_van_ban": "Nghị quyết",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "HĐND tỉnh Bắc Kạn",
+                "don_vi": [
+                    "Bắc Kạn"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011435778852217783
+            },
+            {
+                "index": 16,
+                "id": "dieu_14_dk_1",
+                "id_document": 172944,
+                "position": "Điều 14 / Chương II",
+                "dia_danh": "tỉnh Hòa Bình",
+                "title": "Thẩm quyền xác lập quyền sở hữu toàn dân về tài sản",
+                "so_hieu": "471/2024/NQ-HĐND",
+                "trich_yeu": "Quy định phân cấp thẩm quyền quyết định quản lý, sử dụng và xử lý tài sản công tại các cơ quan, tổ chức, đơn vị thuộc phạm vi quản lý của tỉnh Hòa Bình",
+                "loai_van_ban": "Nghị quyết",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "HĐND tỉnh Hòa Bình",
+                "don_vi": [
+                    "Hòa Bình"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.011163227016885553
+            },
+            {
+                "index": 4,
+                "id": "dieu_3_dk_1",
+                "id_document": 173097,
+                "position": "Điều 3 / Chương I",
+                "dia_danh": "tỉnh Bạc Liêu",
+                "title": "Tài sản công gồm",
+                "so_hieu": "24/2024/NQ-HĐND",
+                "trich_yeu": "Về Quy định thẩm quyền quản lý, sử dụng tài sản công trên địa bàn tỉnh Bạc Liêu",
+                "loai_van_ban": "Nghị quyết",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "HĐND tỉnh Bạc Liêu",
+                "don_vi": [
+                    "Bạc Liêu"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.011054895016443207
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 999999999671126,
+                "position": "Điều 4 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Sở hữu di sản văn hóa",
+                "so_hieu": "66/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Di sản văn hóa do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.010851194121249234
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 173024,
+                "position": "Điều 4 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Sở hữu di sản văn hóa",
+                "so_hieu": "45/2024/QH15",
+                "trich_yeu": "Di sản văn hóa năm 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Văn hóa - Thể thao và Du lịch",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.010727969348659005
+            },
+            {
+                "index": 105,
+                "id": "dieu_106",
+                "id_document": 122988,
+                "position": "Điều 106 / Mục 2 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Tài sản được xác lập quyền sở hữu toàn dân",
+                "so_hieu": "15/2017/QH14",
+                "trich_yeu": "Quản lý sử dụng tài sản công 2017",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.010711915821404874
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 143518,
+                "position": "Điều 1",
+                "dia_danh": "tỉnh Bắc Ninh",
+                "title": "Quy định chung: Trình tự, thủ tục, thẩm quyền xác lập quyền sở hữu toàn dân về tài sản và xử lý đối với tài sản được xác lập quyền sở hữu toàn dân thực hiện theo quy định tại Nghị định số 29/2018/NĐ-CP, các văn bản pháp luật có liên quan hiện hành và các quy định cụ thể tại Nghị quyết này.",
+                "so_hieu": "09/2020/NQ-HĐND",
+                "trich_yeu": "Quy định một số nội dung phân cấp thẩm quyền xác lập quyền sở hữu toàn dân và phê duyệt phương án xử lý tài sản được xác lập quyền sở hữu toàn dân thuộc phạm vi quản lý của tỉnh Bắc Ninh",
+                "loai_van_ban": "Nghị quyết",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "HĐND tỉnh Bắc Ninh",
+                "don_vi": [
+                    "Bắc Ninh"
+                ],
+                "linh_vuc": null,
+                "score": 0.0106993923507685
+            },
+            {
+                "index": 15,
+                "id": "dieu_13_dk_1",
+                "id_document": 172107,
+                "position": "Điều 13 / Chương II",
+                "dia_danh": "tỉnh Ninh Bình",
+                "title": "Thẩm quyền xác lập quyền sở hữu toàn dân về tài sản",
+                "so_hieu": "12/2024/NQ-HĐND",
+                "trich_yeu": "Về Quy định phân cấp thẩm quyền quyết định trong việc quản lý, sử dụng tài sản công và thẩm quyền quyết định việc mua sắm hàng hóa, dịch vụ thuộc phạm vi quản lý của tỉnh Ninh Bình",
+                "loai_van_ban": "Nghị quyết",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "HĐND tỉnh Ninh Bình",
+                "don_vi": [
+                    "Ninh Bình"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.01033172435041594
+            },
+            {
+                "index": 35,
+                "id": "dieu_36",
+                "id_document": 177777,
+                "position": "Điều 36 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Trình tự, thủ tục quyết định xác lập quyền sở hữu toàn dân đối với tài sản",
+                "so_hieu": "77/2025/NĐ-CP",
+                "trich_yeu": "Thẩm quyền thủ tục xác lập quyền sở hữu toàn dân về tài sản",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.010195913208342112
+            }
+        ]
+    }
+]

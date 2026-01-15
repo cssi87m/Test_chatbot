@@ -1,0 +1,210 @@
+{
+    "name": "extract_intent_and_query",
+    "description": "\n    Phân tích câu hỏi người dùng về chủ đề pháp luật và trả về thông tin có cấu trúc. \n    - Query ngắn gọn, tiếng Việt viết thường có dấu, không được tự động chuyển sang không dấu (ví dụ đ => d, á => a, ủ => u, ê => e, ì => i).\n    - Nếu không có giá trị cụ thể, trả về mảng rỗng [] hoặc chuỗi rỗng \"\", tuyệt đối KHÔNG để null.\n    - Nếu người dùng dán đoạn nội dung văn bản luật nguyên văn, điền vào trường reference_text\n    ",
+    "parameters": {
+        "type": "object",
+        "properties": {
+            "use_memory": {
+                "type": "boolean",
+                "description": "\n                    Xác định xem câu hỏi lượt trước của người dùng và tin nhắn phản hồi trước đó của hệ thống có liên quan đến yêu cầu hiện tại không.\n\n                    **true** - Có liên quan khi:\n                    - Không có Danh sách nội dung đính kèm hiện tại và câu hỏi hiện tại sử dụng đại từ chỉ định như \"này\", \"đó\", \"trên\", \"vừa rồi\"\n                    - Câu hỏi hiện tại tiếp tục hoặc mở rộng từ lượt trò chuyện trước\n                    - Câu hỏi hiện tại đề cập đến thông tin trong nội dung phản hồi trước\n                    - Câu hỏi hiện tại yêu cầu làm rõ hoặc bổ sung thông tin từ nội dung phản hồi trước\n\n                    **false** - Không liên quan khi:\n                    - Có Danh sách nội dung đính kèm hiện tại và có các đại từ chỉ định như \"này\" trong câu hỏi hiện tại.\n                    - Danh sách nội dung đính kèm hiện tại khác so với danh sách nội dung đính kèm trước đó.\n                    - Câu hỏi hiện tại hoàn toàn mới, không liên quan đến cuộc trò chuyện trước\n                    - Không có thông tin nội dung phản hồi trước được cung cấp\n                    - Chủ đề hoàn toàn khác với lượt phản hồi trước\n                    "
+            },
+            "intent": {
+                "type": "string",
+                "enum": [
+                    "legal_query",
+                    "document_retrieval",
+                    "document_relationship",
+                    "external_analysis",
+                    "comparative_analysis",
+                    "stats_summary",
+                    "general",
+                    "chitchat"
+                ],
+                "description": "\n                    Nhóm ý định (intent) tương ứng với câu hỏi người dùng gồm:\n                    - legal_query: Tìm và trả lời từ nội dung cụ thể của điều / khoản / mục / điểm cụ thể. Truy vấn cơ bản (nội dung điều khoản, yes/no, phạt, hiệu lực, quyền, thủ tục, định nghĩa, điều kiện)\n                    - external_analysis: phân tích các tác động bên ngoài (kinh tế, xã hội, xu hướng), các thông tin mang tính chất cập nhật từ bên ngoài hệ thống văn bản pháp luật TĨNH. \n                    - comparative_analysis: So sánh, đối chiếu, phân tích xem có xảy ra mâu thuẫn, khác biệt, đánh giá giữa các đối tượng, văn bản, điều khoản cụ thể và nội dung khác đã ban hành hay không\n                    - stats_summary: các yêu cầu về THỐNG KÊ, LIỆT KÊ, TỔNG HỢP các danh sách và / hoặc đếm số lượng văn bản, số quy định, số điều khoản, số tài liệu quy phạm pháp luật thuộc một chủ đề, thời gian, loại văn bản và các đặc điểm nhất định khác.\n                    - document_relationship: [QUAN TRỌNG] Xác định các mối quan hệ GIỮA CÁC VĂN BẢN với nhau, bao gồm:\n                      - Các văn bản hướng dẫn của một văn bản\n                      - Văn bản quy định chi tiết của một văn bản\n                      - Các loại quan hệ: \"căn cứ\", \"bãi bỏ\", \"đình chỉ\", \"đính chính\", \"hướng dẫn\", \"sửa đổi bổ sung\", \"xác định\", \"hợp nhất\", \"dẫn chiếu\", \"thay thế\", \"lịch sử\", \"huỷ bỏ\", liên quan khác, \"quy định chi tiết\"\n                      - Bất kỳ câu hỏi nào về mối quan hệ giữa các văn bản\n                    - document_retrieval: Truy vấn thông tin VỀ MỘT VĂN BẢN CỤ THỂ, như:\n                      - Thông tin chung về toàn văn bản\n                      - Nội dung văn bản\n                      - Số lượng điều khoản\n                      - Thời gian hiệu lực, thời gian ban hành\n                      - Cơ quan ban hành, cơ quan quản lý\n                      - Người ký, trích yếu, số hiệu\n                    - general: Tổng quát về chủ đề pháp luật mà không thuộc các intent phía trên\n                    - chitchat: Không liên quan chủ đề pháp luật\n                    \n                    **Ví dụ phân biệt intent:** \n                    - User: \"văn bản căn cứ Luật 11/2012/QH13\" -> intent: \"document_relationship\"\n                    - User: \"văn bản nào hướng dẫn luật đất đai 2024?\" -> intent: \"document_relationship\"\n                    - User: \"Điều 5 Luật Doanh nghiệp quy định gì?\" -> intent: \"legal_query\"\n                    - User: \"Nghị định 123/2020/NĐ-CP có hiệu lực khi nào?\" -> intent: \"document_retrieval\"\n                    - User: \"Luật đất đai 2024\" -> intent: \"document_retrieval\"\n                    - User: \"so sánh luật đất đai 2024 và 2013\" -> intent: \"comparative_analysis\"\n                    - User: \"liệt kê các thông tư bộ tài chính ban hành trong quý 1 2024\" -> intent: \"stats_summary\"\n                    - User: \"tác động của luật đất đai 2024 đến thị trường bất động sản trong giai đoạn 2025-2030\" -> intent: \"external_analysis\"\n                    - User: \"cảm ơn bạn\" -> intent: \"chitchat\"\n                "
+            },
+            "use_rag": {
+                "type": "boolean",
+                "description": "\n                    Phân tích xem có cần truy vấn thêm thông tin từ hệ thống tìm kiếm hay không.\n\n                    **false** - Không cần khi:\n                    - Người dùng đã cung cấp đủ reference_text để trả lời câu hỏi\n                    - Câu hỏi chỉ cần phân tích trên nội dung có sẵn (giải thích, so sánh trong reference_text)\n                    - Intent: chitchat, general (câu hỏi tổng quát không cần tìm kiếm cụ thể)\n                    - Đã có đầy đủ thông tin từ lịch sử hội thoại\n\n                    **true** - Cần có khi:\n                    - Cần tìm văn bản/điều khoản cụ thể mà người dùng chưa cung cấp\n                    - So sánh giữa nhiều văn bản khác nhau\n                    - Tra cứu thông tin không có trong reference_text\n                    - Tìm kiếm số liệu, thống kê, lịch sử sửa đổi\n                    - Kiểm tra trạng thái hiệu lực, mâu thuẫn giữa các văn bản\n                    - Cần phải tìm kiếm các nội dung văn bản pháp luật đã ban hành để trả lời được câu hỏi của người dùng\n                "
+            },
+            "reference_text": {
+                "type": "string",
+                "description": "\n                    Nội dung văn bản pháp luật người dùng cung cấp kèm câu hỏi. Các trường hợp:\n                    - **Đoạn luật nguyên văn**: Người dùng copy-paste điều/khoản/điểm cụ thể\n                    - **Text trong dấu nháy kép**: Nội dung trong \"\"\"text\"\"\" được tách riêng\n                    - **Văn bản tham chiếu**: Đoạn text làm cơ sở để so sánh, phân tích\n                    - **Ngữ cảnh có sẵn**: Thông tin từ lịch sử hội thoại trước đó\n\n                    Lưu ý:\n                    - Giữ nguyên định dạng và cấu trúc gốc\n                    - Không rút gọn hay tóm tắt nội dung\n                    - Nếu có nhiều đoạn → ghép thành một chuỗi liền mạch\n                    - Để trống (\"\") nếu người dùng không cung cấp reference text\n                    "
+            },
+            "term_position": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                },
+                "description": "Danh sách vị trí điều khoản cụ thể trong cùng một văn bản (ví dụ: ['dieu_16', 'dieu_32'] cho 'điều 16 và 32')"
+            },
+            "ten_van_ban": {
+                "type": "string",
+                "description": "Tên văn bản cụ thể được đề cập trực tiếp trong câu hỏi, không bao gồm số hiệu và các loại văn bản như luật, nghị định, thông tư, nghị quyết, ... Nếu không được đề cập cụ thể, phải để trống"
+            },
+            "tinh_trang_hieu_luc": {
+                "type": "array",
+                "description": "Danh sách tình trạng hiệu lực của văn bản. Nếu không được đề cập chính xác, hãy để trống.",
+                "items": {
+                    "type": "string",
+                    "enum": [
+                        "Còn hiệu lực",
+                        "Còn hiệu lực,Hết hiệu lực một phần",
+                        "Hết hiệu lực toàn bộ",
+                        "Ngưng hiệu lực",
+                        "Ngưng hiệu lực một phần",
+                        "Không còn phù hợp"
+                    ]
+                }
+            },
+            "loai_van_ban": {
+                "type": "array",
+                "description": "\n                    Danh sách các loại văn bản quy phạm pháp luật cần tìm kiếm.\n                    Nếu không được đề cập chính xác loại văn bản, hãy để trống.\n                    Nếu đề cập văn bản luật nói chung, thì là loại văn bản 'Luật, Bộ luật'.\n                    Nếu ghi rõ là \"Bộ luật\" thì chỉ chọn \"Bộ luật\"\n                    Nếu nói chung là văn bản quy phạm pháp luật thì để trống.\n\n                    Ví dụ:\n                    - \"Các thông tư ban hành quý 2 năm 2023\" -> \"Thông tư\"\n                    - \"Có bao nhiêu nghị định được ban hành năm 2025\" -> \"Nghị định\"\n                    - \"Liệt kê các văn bản luật về đất đai\" -> \"Luật, Bộ luật\"\n                    - \"Danh sách các văn bản Bộ luật ban hành năm 2022\" -> \"Bộ luật\"\n                    - \"Liệt kê các văn bản Hiến pháp từ trước đến nay\" -> \"Hiến pháp\"\n                ",
+                "items": {
+                    "type": "string",
+                    "enum": [
+                        "Quyết định",
+                        "Thông tư",
+                        "Nghị quyết",
+                        "Nghị định",
+                        "Thông tư liên tịch",
+                        "Luật,Bộ luật",
+                        "Văn bản hợp nhất",
+                        "Pháp lệnh",
+                        "Công văn",
+                        "Nghị quyết liên tịch",
+                        "Chỉ thị",
+                        "Văn bản khác",
+                        "Lệnh",
+                        "Hiến pháp",
+                        "Văn bản liên quan",
+                        "Thông báo",
+                        "Chương trình",
+                        "Sắc lệnh",
+                        "Thông tư liên bộ",
+                        "Hiệp định",
+                        "Công điện",
+                        "Báo cáo",
+                        "Điều ước quốc tế",
+                        "Hướng dẫn",
+                        "Kế hoạch",
+                        "Dự thảo",
+                        "Bộ luật"
+                    ]
+                }
+            },
+            "co_quan_ban_hanh": {
+                "type": "string",
+                "enum": [
+                    "Quốc hội",
+                    "Ủy ban thường vụ",
+                    "Ủy ban thường vụ Quốc hội",
+                    "Đoàn Chủ tịch",
+                    "Ủy ban Trung ương",
+                    "Mặt trận Tổ quốc",
+                    "Mặt trận Tổ quốc Việt Nam",
+                    "Chính phủ",
+                    "Chủ tịch nước",
+                    "Thủ tướng",
+                    "Thủ tướng Chính phủ",
+                    "Hội đồng thẩm phán Tòa án nhân dân Tối cao",
+                    "Hội đồng thẩm phán",
+                    "Tòa án nhân dân Tối cao",
+                    "Viện kiểm sát nhân dân",
+                    "Viện kiểm sát",
+                    "Viện kiểm sát nhân dân Tối cao",
+                    "Tổng kiểm toán",
+                    "Tổng kiểm toán Nhà nước",
+                    "Bộ, cơ quan ngang Bộ",
+                    "Bộ Quốc phòng",
+                    "Bộ Công an",
+                    "Bộ Ngoại giao",
+                    "Bộ Tư pháp",
+                    "Bộ Tài chính",
+                    "Bộ Công thương",
+                    "Bộ Lao động - Thương binh và Xã hội",
+                    "Bộ Giao thông vận tải",
+                    "Bộ Xây dựng",
+                    "Bộ Thông tin và Truyền thông",
+                    "Bộ Giáo dục và Đào tạo",
+                    "Bộ Nông nghiệp và Phát triển nông thôn",
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Bộ Nội vụ",
+                    "Bộ Y tế",
+                    "Bộ Khoa học và Công nghệ",
+                    "Bộ Văn hóa, Thể thao và Du lịch",
+                    "Bộ Tài nguyên và Môi trường",
+                    "Văn phòng Chính phủ",
+                    "Thanh tra Chính phủ",
+                    "Ngân hàng Nhà nước",
+                    "Ủy ban Dân tộc",
+                    "Hội đồng nhân dân",
+                    "Ủy ban nhân dân",
+                    "Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam"
+                ],
+                "description": "\n                    Tên cơ quan ban hành được đề cập tới. Nếu không được đề cập rõ ràng và cụ thể, hãy để trống.\n                    Ví dụ: \n                    - \"Các văn bản do Bộ Tư pháp ban hành\" → \"Bộ Tư pháp\"\n                    - \"Danh sách các văn bản quy phạm pháp luật được Chính phủ ban hành\" → \"Chính phủ\"\n                "
+            },
+            "ngay_ban_hanh_start": {
+                "type": "string",
+                "description": "\n                    Ngày ban hành mốc bắt đầu theo format yyyy-mm-dd, ví dụ: \"2025-10-16\".\n                    Nếu câu hỏi nhắc tới \"ban hành đến...\", \"ban hành trước...\" → thì đây là ngày ban hành\n                    Để trống nếu không có thông tin về mốc bắt đầu.\n\n                    Ví dụ chuyển đổi từ câu hỏi người dùng:\n                    - \"Các văn bản thông tư liên quan đến đất đai được ban hành trong quý 2 năm 2025\" → \"2025-04-01\"\n                    - \"có bao nhiêu văn bản nghị định được ban hành trong 2 năm 2023 và 2024\" → \"2023-01-01\"\n                    - \"các văn bản ban hành trước tháng 8/2024\" → \"\" (không có mốc bắt đầu)\n                    - \"có văn bản nào ban hành thời điểm sau 9/2020 không?\" → \"2020-09-01\"\n                "
+            },
+            "ngay_ban_hanh_end": {
+                "type": "string",
+                "description": "\n                    Ngày ban hành mốc kết thúc theo format yyyy-mm-dd, ví dụ: \"2025-10-26\".\n                    Nếu câu hỏi nhắc tới \"ban hành đến...\", \"ban hành trước...\" → thì đây là ngày ban hành\n                    Để trống nếu không có thông tin về mốc kết thúc.\n\n                    Ví dụ chuyển đổi từ câu hỏi người dùng:\n                    - \"Các văn bản thông tư liên quan đến đất đai được ban hành trong quý 2 năm 2025\" → \"2025-06-30\"\n                    - \"có bao nhiêu văn bản nghị định được ban hành trong 2 năm 2023 và 2024\" → \"2024-12-31\"\n                    - \"các văn bản ban hành trước tháng 8/2024\" → \"2024-08-01\"\n                    - \"có văn bản nào ban hành thời điểm sau 9/2020 không?\" → \"\" (không có mốc kết thúc)\n                "
+            },
+            "ngay_co_hieu_luc_start": {
+                "type": "string",
+                "description": "\n                    Ngày có hiệu lực thi hành mốc bắt đầu theo format yyyy-mm-dd, ví dụ: \"2025-10-16\".\n                    Nếu câu hỏi nhắc tới \"có hiệu lực thi hành từ...\", \"có hiệu lực từ...\" → thì đây là ngày có hiệu lực\n                    Để trống nếu không có thông tin về mốc bắt đầu.\n                "
+            },
+            "ngay_co_hieu_luc_end": {
+                "type": "string",
+                "description": "\n                    Ngày có hiệu lực thi hành mốc kết thúc theo format yyyy-mm-dd, ví dụ: \"2025-10-26\".\n                    Nếu câu hỏi nhắc tới \"có hiệu lực thi hành từ...\", \"có hiệu lực từ...\" → thì đây là ngày có hiệu lực\n                    Để trống nếu không có thông tin về mốc kết thúc.\n                "
+            },
+            "loai_hinh_van_ban": {
+                "type": "string",
+                "enum": [
+                    "văn bản quy phạm",
+                    "văn bản hành chính",
+                    ""
+                ],
+                "description": "\n                    Tên loại hình văn bản được nhắc tới chính xác trong câu hỏi.\n                    Nếu không được đề cập rõ ràng hãy bỏ trống.\n                    Ví dụ:\n                    - \"Danh sách các văn bản quy phạm pháp luật do Quốc hội ban hành năm 2021\" -> \"văn bản quy phạm\"\n                    - \"Các công văn hành chính của Bộ Tài chính về thuế thu nhập cá nhân\" -> \"văn bản hành chính\"\n                    - \"Liệt kê các vbqppl do chính phủ ban hành quý 2 năm 2024\" -> \"văn bản quy phạm\"\n                    - \"Số lượng các văn bản luật do chính phủ ban hành năm 2020\" -> \"\" (bỏ trống)\n                "
+            },
+            "query": {
+                "type": "string",
+                "description": "\n                    Từ khóa tìm kiếm trong cơ sở dữ liệu bên trong (INTERNAL DATABASE) được viết lại ngắn gọn, rõ ràng. \n                    Mục tiêu chính: Sử dụng từ khóa trong các hệ thống tìm kiếm dựa trên từ khóa (keyword-based search) - Elastic Search để truy xuất văn bản pháp luật liên quan.\n                    Yêu cầu:\n                    • Chỉ gồm từ khoá nội dung chính, loại bỏ các thông tin chung về loại văn bản, tình trạng hiệu lực, cơ quan ban hành (những giá trị này phải nằm trong các parameter khác tương ứng nếu có).\n                    • Chuyển đổi từ đời thường sang thuật ngữ pháp luật.\n                    • GIỮ NGUYÊN đầy đủ thông tin định vị (điều, khoản, điểm) và số hiệu văn bản đầy đủ để tìm chính xác nội dung cần trích.\n                    • TUYỆT ĐỐI KHÔNG được chuyển mã hiệu văn bản đầy đủ thành dạng viết tắt (ví dụ: KHÔNG được chuyển \"120/2025/NĐ-CP\" thành \"văn bản 120\" hoặc \"NĐ 120\").\n                    • Viết thường, GIỮ NGUYÊN DẤU của tiếng Việt, tuyệt đối không bỏ dấu hoặc chuyển sang không dấu. (ví dụ: KHÔNG được chuyển từ \"luật đất đai\" thành \"luat dat dai\")\n                    • Nếu input có đoạn luật nguyên văn và câu hỏi của người dùng → hãy tách riêng câu hỏi vào query và đoạn luật vào reference_text\n                    • Nếu có \"\"\"text\"\"\" → text trong nháy kép vào reference_text  \n                    • Nếu câu hỏi tham chiếu tới Danh sách tài liệu đính kèm và không chứa các từ khoá cụ thể thì để trống query \"\".\n                    • Khi người dùng yêu cầu hỏi đáp, phân tích, tìm kiếm mà chỉ đích danh như \"tóm tắt văn bản này\", \"so sánh hai văn bản này\", \"phân tích văn bản này\" . Chỉ lấy từ khóa có giá trị tìm kiếm, ví dụ \"chỉ định thầu\" nếu có, hoặc để trống \"\" nếu không có từ khóa cụ thể. KHÔNG bao gồm các từ mang tính hành động như \"tóm tắt\", \"tổng hợp\", \"đánh giá\", \"báo cáo\", \"so sánh\"\n                    • Khi người dùng yêu cầu thống kê các văn bản được ban hành, có hiệu lực, trong khoảng thời gian nhất định mà không bao gồm mô tả thêm về chủ đề cụ thể thì đề rỗng query, ví dụ \"các văn bản thông tư ban hành vào quý 2 năm 2023\" -> query \"thông tư\", \"các văn bản ban hành vào tháng 6/2025\" -> query \"văn bản\", \"các văn bản thông tư về quy định đầu tư công ban hành vào quý 2 năm 2023\" -> query \"đầu tư công\"\n                    • Không đề cập chính xác ngày tháng ban hành hay có hiệu lực, chỉ đề cập mức năm như 2025, 2024\n                    • Không bao gồm các thông tin về thời gian cụ thể. Ví dụ: \"danh sách luật ban hành quý 2 năm 2023\" → query: \"\" (loại bỏ \"quý 2 năm 2023\"), \"các thông tư có hiệu lực thi hành từ ngày 01/01/2023 đến 31/12/2023\" → query: \"\" (loại bỏ \"từ ngày 01/01/2023 đến 31/12/2023\")\n\n\n                    • Loại bỏ các từ rỗng: \"quy định\", \"về\", \"của\", \"trong\", \"là\", \"liên quan\", \"văn bản thứ nhất/hai/ba\".\n                    • Loại bỏ các tính từ mang tính trừu tượng thời gian như \"mới\", \"cũ\", \"hiện tại\", \"hiện hành\", \"gần đây\", \"cập nhật\", \"mới nhất\", \"tạm thời\", \"tương lai\", \"sắp tới\", \"đang có hiệu lực\", \"đã ban hành gần đây\".\n                    • Loại bỏ các từ chỉ mức độ không xác định như \"nhiều\", \"ít\", \"nhanh\", \"chậm\", \"cao\", \"thấp\", \"văn bản liên quan\" khi không có ngữ cảnh cụ thể.\n                    • Loại bỏ các từ chỉ đặc trưng như \"khái niệm\", \"tính chất\", \"đặc điểm\", \"định nghĩa\" \n                    • Loại bỏ các từ chỉ sự hiện diện, tồn tại: \"có\", \"không có\", \"bao gồm\", \"thuộc về\", \"là\"\n                    • Loại bỏ các từ chỉ số lượng không cụ thể: \"một số\", \"tất cả\", \"các\", \"mọi\"\n                    • Loại bỏ các từ chỉ quan hệ: \"giống như\", \"khác với\", \"so với\", \"tương tự\", \"liên hệ\", \"gắn với\".\n                    • Loại bỏ các đại từ, chỉ từ không xác định: \"này\", \"kia\", \"ấy\", \"đó\", \"nọ\", \"các\", \"những\", \"một số\", \"mọi\".\n                    • Loại bỏ các từ nối, quan hệ logic không mang nghĩa tìm kiếm: \"và\", \"hoặc\", \"nhưng\", \"nếu\", \"thì\", \"khi\", \"để\", \"bởi vì\", \"do\", \"vì\", \"nên\".\n                    • Loại bỏ các từ chỉ số thứ tự, định lượng chung chung: \"thứ nhất\", \"thứ hai\", \"một\", \"hai\", \"ba\", \"vài\", \"một vài\".\n                    • Loại bỏ các từ mang tính cảm tính hoặc mơ hồ: \"quan trọng\", \"cơ bản\", \"toàn bộ\", \"tổng thể\", \"chung\", \"chi tiết\", \"đầy đủ\".\n                    • Loại bỏ các từ mang tính loại hình văn bản: \"văn bản quy phạm\", \"văn bản hành chính\".\n                    • Loại bỏ các từ thể hiện quan hệ giữa các văn bản: \"căn cứ\", \"bãi bỏ\", \"đình chỉ\", \"đính chính\", \"hủy bỏ\", \"thay thế\", \"dẫn chiếu\", \"hướng dẫn\", \"sửa đổi\", \"bổ sung\", \"hợp nhất\", ...\n\n                    Ví dụ:\n                    - \"luật đấu thầu mới\" → \"luật đấu thầu\"\n                    - \"quy định mới về thuế\" → \"quy định thuế\"\n                    - \"thủ tục hiện tại\" → \"thủ tục\"\n                    - \"mức phạt mới nhất\" → \"mức phạt\"\n                    - \"Trích nội dung Điều 5 của Nghị định 123/2020/NĐ-CP\" → \"Điều 5 Nghị định 123/2020/NĐ-CP\"\n                    - \"văn bản 120/2025/NĐ-CP quy định gì\" → \"văn bản 120/2025/NĐ-CP\" (GIỮ NGUYÊN mã hiệu đầy đủ)\n                    - \"tìm Nghị định 120/2025/NĐ-CP\" → \"Nghị định 120/2025/NĐ-CP\" (KHÔNG rút gọn thành \"NĐ 120\")\n                    - \"luật căn cước 2023 có hiệu lực khi nào\" (intent: document_retrieval) → \"luật căn cước 2023\"\n                    - \"hiệu lực luật căn cước 2023\" (intent: document_retrieval) → \"luật căn cước 2023\"\n                    - \"Các nghị định và thông tư liên quan đến ban chỉ huy quân sự cấp xã\" → \"ban chỉ huy quân sự cấp xã\"\n                    - \"so sánh chỉ định thầu giữa các văn bản này\" → \"chỉ định thầu\"\n                    - \"khái niệm người thừa kế trong luật hôn nhân và gia đình\" → \"người thừa kế luật hôn nhân và gia đình\"\n                    - \"tóm tắt văn bản này\" → \"\"\n                    - \"thống kê các văn bản qppl về giao thông được ban hành bởi ubnd tỉnh quảng ninh vào năm 2025\" → \"giao thông ubnd tỉnh quảng ninh 2025\"\n                    - \"các văn bản thông tư ban hành vào quý 2 năm 2023\" → \"\"\n                    - \"các văn bản luật có hiệu lực từ tháng 6/2025\" -> \"\"\n                    - \"các văn bản quy phạm pháp luật trong lĩnh vực giao thông do ubnd tỉnh sơn la ban hành năm 2025\" → \"giao thông của ubnd tỉnh sơn la 2025\"\n                    - \"tìm các văn bản luật, nghị định, thông tư liên quan đến nội dung trên. Hãy kiểm tra xem có mâu thuẫn hay chồng chéo về thẩm quyền và nội dung không?\" → \"giao thông của ubnd tỉnh sơn la 2025\"\n                    - \"các văn bản sáng kiến do UNBND ban hành\" -> \"sáng kiến\" (intent: stats_summary)\n                    - \"Văn bản dẫn chiếu Luật Doanh nghiệp là gì?\" -> \"Luật Doanh nghiệp\"\n                    - \"các thông tư có hiệu lực thi hành từ ngày 01/01/2023 đến 31/12/2023\" → \"\" (loại bỏ \"từ ngày 01/01/2023 đến 31/12/2023\")\n                    - \"Đánh giá mức độ phù hợp của Luật Doanh nghiệp 2020 với tình hình phát triển kinh tế số, đổi mới sáng tạo và khởi nghiệp công nghệ trong giai đoạn 2025–2030.\" -> \"Luật Doanh nghiệp 2020\" (Giải thích: Tình hình phát triển kinh tế số, đổi mới sáng tạo và khởi nghiệp công nghệ trong giai đoạn 2025–2030 là thông tin bên ngoài cần tìm kiếm thêm thông qua query_external_search chứ không phải là từ khóa trong nội dung văn bản luật -> không đưa vào query)\n                "
+            },
+            "retrieve_level": {
+                "type": "string",
+                "enum": [
+                    "document",
+                    "term"
+                ],
+                "description": "\n                    Cấp độ tìm kiếm cho sub_query cụ thể:\n                    - 'term': Tìm kiếm điều khoản cụ thể hoặc vấn đề/chủ đề cụ thể trong văn bản\n                    → Dùng khi có term_position hoặc cần thông tin chi tiết\n                    → Dùng khi tìm kiếm vấn đề/chủ đề cụ thể trong văn bản, các cụm từ tìm kiếm chung chung (ví dụ: \"chỉ định thầu luật...\", \"có liên quan đến...\")\n                    → Dùng khi cần tìm nội dung cụ thể trong văn bản mà không biết chính xác điều/khoản\n                    → Dùng khi cần đếm số lượng điều khoản của văn bản\n                    - 'document': Tìm kiếm toàn văn bản  \n                    → Dùng khi cần hiểu tổng quan về toàn bộ văn bản như tóm tắt, tổng hợp, quan hệ giữa các văn bản (intent = 'document_relationship' -> retrieve_level = 'document')\n                    → Dùng khi cần toàn bộ nội dung văn bản\n\n                    Logic chọn:\n                    - Có term_position → 'term'\n                    - Tìm kiếm vấn đề/chủ đề cụ thể trong văn bản → 'term'\n                    - Câu hỏi về một khái niệm/vấn đề cụ thể → 'term'\n                    - Câu hỏi tổng quát về toàn bộ văn bản như tóm tắt, tổng hợp → 'document'\n                    - Cần thông tin chi tiết → 'term'\n                    - Cần bối cảnh rộng → 'document'\n                "
+            },
+            "query_external_search": {
+                "type": "string",
+                "description": "\n                    Mục tiêu chính: Query được sử dụng để tìm kiếm thông tin trên các công cụ tìm kiếm bên ngoài (như Google) nhằm bổ sung, cập nhật thông tin mới nhất, dữ liệu thống kê, xu hướng xã hội, kinh tế liên quan đến câu hỏi của người dùng.\n\n                    Các thông tin như thời gian, địa điểm, số liệu cụ thể cần được đưa vào query để đảm bảo tính cập nhật.\n                    \n                    Chỉ sử dụng khi intent là \"external_analysis\" và cần thông tin bên ngoài (ví dụ: tình hình kinh tế xã hội, ...).\n\n                    Khi intent khác \"external_analysis\", để trống (\"\").\n\n                    Ví dụ:\n                    - Khi câu hỏi là \"phân tích điều 5 dự thảo luật công nghệ thông tin có phù hợp với tình hình kinh tế xã hội năm 2025 không?\" \n                      → query_external_search: \"tình hình kinh tế xã hội việt nam 2025\" (Giải thích: Loại bỏ \"phân tích điều 5 dự thảo luật công nghệ thông tin\" vì đây là nội dung trong văn bản được tìm kiếm bằng query trong cơ sở dữ liệu bên trong, không phải thông tin bên ngoài cần tìm kiếm)\n                    - Khi câu hỏi là \"đánh giá tác động của luật đất đai 2024 đến thị trường bất động sản\"\n                      → query_external_search: \"thị trường bất động sản hiện nay\" (GIải thích: Loại bỏ \"đánh giá tác động của luật đất đai 2024\" vì đây là nội dung trong văn bản được tìm kiếm bằng query trong cơ sở dữ liệu bên trong, không phải thông tin bên ngoài cần tìm kiếm)\n\n                "
+            },
+            "need_subquery": {
+                "type": "boolean",
+                "description": "\n                Xác định câu hỏi có cần phân tách thành nhiều truy vấn vào **NGUỒN THÔNG TIN BÊN TRONG (INTERNAL DATABASE)** nhỏ hơn để xử lý hay không.\n                **Lưu ý**: query_external_search không được tính là sub_query vì nó dùng để tìm kiếm ở **NGUỒN THÔNG TIN BÊN NGOÀI (EXTERNAL WEB SEARCH)**. Do đó, nếu chỉ có 1 query_external_search và 1 query thì need_subquery = FALSE\n                Đặt TRUE khi:\n                - Câu hỏi chứa nhiều chủ đề khác biệt (ví dụ: \"khái niệm A, thủ tục B, mức phạt C\")\n                - Có từ nối: \"và\", \"cùng với\", \"ngoài ra\", \"đồng thời\", \"bên cạnh đó\"\n                - Câu hỏi phức tạp cần phân tích nhiều góc độ với nhiều ý chính riêng biệt.   \n                Đặt FALSE khi:\n                - Câu hỏi đơn giản, tập trung vào 1 chủ đề\n                - Câu hỏi ngắn, rõ ràng, không cần chia nhỏ     \n                Ví dụ TRUE: \"Tôi muốn biết khái niệm doanh nghiệp xã hội, thủ tục thành lập và các ưu đãi thuế được hưởng\"\n                Ví dụ FALSE: \"Điều 5 Luật Doanh nghiệp quy định gì về điều kiện thành lập công ty?\"\n                Ví dụ FALSE: \"Phân tích tác động của Luật Đất đai 2024 đến thị trường bất động sản hiện nay\" (Vì chỉ cần một query \"Luật Đất đai 2024\" và một query_external_search \"tác động luật đất đai 2024 thị trường bất động sản\", mà do query_external_search không tính là sub_query nên need_subquery = FALSE)\n                "
+            }
+        },
+        "required": [
+            "intent",
+            "query",
+            "use_rag",
+            "need_subquery",
+            "reference_text",
+            "retrieve_level",
+            "tinh_trang_hieu_luc",
+            "loai_van_ban",
+            "ten_van_ban",
+            "use_memory",
+            "query_external_search",
+            "ngay_ban_hanh_start",
+            "ngay_ban_hanh_end",
+            "ngay_co_hieu_luc_start",
+            "ngay_co_hieu_luc_end"
+        ]
+    }
+}

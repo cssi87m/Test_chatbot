@@ -1,0 +1,59 @@
+{
+  "timestamp": 1764650723.1784375,
+  "conversation_id": "\"8c18f95b-eefc-4b93-8d49-b3acd0088725\"",
+  "workspace_id": "90602b2d-1d93-4478-8611-ea20b3760db2",
+  "query_params": {
+    "use_memory": false,
+    "intent": "chitchat",
+    "query": "",
+    "reference_text": "",
+    "term_position": [],
+    "ten_van_ban": "",
+    "so_hieu": "",
+    "tinh_trang_hieu_luc": [],
+    "loai_van_ban": [],
+    "co_quan_ban_hanh": "",
+    "ngay_ban_hanh_start": "",
+    "ngay_bany_hanh_end": "",
+    "ngay_co_hieu_luc_start": "",
+    "ngay_co_hieu_luc_end": "",
+    "loai_hinh_van_ban": "văn bản quy phạm",
+    "retrieve_level": "document",
+    "query_external_search": "",
+    "need_subquery": false,
+    "use_rag": true,
+    "_metadata": {
+      "extraction_method": "pipeline",
+      "has_selection_text": false,
+      "has_conversation_history": false,
+      "timestamp": "2025-12-02T11:45:21.752610"
+    }
+  },
+  "request_params": {
+    "selection_text": null,
+    "selected_save_files": [],
+    "selected_upload_files": [],
+    "use_law_database": true,
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bạn có thích chụp ảnh không?"
+      }
+    ],
+    "current_user_message": "Bạn có thích chụp ảnh không?",
+    "previous_user_message": "",
+    "previous_assistant_message": "",
+    "random_uuid": "6267e0d7-8a34-4d1c-96c1-0621639cdbff"
+  },
+  "contexts": {
+    "context": "",
+    "retrieve_results": [],
+    "uploaded_docs_results": [],
+    "law_database_results": []
+  },
+  "response": {
+    "type": "streaming",
+    "content": "<answer>##### Trả lời:  \nTôi là trợ lý ảo và không có khả năng cảm nhận hay sở thích cá nhân, do đó tôi không có khả thích hay không thích chụp ảnh.\n\n##### Tóm tắt:  \nTôi không có cảm xúc hay sở thích cá nhân vì là một chương trình máy tính.\n\n##### Chi tiết:  \nLà một trợ lý ảo được lập trình để hỗ trợ tra cứu và cung cấp thông tin pháp luật, tôi không có khả năng cảm nhận hay sở thích cá nhân như con người. Mục tiêu của tôi là cung cấp câu trả lời chính xác và chi tiết dựa trên các văn bản pháp luật được cung cấp, không liên quan đến các sở thích cá nhân.\n\n##### Căn cứ pháp lý:  \nVăn bản được cung cấp không đề cập đến vấn đề này.</answer> ",
+    "chunks_count": 169
+  }
+}

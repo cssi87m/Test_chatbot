@@ -1,0 +1,1687 @@
+[
+    {
+        "id": 22693,
+        "cau_hoi": "Có bao nhiêu nguyên tắc cơ bản của hoạt động thống kê và sử dụng dữ liệu, thông tin thống kê?",
+        "tra_loi": "Căn cứ theo quy định tại Điều 5 Luật Thống kê 2015, các nguyên tắc cơ bản của hoạt động thống kê và sử dụng dữ liệu, thông tin thống kê đó là:\n- Nguyên tắc cơ bản của hoạt động thống kê nhà nước gồm:\n+ Trung thực, khách quan, chính xác, đầy đủ, kịp thời;\n+ Độc lập về chuyên môn, nghiệp vụ thống kê;\n+ Thống nhất về nghiệp vụ, không trùng lặp, không chồng chéo;\n+ Công khai, minh bạch;\n+ Có tính so sánh.\n- Nguyên tắc cơ bản của hoạt động thống kê ngoài thống kê nhà nước gồm:\n+ Trung thực, khách quan, chính xác, đầy đủ, kịp thời;\n+ Độc lập về chuyên môn, nghiệp vụ thống kê;\n+ Thống nhất về nghiệp vụ, không trùng lặp, không chồng chéo;\n+ Tự nguyện, tự chịu trách nhiệm;\n+ Không xâm phạm lợi ích quốc gia, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.\n- Nguyên tắc cơ bản của sử dụng dữ liệu và thông tin thống kê gồm:\n+ Trích dẫn nguồn dữ liệu, thông tin thống kê khi sử dụng;\n+ Bình đẳng trong tiếp cận và sử dụng dữ liệu, thông tin thống kê nhà nước đã được công bố;\n+ Bảo mật dữ liệu, thông tin thống kê theo quy định của pháp luật.",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "89/2015/QH13",
+                "khoan": "",
+                "dieu": "5",
+                "trich_yeu": "Luật Thống kê 2015",
+                "noi_dung_kem_trich_dan": "Căn cứ theo quy định tại Điều 5 Luật Thống kê 2015, các nguyên tắc cơ bản của hoạt động thống kê và sử dụng dữ liệu, thông tin thống kê đó là:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 95927,
+                "position": "Điều 5 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Nguyên tắc cơ bản của hoạt động thống kê và sử dụng dữ liệu, thông tin thống kê",
+                "so_hieu": "89/2015/QH13",
+                "trich_yeu": "Thống kê 2015",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.01639344262295082
+            },
+            {
+                "index": 9,
+                "id": "dieu_10",
+                "id_document": 95927,
+                "position": "Điều 10 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Các hành vi bị nghiêm cấm trong hoạt động thống kê và sử dụng thông tin thống kê",
+                "so_hieu": "89/2015/QH13",
+                "trich_yeu": "Thống kê 2015",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.013113317757009345
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 95927,
+                "position": "Điều 1 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Phạm vi điều chỉnh Luật này quy định về hoạt động thống kê, sử dụng thông tin thống kê nhà nước; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, cá nhân trong hoạt động thống kê, sử dụng thông tin thống kê nhà nước; tổ chức thống kê nhà nước và hoạt động thống kê, sử dụng thông tin thống kê ngoài thống kê nhà nước.",
+                "so_hieu": "89/2015/QH13",
+                "trich_yeu": "Thống kê 2015",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012783925451368666
+            },
+            {
+                "index": 35,
+                "id": "dieu_36",
+                "id_document": 95927,
+                "position": "Điều 36 / Mục 2 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Sử dụng dữ liệu hành chính cho hoạt động thống kê nhà nước",
+                "so_hieu": "89/2015/QH13",
+                "trich_yeu": "Thống kê 2015",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012342941611234294
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 95927,
+                "position": "Điều 4 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Mục đích của hoạt động thống kê",
+                "so_hieu": "89/2015/QH13",
+                "trich_yeu": "Thống kê 2015",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012216828478964402
+            },
+            {
+                "index": 54,
+                "id": "dieu_55",
+                "id_document": 95927,
+                "position": "Điều 55 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Quyền và nghĩa vụ của cơ quan, tổ chức, cá nhân trong việc sử dụng cơ sở dữ liệu thống kê",
+                "so_hieu": "89/2015/QH13",
+                "trich_yeu": "Thống kê 2015",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011896400351185249
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 133032,
+                "position": "Điều 4 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Nguyên tắc cơ bản trong hoạt động đo đạc và bản đồ",
+                "so_hieu": "27/2018/QH14",
+                "trich_yeu": "Đo đạc và Bản đồ 2018",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Văn hóa - Thể thao và Du lịch",
+                    "Bộ Tài nguyên và Môi trường"
+                ],
+                "linh_vuc": "Tài nguyên - Môi trường",
+                "score": 0.011805463024650232
+            },
+            {
+                "index": 2,
+                "id": "dieu_3",
+                "id_document": 95927,
+                "position": "Điều 3 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Giải thích từ ngữ Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                "so_hieu": "89/2015/QH13",
+                "trich_yeu": "Thống kê 2015",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011713776419658772
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 152571,
+                "position": "Điều 1",
+                "dia_danh": "Trung ương",
+                "title": "Sửa đổi, bổ sung một số điều và Phụ lục Danh mục chỉ tiêu thống kê quốc gia của Luật Thống kê",
+                "so_hieu": "01/2021/QH15",
+                "trich_yeu": "Thống kê sửa đổi 2021",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.01145904553534801
+            },
+            {
+                "index": 36,
+                "id": "dieu_37",
+                "id_document": 95927,
+                "position": "Điều 37 / Mục 2 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Cung cấp dữ liệu trong cơ sở dữ liệu cho hoạt động thống kê nhà nước",
+                "so_hieu": "89/2015/QH13",
+                "trich_yeu": "Thống kê 2015",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011444984533804683
+            },
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 26750,
+                "position": "Điều 8",
+                "dia_danh": "Trung ương",
+                "title": "Nguyên tắc hoạt động kiểm toán độc lập",
+                "so_hieu": "67/2011/QH12",
+                "trich_yeu": "Kiểm toán độc lập 2011",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tài chính"
+                ],
+                "linh_vuc": "Kế toán - Kiểm toán",
+                "score": 0.01125
+            },
+            {
+                "index": 52,
+                "id": "dieu_53",
+                "id_document": 95927,
+                "position": "Điều 53 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Sử dụng cơ sở dữ liệu thống kê do cơ quan thống kê trung ương quản lý",
+                "so_hieu": "89/2015/QH13",
+                "trich_yeu": "Thống kê 2015",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010985074626865671
+            },
+            {
+                "index": 55,
+                "id": "dieu_56",
+                "id_document": 95927,
+                "position": "Điều 56 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Sử dụng thông tin thống kê nhà nước",
+                "so_hieu": "89/2015/QH13",
+                "trich_yeu": "Thống kê 2015",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010814444871302342
+            },
+            {
+                "index": 10,
+                "id": "dieu_11",
+                "id_document": 163515,
+                "position": "Điều 11 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Cơ sở dữ liệu về hoạt động kinh doanh bảo hiểm",
+                "so_hieu": "08/2022/QH15",
+                "trich_yeu": "Kinh doanh bảo hiểm 2022",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bảo hiểm",
+                "score": 0.010694444444444444
+            },
+            {
+                "index": 55,
+                "id": "dieu_56",
+                "id_document": 177815,
+                "position": "Điều 56 / Mục 3 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Nguyên tắc thống kê, kiểm kê đất đai",
+                "so_hieu": "31/2024/QH15",
+                "trich_yeu": "Đất đai 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tài nguyên và Môi trường",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.01060747663551402
+            },
+            {
+                "index": 57,
+                "id": "dieu_58",
+                "id_document": 95927,
+                "position": "Điều 58 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Quyền và nghĩa vụ của cơ quan, tổ chức, cá nhân trong việc sử dụng số liệu, thông tin thống kê nhà nước",
+                "so_hieu": "89/2015/QH13",
+                "trich_yeu": "Thống kê 2015",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010194771012458326
+            },
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 174877,
+                "position": "Điều 5 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Nguyên tắc xây dựng, phát triển, bảo vệ, quản trị, xử lý, sử dụng dữ liệu",
+                "so_hieu": "60/2024/QH15",
+                "trich_yeu": "Dữ liệu năm 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Công an",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010112837981690442
+            },
+            {
+                "index": 53,
+                "id": "dieu_54",
+                "id_document": 95927,
+                "position": "Điều 54 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ và quyền hạn của cơ quan thống kê trung ương trong quản lý, sử dụng cơ sở dữ liệu thống kê",
+                "so_hieu": "89/2015/QH13",
+                "trich_yeu": "Thống kê 2015",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.009781144781144781
+            },
+            {
+                "index": 57,
+                "id": "dieu_58",
+                "id_document": 177815,
+                "position": "Điều 58 / Mục 3 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Chỉ tiêu, nội dung, hoạt động thống kê, kiểm kê đất đai",
+                "so_hieu": "31/2024/QH15",
+                "trich_yeu": "Đất đai 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tài nguyên và Môi trường",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bất động sản",
+                "score": 0.009750791139240506
+            },
+            {
+                "index": 8,
+                "id": "dieu_9",
+                "id_document": 137284,
+                "position": "Điều 9 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Nguyên tắc công khai, minh bạch",
+                "so_hieu": "36/2018/QH14",
+                "trich_yeu": "Phòng chống tham nhũng năm 2018",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.009719992866060281
+            }
+        ]
+    },
+    {
+        "id": 30581,
+        "cau_hoi": "Con dưới 36 tháng tuổi có được giao cho cha nuôi dưỡng sau ly hôn không?",
+        "tra_loi": "Căn cứ khoản 3 Điều 81 Luật Luật Hôn nhân và gia đình 2014 quy định việc trông nom, chăm sóc, nuôi dưỡng, giáo dục con sau khi ly hôn cụ thể:\nĐiều 81. Việc trông nom, chăm sóc, nuôi dưỡng, giáo dục con sau khi ly hôn\n1. Sau khi ly hôn, cha mẹ vẫn có quyền, nghĩa vụ trông nom, chăm sóc, nuôi dưỡng, giáo dục con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình theo quy định của Luật này, Bộ luật dân sự và các luật khác có liên quan.\n2. Vợ, chồng thỏa thuận về người trực tiếp nuôi con, nghĩa vụ, quyền của mỗi bên sau khi ly hôn đối với con; trường hợp không thỏa thuận được thì Tòa án quyết định giao con cho một bên trực tiếp nuôi căn cứ vào quyền lợi về mọi mặt của con; nếu con từ đủ 07 tuổi trở lên thì phải xem xét nguyện vọng của con.\n3. Con dưới 36 tháng tuổi được giao cho mẹ trực tiếp nuôi, trừ trường hợp người mẹ không đủ điều kiện để trực tiếp trông nom, chăm sóc, nuôi dưỡng, giáo dục con hoặc cha mẹ có thỏa thuận khác phù hợp với lợi ích của con.\nNhư vậy, con dưới 36 tháng tuổi vẫn có thể được giao cho cha nuôi dưỡng sau ly hôn trong trường hợp người mẹ không đủ điều kiện để trực tiếp trông nom, chăm sóc, nuôi dưỡng, giáo dục con hoặc cha mẹ có thỏa thuận khác phù hợp với lợi ích của con.",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "52/2014/QH13",
+                "khoan": "3",
+                "dieu": "81",
+                "trich_yeu": "Luật Luật Hôn nhân và gia đình 2014",
+                "noi_dung_kem_trich_dan": "Căn cứ khoản 3 Điều 81 Luật Luật Hôn nhân và gia đình 2014 quy định việc trông nom, chăm sóc, nuôi dưỡng, giáo dục con sau khi ly hôn cụ thể:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 80,
+                "id": "dieu_81",
+                "id_document": 999999999672447,
+                "position": "Điều 81 / Mục 1 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Việc trông nom, chăm sóc, nuôi dưỡng, giáo dục con sau khi ly hôn",
+                "so_hieu": "121/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Hôn nhân và gia đình do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.013155680224403925
+            },
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 999999999541688,
+                "position": "Điều 8 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Chế độ chăm sóc, nuôi dưỡng trẻ em dưới 36 tháng tuổi ở cùng mẹ trong cơ sở giam giữ [6]",
+                "so_hieu": "03/VBHN-BCA",
+                "trich_yeu": "2022 Nghị định hướng dẫn Luật Thi hành tạm giữ tạm giam",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Công an",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công an"
+                ],
+                "linh_vuc": "Trách nhiệm hình sự",
+                "score": 0.012208373282198785
+            },
+            {
+                "index": 80,
+                "id": "dieu_81",
+                "id_document": 36870,
+                "position": "Điều 81 / Mục 1 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Việc trông nom, chăm sóc, nuôi dưỡng, giáo dục con sau khi ly hôn",
+                "so_hieu": "52/2014/QH13",
+                "trich_yeu": "Hôn nhân và gia đình 2014",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Quyền dân sự",
+                "score": 0.012058287795992715
+            },
+            {
+                "index": 81,
+                "id": "dieu_82",
+                "id_document": 999999999672447,
+                "position": "Điều 82 / Mục 1 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Nghĩa vụ, quyền của cha, mẹ không trực tiếp nuôi con sau khi ly hôn",
+                "so_hieu": "121/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Hôn nhân và gia đình do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.011721034870641169
+            },
+            {
+                "index": 50,
+                "id": "dieu_51",
+                "id_document": 999999999672432,
+                "position": "Điều 51 / Mục 2 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Chế độ đối với phạm nhân nữ có thai, nuôi con dưới 36 tháng tuổi",
+                "so_hieu": "136/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Thi hành án hình sự do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.011711711711711712
+            },
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 135766,
+                "position": "Điều 8 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Chế độ chăm sóc, nuôi dưỡng trẻ em dưới 36 tháng tuổi ở cùng mẹ trong cơ sở giam giữ",
+                "so_hieu": "120/2017/NĐ-CP",
+                "trich_yeu": "Hướng dẫn Luật thi hành tạm giữ tạm giam",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Công an",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Trách nhiệm hình sự",
+                "score": 0.011439695930286455
+            },
+            {
+                "index": 50,
+                "id": "dieu_51",
+                "id_document": 999999999650258,
+                "position": "Điều 51 / Mục 2 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Chế độ đối với phạm nhân nữ có thai, nuôi con dưới 36 tháng tuổi",
+                "so_hieu": "13/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Thi hành án hình sự do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Trách nhiệm hình sự",
+                "score": 0.011170212765957447
+            },
+            {
+                "index": 50,
+                "id": "dieu_51",
+                "id_document": 162690,
+                "position": "Điều 51 / Mục 2 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Chế độ đối với phạm nhân nữ có thai, nuôi con dưới 36 tháng tuổi",
+                "so_hieu": "41/2019/QH14",
+                "trich_yeu": "Thi hành án hình sự 2019",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Công an",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Trách nhiệm hình sự",
+                "score": 0.010982349794972365
+            },
+            {
+                "index": 81,
+                "id": "dieu_82",
+                "id_document": 36870,
+                "position": "Điều 82 / Mục 1 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Nghĩa vụ, quyền của cha, mẹ không trực tiếp nuôi con sau khi ly hôn",
+                "so_hieu": "52/2014/QH13",
+                "trich_yeu": "Hôn nhân và gia đình 2014",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Quyền dân sự",
+                "score": 0.01090559692529426
+            },
+            {
+                "index": 5,
+                "id": "dieu_6",
+                "id_document": 167692,
+                "position": "Điều 6",
+                "dia_danh": "Trung ương",
+                "title": "Giải quyết việc nuôi con khi ly hôn quy định tại Điều 81 của Luật Hôn nhân và gia đình",
+                "so_hieu": "01/2024/NQ-HĐTP",
+                "trich_yeu": "Hướng dẫn quy định trong giải quyết vụ việc về hôn nhân gia đình",
+                "loai_van_ban": "Nghị quyết",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Tòa án nhân dân tối cao",
+                "don_vi": [
+                    "Tòa án nhân dân tối cao",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.010691939639308059
+            },
+            {
+                "index": 97,
+                "id": "dieu_98",
+                "id_document": 999999999672485,
+                "position": "Điều 98 / Mục 2 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Chăm sóc, nuôi dưỡng, giáo dục trẻ em",
+                "so_hieu": "108/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Trẻ em do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.01056166056166056
+            },
+            {
+                "index": 34,
+                "id": "dieu_35",
+                "id_document": 96116,
+                "position": "Điều 35 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Chế độ ăn, ở và quản lý đối với người bị tạm giữ, người bị tạm giam là phụ nữ có thai hoặc nuôi con dưới 36 tháng tuổi",
+                "so_hieu": "94/2015/QH13",
+                "trich_yeu": "Thi hành tạm giữ tạm giam 2015",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.01045398773006135
+            },
+            {
+                "index": 50,
+                "id": "dieu_51",
+                "id_document": 999999999672447,
+                "position": "Điều 51 / Mục 1 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Quyền yêu cầu giải quyết ly hôn",
+                "so_hieu": "121/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Hôn nhân và gia đình do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.010266457680250782
+            },
+            {
+                "index": 97,
+                "id": "dieu_98",
+                "id_document": 999999999651536,
+                "position": "Điều 98 / Mục 2 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Chăm sóc, nuôi dưỡng, giáo dục trẻ em",
+                "so_hieu": "32/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Trẻ em do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.010213990289516275
+            },
+            {
+                "index": 28,
+                "id": "dieu_29",
+                "id_document": 99999999951273,
+                "position": "Điều 29",
+                "dia_danh": "Trung ương",
+                "title": "Nuôi con nuôi.",
+                "so_hieu": "39/LPQT",
+                "trich_yeu": "Hiệp định tương trợ tư pháp về các vấn đề dân sự, gia đình và hình sự giữa Việt Nam và Mông Cổ",
+                "loai_van_ban": "Điều ước quốc tế",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Chính phủ"
+                ],
+                "linh_vuc": "Trách nhiệm hình sự",
+                "score": 0.010133333333333334
+            },
+            {
+                "index": 82,
+                "id": "dieu_83",
+                "id_document": 999999999672447,
+                "position": "Điều 83 / Mục 1 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Nghĩa vụ, quyền của cha, mẹ trực tiếp nuôi con đối với người không trực tiếp nuôi con sau khi ly hôn",
+                "so_hieu": "121/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Hôn nhân và gia đình do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.01010174418604651
+            },
+            {
+                "index": 83,
+                "id": "dieu_84",
+                "id_document": 999999999672447,
+                "position": "Điều 84 / Mục 1 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Thay đổi người trực tiếp nuôi con sau khi ly hôn",
+                "so_hieu": "121/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Hôn nhân và gia đình do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.009845439113731798
+            },
+            {
+                "index": 51,
+                "id": "dieu_52",
+                "id_document": 9999999999877,
+                "position": "Mục 2",
+                "dia_danh": "Trung ương",
+                "title": "Trong thời hạn ba tháng trước khi áp dụng Công ước La Hay về bảo vệ trẻ em và hợp tác trong lĩnh vực nuôi con nuôi quốc tế, đối với những trường hợp nhận trẻ em Việt Nam làm con nuôi của người xin con nuôi Québec, các Bên sẽ xem xét lại các quy định của Thỏa thuận này.",
+                "so_hieu": "Không số",
+                "trich_yeu": "Thỏa thuận hợp tác về con nuôi quốc tế giữa Chính phủ  Việt Nam và Chính phủ Québec",
+                "loai_van_ban": "Thoả thuận",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Ngoại giao",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Ngoại giao"
+                ],
+                "linh_vuc": "Quyền dân sự",
+                "score": 0.009653420431863546
+            },
+            {
+                "index": 29,
+                "id": "dieu_30",
+                "id_document": 95942,
+                "position": "Điều 30 / Mục 2 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Quyền được khai sinh, khai tử",
+                "so_hieu": "91/2015/QH13",
+                "trich_yeu": "Dân sự 2015",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Quyền dân sự",
+                "score": 0.009601209601209602
+            },
+            {
+                "index": 26,
+                "id": "dieu_24_dk_1",
+                "id_document": 117939,
+                "position": "Điều 24 / Chương II",
+                "dia_danh": "tỉnh Bình Thuận",
+                "title": "Chế độ được hưởng Đối tượng quy định tại khoản 1 và khoản 2 Điều 23 Quy định này khi sống tại cơ sở bảo trợ xã hội, nhà xã hội được hưởng chế độ chăm sóc, nuôi dưỡng theo quy định sau đây:",
+                "so_hieu": "74/2015/QĐ-UBND",
+                "trich_yeu": "Mức trợ giúp xã hội đối tượng bảo trợ xã hội Bình Thuận",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Bình Thuận",
+                "don_vi": [
+                    "Bình Thuận"
+                ],
+                "linh_vuc": "Tài chính nhà nước",
+                "score": 0.009500805152979066
+            }
+        ]
+    },
+    {
+        "id": 33227,
+        "cau_hoi": "Nộp hồ sơ thông báo đăng ký đổi tên doanh nghiệp ở đâu?",
+        "tra_loi": "Căn cứ theo khoản 1 Điều 48 Nghị định 01/2021/NĐ-CP quy định như sau:\nĐiều 48. Đăng ký đổi tên doanh nghiệp\n1. Trường hợp đổi tên doanh nghiệp, doanh nghiệp gửi hồ sơ đăng ký thay đổi nội dung đăng ký doanh nghiệp đến Phòng Đăng ký kinh doanh nơi doanh nghiệp đặt trụ sở chính. Hồ sơ bao gồm các giấy tờ sau đây:\na) Thông báo thay đổi nội dung đăng ký doanh nghiệp do người đại diện theo pháp luật của doanh nghiệp ký;\nb) Nghị quyết, quyết định và bản sao biên bản họp của Hội đồng thành viên đối với công ty trách nhiệm hữu hạn hai thành viên trở lên, công ty hợp danh, của Đại hội đồng cổ đông đối với công ty cổ phần; nghị quyết, quyết định của chủ sở hữu công ty đối với công ty trách nhiệm hữu hạn một thành viên về việc đổi tên doanh nghiệp.\n2. Sau khi tiếp nhận hồ sơ đăng ký doanh nghiệp, Phòng Đăng ký kinh doanh trao Giấy biên nhận, kiểm tra tính hợp lệ của hồ sơ và cấp Giấy chứng nhận đăng ký doanh nghiệp cho doanh nghiệp nếu tên doanh nghiệp đăng ký thay đổi không trái với quy định về đặt tên doanh nghiệp.\n3. Việc thay đổi tên doanh nghiệp không làm thay đổi quyền và nghĩa vụ của doanh nghiệp.\nNhư vậy, doanh nghiệp khi thay đổi tên phải nộp hồ sơ thông báo đăng ký đổi tên doanh nghiệp đến Phòng Đăng ký kinh doanh nơi doanh nghiệp đặt trụ sở chính.",
+        "trich_dan": [
+            {
+                "loai_vb": "Nghị định",
+                "so_hieu": "01/2021/NĐ-CP",
+                "khoan": "1",
+                "dieu": "48",
+                "trich_yeu": "Nghị định 01/2021/NĐ-CP",
+                "noi_dung_kem_trich_dan": "Căn cứ theo khoản 1 Điều 48 Nghị định 01/2021/NĐ-CP quy định như sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 25,
+                "id": "dieu_26",
+                "id_document": 174218,
+                "position": "Điều 26 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Thông báo thông tin cho cơ quan đăng ký kinh doanh",
+                "so_hieu": "62/2024/TT-NHNN",
+                "trich_yeu": "Quy định điều kiện, hồ sơ, thủ tục chấp thuận việc tổ chức lại ngân hàng thương mại, tổ chức tín dụng phi ngân hàng do Thống đốc Ngân hàng Nhà nước Việt Nam ban hành",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+                "don_vi": [
+                    "Ngân hàng Nhà nước Việt Nam",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tiền tệ - Ngân hàng",
+                "score": 0.013015873015873015
+            },
+            {
+                "index": 31,
+                "id": "dieu_32",
+                "id_document": 999999999623074,
+                "position": "Điều 32 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Thông báo yêu cầu sửa đổi, bổ sung hồ sơ đăng ký doanh nghiệp",
+                "so_hieu": "168/2025/NĐ-CP",
+                "trich_yeu": "Về đăng ký doanh nghiệp",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Chính phủ"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.012618595825426944
+            },
+            {
+                "index": 35,
+                "id": "dieu_36",
+                "id_document": 999999999651534,
+                "position": "Điều 36 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Thông báo thay đổi thông tin đăng ký thuế",
+                "so_hieu": "29/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Quản lý thuế do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.012217754407670894
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 999999999585890,
+                "position": "Mục 1",
+                "dia_danh": "Trung ương",
+                "title": "Doanh nghiệp không được đăng ký, thông báo thay đổi nội dung đăng ký doanh nghiệp trong các trường hợp sau: d) Doanh nghiệp đang trong tình trạng pháp lý “Không còn hoạt động kinh doanh tại địa chỉ đã đăng ký”.",
+                "so_hieu": "3736/TCT-KK",
+                "trich_yeu": "Năm 2023 về khôi phục mã số thuế do Tổng cục Thuế ban hành",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Tổng cục Thuế",
+                "don_vi": [
+                    "Trung ương",
+                    "Tổng cục Thuế"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.012184873949579832
+            },
+            {
+                "index": 35,
+                "id": "dieu_36",
+                "id_document": 136036,
+                "position": "Điều 36 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Thông báo thay đổi thông tin đăng ký thuế",
+                "so_hieu": "38/2019/QH14",
+                "trich_yeu": "Quản lý thuế 2019",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.01216589861751152
+            },
+            {
+                "index": 8,
+                "id": "dieu_9",
+                "id_document": 22961,
+                "position": "Mục 8 / Phần I",
+                "dia_danh": "Trung ương",
+                "title": "Đăng ký đổi tên doanh nghiệp a) Khi đổi tên, doanh nghiệp gửi thôngbáo đến Phòng đăng ký kinh doanh cấp tỉnh nơi doanh nghiệp đã đăng ký kinhdoanh, theo mẫu MTB-3. Đối với công ty kèm theo thông báo,doanh nghiệp phải xuất trình bản sao hợp lệ: - Công ty TNHH có hai thành viên trởlên: Biên bản sửa đổi điều lệ công ty; quyết định của Hội đồng thành viên vềviệc đổi tên công ty. - Công ty cổ phần: Biên bản sửa đổiđiều lệ công ty; quyết định của Đại hội đồng cổ đông hoặc giấy tờ khác theo quyđịnh tại điều lệ công ty về việc đổi tên công ty. - Công ty TNHH một thành viên: Biên bảnsửa đổi điều lệ công ty; quyết định của chủ sở hữu công ty hoặc giấy tờ kháctheo quy định tại điều lệ công ty về việc đổi tên công ty. - Công ty hợp danh: Biên bản sửa đổiđiều lệ công ty; quyết định của các thành viên hợp danh về việc đổi tên côngty. b) Khi tiếp nhận thông báo, Phòng đăngký kinh doanh cấp tỉnh phải ghi Giấy biên nhận theo mẫu MTB-8 và trao cho doanhnghiệp. c) Trong thời hạn bảy ngày, kể từ ngàynhận được thông báo, Phòng đăng ký kinh doanh cấp tỉnh đổi Giấy chứng nhận đăngký kinh doanh cho doanh nghiệp theo mẫu Giấy chứng nhận đăng ký kinh doanh củatừng loại hình doanh nghiệp MG-1, MG-2, MG-3, MG-4, MG-5, nếu tên dự kiến thayđổi của doanh nghiệp không trùng hoặc không gây nhầm lẫn với tên doanh nghiệpkhác cùng loại hình doanh nghiệp đã đăng ký kinh doanh trong địa bàn tỉnh,thành phố trực thuộc Trung ương, và bảo đảm các quy định tại điểm b, c, d,khoản 1 Điều 24 Luật Doanh nghiệp. d) Trường hợp tên dự kiến thay đổi củadoanh nghiệp trùng hoặc gây nhầm lẫn với tên doanh nghiệp khác cùng loại hìnhdoanh nghiệp đã đăng ký kinh doanh trong phạm vi tỉnh, thành phố trực thuộcTrung ương, hoặc tên dự kiến của doanh nghiệp không bảo đảm các quy định tạiđiểm b, c, d khoản 1 Điều 24 Luật Doanh nghiệp, thì trong thời hạn bảy ngày, kểtừ ngày nhận được thông báo, Phòng đăng ký kinh doanh cấp tỉnh phải thông báocho doanh nghiệp biết và hướng dẫn doanh nghiệp chọn tên khác, theo mẫu MTB-7.",
+                "so_hieu": "08/2001/TT-BKHĐT",
+                "trich_yeu": "Hướng dẫn trình tự, thủ tục đăng ký kinh doanh theo quy định tại Nghị định số 02/2000/NĐ-CP ngày 3 tháng 2 năm 2000 của Chính phủ về đăng ký kinh doanh",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Kế hoạch và Đầu tư",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Kế hoạch và Đầu tư"
+                ],
+                "linh_vuc": null,
+                "score": 0.012070702445278872
+            },
+            {
+                "index": 47,
+                "id": "dieu_48",
+                "id_document": 153870,
+                "position": "Điều 48 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Đăng ký đổi tên doanh nghiệp",
+                "so_hieu": "01/2021/NĐ-CP",
+                "trich_yeu": "Đăng ký doanh nghiệp",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.012055455093429776
+            },
+            {
+                "index": 56,
+                "id": "dieu_57",
+                "id_document": 999999999623074,
+                "position": "Điều 57 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Thông báo cập nhật, bổ sung thông tin trong hồ sơ đăng ký doanh nghiệp",
+                "so_hieu": "168/2025/NĐ-CP",
+                "trich_yeu": "Về đăng ký doanh nghiệp",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Chính phủ"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.011989459815546772
+            },
+            {
+                "index": 48,
+                "id": "dieu_49",
+                "id_document": 999999999623074,
+                "position": "Điều 49 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Thông báo thay đổi ngành, nghề kinh doanh",
+                "so_hieu": "168/2025/NĐ-CP",
+                "trich_yeu": "Về đăng ký doanh nghiệp",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Chính phủ"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.011792103313221128
+            },
+            {
+                "index": 2,
+                "id": "dieu_3",
+                "id_document": 999999999279860,
+                "position": "Mục 3",
+                "dia_danh": "Trung ương",
+                "title": "Thông báo thay đổi nội dung đăng ký doanh nghiệp - Trường hợp doanh nghiệp thông báo thay đổi nội dung đăng ký doanh nghiệp, bao gồm: ngành, nghề kinh doanh, vốn đầu tư của chủ doanh nghiệp tư nhân, cổ đông sáng lập công ty cổ phần, nội dung đăng ký thuế, hồ sơ, trình tự, thủ tục thông báo thay đổi thực hiện theo quy định tại Điều 32 Luật Doanh nghiệp 2014 và quy định tương ứng tại Nghị định số 43/2010/NĐ-CP . - Trường hợp doanh nghiệp thông báo thay đổi thông tin người quản lý doanh nghiệp, thông tin cổ đông là nhà đầu tư nước ngoài, thông báo chào bán cổ phần riêng lẻ, thông báo cho thuê doanh nghiệp tư nhân, doanh nghiệp gửi thông báo đến Phòng Đăng ký kinh doanh nơi doanh nghiệp đặt trụ sở chính. Khi nhận thông báo, Phòng Đăng ký kinh doanh trao Giấy biên nhận cho doanh nghiệp, kiểm tra tính hợp lệ của hồ sơ và cấp Giấy xác nhận về việc thay đổi thông tin đăng ký doanh nghiệp, thông báo ý kiến về việc công ty cổ phần chào bán cổ phần riêng lẻ hoặc cấp Giấy xác nhận về việc cho thuê doanh nghiệp tư nhân cho doanh nghiệp.",
+                "so_hieu": "4211/BKHĐT-ĐKKD",
+                "trich_yeu": "2015 hướng dẫn áp dụng quy định về đăng ký doanh nghiệp",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Kế hoạch và Đầu tư",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Kế hoạch và Đầu tư"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.011542907959092932
+            },
+            {
+                "index": 30,
+                "id": "dieu_31",
+                "id_document": 999999999547841,
+                "position": "Điều 31 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Thông báo thay đổi nội dung đăng ký doanh nghiệp",
+                "so_hieu": "07/VBHN-VPQH",
+                "trich_yeu": "2022 Luật Doanh nghiệp",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.011255992329817832
+            },
+            {
+                "index": 30,
+                "id": "dieu_31",
+                "id_document": 142881,
+                "position": "Điều 31 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Thông báo thay đổi nội dung đăng ký doanh nghiệp",
+                "so_hieu": "59/2020/QH14",
+                "trich_yeu": "Doanh nghiệp 2020",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.011048593350383632
+            },
+            {
+                "index": 55,
+                "id": "dieu_56",
+                "id_document": 153870,
+                "position": "Điều 56 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Thông báo thay đổi ngành, nghề kinh doanh",
+                "so_hieu": "01/2021/NĐ-CP",
+                "trich_yeu": "Đăng ký doanh nghiệp",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.010904691955413461
+            },
+            {
+                "index": 8,
+                "id": "dieu_6_dk_1",
+                "id_document": 999999999363814,
+                "position": "Điều 6 / Chương II",
+                "dia_danh": "tỉnh Hậu Giang",
+                "title": "Nội dung thông tin doanh nghiệp:",
+                "so_hieu": "1530/QĐ-UBND",
+                "trich_yeu": "2016 Quy chế phối hợp quản lý Nhà nước doanh nghiệp Hậu Giang",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Hậu Giang",
+                "don_vi": [
+                    "Hậu Giang"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.010818713450292398
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 999999999377162,
+                "position": "Mục 1",
+                "dia_danh": "thành phố Huế",
+                "title": "Doanh nghiệp đăng ký thay đổi thông tin đăng ký thuế tại cơ quan đăng ký kinh doanh theo hướng dẫn tại Nghị định của Chính phủ về đăng ký doanh nghiệp và các văn bản hiện hành. …” Căn cứ các quy định trên, trường hợp doanh nghiệp thành lập và hoạt động theo Luật doanh nghiệp có thay đổi thông tin của doanh nghiệp (mở thêm kho hàng là địa điểm kinh doanh trực thuộc doanh nghiệp), doanh nghiệp phải gửi thông báo đến Phòng đăng ký kinh doanh thuộc Sở Kế hoạch và Đầu tư TP Hà Nội theo quy định tại Khoản 2 Điều 33 Nghị định số 78/2015/NĐ-CP ngày 14/9/2015 của Chính phủ; Khoản 2 Điều 19 Thông tư số 20/2015/TT-BKHDT ngày 01/12/2015 của Bộ Kế hoạch Đầu tư và mẫu kê khai theo Phụ lục II-11 ban hành kèm theo Thông tư số 20/2015/TT-BKHĐT. Đối với trường hợp doanh nghiệp đăng ký kho hàng không phải là địa điểm kinh doanh, đề nghị Công ty liên hệ với Sở Kế hoạch và Đầu tư TP Hà Nội để được hướng dẫn giải quyết. Cục thuế TP Hà Nội trả lời để Công ty được biết và thực hiện./.",
+                "so_hieu": "7444/CT-TTHT",
+                "trich_yeu": "2018 đăng ký kho hàng không phải địa điểm kinh doanh Hà Nội",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Cục thuế thành phố Huế",
+                "don_vi": [
+                    "Huế"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.010713192531374349
+            },
+            {
+                "index": 30,
+                "id": "dieu_31",
+                "id_document": 153870,
+                "position": "Điều 31 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Hồ sơ, trình tự, thủ tục đăng ký hoạt động chi nhánh, văn phòng đại diện, thông báo lập địa điểm kinh doanh",
+                "so_hieu": "01/2021/NĐ-CP",
+                "trich_yeu": "Đăng ký doanh nghiệp",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.010703650131881222
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 999999999373126,
+                "position": "Mục 1",
+                "dia_danh": "thành phố Huế",
+                "title": "Doanh nghiệp đăng ký thay đổi thông tin đăng ký thuế tại cơ quan đăng ký kinh doanh theo hướng dẫn tại Nghị định của Chính phủ về đăng ký doanh nghiệp và các văn bản hiện hành....” Căn cứ các quy định trên, trường hợp doanh nghiệp thành lập và hoạt động theo Luật doanh nghiệp có thay đổi thông tin của doanh nghiệp (mở thêm kho hàng là địa điểm kinh doanh trực thuộc doanh nghiệp), doanh nghiệp phải gửi thông báo đến Phòng đăng ký kinh doanh thuộc Sở Kế hoạch và Đầu tư TP Hà Nội theo quy định tại Khoản 2 Điều 33 Nghị định số 78/2015/NĐ-CP ngày 14/9/2015 của Chính phủ; Khoản 2 Điều 19 Thông tư số 20/2015/TT-BKHĐT ngày 01/12/2015 của Bộ Kế hoạch Đầu tư và mẫu kê khai theo Phụ lục II-11ban hành kèm theo Thông tư số 20/2015/TT-BKHĐT. Đối với trường hợp doanh nghiệp đăng ký kho hàng không phải là địa điểm kinh doanh, đề nghị Độc giả liên hệ với Sở Kế hoạch và Đầu tư TP Hà Nội để được hướng dẫn giải quyết. Cục thuế TP Hà Nội trả lời để Cổng thông tin điện tử - Bộ Tài chính được biết và hướng dẫn Độc giả thực hiện./.",
+                "so_hieu": "81380/CT-TTHT",
+                "trich_yeu": "2017 đăng ký kho hàng không phải địa điểm kinh doanh Hà Nội",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Cục thuế thành phố Huế",
+                "don_vi": [
+                    "Huế"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.010595761695321872
+            },
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 999999999574580,
+                "position": "Mục 5",
+                "dia_danh": "Trung ương",
+                "title": "Về việc thay đổi thông tin Giấy chứng nhận đăng ký: doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã, hộ kinh doanh; chi nhánh, văn phòng đại diện, địa điểm kinh doanh của doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã do thay đổi địa giới, tên gọi của ĐVHC cấp huyện, cấp xã thực hiện sắp xếp. Hiện nay, việc thay đổi các thông tin Giấy chứng nhận đăng ký: doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã, hộ kinh doanh; chi nhánh, văn phòng đại diện, địa điểm kinh doanh của doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã do thay đổi địa giới, tên gọi của ĐVHC cấp huyện, cấp xã thực hiện sắp xếp thực hiện theo quy định tại Nghị định số 01/2021/NĐ-CP ngày 04/01/2021 của Chính phủ về đăng ký doanh nghiệp và Nghị định số 193/2013/NĐ-CP ngày 21/11/2013 của Chính phủ quy định chi tiết một số điều của Luật Hợp tác xã và các văn bản hướng dẫn thi hành. Do đó, trong trường hợp thay đổi thông tin trên Giấy chứng nhận đăng ký: doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã, hộ kinh doanh; chi nhánh, văn phòng đại diện, địa điểm kinh doanh của doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã do thay đổi địa giới địa giới, tên gọi của ĐVHC cấp huyện, cấp xã thì cơ quan đăng ký kinh doanh và cơ quan đăng ký hợp tác xã tại các tỉnh, thành phố trực thuộc Trung ương tiếp tục thực hiện theo quy định hiện hành. Trên đây là hướng dẫn của Bộ Kế hoạch và Đầu tư thực hiện một số quy định, chính sách liên quan đến sắp xếp đơn vị hành chính cấp huyện, cấp xã theo Nghị quyết của Ủy ban Thường vụ Quốc hội. Trong quá trình thực hiện, nếu có vướng mắc, phát sinh đề nghị Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương kịp thời gửi ý kiến về Bộ Kế hoạch và Đầu tư để có hướng dẫn cụ thể./.",
+                "so_hieu": "6183/BKHĐT-KTĐPLT",
+                "trich_yeu": "Năm 2023 hướng dẫn nội dung trong quá trình thực hiện sắp xếp đơn vị hành chính cấp huyện, cấp xã giai đoạn 2023-2030 do Bộ Kế hoạch và Đầu tư ban hành",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Kế hoạch và Đầu tư",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Kế hoạch và Đầu tư"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010532915360501566
+            },
+            {
+                "index": 29,
+                "id": "dieu_30",
+                "id_document": 999999999623074,
+                "position": "Điều 30 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Hồ sơ, trình tự, thủ tục đăng ký hoạt động chi nhánh, văn phòng đại diện, thông báo lập địa điểm kinh doanh",
+                "so_hieu": "168/2025/NĐ-CP",
+                "trich_yeu": "Về đăng ký doanh nghiệp",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Chính phủ"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.01051464473805784
+            },
+            {
+                "index": 59,
+                "id": "dieu_60",
+                "id_document": 153870,
+                "position": "Điều 60 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Thông báo thay đổi thông tin cổ đông là nhà đầu tư nước ngoài, thông báo thay đổi thông tin người đại diện theo ủy quyền của cổ đông là tổ chức nước ngoài, thông báo cho thuê doanh nghiệp tư nhân, thông báo thay đổi thông tin người đại diện theo ủy quyền",
+                "so_hieu": "01/2021/NĐ-CP",
+                "trich_yeu": "Đăng ký doanh nghiệp",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Kế hoạch và Đầu tư",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.0105
+            }
+        ]
+    },
+    {
+        "id": 34013,
+        "cau_hoi": "Việc tuyển chọn quân nhân chuyên nghiệp được thực hiện theo nguyên tắc nào?",
+        "tra_loi": "Căn cứ theo Điều 4 Thông tư 241/2017/TT-BQP quy định như sau:\nĐiều 4. Nguyên tắc thực hiện\nNguyên tắc tuyển chọn, tuyển dụng thực hiện theo quy định tại Điều 8 Luật quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng và các quy định sau:\n1. Thực hiện nguyên tắc tập trung dân chủ; đề cao trách nhiệm của cấp ủy, chỉ huy cơ quan, đơn vị,\n2. Bảo đảm đúng đối tượng, đủ điều kiện, tiêu chuẩn đáp ứng yêu cầu nhiệm vụ, biên chế và chức danh, vị trí việc làm.\n3. Đúng thẩm quyền, trình tự thủ tục và chỉ tiêu được giao hằng năm.\nTheo đó, việc tuyển chọn quân nhân chuyên nghiệp phải tuân theo những nguyên tắc dưới đây:\n- Theo yêu cầu nhiệm vụ và biên chế của Quân đội nhân dân.\n- Bảo đảm dân chủ, công bằng, công khai, minh bạch, đúng pháp luật và bình đẳng giới.\n- Đề cao trách nhiệm của người đứng đầu cơ quan, đơn vị.\n- Đúng vị trí việc làm, chức danh và đủ điều kiện, tiêu chuẩn.\n- Ưu tiên tuyển chọn, tuyển dụng hạ sĩ quan, binh sĩ có thành tích xuất sắc phục vụ trong Quân đội nhân dân; người có chuyên môn kỹ thuật, nghiệp vụ giỏi; người có tài năng; người dân tộc thiểu số.\n- Thực hiện nguyên tắc tập trung dân chủ; đề cao trách nhiệm của cấp ủy, chỉ huy cơ quan, đơn vị,\n- Bảo đảm đúng đối tượng, đủ điều kiện, tiêu chuẩn đáp ứng yêu cầu nhiệm vụ, biên chế và chức danh, vị trí việc làm.\n- Đúng thẩm quyền, trình tự thủ tục và chỉ tiêu được giao hằng năm.",
+        "trich_dan": [
+            {
+                "loai_vb": "Thông tư",
+                "so_hieu": "241/2017/TT-BQP",
+                "khoan": "",
+                "dieu": "4",
+                "trich_yeu": "Thông tư 241/2017/TT-BQP",
+                "noi_dung_kem_trich_dan": "Căn cứ theo Điều 4 Thông tư 241/2017/TT-BQP quy định như sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 999999999672009,
+                "position": "Điều 8 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Nguyên tắc tuyển chọn, tuyển dụng quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng",
+                "so_hieu": "84/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.01639344262295082
+            },
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 96120,
+                "position": "Điều 8 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Nguyên tắc tuyển chọn, tuyển dụng quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng",
+                "so_hieu": "98/2015/QH13",
+                "trich_yeu": "Quân nhân chuyên nghiệp công nhân viên chức quốc phòng 2015",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.016129032258064516
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 999999999363581,
+                "position": "Điều 4 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Nguyên tắc thực hiện Nguyên tắc tuyển chọn, tuyển dụng thực hiện theo quy định tại Điều 8 Luật quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng và các quy định sau:",
+                "so_hieu": "241/2017/TT-BQP",
+                "trich_yeu": "Tuyển chọn quân nhân chuyên nghiệp viên chức quốc phòng",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Quốc phòng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Quốc phòng"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012464985994397758
+            },
+            {
+                "index": 13,
+                "id": "dieu_14",
+                "id_document": 999999999672009,
+                "position": "Điều 14 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tuyển chọn, tuyển dụng quân nhân chuyên nghiệp",
+                "so_hieu": "84/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012427133015368309
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 999999999670386,
+                "position": "Điều 4 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Nguyên tắc thực hiện Nguyên tắc tuyển chọn, tuyển dụng thực hiện theo quy định tại Điều 8 Luật Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng và các quy định sau:",
+                "so_hieu": "29/VBHN-BQP",
+                "trich_yeu": "Năm 2025 hợp nhất Thông tư quy định về tuyển chọn, tuyển dụng quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng do Bộ trưởng Bộ Quốc phòng ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Quốc phòng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Quốc phòng"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012029676735559089
+            },
+            {
+                "index": 6,
+                "id": "dieu_7",
+                "id_document": 999999999670386,
+                "position": "Điều 7 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Điều kiện tuyển chọn Đối với quân nhân chuyên nghiệp thực hiện theo quy định tại khoản 3 Điều 14; đối với công nhân và viên chức quốc phòng thực hiện theo quy định tại khoản 3 Điều 28 Luật quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng và các quy định sau:",
+                "so_hieu": "29/VBHN-BQP",
+                "trich_yeu": "Năm 2025 hợp nhất Thông tư quy định về tuyển chọn, tuyển dụng quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng do Bộ trưởng Bộ Quốc phòng ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Quốc phòng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Quốc phòng"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.01166832174776564
+            },
+            {
+                "index": 13,
+                "id": "dieu_14",
+                "id_document": 96120,
+                "position": "Điều 14 / Mục 1 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tuyển chọn, tuyển dụng quân nhân chuyên nghiệp",
+                "so_hieu": "98/2015/QH13",
+                "trich_yeu": "Quân nhân chuyên nghiệp công nhân viên chức quốc phòng 2015",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.011502994581233956
+            },
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 999999999670386,
+                "position": "Điều 8 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tiêu chuẩn tuyển chọn",
+                "so_hieu": "29/VBHN-BQP",
+                "trich_yeu": "Năm 2025 hợp nhất Thông tư quy định về tuyển chọn, tuyển dụng quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng do Bộ trưởng Bộ Quốc phòng ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Quốc phòng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Quốc phòng"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010936955764541973
+            },
+            {
+                "index": 6,
+                "id": "dieu_7",
+                "id_document": 999999999363581,
+                "position": "Điều 7 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Điều kiện tuyển chọn Đối với quân nhân chuyên nghiệp thực hiện theo quy định tại Khoản 3 Điều 14; đối với công nhân và viên chức quốc phòng thực hiện theo quy định tại Khoản 3 Điều 28 Luật quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng và các quy định sau:",
+                "so_hieu": "241/2017/TT-BQP",
+                "trich_yeu": "Tuyển chọn quân nhân chuyên nghiệp viên chức quốc phòng",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Quốc phòng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Quốc phòng"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010799726589200274
+            },
+            {
+                "index": 8,
+                "id": "dieu_9",
+                "id_document": 999999999670386,
+                "position": "Điều 9 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Ưu tiên trong tuyển chọn Ưu tiên trong tuyển chọn đối với các đối tượng được thực hiện theo quy định tại khoản 5 Điều 8, khoản 4 Điều 14, khoản 4 Điều 28 Luật Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng và các quy định sau:",
+                "so_hieu": "29/VBHN-BQP",
+                "trich_yeu": "Năm 2025 hợp nhất Thông tư quy định về tuyển chọn, tuyển dụng quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng do Bộ trưởng Bộ Quốc phòng ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Quốc phòng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Quốc phòng"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010451612903225806
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 999999999670386,
+                "position": "Điều 1 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Phạm vi điều chỉnh Thông tư này quy định nguyên tắc, đối tượng, điều kiện, tiêu chuẩn, thẩm quyền, trình tự, thủ tục tuyển chọn, tuyển dụng quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng; trách nhiệm của cơ quan, tổ chức, đơn vị và cá nhân.",
+                "so_hieu": "29/VBHN-BQP",
+                "trich_yeu": "Năm 2025 hợp nhất Thông tư quy định về tuyển chọn, tuyển dụng quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng do Bộ trưởng Bộ Quốc phòng ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Quốc phòng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Quốc phòng"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.01036789297658863
+            },
+            {
+                "index": 10,
+                "id": "dieu_11",
+                "id_document": 999999999670386,
+                "position": "Điều 11 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Trình tự, thủ tục tuyển chọn quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng",
+                "so_hieu": "29/VBHN-BQP",
+                "trich_yeu": "Năm 2025 hợp nhất Thông tư quy định về tuyển chọn, tuyển dụng quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng do Bộ trưởng Bộ Quốc phòng ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Quốc phòng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Quốc phòng"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010107260726072608
+            },
+            {
+                "index": 19,
+                "id": "dieu_17_dk_1",
+                "id_document": 107275,
+                "position": "Điều 17 / Chương IV",
+                "dia_danh": "tỉnh Bến Tre",
+                "title": "Nguyên tắc tuyển chọn, giao trực tiếp",
+                "so_hieu": "12/2016/QĐ-UBND",
+                "trich_yeu": "Quản lý nhiệm vụ khoa học công nghệ sử dụng ngân sách nhà nước Bến Tre",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Bến Tre",
+                "don_vi": [
+                    "Bến Tre"
+                ],
+                "linh_vuc": "Công nghệ thông tin",
+                "score": 0.009951314508276535
+            },
+            {
+                "index": 2,
+                "id": "dieu_3",
+                "id_document": 999999999670386,
+                "position": "Điều 3 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+                "so_hieu": "29/VBHN-BQP",
+                "trich_yeu": "Năm 2025 hợp nhất Thông tư quy định về tuyển chọn, tuyển dụng quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng do Bộ trưởng Bộ Quốc phòng ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Quốc phòng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Quốc phòng"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.009860766736601183
+            },
+            {
+                "index": 20,
+                "id": "dieu_21",
+                "id_document": 999999999670386,
+                "position": "Điều 21 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Nội dung thi tuyển",
+                "so_hieu": "29/VBHN-BQP",
+                "trich_yeu": "Năm 2025 hợp nhất Thông tư quy định về tuyển chọn, tuyển dụng quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng do Bộ trưởng Bộ Quốc phòng ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Quốc phòng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Quốc phòng"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.00985014985014985
+            },
+            {
+                "index": 8,
+                "id": "dieu_9",
+                "id_document": 999999999363581,
+                "position": "Điều 9 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Ưu tiên trong tuyển chọn Ưu tiên trong tuyển chọn đối với các đối tượng được thực hiện theo quy định tại Khoản 5 Điều 8, Khoản 4 Điều 14, Khoản 4 Điều 28 Luật quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng và các quy định sau:",
+                "so_hieu": "241/2017/TT-BQP",
+                "trich_yeu": "Tuyển chọn quân nhân chuyên nghiệp viên chức quốc phòng",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Quốc phòng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Quốc phòng"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.0097167325428195
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 999999999363581,
+                "position": "Điều 1 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Phạm vi điều chỉnh Thông tư này quy định nguyên tắc, đối tượng, điều kiện, tiêu chuẩn, thẩm quyền, trình tự, thủ tục tuyển chọn, tuyển dụng quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng; trách nhiệm của cơ quan, tổ chức, đơn vị và cá nhân.",
+                "so_hieu": "241/2017/TT-BQP",
+                "trich_yeu": "Tuyển chọn quân nhân chuyên nghiệp viên chức quốc phòng",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Quốc phòng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Quốc phòng"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.009623709623709623
+            },
+            {
+                "index": 13,
+                "id": "dieu_14",
+                "id_document": 999999999670386,
+                "position": "Điều 14 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Điều kiện tuyển dụng Thực hiện theo quy định tại khoản 3 Điều 14, khoản 3 Điều 28 Luật quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng và các quy định sau:",
+                "so_hieu": "29/VBHN-BQP",
+                "trich_yeu": "Năm 2025 hợp nhất Thông tư quy định về tuyển chọn, tuyển dụng quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng do Bộ trưởng Bộ Quốc phòng ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Quốc phòng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Quốc phòng"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.009523809523809525
+            },
+            {
+                "index": 8,
+                "id": "dieu_9",
+                "id_document": 15736,
+                "position": "Mục 2 / Phần II",
+                "dia_danh": "Trung ương",
+                "title": "Đối với quân nhân chuyên nghiệp. a) Bảng l­ương quân nhân chuyên nghiệp. Đơn vị tính: 1.000 đồng [TABLE] <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><!--VABWAFAATABfADIAMAAyADQAMAA3ADIANQA=-->\n<tbody><tr>\n<td rowspan=\"2\" style=\"border:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\">Chức danh</span></p>\n</td>\n<td colspan=\"24\" style=\"border:solid windowtext 1.0pt;\n  border-left:none;padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><span style=\"font-size:8.0pt;color:black\">Bậc lương</span></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\">1</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\">2</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\">3</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\">4</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\">5</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\">6</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\">7</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\">8</span></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\">9</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\">10</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\">11</span></p>\n</td>\n<td colspan=\"3\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\">12</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"border:solid windowtext 1.0pt;\n  border-top:none;padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><b><span style=\"font-size:8.0pt;color:black\">QNCN cao cấp</span></b></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n</tr>\n<tr>\n<td style=\"border:solid windowtext 1.0pt;\n  border-top:none;padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\">Nhóm 1 Hệ số Mức l­ương thực hiện\n  01/10/2004</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">3.85</span></u><span style=\"font-size:8.0pt;color:black\"> 1.116,5</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">4,20</span></u><span style=\"font-size:8.0pt;color:black\"> 1.218,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">4,55</span></u><span style=\"font-size:8.0pt;color:black\"> 1.319,5</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">4,90</span></u><span style=\"font-size:8.0pt;color:black\"> 1.421,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">5,25</span></u><span style=\"font-size:8.0pt;color:black\"> 1.522,5</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">5,60</span></u><span style=\"font-size:8.0pt;color:black\"> 1.624,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">5,95</span></u><span style=\"font-size:8.0pt;color:black\"> 1.725,5</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">6,30</span></u><span style=\"font-size:8.0pt;color:black\"> 1.827,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">6,65</span></u><span style=\"font-size:8.0pt;color:black\"> 1.928,5</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">7,00</span></u><span style=\"font-size:8.0pt;color:black\"> 2.030,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">7,35</span></u><span style=\"font-size:8.0pt;color:black\"> 2.131,5</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">7,70</span></u><span style=\"font-size:8.0pt;color:black\"> 2.233,0</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"border:solid windowtext 1.0pt;\n  border-top:none;padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\">Nhóm 2 Hệ số Mức l­ương thực hiện\n  01/10/2004</span></p>\n</td>\n<td colspan=\"3\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">3,65</span></u><span style=\"font-size:8.0pt;color:black\"> 1.058,5</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">4,00</span></u><span style=\"font-size:8.0pt;color:black\"> 1.160,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">4,35</span></u><span style=\"font-size:8.0pt;color:black\"> 1.261,5</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">4,70</span></u><span style=\"font-size:8.0pt;color:black\"> 1.363,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">5,05</span></u><span style=\"font-size:8.0pt;color:black\"> 1.464,5</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">5,40</span></u><span style=\"font-size:8.0pt;color:black\"> 1.566,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">5,75</span></u><span style=\"font-size:8.0pt;color:black\"> 1.667,5</span></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">6,10</span></u><span style=\"font-size:8.0pt;color:black\"> 1.769,0</span></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">6,45</span></u><span style=\"font-size:8.0pt;color:black\"> 1.870,5</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">6,80</span></u><span style=\"font-size:8.0pt;color:black\"> 1.972,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><u><span style=\"font-size:8.0pt;color:black\">7,15</span></u><span style=\"font-size:\n  8.0pt;color:black\"> 2.073,5</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><u><span style=\"font-size:8.0pt;color:black\">7,50</span></u><span style=\"font-size:\n  8.0pt;color:black\"> 2.175,0</span></p>\n</td>\n<td style=\"padding:0cm 0cm 0cm 0cm\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border:solid windowtext 1.0pt;\n  border-top:none;padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><b><span style=\"font-size:8.0pt;color:black\">QNCN trung cấp</span></b></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td style=\"padding:0cm 0cm 0cm 0cm\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border:solid windowtext 1.0pt;\n  border-top:none;padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><span style=\"font-size:8.0pt;color:black\">Nhóm 1 Hệ số Mức l­ương thực\n  hiện 01/10/2004</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">3,50</span></u><span style=\"font-size:8.0pt;color:black\"> 1.015,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">3,80</span></u><span style=\"font-size:8.0pt;color:black\"> 1.102,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">4,10</span></u><span style=\"font-size:8.0pt;color:black\"> 1.189,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">4,40</span></u><span style=\"font-size:8.0pt;color:black\">   1.276,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">4,70</span></u><span style=\"font-size:8.0pt;color:black\"> 1.363,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">5,00 </span></u><span style=\"font-size:8.0pt;color:black\">1.450,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">5,30</span></u><span style=\"font-size:8.0pt;color:black\"> 1.537,0</span></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">5,60</span></u><span style=\"font-size:8.0pt;color:black\"> 1.624,0</span></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">5,90</span></u><span style=\"font-size:8.0pt;color:black\"> 1.711,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">6,20</span></u><span style=\"font-size:8.0pt;color:black\"> 1.798,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td style=\"padding:0cm 0cm 0cm 0cm\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border:solid windowtext 1.0pt;\n  border-top:none;padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><span style=\"font-size:8.0pt;color:black\">Nhóm 2 Hệ số Mức l­ương thực\n  hiện 01/10/2004</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">3,20</span></u><span style=\"font-size:8.0pt;color:black\"> 928,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">3,50</span></u><span style=\"font-size:8.0pt;color:black\"> 1.015,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">3,80</span></u><span style=\"font-size:8.0pt;color:black\"> 1.102,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">4,20</span></u><span style=\"font-size:8.0pt;color:black\"> 1.189,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">4,45</span></u><span style=\"font-size:8.0pt;color:black\"> 1.276,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">4,70</span></u><span style=\"font-size:8.0pt;color:black\"> 1.363,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">4,95</span></u><span style=\"font-size:8.0pt;color:black\"> 1.450,0</span></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">5,80</span></u><span style=\"font-size:8.0pt;color:black\"> 1.537,0</span></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">5,60</span></u><span style=\"font-size:8.0pt;color:black\"> 1.624,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">5,90</span></u><span style=\"font-size:8.0pt;color:black\"> 1.711,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td style=\"padding:0cm 0cm 0cm 0cm\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border:solid windowtext 1.0pt;\n  border-top:none;padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><b><span style=\"font-size:8.0pt;color:black\">QNCN sơ cấp</span></b></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td style=\"padding:0cm 0cm 0cm 0cm\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border:solid windowtext 1.0pt;\n  border-top:none;padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><span style=\"font-size:8.0pt;color:black\">Nhóm 1 Hệ số Mức l­ương thực\n  hiện 01/10/2004</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">3,20</span></u><span style=\"font-size:8.0pt;color:black\"> 928,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">3.45</span></u><span style=\"font-size:8.0pt;color:black\"> 1.000,5</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">3,70</span></u><span style=\"font-size:8.0pt;color:black\"> 1.073,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">3,95 </span></u><span style=\"font-size:8.0pt;color:black\">1.145,5</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><u><span style=\"font-size:8.0pt;color:black\">4,20</span></u><span style=\"font-size:\n  8.0pt;color:black\"> 1.218,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">4,45</span></u><span style=\"font-size:8.0pt;color:black\"> 1.290,5</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">4,70</span></u><span style=\"font-size:8.0pt;color:black\"> 1.363,0</span></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">4,95</span></u><span style=\"font-size:8.0pt;color:black\"> 1.435,5</span></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">5,20</span></u><span style=\"font-size:8.0pt;color:black\"> 1.508,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">5,45</span></u><span style=\"font-size:8.0pt;color:black\"> 1.580,5</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td style=\"padding:0cm 0cm 0cm 0cm\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border:solid windowtext 1.0pt;\n  border-top:none;padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><span style=\"font-size:8.0pt;color:black\">Nhóm 2 Hệ số Mức l­ương thực\n  hiện 01/10/2004</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">2,95</span></u><span style=\"font-size:8.0pt;color:black\"> 855,5</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">3,20</span></u><span style=\"font-size:8.0pt;color:black\"> 928,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">3,45</span></u><span style=\"font-size:8.0pt;color:black\"> 1.000,5</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">3,70</span></u><span style=\"font-size:8.0pt;color:black\"> 1.073,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><u><span style=\"font-size:8.0pt;color:black\">3,95</span></u><span style=\"font-size:\n  8.0pt;color:black\"> 1.145,5</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">4,20 </span></u><span style=\"font-size:8.0pt;color:black\">1.218,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">4,45</span></u><span style=\"font-size:8.0pt;color:black\"> 1.290,5</span></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">4,70</span></u><span style=\"font-size:8.0pt;color:black\"> 1.363,0</span></p>\n</td>\n<td style=\"border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">4,95</span></u><span style=\"font-size:8.0pt;color:black\"> 1.435,5</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify;text-autospace:\n  none\"><u><span style=\"font-size:8.0pt;color:black\">5,20</span></u><span style=\"font-size:8.0pt;color:black\"> 1.508,0</span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td colspan=\"2\" style=\"border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 5.4pt 0cm 5.4pt\" valign=\"top\">\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><span style=\"font-size:8.0pt;color:black\"> </span></p>\n</td>\n<td style=\"padding:0cm 0cm 0cm 0cm\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td style=\"padding:0cm 0cm 0cm 0cm\"></td>\n<td style=\"padding:0cm 0cm 0cm 0cm\"></td>\n<td style=\"padding:0cm 0cm 0cm 0cm\"></td>\n<td style=\"padding:0cm 0cm 0cm 0cm\"></td>\n<td style=\"padding:0cm 0cm 0cm 0cm\"></td>\n<td style=\"padding:0cm 0cm 0cm 0cm\"></td>\n<td style=\"padding:0cm 0cm 0cm 0cm\"></td>\n<td style=\"padding:0cm 0cm 0cm 0cm\"></td>\n<td style=\"padding:0cm 0cm 0cm 0cm\"></td>\n<td style=\"padding:0cm 0cm 0cm 0cm\"></td>\n<td style=\"padding:0cm 0cm 0cm 0cm\"></td>\n<td style=\"padding:0cm 0cm 0cm 0cm\"></td>\n<td style=\"padding:0cm 0cm 0cm 0cm\"></td>\n<td style=\"padding:0cm 0cm 0cm 0cm\"></td>\n<td style=\"padding:0cm 0cm 0cm 0cm\"></td>\n<td style=\"padding:0cm 0cm 0cm 0cm\"></td>\n<td style=\"padding:0cm 0cm 0cm 0cm\"></td>\n<td style=\"padding:0cm 0cm 0cm 0cm\"></td>\n<td style=\"padding:0cm 0cm 0cm 0cm\"></td>\n<td style=\"padding:0cm 0cm 0cm 0cm\"></td>\n<td style=\"padding:0cm 0cm 0cm 0cm\"></td>\n<td style=\"padding:0cm 0cm 0cm 0cm\"></td>\n<td style=\"padding:0cm 0cm 0cm 0cm\"></td>\n<td style=\"padding:0cm 0cm 0cm 0cm\"></td>\n<td style=\"padding:0cm 0cm 0cm 0cm\"></td>\n</tr>\n</tbody></table> [\\TABLE] b) Căn cứ vào Quyết định số 176/2004/QĐ-BQP ngày 30 tháng 12 năm 2004 của Bộ trưởng Bộ Quốc phòng về việc ban hành Quy định xếp loại, nhóm đối với quân nhân chuyên nghiệp và xếp nhóm đối với công nhân viên chức quốc phòng và tiêu chuẩn nghiệp vụ quy định cho từng chức danh của quân nhân chuyên nghiệp để quyết định xếp l­ương cho từng đối tượng theo quy định tại Thông tư này. c) Quân nhân chuyên nghiệp đã giữ bậc lương cuối cùng trong nhóm, nếu đủ tiêu chuẩn, đến thời hạn xét nâng bậc lương thì được xét hưởng phụ cấp thâm niên vượt khung theo quy định tại khoản 4 Mục IV Thông tư này.",
+                "so_hieu": "05/2005/TT-BQP",
+                "trich_yeu": "Thực hiện chế độ tiền lương quân nhân công nhân viên chức quốc phòng hưởng lương sinh hoạt phí nguồn kinh phí thuộc NSNN",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Quốc phòng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Quốc phòng"
+                ],
+                "linh_vuc": null,
+                "score": 0.009518424276693995
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 999999999670379,
+                "position": "Điều 4",
+                "dia_danh": "Trung ương",
+                "title": "Tiêu chuẩn tuyển quân",
+                "so_hieu": "36/VBHN-BQP",
+                "trich_yeu": "Năm 2025 hợp nhất Thông tư quy định tuyển chọn và gọi công dân nhập ngũ do Bộ trưởng Bộ Quốc phòng ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Quốc phòng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Quốc phòng"
+                ],
+                "linh_vuc": "Quyền dân sự",
+                "score": 0.00938582103152907
+            }
+        ]
+    },
+    {
+        "id": 22130,
+        "cau_hoi": "Nội dung chính của báo cáo đánh giá tác động môi trường là gì?",
+        "tra_loi": "Theo quy định Điều 32 Luật Bảo vệ môi trường 2020, nội dung chính của báo cáo đánh giá tác động môi trường bao gồm:\n- Xuất xứ của dự án đầu tư, chủ dự án đầu tư, cơ quan có thẩm quyền phê duyệt dự án đầu tư; căn cứ pháp lý, kỹ thuật; phương pháp đánh giá tác động môi trường và phương pháp khác được sử dụng (nếu có).\n- Sự phù hợp của dự án đầu tư với Quy hoạch bảo vệ môi trường quốc gia, quy hoạch vùng, quy hoạch tỉnh, quy định của pháp luật về bảo vệ môi trường và quy định khác của pháp luật có liên quan.\n- Đánh giá việc lựa chọn công nghệ, hạng mục công trình và hoạt động của dự án đầu tư có khả năng tác động xấu đến môi trường.\n- Điều kiện tự nhiên, kinh tế - xã hội, đa dạng sinh học; đánh giá hiện trạng môi trường; nhận dạng các đối tượng bị tác động, yếu tố nhạy cảm về môi trường nơi thực hiện dự án đầu tư; thuyết minh sự phù hợp của địa điểm lựa chọn thực hiện dự án đầu tư.\n- Nhận dạng, đánh giá, dự báo các tác động môi trường chính, chất thải phát sinh theo các giai đoạn của dự án đầu tư đến môi trường; quy mô, tính chất của chất thải; tác động đến đa dạng sinh học, di sản thiên nhiên, di tích lịch sử - văn hóa và yếu tố nhạy cảm khác; tác động do giải phóng mặt bằng, di dân, tái định cư (nếu có); nhận dạng, đánh giá sự cố môi trường có thể xảy ra của dự án đầu tư.\n- Công trình, biện pháp thu gom, lưu giữ, xử lý chất thải.\n- Biện pháp giảm thiểu tác động tiêu cực khác của dự án đầu tư đến môi trường; phương án cải tạo, phục hồi môi trường (nếu có); phương án bồi hoàn đa dạng sinh học (nếu có); phương án phòng ngừa, ứng phó sự cố môi trường.\n- Chương trình quản lý và giám sát môi trường.\n- Kết quả tham vấn.\n- Kết luận, kiến nghị và cam kết của chủ dự án đầu tư.",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "72/2020/QH14",
+                "khoan": "",
+                "dieu": "32",
+                "trich_yeu": "Luật Bảo vệ môi trường 2020",
+                "noi_dung_kem_trich_dan": "Theo quy định Điều 32 Luật Bảo vệ môi trường 2020, nội dung chính của báo cáo đánh giá tác động môi trường bao gồm:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 14,
+                "id": "dieu_15",
+                "id_document": 999999999112552,
+                "position": "Mục 1 / Phần II",
+                "dia_danh": "Trung ương",
+                "title": "Tập trung nguồn lực phấn đấu hoàn thành nhiệm vụ kế hoạch năm 2010. Triển khai Nghị quyết phiên họp Chính phủ thường kỳ tháng 8 năm 2010 Nghị quyết 33/NQ-CP ngày 3/9/2010 về đánh giá tác động xã hội của hiện tượng phụ nữ lấy chồng người nước ngoài, nhất là ở các tỉnh miền Tây Nam bộ, đề xuất các giải pháp quản lý, hạn chế những tác động tiêu cực của hiện tượng này, bảo vệ nhân phẩm phụ nữ.",
+                "so_hieu": "90/BC-LĐTBXH",
+                "trich_yeu": "Về tình hình thực hiện nhiệm vụ công tác tháng 9 và quý III, kế hoạch công tác tháng 10 năm 2010 do Bộ Lao động - Thương binh và Xã hội ban hành",
+                "loai_van_ban": "Báo cáo",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Lao động",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Lao động"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.01608118657298985
+            },
+            {
+                "index": 9,
+                "id": "dieu_10",
+                "id_document": 999999999330767,
+                "position": "Mục 9 / Phần I",
+                "dia_danh": "Trung ương",
+                "title": "Về bảo vệ tài nguyên môi trường và ứng phó với biến đổi khí hậu Trước thực trạng diễn biến phức tạp của biến đổi khí hậu, hạn hán, bão, lũ, xâm nhập mặn và các vấn đề về môi trường khác, Chính phủ đã chỉ đạo các cấp, các ngành khẩn trương hoàn thiện hệ thống pháp luật, cơ chế, chính sách có liên quan về quản lý tài nguyên, bảo vệ môi trường và ứng phó với biến đổi khí hậu, tăng trưởng xanh và phát triển bền vững. Chính phủ đã tổ chức Hội nghị trực tuyến toàn quốc về bảo vệ môi trường với mục tiêu phải thay đổi tư duy phát triển, tăng trưởng kinh tế phải gắn với bảo vệ môi trường, phát triển bền vững; kiên quyết không vì lợi ích kinh tế trước mắt mà đánh đổi môi trường, cuộc sống bình yên của người dân. Thủ tướng Chính phủ đã ban hành Chỉ thị số 25/CT-TTg ngày 31 tháng 8 năm 2016 về một số nhiệm vụ, giải pháp cấp bách về bảo vệ môi trường. Cho đến nay, Chính phủ đã ban hành, các văn bản quy định chi tiết, hướng dẫn thi hành Luật Tài nguyên và môi trường biển, hải đảo, Luật Khí tượng thủy văn và các Luật khác. Hoàn thành việc xử lý ô nhiễm dioxin tại sân bay Đà Nẵng. Đã khẩn trương, quyết liệt chỉ đạo xử lý sự cố ô nhiễm môi trường biển nghiêm trọng ở 4 tỉnh miền Trung, cùng với việc hỗ trợ khôi phục sản xuất kinh doanh, ổn định đời sống người dân. Công tác bảo vệ phát triển rừng gắn với giảm nghèo bền vững cho đồng bào dân tộc thiểu số được tích cực triển khai; kiên quyết đóng cửa rừng tự nhiên, không chuyển rừng nghèo, kiệt sang các mục đích khác và xử lý nghiêm các vụ phá rừng. Tỷ lệ che phủ rừng đạt 41,15% (kế hoạch đề ra là 41 %). Tiếp tục triển khai cấp giấy chứng nhận quyền sử dụng đất. Tăng cường quản lý, khai thác, sử dụng tài nguyên, khoáng sản gắn với bảo vệ môi trường. Thực hiện nhiều biện pháp và xử lý kiên quyết các cơ sở gây ô nhiễm môi trường nghiêm trọng, nhất là tại các khu công nghiệp chưa có hệ thống xử lý nước thải tập trung; thực hiện tốt công tác quản lý chất thải và cải thiện môi trường ô nhiễm tại các làng nghề, cụm công nghiệp có mức độ ô nhiễm nghiêm trọng; khắc phục ô nhiễm và cải thiện môi trường tại các khu kinh tế, khu công nghiệp tập trung. Tỷ lệ khu công nghiệp, khu chế xuất đang hoạt động có hệ thống xử lý nước thải tập trung đạt tiêu chuẩn môi trường là 86%, vượt chỉ tiêu đề ra (85%).",
+                "so_hieu": "458/BC-CP",
+                "trich_yeu": "Tình hình kinh tế xã hội kế hoạch phát triển kinh tế xã hội 2016 2017",
+                "loai_van_ban": "Báo cáo",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Chính phủ"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.016026625704045058
+            },
+            {
+                "index": 38,
+                "id": "dieu_39",
+                "id_document": 999999999330767,
+                "position": "Mục 8 / Phần IV",
+                "dia_danh": "Trung ương",
+                "title": "Ứng phó hiệu quả với biến đổi khí hậu, phòng chống thiên tai, khắc phục hậu quả hạn hán, xâm nhập mặn, ô nhiễm môi trường; tăng cường hiệu lực và hiệu quả quản lý tài nguyên và bảo vệ môi trường, bảo đảm phát triển bền vững Triển khai xây dựng các trạm quan trắc tài nguyên nước; giám sát việc khai thác, sử dụng tài nguyên nước, xả nước thải; theo dõi, đánh giá, dự báo tình hình suy thoái, cạn kiệt, xâm nhập mặn nguồn nước; đề xuất và triển khai thực hiện các giải pháp phòng, chống khô hạn, xâm nhập mặn, ứng phó với biến đổi khí hậu, nước biển dâng, trước mắt ưu tiên những vùng bị ảnh hưởng nặng. Mở rộng mạng lưới quan trắc môi trường nước để thu thập và quản lý đầy đủ thông tin, số liệu phục vụ kiểm soát, dự báo, khắc phục và bạn chế giảm nhẹ thiệt hại do biến đổi khí hậu gây ra. Kiểm soát chặt chẽ việc đánh giá tác động môi trường đối với các dự án đầu tư, đặc biệt sau sự cố ô nhiễm môi trường biển của Formosa. Thực hiện các biện pháp đồng bộ về cải thiện chất lượng môi trường, xử lý triệt để nguồn gây ô nhiễm, nhất là tại các làng nghề, khu, cụm công nghiệp, khu kinh tế, các lưu vực sông, vùng ven biển, cơ sở sản xuất có nguy cơ gây ô nhiễm nặng; bảo tồn đa dạng sinh học.",
+                "so_hieu": "458/BC-CP",
+                "trich_yeu": "Tình hình kinh tế xã hội kế hoạch phát triển kinh tế xã hội 2016 2017",
+                "loai_van_ban": "Báo cáo",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Chính phủ"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.015989911727616647
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 999999999112528,
+                "position": "Mục 1 / Phần I",
+                "dia_danh": "Trung ương",
+                "title": "Thể chế hóa các chủ trương, đường lối, chính sách của Đảng và Nhà nước trong lĩnh vực phòng, chống lụt, bão, đáp ứng yêu cầu phát triển kinh tế - xã hội bền vững, bảo vệ môi trường.",
+                "so_hieu": "3158/BC-BNN-TCTL",
+                "trich_yeu": "Đánh giá tác động của dự thảo nghị định về việc chấm dứt sử dụng khu phân lũ, làm chậm lũ thuộc hệ thống sông Hồng do Bộ Nông nghiệp và Phát triển nông thôn ban hành",
+                "loai_van_ban": "Báo cáo",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Tổng cục Thuế",
+                "don_vi": [
+                    "Trung ương",
+                    "Tổng cục Thuế"
+                ],
+                "linh_vuc": "Tài nguyên - Môi trường",
+                "score": 0.015826612903225807
+            },
+            {
+                "index": 21,
+                "id": "dieu_22",
+                "id_document": 999999999330767,
+                "position": "Mục 1 / Phần II",
+                "dia_danh": "Trung ương",
+                "title": "Mục tiêu tổng quát Bảo đảm ổn định kinh tế vĩ mô, tạo chuyển biến rõ rệt về cơ cấu lại nền kinh tế gắn với đổi mới mô hình tăng trưởng, nâng cao năng suất, chất lượng, hiệu quả và sức cạnh tranh, khuyến khích khởi nghiệp, phát triển doanh nghiệp, thúc đẩy tăng trưởng kinh tế. Nâng cao tính tự chủ của nền kinh tế. Bảo đảm an sinh xã hội và chăm lo đời sống nhân dân. Phát triển văn hóa, thực hiện dân chủ và công bằng xã hội. Chủ động ứng phó với biến đổi khí hậu, phòng chống thiên tai; tăng cường quản lý tài nguyên và bảo vệ môi trường. Tiếp tục hoàn thiện, nâng cao hiệu quả thực thi pháp luật; đẩy mạnh cải cách hành chính, tăng cường kỷ luật, kỷ cương. Giữ vững an ninh quốc gia, ổn định chính trị và trật tự, an toàn xã hội. Kiên quyết, kiên trì đấu tranh bảo vệ vững chắc độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ. Nâng cao hiệu quả hoạt động đối ngoại, hội nhập quốc tế, tạo môi trường hòa bình, ổn định để phát triển đất nước. Các trọng tâm trong kế hoạch phát triển kinh tế - xã hội năm 2017 gồm: - Đẩy mạnh tái cơ cấu kinh tế gắn với đổi mới mô hình tăng trưởng theo hướng nâng cao năng suất, chất lượng, hiệu quả và khả năng cạnh tranh. - Tiếp tục thực hiện 3 đột phá chiến lược, tạo cơ sở phát triển bền vững nền kinh tế. - Phát triển mạnh khoa học - công nghệ, ứng dụng tiến bộ khoa học - công nghệ của cách mạng công nghiệp lần thứ 4, là yếu tố quyết định đến tăng năng suất lao động và khả năng cạnh tranh của sản phẩm hàng hóa nước ta. - Phát triển mạnh mẽ du lịch, đưa du lịch trở thành ngành kinh tế mũi nhọn, đi đôi với phát triển thị trường nội địa. - Chủ động ứng phó hiệu quả với biến đổi khí hậu; đặc biệt khắc phục có hiệu quả tình trạng hạn hán ở Tây Nguyên, Nam Trung Bộ và hạn hán, xâm nhập mặn ở đồng bằng sông Cửu Long.",
+                "so_hieu": "458/BC-CP",
+                "trich_yeu": "Tình hình kinh tế xã hội kế hoạch phát triển kinh tế xã hội 2016 2017",
+                "loai_van_ban": "Báo cáo",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Chính phủ"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.015480769230769232
+            }
+        ]
+    }
+]

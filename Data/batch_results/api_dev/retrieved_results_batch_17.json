@@ -1,0 +1,1977 @@
+[
+    {
+        "id": 5883,
+        "cau_hoi": "Các hành vi bị cấm trong hoạt động tín ngưỡng, tôn giáo là gì?",
+        "tra_loi": "Căn cứ Điều 5 Luật Tín ngưỡng, tôn giáo 2016 có quy định cụ thể về các hành vi bị cấm trong hoạt động tín ngưỡng, tôn giáo như sau:\n(1) Phân biệt đối xử, kỳ thị vì lý do tín ngưỡng, tôn giáo.\n(2) Ép buộc, mua chuộc hoặc cản trở người khác theo hoặc không theo tín ngưỡng, tôn giáo.\n(3) Xúc phạm tín ngưỡng, tôn giáo.\n(4) Hoạt động tín ngưỡng, hoạt động tôn giáo:\n- Xâm phạm quốc phòng, an ninh, chủ quyền quốc gia, trật tự, an toàn xã hội, môi trường;\n- Xâm hại đạo đức xã hội; xâm phạm thân thể, sức khỏe, tính mạng, tài sản; xúc phạm danh dự, nhân phẩm của người khác;\n- Cản trở việc thực hiện quyền và nghĩa vụ công dân;\n- Chia rẽ dân tộc; chia rẽ tôn giáo; chia rẽ người theo tín ngưỡng, tôn giáo với người không theo tín ngưỡng, tôn giáo, giữa những người theo các tín ngưỡng, tôn giáo khác nhau.\n(5) Lợi dụng hoạt động tín ngưỡng, hoạt động tôn giáo để trục lợi.",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "02/2016/QH14",
+                "khoan": "",
+                "dieu": "5",
+                "trich_yeu": "Luật Tín ngưỡng, tôn giáo 2016",
+                "noi_dung_kem_trich_dan": "Căn cứ Điều 5 Luật Tín ngưỡng, tôn giáo 2016 có quy định cụ thể về các hành vi bị cấm trong hoạt động tín ngưỡng, tôn giáo như sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 999999999671133,
+                "position": "Điều 5 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Các hành vi bị nghiêm cấm",
+                "so_hieu": "74/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Tín ngưỡng, tôn giáo do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.012450444658737812
+            },
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 117201,
+                "position": "Điều 5 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Các hành vi bị nghiêm cấm",
+                "so_hieu": "02/2016/QH14",
+                "trich_yeu": "Tín ngưỡng tôn giáo 2016",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Nội vụ",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.012044283260164152
+            },
+            {
+                "index": 22,
+                "id": "dieu_20",
+                "id_document": 999999999555356,
+                "position": "Điều 20 / Mục 2 / Chương III",
+                "dia_danh": "tỉnh Quảng Ninh",
+                "title": "Ứng xử tại cơ sở tín ngưỡng, tôn giáo: Thành kính, trang nghiêm",
+                "so_hieu": "3504/QĐ-UBND",
+                "trich_yeu": "2022 Bộ Quy tắc ứng xử Quảng Ninh",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Quảng Ninh",
+                "don_vi": [
+                    "Quảng Ninh"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.01102402022756005
+            },
+            {
+                "index": 14,
+                "id": "dieu_15",
+                "id_document": 166170,
+                "position": "Điều 15 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Hành vi bị nghiêm cấm",
+                "so_hieu": "32/2024/QH15",
+                "trich_yeu": "Các tổ chức tín dụng 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Ngân hàng Nhà nước Việt Nam",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tiền tệ - Ngân hàng",
+                "score": 0.010998474925989054
+            },
+            {
+                "index": 14,
+                "id": "dieu_15",
+                "id_document": 999999999672559,
+                "position": "Điều 15 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Hành vi bị nghiêm cấm",
+                "so_hieu": "158/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Các tổ chức tín dụng do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Tiền tệ - Ngân hàng",
+                "score": 0.010903741840581042
+            },
+            {
+                "index": 14,
+                "id": "dieu_15",
+                "id_document": 999999999630410,
+                "position": "Điều 15 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Hành vi bị nghiêm cấm",
+                "so_hieu": "29/VBHN-VPQH",
+                "trich_yeu": "Năm 2024 hợp nhất Luật Các tổ chức tín dụng do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Tiền tệ - Ngân hàng",
+                "score": 0.010897435897435897
+            },
+            {
+                "index": 5,
+                "id": "dieu_3_dk_1",
+                "id_document": 999999999149807,
+                "position": "Điều 3 / Chương I",
+                "dia_danh": "tỉnh Bắc Ninh",
+                "title": "Giải thích từ ngữ. Các hoạt động tín ngưỡng, tôn giáo được nêu tại Quy định này bao gồm các việc sau: - Tuyên truyền đạo, hành đạo, quản đạo của tổ chức, cá nhân tôn giáo; - Thực hành giáo lý, giáo luật, lễ nghi tôn giáo của tín đồ, nhà tu hành, chức sắc tôn giáo.; - Mở lớp bồi dưỡng, tổ chức quyên góp, hoạt động từ thiện nhân đạo, in và phát hành văn hoá phẩm tôn giáo; - Tổ chức các cuộc lễ, hội nghị, đại hội, phong chức, phong phẩm, bổ nhiệm, bầu cử, suy cử, thuyên chuyển chức sắc, nhà tu hành trong tôn giáo; - Quản lý, sử dụng cơ sở thờ tự, đất đai tôn giáo; - Sửa chữa, cải tạo, nâng cấp, xây dựng mới công trình tín ngưỡng, tôn giáo (gồm Chùa, nhà thờ, nhà nguyện, thánh thất, thánh đường, tu viện, tự viện, tịnh xá, tịnh thất, niệm phật đường, đình, đền, nghè, miếu, lăng tẩm, điện, đài, tượng, bia, tháp và các công trình phụ trợ phục vụ hoạt động tín ngưỡng, tôn giáo)…",
+                "so_hieu": "69/2012/QĐ-UBND",
+                "trich_yeu": "Về Quy định chế độ trách nhiệm của Người đứng đầu cơ quan nhà nước, đơn vị địa phương trong việc thực hiện nhiệm vụ quản lý nhà nước đối với hoạt động tín ngưỡng, tôn giáo trên địa bàn tỉnh Bắc Ninh",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Bắc Ninh",
+                "don_vi": [
+                    "Bắc Ninh"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010848725742342764
+            },
+            {
+                "index": 7,
+                "id": "dieu_5_dk_1",
+                "id_document": 999999999541278,
+                "position": "Điều 5 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Các hành vi bị nghiêm cấm",
+                "so_hieu": "3710/QĐ-BGDĐT",
+                "trich_yeu": "2022 Quy chế đảm bảo An toàn thông tin mạng của Bộ Giáo dục",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Giáo dục và Đào tạo"
+                ],
+                "linh_vuc": "Công nghệ thông tin",
+                "score": 0.010788582486695694
+            },
+            {
+                "index": 9,
+                "id": "dieu_7_dk_1",
+                "id_document": 999999999588817,
+                "position": "Điều 7 / Chương I",
+                "dia_danh": "thành phố Hà Nội",
+                "title": "Các hành vi bị nghiêm cấm",
+                "so_hieu": "2223/QĐ-UBND",
+                "trich_yeu": "Năm 2023 về Quy chế bảo đảm an toàn thông tin mạng trong hoạt động của cơ quan nhà nước Thành phố Hà Nội",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND thành phố Hà Nội",
+                "don_vi": [
+                    "Hà Nội"
+                ],
+                "linh_vuc": "Công nghệ thông tin",
+                "score": 0.010787878787878787
+            },
+            {
+                "index": 6,
+                "id": "dieu_7",
+                "id_document": 163727,
+                "position": "Điều 7 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Các hành vi bị cấm trong hoạt động thông tin tín dụng",
+                "so_hieu": "15/2023/TT-NHNN",
+                "trich_yeu": "Quy định về hoạt động thông tin tín dụng của Ngân hàng Nhà nước Việt Nan",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+                "don_vi": [
+                    "Ngân hàng Nhà nước Việt Nam",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Tiền tệ - Ngân hàng",
+                "score": 0.010688753269398431
+            },
+            {
+                "index": 6,
+                "id": "dieu_4_dk_1",
+                "id_document": 146185,
+                "position": "Điều 4 / Chương I",
+                "dia_danh": "tỉnh Quảng Nam",
+                "title": "Các hành vi bị cấm trong hoạt động du lịch",
+                "so_hieu": "20/2020/QĐ-UBND",
+                "trich_yeu": "Phát triển du lịch tại Khu Dự trữ sinh quyển Cù Lao Chàm Quảng Nam",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Quảng Nam",
+                "don_vi": [
+                    "Quảng Nam"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.010597701149425287
+            },
+            {
+                "index": 10,
+                "id": "dieu_11",
+                "id_document": 27327,
+                "position": "Điều 11 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Các hành vi bị nghiêm cấm",
+                "so_hieu": "05/2011/QH13",
+                "trich_yeu": "Cơ yếu 2011",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": "Lĩnh vực khác",
+                "score": 0.010556499575191162
+            },
+            {
+                "index": 7,
+                "id": "dieu_5_dk_1",
+                "id_document": 115311,
+                "position": "Điều 5 / Chương I",
+                "dia_danh": "tỉnh Lai Châu",
+                "title": "Các hành vi bị nghiêm cấm",
+                "so_hieu": "04/2016/QĐ-UBND",
+                "trich_yeu": "An toàn an ninh thông tin ứng dụng công nghệ thông tin Lai Châu 2016",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Lai Châu",
+                "don_vi": [
+                    "Lai Châu"
+                ],
+                "linh_vuc": "Công nghệ thông tin",
+                "score": 0.010555555555555556
+            },
+            {
+                "index": 5,
+                "id": "dieu_6",
+                "id_document": 113088,
+                "position": "Điều 6 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Các hành vi bị nghiêm cấm",
+                "so_hieu": "96/2016/NĐ-CP",
+                "trich_yeu": "Hoạt động kinh doanh ngành nghề đầu tư kinh doanh điều kiện an ninh trật tự",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công an"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.010398550724637681
+            },
+            {
+                "index": 6,
+                "id": "dieu_4_dk_1",
+                "id_document": 137783,
+                "position": "Điều 4 / Chương I",
+                "dia_danh": "tỉnh Phú Yên",
+                "title": "Các hành vi bị cấm",
+                "so_hieu": "30/2019/QĐ-UBND",
+                "trich_yeu": "Văn hóa công sở tại các cơ quan hành chính tỉnh Phú Yên",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Phú Yên",
+                "don_vi": [
+                    "Phú Yên"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010304375396322129
+            },
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 123878,
+                "position": "Điều 5 / Chương I",
+                "dia_danh": "Trung ương",
+                "title": "Các hành vi bị nghiêm cấm",
+                "so_hieu": "66/2017/NĐ-CP",
+                "trich_yeu": "Điều kiện kinh doanh thiết bị phần mềm ngụy trang ghi âm ghi hình định vị",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Công an",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Thương mại",
+                "score": 0.01024428684003152
+            },
+            {
+                "index": 14,
+                "id": "dieu_12_dk_1",
+                "id_document": 128319,
+                "position": "Điều 12 / Chương II",
+                "dia_danh": "thành phố Hồ Chí Minh",
+                "title": "Các hành vi bị nghiêm cấm",
+                "so_hieu": "03/2018/QĐ-UBND",
+                "trich_yeu": "Quy chế đảm bảo an toàn thông tin cơ quan nhà nước Hồ Chí Minh",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND thành phố Hồ Chí Minh",
+                "don_vi": [
+                    "TP. Hồ Chí Minh"
+                ],
+                "linh_vuc": "Công nghệ thông tin",
+                "score": 0.010024203307785397
+            },
+            {
+                "index": 12,
+                "id": "dieu_10_dk_1",
+                "id_document": 95625,
+                "position": "Điều 10 / Chương II",
+                "dia_danh": "tỉnh Bạc Liêu",
+                "title": "Các hành vi bị nghiêm cấm",
+                "so_hieu": "23/2015/QĐ-UBND",
+                "trich_yeu": "An toàn an ninh thông tin thuộc lĩnh vực công nghệ thông tin Bạc Liêu",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Bạc Liêu",
+                "don_vi": [
+                    "Bạc Liêu"
+                ],
+                "linh_vuc": "Công nghệ thông tin",
+                "score": 0.009878734102336587
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 999999999611612,
+                "position": "Mục 3 / Phần I",
+                "dia_danh": "Trung ương",
+                "title": "Không để xảy ra hoạt động tín ngưỡng, tôn giáo trái pháp luật; hoạt động lợi dụng tín ngưỡng, tôn giáo, dân tộc tranh chấp, khiếu kiện phức tạp về an ninh, trật tự. Không để xảy ra hoạt động tín ngưỡng, tôn giáo trái pháp luật: Là chủ động triển khai thực hiện các biện pháp phòng ngừa, quản lý nhà nước về hoạt động tín ngưỡng, tôn giáo theo đúng quy định của Luật tín ngưỡng, tôn giáo; không để xảy ra các hoạt động trái quy định, vi phạm các điều cấm được quy định tại Điều 5 Luật Tín ngưỡng tôn giáo năm 2016. Hoạt động lợi dụng tín ngưỡng, tôn giáo, dân tộc tranh chấp, khiếu kiện phức tạp về ANTT: Là hoạt động lợi dụng các quyền tự do dân chủ, nhân quyền trong các lĩnh vực tín ngưỡng, tôn giáo, dân tộc để thực hiện hoặc xúi giục người khác tổ chức các hoạt động tranh chấp, khiếu kiện phức tạp về ANTT.",
+                "so_hieu": "12/HD-BCA-V05",
+                "trich_yeu": "Năm 2024 thực hiện Tiêu chí số 4 về \"An ninh, trật tự đô thị\" theo Quyết định 04/2022/QĐ-TTg Quy định tiêu chí, trình tự, thủ tục xét, công nhận đạt chuẩn đô thị văn minh do Bộ Công an ban hành",
+                "loai_van_ban": "Hướng dẫn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Công an",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công an"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.009817444219066936
+            },
+            {
+                "index": 15,
+                "id": "dieu_1_1_dk_1",
+                "id_document": 107222,
+                "position": "Điều 1 / Chương III",
+                "dia_danh": "tỉnh An Giang",
+                "title": "Các hành vi bị nghiêm cấm:",
+                "so_hieu": "30/2016/QĐ-UBND",
+                "trich_yeu": "Quản lý điểm truy nhập Internet công cộng trò chơi điện tử An Giang",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh An Giang",
+                "don_vi": [
+                    "An Giang"
+                ],
+                "linh_vuc": "Công nghệ thông tin",
+                "score": 0.00976593319891295
+            }
+        ]
+    },
+    {
+        "id": 24027,
+        "cau_hoi": "Học sinh lớp 9 có kết quả học tập trong học kì 2 đạt mức tốt khi nào?",
+        "tra_loi": "Căn cứ khoản 2 Điều 9 Thông tư 22/2021/TT-BGDĐT quy định đánh giá kết quả học tập của học sinh:\nĐiều 9. Đánh giá kết quả học tập của học sinh\n[...]\n2. Kết quả học tập trong từng học kì, cả năm học\nĐối với môn học đánh giá bằng nhận xét kết hợp đánh giá bằng điểm số, ĐTBmhk được sử dụng để đánh giá kết quả học tập của học sinh trong từng học kì, ĐTBmcn được sử dụng để đánh giá kết quả học tập của học sinh trong cả năm học. Kết quả học tập của học sinh trong từng học kì và cả năm học được đánh giá theo 01 (một) trong 04 (bốn) mức: Tốt, Khá, Đạt, Chưa đạt.\na) Mức Tốt:\n- Tất cả các môn học đánh giá bằng nhận xét được đánh giá mức Đạt.\n- Tất cả các môn học đánh giá bằng nhận xét kết hợp đánh giá bằng điểm số có ĐTBmhk, ĐTBmcn từ 6,5 điểm trở lên, trong đó có ít nhất 06 môn học có ĐTBmhk, ĐTBmcn đạt từ 8,0 điểm trở lên.\nb) Mức Khá:\n- Tất cả các môn học đánh giá bằng nhận xét được đánh giá mức Đạt.\n- Tất cả các môn học đánh giá bằng nhận xét kết hợp đánh giá bằng điểm số có ĐTBmhk, ĐTBmcn từ 5,0 điểm trở lên, trong đó có ít nhất 06 môn học có ĐTBmhk, ĐTBmcn đạt từ 6,5 điểm trở lên.\nc) Mức Đạt:\n- Có nhiều nhất 01 (một) môn học đánh giá bằng nhận xét được đánh giá mức Chưa đạt.\n- Có ít nhất 06 (sáu) môn học đánh giá bằng nhận xét kết hợp đánh giá bằng điểm số có ĐTBmhk, ĐTBmcn từ 5,0 điểm trở lên; không có môn học nào có ĐTBmhk, ĐTBmcn dưới 3,5 điểm.\nd) Mức Chưa đạt: Các trường hợp còn lại.\n[...]\nTheo quy định trên, học sinh lớp 9 có kết quả học tập trong học kì 2 đạt mức tốt khi đủ các điều kiện sau:\n- Tất cả các môn học đánh giá bằng nhận xét được đánh giá mức Đạt.\n- Tất cả các môn học đánh giá bằng nhận xét kết hợp đánh giá bằng điểm số có ĐTBmhk, ĐTBmcn từ 6,5 điểm trở lên, trong đó có ít nhất 06 môn học có ĐTBmhk, ĐTBmcn đạt từ 8,0 điểm trở lên.",
+        "trich_dan": [
+            {
+                "loai_vb": "Thông tư",
+                "so_hieu": "22/2021/TT-BGDĐT",
+                "khoan": "2",
+                "dieu": "9",
+                "trich_yeu": "Thông tư 22/2021/TT-BGDĐT",
+                "noi_dung_kem_trich_dan": "Căn cứ khoản 2 Điều 9 Thông tư 22/2021/TT-BGDĐT quy định đánh giá kết quả học tập của học sinh:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 31,
+                "id": "dieu_32",
+                "id_document": 153460,
+                "position": "Điều 32 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Xếp loại kết quả học tập",
+                "so_hieu": "04/2022/TT-BLĐTBXH",
+                "trich_yeu": "Tổ chức đào tạo trình độ trung cấp cao đẳng theo niên chế",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Lao động - Thương binh và Xã hội",
+                "don_vi": [
+                    "Bộ Lao động - Thương Binh và Xã hội",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.012985671872983091
+            },
+            {
+                "index": 20,
+                "id": "dieu_21",
+                "id_document": 153460,
+                "position": "Điều 21 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Xếp loại kết quả học tập",
+                "so_hieu": "04/2022/TT-BLĐTBXH",
+                "trich_yeu": "Tổ chức đào tạo trình độ trung cấp cao đẳng theo niên chế",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Lao động - Thương binh và Xã hội",
+                "don_vi": [
+                    "Bộ Lao động - Thương Binh và Xã hội",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.012723809523809523
+            },
+            {
+                "index": 8,
+                "id": "dieu_9",
+                "id_document": 150073,
+                "position": "Điều 9 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Đánh giá kết quả học tập của học sinh",
+                "so_hieu": "22/2021/TT-BGDĐT",
+                "trich_yeu": "Đánh giá học sinh trung học cơ sở",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.011853774605234695
+            },
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 150073,
+                "position": "Điều 8 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Đánh giá kết quả rèn luyện của học sinh",
+                "so_hieu": "22/2021/TT-BGDĐT",
+                "trich_yeu": "Đánh giá học sinh trung học cơ sở",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.011615360203110124
+            },
+            {
+                "index": 20,
+                "id": "dieu_23",
+                "id_document": 999999999606490,
+                "position": "Điều 23 / Mục 1 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Kiểm tra, thi, đánh giá kết quả học tập và xét công nhận tốt nghiệp",
+                "so_hieu": "1548/VBHN-BLĐTBXH",
+                "trich_yeu": "Năm 2024 hợp nhất Thông tư quy định về Điều lệ trung tâm giáo dục nghề nghiệp do Bộ Lao động - Thương binh và Xã hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Lao động - Thương binh và Xã hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Lao động - Thương binh và Xã hội"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.01147945205479452
+            },
+            {
+                "index": 8,
+                "id": "dieu_9",
+                "id_document": 153190,
+                "position": "Điều 9 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Đánh giá kết quả học tập của học viên",
+                "so_hieu": "43/2021/TT-BGDĐT",
+                "trich_yeu": "43/2021/TT-BGDĐt đánh giá học viên giáo dục thường xuyên cấp trung học cơ sở",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.011458223022344593
+            },
+            {
+                "index": 16,
+                "id": "dieu_17",
+                "id_document": 999999999205225,
+                "position": "Mục 2 / Phần IV",
+                "dia_danh": "Trung ương",
+                "title": "Đánh giá định kì kết quả học tập Đánh giá định kì kết quả học tập các môn Tiếng Việt, Toán, Khoa học, Lịch sử và Địa lí được tiến hành vào cuối học kì I và cuối năm học bằng bài kiểm tra định kì. Đề kiểm tra định kì gồm các câu hỏi/bài tập được thiết kế theo các mức độ: - Mức 1: học sinh nhận biết hoặc nhớ, nhắc lại đúng kiến thức đã học khi được yêu cầu; diễn đạt đúng kiến thức hoặc mô tả đúng kĩ năng đã học bằng ngôn ngữ theo cách của riêng mình và áp dụng trực tiếp kiến thức, kĩ năng đã biết để giải quyết các tình huống/vấn đề trong học tập. - Mức 2: học sinh kết nối và sắp xếp lại các kiến thức, kĩ năng đã học để giải quyết thành công tình huống/vấn đề mới, tương tự tình huống/vấn đề đã học. - Mức 3: học sinh vận dụng các kiến thức, kĩ năng để giải quyết các tình huống/vấn đề mới, không giống với những tình huống/vấn đề đã được hướng dẫn hay đưa ra những phản hồi hợp lí trước một tình huống/vấn đề mới trong học tập hoặc trong cuộc sống. Kết quả kiểm tra định kì phản ánh mức độ đạt được kiến thức, kĩ năng và năng lực môn học của học sinh, được đánh giá thông qua hình thức cho điểm (thang điểm 10) kết hợp với sửa lỗi, nhận xét những ưu điểm, hạn chế và góp ý cho học sinh.",
+                "so_hieu": "5737/BGDĐT-GDTH",
+                "trich_yeu": "Năm 2013 về Hướng dẫn thí điểm đánh giá học sinh tiểu học Mô hình trường học mới Việt Nam do Bộ Giáo dục và Đào tạo ban hành",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Giáo dục và Đào tạo"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.011341016238868518
+            },
+            {
+                "index": 16,
+                "id": "dieu_14_dk_1",
+                "id_document": 999999999391941,
+                "position": "Điều 14 / Chương IV",
+                "dia_danh": "tỉnh Ninh Thuận",
+                "title": "Đánh giá kết quả học tập",
+                "so_hieu": "1170/QĐ-UBND",
+                "trich_yeu": "2018 Chương trình đào tạo giáo viên dạy tiếng Raglai Ninh Thuận",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Ninh Thuận",
+                "don_vi": [
+                    "Ninh Thuận"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.010848198034219148
+            },
+            {
+                "index": 16,
+                "id": "dieu_14_dk_1",
+                "id_document": 71700,
+                "position": "Điều 14 / Chương IV",
+                "dia_danh": "tỉnh Lâm Đồng",
+                "title": "Đánh giá kết quả học tập",
+                "so_hieu": "26/2010/QĐ-UBND",
+                "trich_yeu": "Về Quy định Chương trình đào tạo giáo viên dạy tiếng Kơ Ho (có chữ viết) của tỉnh Lâm Đồng",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Lâm Đồng",
+                "don_vi": [
+                    "Lâm Đồng"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.010755779135225775
+            },
+            {
+                "index": 10,
+                "id": "dieu_11",
+                "id_document": 999999999181069,
+                "position": "Mục 4 / Phần I",
+                "dia_danh": "thành phố Đà Nẵng",
+                "title": "Triển khai Chương trình đánh giá quốc gia kết quả học tập của học sinh lớp 9 năm học 2012-2013 ở các môn Toán, Ngữ văn, Sinh học và Tiếng Anh.",
+                "so_hieu": "3779/SGDĐT-CNTT-KT&KĐ",
+                "trich_yeu": "Hướng dẫn thực hiện Nhiệm vụ Khảo thí và Kiểm định chất lượng giáo dục năm học 2012-2013 do Sở Giáo dục và Đào tạo thành phố Đà Nẵng ban hành",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Sở Giáo dục và Đào tạo thành phố Đà Nẵng",
+                "don_vi": [
+                    "Đà Nẵng"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.010706932052161977
+            },
+            {
+                "index": 12,
+                "id": "dieu_10_dk_1",
+                "id_document": 160579,
+                "position": "Điều 10 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Đánh giá kết quả học tập theo học kỳ, năm học",
+                "so_hieu": "07/2023/TT-BGDĐT",
+                "trich_yeu": "Quy chế đào tạo trình độ cao đẳng ngành Giáo dục Mầm non",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.01065040650406504
+            },
+            {
+                "index": 16,
+                "id": "dieu_14_dk_1",
+                "id_document": 71699,
+                "position": "Điều 14 / Chương IV",
+                "dia_danh": "tỉnh Lâm Đồng",
+                "title": "Đánh giá kết quả học tập",
+                "so_hieu": "23/2010/QĐ-UBND",
+                "trich_yeu": "Về Quy định Chương trình đào tạo giáo viên dạy tiếng Chu Ru (có chữ viết) của tỉnh Lâm Đồng",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Lâm Đồng",
+                "don_vi": [
+                    "Lâm Đồng"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.01063231850117096
+            },
+            {
+                "index": 11,
+                "id": "dieu_10_dk_1",
+                "id_document": 999999999263405,
+                "position": "Điều 10 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Đánh giá định kì kết quả học tập",
+                "so_hieu": "118/BGDĐT-GDTX",
+                "trich_yeu": "2015 đổi mới căn bản toàn diện giáo dục đào tạo trung tâm học tập cộng đồng",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Giáo dục và Đào tạo"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.010580645161290323
+            },
+            {
+                "index": 7,
+                "id": "dieu_8",
+                "id_document": 153190,
+                "position": "Điều 8 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Đánh giá kết quả rèn luyện của học viên",
+                "so_hieu": "43/2021/TT-BGDĐT",
+                "trich_yeu": "43/2021/TT-BGDĐt đánh giá học viên giáo dục thường xuyên cấp trung học cơ sở",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.010580011335726431
+            },
+            {
+                "index": 9,
+                "id": "dieu_10",
+                "id_document": 132617,
+                "position": "Điều 10 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Đánh giá kết quả học tập",
+                "so_hieu": "10/2018/TT-BLĐTBXH",
+                "trich_yeu": "Quy định chương trình, tổ chức dạy học và đánh giá kết quả học tập môn Giáo dục quốc phòng và an ninh thuộc khối các môn học chung trong chương trình đào tạo trình độ trung cấp, trình độ cao đẳng",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Lao động - Thương binh và Xã hội",
+                "don_vi": [
+                    "Bộ Lao động - Thương Binh và Xã hội",
+                    "Trung ương"
+                ],
+                "linh_vuc": null,
+                "score": 0.010413396127681843
+            },
+            {
+                "index": 10,
+                "id": "dieu_11_dk_1",
+                "id_document": 999999999225950,
+                "position": "Điều 11 / Mục 1 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Tiêu chí đánh giá kết quả học tập Kết quả học tập của học sinh được đánh giá theo các tiêu chí sau:",
+                "so_hieu": "1804/BGDĐT-GDCN",
+                "trich_yeu": "Năm 2014 xin ý kiến góp ý Dự thảo Thông tư về Quy chế đào tạo trung cấp chuyên nghiệp do Bộ Giáo dục và Đào tạo ban hành",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Giáo dục và Đào tạo"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.010323853361828046
+            },
+            {
+                "index": 12,
+                "id": "dieu_10_dk_1",
+                "id_document": 147704,
+                "position": "Điều 10 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Đánh giá kết quả học tập theo học kỳ, năm học",
+                "so_hieu": "08/2021/TT-BGDĐT",
+                "trich_yeu": "Quy chế đào tạo trình độ đại học",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.01024428684003152
+            },
+            {
+                "index": 15,
+                "id": "dieu_13_dk_1",
+                "id_document": 22025,
+                "position": "Điều 13",
+                "dia_danh": "Trung ương",
+                "title": "Đánh giá, xếp loại kết quả học tập và hạnh kiểm của học viên.",
+                "so_hieu": "07/2002/QĐ-BGDĐT",
+                "trich_yeu": "Về tổ chức hình thức tự học có hướng dẫn đối với bổ túc trung học do Bộ trưởng Bộ Giáo dục và đào tạo ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Giáo dục và Đào tạo"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.010167464114832535
+            },
+            {
+                "index": 23,
+                "id": "dieu_21_dk_1",
+                "id_document": 24044,
+                "position": "Điều 21 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Kiểm tra, đánh giá, xếp loại kết quả học tập",
+                "so_hieu": "44/2008/QĐ-BGDĐT",
+                "trich_yeu": "Về Quy chế tổ chức và hoạt động của Trung tâm kỹ thuật tổng hợp – hướng nghiệp do Bộ trưởng Bộ Giáo dục và Đào tạo ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Giáo dục và Đào tạo"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.010120967741935483
+            },
+            {
+                "index": 12,
+                "id": "dieu_11",
+                "id_document": 50259,
+                "position": "Điều 11 / Chương III",
+                "dia_danh": "tỉnh Quảng Nam",
+                "title": "Trách nhiệm của học viên",
+                "so_hieu": "13/2014/QĐ-UBND",
+                "trich_yeu": "Ban hành quy định về chính sách hỗ trợ đào tạo, quản lý và bố trí công tác đối với Học sinh tốt nghiệp Trung học phổ thông được cử đi đào tạo Đại học ở nước ngoài",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Quảng Nam",
+                "don_vi": [
+                    "Quảng Nam"
+                ],
+                "linh_vuc": null,
+                "score": 0.010070306038047976
+            }
+        ]
+    },
+    {
+        "id": 11406,
+        "cau_hoi": "Quyền và nghĩa vụ của nhà giáo được quy định như thế nào?",
+        "tra_loi": "Căn cứ theo Điều 69, Điều 70 Luật Giáo dục 2019 quy định về nhiệm vụ và quyền của nhà giáo như sau:\n- Nhiệm vụ của nhà giáo\n+ Giảng dạy, giáo dục theo mục tiêu, nguyên lý giáo dục, thực hiện đầy đủ và có chất lượng chương trình giáo dục.\n+ Gương mẫu thực hiện nghĩa vụ công dân, điều lệ nhà trường, quy tắc ứng xử của nhà giáo.\n+ Giữ gìn phẩm chất, uy tín, danh dự của nhà giáo; tôn trọng, đối xử công bằng với người học; bảo vệ các quyền, lợi ích chính đáng của người học.\n+ Học tập, rèn luyện để nâng cao phẩm chất đạo đức, trình độ chính trị, chuyên môn, nghiệp vụ, đổi mới phương pháp giảng dạy, nêu gương tốt cho người học.\n- Quyền của nhà giáo\n+ Được giảng dạy theo chuyên môn đào tạo.\n+ Được đào tạo, bồi dưỡng nâng cao trình độ chính trị, chuyên môn, nghiệp vụ.\n+ Được hợp đồng thỉnh giảng, nghiên cứu khoa học tại cơ sở giáo dục khác hoặc cơ sở nghiên cứu khoa học.\n+ Được tôn trọng, bảo vệ nhân phẩm, danh dự và thân thể.\n+ Được nghỉ hè theo quy định của Chính phủ và các ngày nghỉ khác theo quy định của pháp luật.",
+        "trich_dan": [
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "43/2019/QH14",
+                "khoan": "",
+                "dieu": "69",
+                "trich_yeu": "Luật Giáo dục 2019",
+                "noi_dung_kem_trich_dan": "Căn cứ theo Điều 69, Điều 70 Luật Giáo dục 2019 quy định về nhiệm vụ và quyền của nhà giáo như sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 27,
+                "id": "dieu_25_dk_1",
+                "id_document": 999999999153976,
+                "position": "Điều 25 / Chương V",
+                "dia_danh": "tỉnh Ninh Bình",
+                "title": "Nhiệm vụ và quyền của người học",
+                "so_hieu": "09/2009/QĐ-UBND",
+                "trich_yeu": "Về Quy chế tổ chức và hoạt động của Trường Cao Đẳng Y tế Ninh Bình",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Ninh Bình",
+                "don_vi": [
+                    "Ninh Bình"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.015584415584415584
+            },
+            {
+                "index": 24,
+                "id": "dieu_22_dk_1",
+                "id_document": 999999999234898,
+                "position": "Điều 22 / Chương IV",
+                "dia_danh": "tỉnh Sơn La",
+                "title": "Nhiệm vụ và quyền của người học",
+                "so_hieu": "938/QĐ-UBND",
+                "trich_yeu": "Năm 2014 phê duyệt Quy chế tổ chức và hoạt động của trường Cao đẳng Nông lâm Sơn La",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Sơn La",
+                "don_vi": [
+                    "Sơn La"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.014888010540184453
+            },
+            {
+                "index": 19,
+                "id": "dieu_17_dk_1",
+                "id_document": 168162,
+                "position": "Điều 17 / Chương IV",
+                "dia_danh": "tỉnh Trà Vinh",
+                "title": "Quyền lợi, nghĩa vụ",
+                "so_hieu": "12/2024/QĐ-UBND",
+                "trich_yeu": "Quy định về quản lý, sử dụng đối với người hoạt động không chuyên trách ở cấp xã trên địa bàn tỉnh Trà Vinh",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Trà Vinh",
+                "don_vi": [
+                    "Trà Vinh"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.014872224549643903
+            },
+            {
+                "index": 10,
+                "id": "dieu_9_dk_1",
+                "id_document": 171045,
+                "position": "Điều 9 / Chương IV",
+                "dia_danh": "tỉnh Quảng Trị",
+                "title": "Quyền lợi, nghĩa vụ",
+                "so_hieu": "25/2024/QĐ-UBND",
+                "trich_yeu": "Về Quy định việc quản lý, sử dụng người hoạt động không chuyên trách ở xã, phường, thị trấn trên địa bàn tỉnh Quảng Trị",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Quảng Trị",
+                "don_vi": [
+                    "Quảng Trị"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.014183891660727015
+            },
+            {
+                "index": 31,
+                "id": "dieu_29_dk_1",
+                "id_document": 144125,
+                "position": "Điều 29 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Quyền của giáo viên, nhân viên",
+                "so_hieu": "32/2020/TT-BGDĐT",
+                "trich_yeu": "Điều lệ trường trung học cơ sở trường trung học phổ thông",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Giáo dục và Đào tạo",
+                "don_vi": [
+                    "Bộ Giáo dục và Đào tạo",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.013470919324577862
+            },
+            {
+                "index": 22,
+                "id": "dieu_20",
+                "id_document": 65599,
+                "position": "Điều 20 / Chương V",
+                "dia_danh": "tỉnh Hà Tĩnh",
+                "title": "Nhiệm vụ và quyền của người học",
+                "so_hieu": "673/QĐ-UBND",
+                "trich_yeu": "Về việc phê duyệt “Quy chế tổ chức và hoạt động của Trường Cao đẳng y tế Hà Tĩnh”",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Hà Tĩnh",
+                "don_vi": [
+                    "Hà Tĩnh"
+                ],
+                "linh_vuc": null,
+                "score": 0.013350828276201411
+            },
+            {
+                "index": 273,
+                "id": "dieu_274",
+                "id_document": 95942,
+                "position": "Điều 274 / Mục 1 / Chương XV",
+                "dia_danh": "Trung ương",
+                "title": "Nghĩa vụ Nghĩa vụ là việc mà theo đó, một hoặc nhiều chủ thể (sau đây gọi chung là bên có nghĩa vụ) phải chuyển giao vật, chuyển giao quyền, trả tiền hoặc giấy tờ có giá, thực hiện công việc hoặc không được thực hiện công việc nhất định vì lợi ích của một hoặc nhiều chủ thể khác (sau đây gọi chung là bên có quyền).",
+                "so_hieu": "91/2015/QH13",
+                "trich_yeu": "Dân sự 2015",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Quyền dân sự",
+                "score": 0.012940355772584584
+            },
+            {
+                "index": 71,
+                "id": "dieu_72",
+                "id_document": 999999999672447,
+                "position": "Điều 72 / Mục 1 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Nghĩa vụ và quyền giáo dục con",
+                "so_hieu": "121/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Hôn nhân và gia đình do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.012802197802197803
+            },
+            {
+                "index": 11,
+                "id": "dieu_9_dk_1",
+                "id_document": 167345,
+                "position": "Điều 9 / Chương IV",
+                "dia_danh": "tỉnh Kon Tum",
+                "title": "Quyền lợi, nghĩa vụ",
+                "so_hieu": "24/2024/QĐ-UBND",
+                "trich_yeu": "Về Quy định cụ thể việc quản lý, sử dụng người hoạt động không chuyên trách ở xã, phường, thị trấn trên địa bàn tỉnh Kon Tum",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Kon Tum",
+                "don_vi": [
+                    "Kon Tum"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012751779494169318
+            },
+            {
+                "index": 20,
+                "id": "dieu_18_dk_1",
+                "id_document": 999999999165648,
+                "position": "Điều 18 / Chương IV",
+                "dia_danh": "tỉnh Bình Thuận",
+                "title": "Giáo viên.",
+                "so_hieu": "2682/QĐ-UBND",
+                "trich_yeu": "Năm 2011 Quy chế tổ chức và hoạt động của Trung tâm học tập cộng đồng tại các xã, phường, thị trấn trên địa bàn tỉnh Bình Thuận",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Bình Thuận",
+                "don_vi": [
+                    "Bình Thuận"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.012670565302144249
+            },
+            {
+                "index": 11,
+                "id": "dieu_9_dk_1",
+                "id_document": 999999999607968,
+                "position": "Điều 9 / Chương IV",
+                "dia_danh": "tỉnh Quảng Nam",
+                "title": "Quyền lợi, nghĩa vụ",
+                "so_hieu": "06/2024/QĐ-UBND",
+                "trich_yeu": "Quy định về quản lý, sử dụng đối với người hoạt động không chuyên trách ở xã, phường, thị trấn trên địa bàn tỉnh Quảng Nam",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Quảng Nam",
+                "don_vi": [
+                    "Quảng Nam"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012588652482269504
+            },
+            {
+                "index": 71,
+                "id": "dieu_72",
+                "id_document": 36870,
+                "position": "Điều 72 / Mục 1 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Nghĩa vụ và quyền giáo dục con",
+                "so_hieu": "52/2014/QH13",
+                "trich_yeu": "Hôn nhân và gia đình 2014",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Quyền dân sự",
+                "score": 0.012337962962962964
+            },
+            {
+                "index": 17,
+                "id": "dieu_15_dk_1",
+                "id_document": 169030,
+                "position": "Điều 15 / Chương V",
+                "dia_danh": "tỉnh Cao Bằng",
+                "title": "Quyền lợi, nghĩa vụ",
+                "so_hieu": "26/2024/QĐ-UBND",
+                "trich_yeu": "Về Quy định việc quản lý, sử dụng người hoạt động không chuyên trách ở xã, phường, thị trấn trên địa bàn tỉnh Cao Bằng",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Cao Bằng",
+                "don_vi": [
+                    "Cao Bằng"
+                ],
+                "linh_vuc": "Bộ máy hành chính",
+                "score": 0.012049689440993787
+            },
+            {
+                "index": 23,
+                "id": "dieu_21_dk_1",
+                "id_document": 14088,
+                "position": "Điều 21",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ và quyền hạn của người học",
+                "so_hieu": "25/2007/QĐ-BCN",
+                "trich_yeu": "Về Quy chế Tổ chức và hoạt động của Trường Cao đẳng Công nghiệp Thực phẩm thành phố Hồ Chí Minh do Bộ trưởng Bộ Công nghiệp Ban hành.",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Công nghiệp",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công thương"
+                ],
+                "linh_vuc": null,
+                "score": 0.01194959229058562
+            },
+            {
+                "index": 46,
+                "id": "dieu_44",
+                "id_document": 64948,
+                "position": "Điều 44 / Chương VIII",
+                "dia_danh": "tỉnh Hà Tĩnh",
+                "title": "Nhiệm vụ và quyền của người học Nhiệm vụ và quyền của người học được quy định tại Điều 74 và Điều 75 của Luật Giáo dục 2005. Nghĩa vụ của người học được quy định tại Điểu 76 của Luật Giáo dục. Ngoài ra, người học còn có các nhiệm vụ, quyền lợi và trách nhiệm sau:",
+                "so_hieu": "07/2008/QĐ-UBND",
+                "trich_yeu": "V/v ban hành “Quy chế tổ chức và hoạt động” của Trường Đại học Hà Tĩnh”",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Hà Tĩnh",
+                "don_vi": [
+                    "Hà Tĩnh"
+                ],
+                "linh_vuc": null,
+                "score": 0.011594202898550725
+            },
+            {
+                "index": 25,
+                "id": "dieu_23_dk_1",
+                "id_document": 99999999933906,
+                "position": "Điều 23",
+                "dia_danh": "thành phố Hồ Chí Minh",
+                "title": "Nhiệm vụ và quyền hạn của sinh viên – học sinh : Sinh viên, học sinh trong nhà trường có nghĩa vụ và quyền lợi theo những quy định của Điều 74, 75 của Luật Giáo dục và các quy định do Hội đồng quản trị, Ban Giám hiệu nhà trường. Ngoài ra, sinh viên có các nhiệm vụ và quyền như sau :",
+                "so_hieu": "30/2005/QĐ-UB",
+                "trich_yeu": "Về Quy chế tổ chức và hoạt động của Trường Đại học Bán công Tôn Đức Thắng do Ủy ban nhân dân Thành phố Hồ Chí Minh ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND thành phố Hồ Chí Minh",
+                "don_vi": [
+                    "TP. Hồ Chí Minh"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.011472536034281262
+            },
+            {
+                "index": 20,
+                "id": "dieu_18_dk_1",
+                "id_document": 15916,
+                "position": "Điều 18",
+                "dia_danh": "Trung ương",
+                "title": "Giảng viên, giáo viên (gọi chung là nhà giáo) bao gồm những người thuộc biên chế của Trường, làm công tác giảng dạy và những cán bộ kinh tế - kỹ thuật, cán bộ quản lý làm việc trong và ngoài Trường tham gia giảng dạy theo chế độ kiêm nhiệm, có năng lực sư phạm, đạt tiêu chuẩn chuyên môn theo quy định của Bộ Giáo dục và Đào tạo, Bộ Lao động - Thương binh và Xã hội, có khả năng giảng dạy lý thuyết và thực hành các môn học bậc cao đẳng và thấp hơn. Nhà giáo có các nhiệm vụ và quyền hạn sau:",
+                "so_hieu": "17/2006/QĐ-BCN",
+                "trich_yeu": "Quy chế Tổ chức Hoạt động Trường Cao đẳng Công nghiệp Việt-Đức",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Công nghiệp",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công thương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.010958904109589041
+            },
+            {
+                "index": 20,
+                "id": "dieu_18_dk_1",
+                "id_document": 15847,
+                "position": "Điều 18",
+                "dia_danh": "Trung ương",
+                "title": "Giảng viên, giáo viên (gọi chung là nhà giáo) bao gồm những người thuộc biên chế của Trường, làm công tác giảng dạy và những cán bộ kinh tế - kỹ thuật, cán bộ quản lý làm việc trong và ngoài Trường tham gia giảng dạy theo chế độ kiêm nhiệm, có năng lực sư phạm, đạt tiêu chuẩn chuyên môn theo quy định của Bộ Giáo dục và Đào tạo, Bộ Lao động - Thương binh và Xã hội, có khả năng giảng dạy lý thuyết và thực hành các môn học bậc cao đẳng và thấp hơn. Nhà giáo có các nhiệm vụ và quyền hạn sau:",
+                "so_hieu": "18/2006/QĐ-BCN",
+                "trich_yeu": "Quy chế Tổ chức Hoạt động Trường Cao đẳng Công nghiệp Xây lắp Điện",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Công nghiệp",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công thương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.010885885885885887
+            },
+            {
+                "index": 20,
+                "id": "dieu_18_dk_1",
+                "id_document": 14554,
+                "position": "Điều 18 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Nhiệm vụ, quyền hạn của nhà giáo Giảng viên, giáo viên (gọi chung là nhà giáo) bao gồm những người thuộc biên chế của Trường, làm công tác giảng dạy và những cán bộ kinh tế - kỹ thuật, cán bộ quản lý làm việc trong và ngoài Trường tham gia giảng dạy theo chế độ kiêm nhiệm, có năng lực sư phạm, đạt tiêu chuẩn chuyên môn, nghiệp vụ theo quy định của Luật Giáo dục và các quy định khác của Bộ Giáo dục và Đào tạo, Bộ Lao động - Thương binh và Xã hội, có khả năng giảng dạy lý thuyết và thực hành các môn học bậc cao đẳng và thấp hơn.",
+                "so_hieu": "03/2007/QĐ-BCN",
+                "trich_yeu": "Về quy chế tổ chức và hoạt động của Trường Cao đẳng Công nghiệp Thái Nguyên do Bộ trưởng Bộ Công nghiệp ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Công nghiệp",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công thương"
+                ],
+                "linh_vuc": null,
+                "score": 0.010772434683831881
+            },
+            {
+                "index": 19,
+                "id": "dieu_18_dk_1",
+                "id_document": 16132,
+                "position": "Điều 18",
+                "dia_danh": "Trung ương",
+                "title": "Giảng viên, giáo viên (gọi chung là nhà giáo) bao gồm những người thuộc biên chế của Trường, làm công tác giảng dạy và những cán bộ kinh tế - kỹ thuật, cán bộ quản lý làm việc trong và ngoài Trường tham gia giảng dạy theo chế độ kiêm nhiệm, có năng lực sư phạm, đạt tiêu chuẩn chuyên môn theo quy định của Bộ Giáo dục và Đào tạo, Bộ Lao động - Thương binh và Xã hội, có khả năng giảng dạy lý thuyết và thực hành các môn học bậc cao đẳng và thấp hơn. Nhà giáo có các nhiệm vụ và quyền hạn sau:",
+                "so_hieu": "11/2006/QĐ-BCN",
+                "trich_yeu": "Quy chế Tổ chức Hoạt động  Trường Cao đẳng Công nghiệp Huế",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Công nghiệp",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Công thương"
+                ],
+                "linh_vuc": "Giáo dục",
+                "score": 0.010702702702702703
+            }
+        ]
+    },
+    {
+        "id": 6406,
+        "cau_hoi": "Việc xác định tài sản của vợ chồng theo thoả thuận được quy định như thế nào?",
+        "tra_loi": "Căn cứ theo Điều 15 Nghị định 126/2014/NĐ-CP quy định như sau:\nĐiều 15. Xác định tài sản của vợ chồng theo thỏa thuận\n1. Trường hợp lựa chọn áp dụng chế độ tài sản của vợ chồng theo thỏa thuận thì vợ chồng có thể thỏa thuận về xác định tài sản theo một trong các nội dung sau đây:\na) Tài sản giữa vợ và chồng bao gồm tài sản chung và tài sản riêng của vợ, chồng;\nb) Giữa vợ và chồng không có tài sản riêng của vợ, chồng mà tất cả tài sản do vợ, chồng có được trước khi kết hôn hoặc trong thời kỳ hôn nhân đều thuộc tài sản chung;\nc) Giữa vợ và chồng không có tài sản chung mà tất cả tài sản do vợ, chồng có được trước khi kết hôn và trong thời kỳ hôn nhân đều thuộc sở hữu riêng của người có được tài sản đó;\nd) Xác định theo thỏa thuận khác của vợ chồng.\n2. Thỏa thuận về tài sản của vợ chồng phải phù hợp với quy định tại các Điều 29, 30, 31 và 32 của Luật Hôn nhân và gia đình. Nếu vi phạm, người có quyền, lợi ích liên quan có quyền yêu cầu Tòa án tuyên bố thỏa thuận vô hiệu theo quy định tại Điều 50 của Luật Hôn nhân và gia đình.\nTheo đó, trường hợp lựa chọn áp dụng chế độ tài sản của vợ chồng theo thỏa thuận thì vợ chồng có thể thỏa thuận về xác định tài sản theo một trong các nội dung sau đây:\n- Tài sản giữa vợ và chồng bao gồm tài sản chung và tài sản riêng của vợ, chồng;\n- Giữa vợ và chồng không có tài sản riêng của vợ, chồng mà tất cả tài sản do vợ, chồng có được trước khi kết hôn hoặc trong thời kỳ hôn nhân đều thuộc tài sản chung;\n- Giữa vợ và chồng không có tài sản chung mà tất cả tài sản do vợ, chồng có được trước khi kết hôn và trong thời kỳ hôn nhân đều thuộc sở hữu riêng của người có được tài sản đó;\n- Xác định theo thỏa thuận khác của vợ chồng.\nLưu ý: Thỏa thuận về tài sản của vợ chồng phải phù hợp với quy định tại các Điều 29, Điều 30, Điều 31 và Điều 32 của Luật Hôn nhân và gia đình 2014. Nếu vi phạm, người có quyền, lợi ích liên quan có quyền yêu cầu Tòa án tuyên bố thỏa thuận vô hiệu theo quy định tại Điều 50 Luật Hôn nhân và gia đình 2014.",
+        "trich_dan": [
+            {
+                "loai_vb": "Nghị định",
+                "so_hieu": "126/2014/NĐ-CP",
+                "khoan": "",
+                "dieu": "15",
+                "trich_yeu": "Nghị định 126/2014/NĐ-CP",
+                "noi_dung_kem_trich_dan": "Căn cứ theo Điều 15 Nghị định 126/2014/NĐ-CP quy định như sau:"
+            },
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "52/2014/QH13",
+                "khoan": "",
+                "dieu": "30",
+                "trich_yeu": "Luật Hôn nhân và gia đình 2014",
+                "noi_dung_kem_trich_dan": "Lưu ý: Thỏa thuận về tài sản của vợ chồng phải phù hợp với quy định tại các Điều 29, Điều 30, Điều 31 và Điều 32 của Luật Hôn nhân và gia đình 2014. Nếu vi phạm, người có quyền, lợi ích liên quan có quyền yêu cầu Tòa án tuyên bố thỏa thuận vô hiệu theo quy định tại Điều 50 Luật Hôn nhân và gia đình 2014."
+            },
+            {
+                "loai_vb": "Luật",
+                "so_hieu": "52/2014/QH13",
+                "khoan": "",
+                "dieu": "50",
+                "trich_yeu": "Luật Hôn nhân và gia đình 2014",
+                "noi_dung_kem_trich_dan": "Lưu ý: Thỏa thuận về tài sản của vợ chồng phải phù hợp với quy định tại các Điều 29, Điều 30, Điều 31 và Điều 32 của Luật Hôn nhân và gia đình 2014. Nếu vi phạm, người có quyền, lợi ích liên quan có quyền yêu cầu Tòa án tuyên bố thỏa thuận vô hiệu theo quy định tại Điều 50 Luật Hôn nhân và gia đình 2014."
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 58,
+                "id": "dieu_59",
+                "id_document": 999999999672447,
+                "position": "Điều 59 / Mục 1 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Nguyên tắc giải quyết tài sản của vợ chồng khi ly hôn",
+                "so_hieu": "121/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Hôn nhân và gia đình do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.013552925030022301
+            },
+            {
+                "index": 46,
+                "id": "dieu_47",
+                "id_document": 999999999672447,
+                "position": "Điều 47 / Mục 3 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Thỏa thuận xác lập chế độ tài sản của vợ chồng Trong trường hợp hai bên kết hôn lựa chọn chế độ tài sản theo thỏa thuận thì thỏa thuận này phải được lập trước khi kết hôn, bằng hình thức văn bản có công chứng hoặc chứng thực. Chế độ tài sản của vợ chồng theo thỏa thuận được xác lập kể từ ngày đăng ký kết hôn.",
+                "so_hieu": "121/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Hôn nhân và gia đình do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.013076923076923078
+            },
+            {
+                "index": 14,
+                "id": "dieu_15",
+                "id_document": 47412,
+                "position": "Điều 15 / Mục 3 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Xác định tài sản của vợ chồng theo thỏa thuận",
+                "so_hieu": "126/2014/NĐ-CP",
+                "trich_yeu": "Quy định chi tiết một số điều biện pháp thi hành Luật Hôn nhân gia đình",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Quyền dân sự",
+                "score": 0.012777242044358728
+            },
+            {
+                "index": 47,
+                "id": "dieu_48",
+                "id_document": 999999999672447,
+                "position": "Điều 48 / Mục 3 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Nội dung cơ bản của thỏa thuận về chế độ tài sản của vợ chồng",
+                "so_hieu": "121/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Hôn nhân và gia đình do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.012614782477796176
+            },
+            {
+                "index": 6,
+                "id": "dieu_7",
+                "id_document": 97615,
+                "position": "Điều 7",
+                "dia_danh": "Trung ương",
+                "title": "Nguyên tắc giải quyết tài sản của vợ chồng khi ly hôn",
+                "so_hieu": "01/2016/TTLT-TANDTC-VKSNDTC-BTP",
+                "trich_yeu": "Hướng dẫn thi hành một số quy định của Luật hôn nhân và gia đình",
+                "loai_van_ban": "Thông tư liên tịch",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Viện kiểm sát nhân dân tối cao, Bộ Tư pháp, Tòa án nhân dân tối cao",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Viện kiểm sát nhân dân tối cao",
+                    "Tòa án nhân dân tối cao",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Quyền dân sự",
+                "score": 0.01257724463831334
+            },
+            {
+                "index": 42,
+                "id": "dieu_43",
+                "id_document": 999999999672447,
+                "position": "Điều 43 / Mục 3 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Tài sản riêng của vợ, chồng",
+                "so_hieu": "121/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Hôn nhân và gia đình do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.012040133779264214
+            },
+            {
+                "index": 46,
+                "id": "dieu_47",
+                "id_document": 36870,
+                "position": "Điều 47 / Mục 3 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Thỏa thuận xác lập chế độ tài sản của vợ chồng Trong trường hợp hai bên kết hôn lựa chọn chế độ tài sản theo thỏa thuận thì thỏa thuận này phải được lập trước khi kết hôn, bằng hình thức văn bản có công chứng hoặc chứng thực. Chế độ tài sản của vợ chồng theo thỏa thuận được xác lập kể từ ngày đăng ký kết hôn.",
+                "so_hieu": "52/2014/QH13",
+                "trich_yeu": "Hôn nhân và gia đình 2014",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Quyền dân sự",
+                "score": 0.011955645161290322
+            },
+            {
+                "index": 2,
+                "id": "dieu_3",
+                "id_document": 999999999429639,
+                "position": "Mục 1",
+                "dia_danh": "Trung ương",
+                "title": "Trường hợp lựa chọn áp dụng chế độ tài sản của vợ chồng theo thỏa thuận thì vợ chồng có thể thỏa thuận về xác định tài sản theo một trong các nội dung sau đây: a) Tài sản giữa vợ và chồng bao gồm tài sản chung và tài sản riêng của vợ, chồng; b) Giữa vợ và chồng không có tài sản riêng của vợ, chồng mà tất cả tài sản do vợ, chồng có được trước khi kết hôn hoặc trong thời kỳ hôn nhân đều thuộc tài sản chung; c) Giữa vợ và chồng không có tài sản chung mà tất cả tài sản do vợ, chồng có được trước khi kết hôn và trong thời kỳ hôn nhân đều thuộc sở hữu riêng của người có được tài sản đó; d) Xác định theo thỏa thuận khác của vợ chồng.” Tại Điều 17 Nghị định số 126/2014/NĐ-CP ngày 31 tháng 12 năm 2014 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Hôn nhân và gia đình quy định sửa đổi, bổ sung nội dung của chế độ tài sản của vợ chồng: “1. Trong trường hợp chế độ tài sản của vợ chồng theo thỏa thuận được áp dụng thì trong thời kỳ hôn nhân, vợ chồng có quyền thỏa thuận sửa đổi, bổ sung một phần hoặc toàn bộ nội dung của chế độ tài sản đó hoặc áp dụng chế độ tài sản theo luật định.",
+                "so_hieu": "4746/TCT-DNNCN",
+                "trich_yeu": "2019 chính sách thuế thu nhập cá nhân",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Tổng cục Thuế",
+                "don_vi": [
+                    "Trung ương",
+                    "Tổng cục Thuế"
+                ],
+                "linh_vuc": "Thuế - Phí - Lệ Phí",
+                "score": 0.011812048763167238
+            },
+            {
+                "index": 5,
+                "id": "dieu_6",
+                "id_document": 97615,
+                "position": "Điều 6",
+                "dia_danh": "Trung ương",
+                "title": "Xác định thỏa thuận về chế độ tài sản của vợ chồng vô hiệu",
+                "so_hieu": "01/2016/TTLT-TANDTC-VKSNDTC-BTP",
+                "trich_yeu": "Hướng dẫn thi hành một số quy định của Luật hôn nhân và gia đình",
+                "loai_van_ban": "Thông tư liên tịch",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Viện kiểm sát nhân dân tối cao, Bộ Tư pháp, Tòa án nhân dân tối cao",
+                "don_vi": [
+                    "Bộ Tư pháp",
+                    "Viện kiểm sát nhân dân tối cao",
+                    "Tòa án nhân dân tối cao",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Quyền dân sự",
+                "score": 0.011648351648351648
+            },
+            {
+                "index": 58,
+                "id": "dieu_59",
+                "id_document": 36870,
+                "position": "Điều 59 / Mục 1 / Chương IV",
+                "dia_danh": "Trung ương",
+                "title": "Nguyên tắc giải quyết tài sản của vợ chồng khi ly hôn",
+                "so_hieu": "52/2014/QH13",
+                "trich_yeu": "Hôn nhân và gia đình 2014",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Quyền dân sự",
+                "score": 0.011606632361349341
+            },
+            {
+                "index": 34,
+                "id": "dieu_35",
+                "id_document": 999999999672447,
+                "position": "Điều 35 / Mục 3 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Chiếm hữu, sử dụng, định đoạt tài sản chung",
+                "so_hieu": "121/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Hôn nhân và gia đình do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.01122762148337596
+            },
+            {
+                "index": 32,
+                "id": "dieu_33",
+                "id_document": 999999999672447,
+                "position": "Điều 33 / Mục 3 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Tài sản chung của vợ chồng",
+                "so_hieu": "121/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Hôn nhân và gia đình do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.011143410852713177
+            },
+            {
+                "index": 7,
+                "id": "dieu_5_dk_1",
+                "id_document": 47460,
+                "position": "Điều 5 / Chương I",
+                "dia_danh": "tỉnh Long An",
+                "title": "Giải thích từ ngữ Trong quy định này, các từ ngữ dưới đây được hiểu như sau:",
+                "so_hieu": "19/2009/QĐ-UBND",
+                "trich_yeu": "Về thủ tục, trình tự và thời hạn thực hiện công chứng của tổ chức hành nghề công chứng trên địa bàn tỉnh Long An do Ủy ban nhân dân tỉnh Long An ban hành",
+                "loai_van_ban": "Quyết định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Long An",
+                "don_vi": [
+                    "Long An"
+                ],
+                "linh_vuc": "Dịch vụ pháp lý",
+                "score": 0.011054766734279919
+            },
+            {
+                "index": 2,
+                "id": "dieu_3",
+                "id_document": 167692,
+                "position": "Điều 3",
+                "dia_danh": "Trung ương",
+                "title": "Thuận tình ly hôn quy định tại Điều 55 của Luật Hôn nhân và gia đình",
+                "so_hieu": "01/2024/NQ-HĐTP",
+                "trich_yeu": "Hướng dẫn quy định trong giải quyết vụ việc về hôn nhân gia đình",
+                "loai_van_ban": "Nghị quyết",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Tòa án nhân dân tối cao",
+                "don_vi": [
+                    "Tòa án nhân dân tối cao",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Thủ tục Tố tụng",
+                "score": 0.011043771043771043
+            },
+            {
+                "index": 47,
+                "id": "dieu_48",
+                "id_document": 36870,
+                "position": "Điều 48 / Mục 3 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Nội dung cơ bản của thỏa thuận về chế độ tài sản của vợ chồng",
+                "so_hieu": "52/2014/QH13",
+                "trich_yeu": "Hôn nhân và gia đình 2014",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Quyền dân sự",
+                "score": 0.010897435897435897
+            },
+            {
+                "index": 10,
+                "id": "dieu_11",
+                "id_document": 47412,
+                "position": "Điều 11 / Mục 2 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tài sản riêng khác của vợ, chồng theo quy định của pháp luật",
+                "so_hieu": "126/2014/NĐ-CP",
+                "trich_yeu": "Quy định chi tiết một số điều biện pháp thi hành Luật Hôn nhân gia đình",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Quyền dân sự",
+                "score": 0.010879811468970933
+            },
+            {
+                "index": 44,
+                "id": "dieu_45",
+                "id_document": 999999999672447,
+                "position": "Điều 45 / Mục 3 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Nghĩa vụ riêng về tài sản của vợ, chồng Vợ, chồng có các nghĩa vụ riêng về tài sản sau đây:",
+                "so_hieu": "121/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Hôn nhân và gia đình do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.0106993923507685
+            },
+            {
+                "index": 36,
+                "id": "dieu_37",
+                "id_document": 999999999672447,
+                "position": "Điều 37 / Mục 3 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Nghĩa vụ chung về tài sản của vợ chồng Vợ chồng có các nghĩa vụ chung về tài sản sau đây:",
+                "so_hieu": "121/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Hôn nhân và gia đình do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Văn hóa - Xã hội",
+                "score": 0.01068405399222146
+            },
+            {
+                "index": 42,
+                "id": "dieu_43",
+                "id_document": 36870,
+                "position": "Điều 43 / Mục 3 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Tài sản riêng của vợ, chồng",
+                "so_hieu": "52/2014/QH13",
+                "trich_yeu": "Hôn nhân và gia đình 2014",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Tư pháp"
+                ],
+                "linh_vuc": "Quyền dân sự",
+                "score": 0.01044121441472435
+            },
+            {
+                "index": 2,
+                "id": "dieu_3",
+                "id_document": 160342,
+                "position": "Điều 3 / Chương II",
+                "dia_danh": "Trung ương",
+                "title": "Tiêu chuẩn tài sản cố định",
+                "so_hieu": "23/2023/TT-BTC",
+                "trich_yeu": "Chế độ quản lý tài sản cố định tại cơ quan giao cho doanh nghiệp quản lý",
+                "loai_van_ban": "Thông tư",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Tài chính",
+                "don_vi": [
+                    "Bộ Tài chính",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.010405323653962493
+            }
+        ]
+    },
+    {
+        "id": 20369,
+        "cau_hoi": "Mức lương tối thiểu hiện nay được điều chỉnh dựa vào đâu?",
+        "tra_loi": "Căn cứ tại khoản 3 Điều 91 Bộ luật Lao động 2019 quy định về mức lương tối thiểu như sau:\nĐiều 91. Mức lương tối thiểu\n1. Mức lương tối thiểu là mức lương thấp nhất được trả cho người lao động làm công việc giản đơn nhất trong điều kiện lao động bình thường nhằm bảo đảm mức sống tối thiểu của người lao động và gia đình họ, phù hợp với điều kiện phát triển kinh tế - xã hội.\n2. Mức lương tối thiểu được xác lập theo vùng, ấn định theo tháng, giờ.\n3. Mức lương tối thiểu được điều chỉnh dựa trên mức sống tối thiểu của người lao động và gia đình họ; tương quan giữa mức lương tối thiểu và mức lương trên thị trường; chỉ số giá tiêu dùng, tốc độ tăng trưởng kinh tế; quan hệ cung, cầu lao động; việc làm và thất nghiệp; năng suất lao động; khả năng chi trả của doanh nghiệp.\n4. Chính phủ quy định chi tiết Điều này; quyết định và công bố mức lương tối thiểu trên cơ sở khuyến nghị của Hội đồng tiền lương quốc gia.\nNhư vậy, mức lương tối thiểu hiện nay được điều chỉnh dựa trên như sau:\n- Mức sống tối thiểu của người lao động và gia đình họ;\n- Tương quan giữa mức lương tối thiểu và mức lương trên thị trường;\n- Chỉ số giá tiêu dùng, tốc độ tăng trưởng kinh tế;\n- Quan hệ cung, cầu lao động;\n- Việc làm và thất nghiệp;\n- năng suất lao động;\n- Khả năng chi trả của doanh nghiệp.\nNgoài ra, Chính phủ quyết định và công bố mức lương tối thiểu trên cơ sở khuyến nghị của Hội đồng tiền lương quốc gia.",
+        "trich_dan": [
+            {
+                "loai_vb": "Bộ luật",
+                "so_hieu": "45/2019/QH14",
+                "khoan": "3",
+                "dieu": "91",
+                "trich_yeu": "Bộ luật Lao động 2019",
+                "noi_dung_kem_trich_dan": "Căn cứ tại khoản 3 Điều 91 Bộ luật Lao động 2019 quy định về mức lương tối thiểu như sau:"
+            }
+        ],
+        "msg": "Tìm kiếm thành công",
+        "retrieved": [
+            {
+                "index": 144,
+                "id": "dieu_145",
+                "id_document": 65310,
+                "position": "Mục 4 / Phần II",
+                "dia_danh": "tỉnh Hưng Yên",
+                "title": "Bố trí nguồn kinh phí để thực hiện điều chỉnh tiền lương tối thiểu theo Nghị định của Chính phủ và hướng dẫn của Bộ Tài chính; yêu cầu các đơn vị tiết kiệm 10% chi thường xuyên (không kể tiền lương và các khoản có tính chất lương) và sử dụng tối thiểu 40% số thu được (riêng ngành y tế 35%, sau khi trừ chi phí thuốc, máu, dịch truyền, hoá chất) để thực hiện cải cách tiền lương theo quy định.",
+                "so_hieu": "242/2008/NQ-HĐND",
+                "trich_yeu": "Về dự toán ngân sách nhà nước ở địa phương năm 2009",
+                "loai_van_ban": "Nghị quyết",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "HĐND tỉnh Hưng Yên",
+                "don_vi": [
+                    "Hưng Yên"
+                ],
+                "linh_vuc": null,
+                "score": 0.01324575807334428
+            },
+            {
+                "index": 5,
+                "id": "dieu_6",
+                "id_document": 999999999143809,
+                "position": "Mục 1 / Phần II",
+                "dia_danh": "thành phố Hồ Chí Minh",
+                "title": "Người sử dụng lao động căn cứ vào mức tiền lương tối thiểu vùng do Chính phủ quy định đã nêu ở trên để xác định việc điều chỉnh các mức tiền lương trong hệ thống thang lương, bảng lương và hợp đồng lao động cho phù hợp với quy định. Khuyến khích người sử dụng lao động điều chỉnh các mức tiền lương trong hệ thống thang lương, bảng lương và hợp đồng lao động phù hợp với thực tế thị trường lao động. Khi áp dụng các mức tiền lương tối thiểu vùng nêu trên,người sử dụng lao động không được xóa bỏ hoặc cắt giảm các chế độ đã được pháp luật lao động quy định như: tiền lương trả khi làm thêm giờ; tiền lương làm việc vào ban đêm; tiền lương hoặc phụ cấp làm việc trong điều kiện lao động nặng nhọc, độc hại; chế độ bồi dưỡng bằng hiện vật đối với các chức danh nghề nặng nhọc, độc hại. Đối với các khoản phụ cấp, trợ cấp, tiền thưởng do doanh nghiệp quy định thì thực hiện theo thỏa thuận trong hợp đồng lao động hoặc thỏa ước lao động tập thể hoặc trong quy chế của doanh nghiệp.",
+                "so_hieu": "11087/SLĐTBXH-LĐ",
+                "trich_yeu": "Thực hiện Nghị định 107/2010/NĐ-CP và 108/2010/NĐ-CP do Sở Lao động - Thương binh và Xã hội thành phố Hồ Chí Minh ban hành",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Sở Lao Động Thương Binh Và Xã Hội thành phố Hồ Chí Minh",
+                "don_vi": [
+                    "TP. Hồ Chí Minh"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.012981082844096542
+            },
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 999999999543421,
+                "position": "Mục 1 / Phần II",
+                "dia_danh": "thành phố Hồ Chí Minh",
+                "title": "Về cơ chế và đối tượng áp dụng: mức lương tối thiểu tháng và mức lương tối thiểu giờ là mức lương thấp nhất làm cơ sở để người lao động, công đoàn và người sử dụng lao động thỏa thuận mức lương và trả lương cho người lao động, trong đó: - Mức lương tối thiểu tháng được áp dụng đối với người lao động đang hưởng lương theo hình thức trả lương theo tháng. - Mức lương tối thiểu giờ được áp dụng đối với người lao động đang hưởng lương theo hình thức trả lương theo giờ. - Đối với người lao động đang hưởng lương theo các hình thức trả lương khác (theo tuần, theo ngày, theo sản phẩm, lương khoán) thì mức lương đang trả theo các hình thức trả lương này quy đôi theo tháng hoặc theo giờ (theo điểm a và điểm b, khoản 3 Điều 4 Nghị định số 38/2022/NĐ-CP) không được thấp hơn mức lương tối thiểu tháng hoặc mức lương tối thiểu giờ do Chính phủ quy định. Việc quy đổi mức lương theo tháng hoặc theo giờ này do người sử dụng lao động lựa chọn, kết quả quy đổi nhằm kiểm tra mức độ tuân thủ việc trả cho người lao động theo các hình thức so với mức lương tối thiểu tháng hoặc mức lương tối thiểu giờ do Chính phủ quy định. Nghị định không yêu cầu phải thay đổi hình thức trả lương mà người sử dụng lao động và người lao động đã thỏa thuận.",
+                "so_hieu": "22026/SLĐTBXH-LĐ",
+                "trich_yeu": "2022 thực hiện Nghị định 38/2022/NĐ-CP Sở Lao động Hồ Chí Minh",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Sở Lao Động Thương Binh Và Xã Hội thành phố Hồ Chí Minh",
+                "don_vi": [
+                    "TP. Hồ Chí Minh"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.012878787878787878
+            },
+            {
+                "index": 12,
+                "id": "dieu_13",
+                "id_document": 999999999293984,
+                "position": "Mục 4 / Phần II",
+                "dia_danh": "tỉnh Tây Ninh",
+                "title": "Thời gian áp dụng việc điều chỉnh theo mức lương tối thiểu mới: Áp dụng kể từ ngày 15/5/2015.",
+                "so_hieu": "2947/HD-UBND",
+                "trich_yeu": "Điều chỉnh dự toán công trình Tây Ninh 2015",
+                "loai_van_ban": "Hướng dẫn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Tây Ninh",
+                "don_vi": [
+                    "Tây Ninh"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.01274074074074074
+            },
+            {
+                "index": 90,
+                "id": "dieu_91",
+                "id_document": 999999999672381,
+                "position": "Điều 91 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Mức lương tối thiểu",
+                "so_hieu": "125/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Bộ luật Lao động do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.012534562211981565
+            },
+            {
+                "index": 90,
+                "id": "dieu_91",
+                "id_document": 139264,
+                "position": "Điều 91 / Chương VI",
+                "dia_danh": "Trung ương",
+                "title": "Mức lương tối thiểu",
+                "so_hieu": "45/2019/QH14",
+                "trich_yeu": "Lao động 2019",
+                "loai_van_ban": "Bộ luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Lao động - Thương Binh và Xã hội",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.012290053303831842
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 999999999375050,
+                "position": "Mục 1",
+                "dia_danh": "Trung ương",
+                "title": "Kiến nghị số 11 về tiền lương tối thiểu vùng Theo quy định tại Điều 91 của Bộ luật Lao động thì mức lương tối thiểu vùng được điều chỉnh căn cứ vào nhu cầu sống tối thiểu của người lao động và gia đình họ; điều kiện kinh tế - xã hội và mức tiền lương trên thị trường lao động. Căn cứ quy định trên, hằng năm Bộ Lao động - Thương binh và Xã hội với vai trò là thành viên của Hội đồng tiền lương quốc gia tham gia đã phân tích, đánh giá thực tế, thương lượng, thống nhất phương án điều chỉnh mức lương tối thiểu vùng và khuyến nghị với Chính phủ công bố mức điều chỉnh tiền lương tối thiểu. Đối với kiến nghị của Hiệp hội Dệt may Việt Nam, Bộ Lao động - Thương binh và Xã hội ghi nhận và sẽ phối hợp với các thành viên trong Hội đồng tiền lương quốc gia để thảo luận, phân tích và đề xuất với Chính phủ xem xét, quyết định cho phù hợp.",
+                "so_hieu": "582/LĐTBXH-PC",
+                "trich_yeu": "2018 trả lời kiến nghị của Hiệp hội Dệt may Việt Nam",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Lao động - Thương binh và Xã hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Lao động - Thương binh và Xã hội"
+                ],
+                "linh_vuc": "Doanh nghiệp",
+                "score": 0.012112932604735883
+            },
+            {
+                "index": 10,
+                "id": "dieu_11",
+                "id_document": 999999999240811,
+                "position": "Mục 4 / Phần II",
+                "dia_danh": "tỉnh Tây Ninh",
+                "title": "Thời gian áp dụng việc điều chỉnh theo mức lương tối thiểu mới: Kể từ ngày 01/7/2013.",
+                "so_hieu": "1484/HD-UBND",
+                "trich_yeu": "Năm 2013 điều chỉnh dự toán xây dựng công trình với mức lương tối thiểu mới theo Nghị định 103/2012/NĐ-CP do tỉnh Tây Ninh ban hành",
+                "loai_van_ban": "Hướng dẫn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "UBND tỉnh Tây Ninh",
+                "don_vi": [
+                    "Tây Ninh"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.012012987012987014
+            },
+            {
+                "index": 72,
+                "id": "dieu_73",
+                "id_document": 999999999670920,
+                "position": "Điều 73 / Mục 3 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Điều chỉnh tiền lương làm căn cứ đóng bảo hiểm xã hội bắt buộc",
+                "so_hieu": "58/VBHN-VPQH",
+                "trich_yeu": "Năm 2025 hợp nhất Luật Bảo hiểm xã hội do Văn phòng Quốc hội ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Quốc hội"
+                ],
+                "linh_vuc": "Bảo hiểm",
+                "score": 0.011888111888111888
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 999999999518294,
+                "position": "Mục 2",
+                "dia_danh": "thành phố Hồ Chí Minh",
+                "title": "Mức lương tối thiểu tháng là mức lương thấp nhất làm cơ sở để thỏa thuận và trả lương đối với người lao động áp dụng hình thức trả lương theo tháng, bảo đảm mức lương theo công việc hoặc chức danh của người lao động làm việc đủ thời giờ làm việc bình thường trong tháng và hoàn thành định mức lao động hoặc công việc đã thỏa thuận không được thấp hơn mức lương tối thiểu tháng.",
+                "so_hieu": "516/LĐLĐ-CSPL",
+                "trich_yeu": "Về hướng dẫn và giám sát việc điều chỉnh lương tối thiểu năm 2022 do Liên đoàn Lao động Thành phố Hồ Chí Minh ban hành",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Liên đoàn Lao động thành phố Hồ Chí Minh",
+                "don_vi": [
+                    "TP. Hồ Chí Minh"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.011778539931406175
+            },
+            {
+                "index": 4,
+                "id": "dieu_5",
+                "id_document": 999999999616672,
+                "position": "Mục 1 / Phần II",
+                "dia_danh": "thành phố Hồ Chí Minh",
+                "title": "Về cơ chế và đối tượng áp dụng: mức lương tối thiểu tháng và mức lương tối thiểu giờ là mức lương thấp nhất làm cơ sở để người lao động, công đoàn và người sử dụng lao động thỏa thuận mức lương và trả lương cho người lao động, trong đó: - Mức lương tối thiểu tháng được áp dụng đối với người lao động đang hưởng lương theo hình thức trả lương theo tháng. - Mức lương tối thiểu giờ được áp dụng đối với người lao động đang hưởng lương theo hình thức trả lương theo giờ. - Đối với người lao động đang hưởng lương theo các hình thức trả lương khác (theo tuần, theo ngày, theo sản phẩm, lương khoán) thì mức lương đang trả theo các hình thức trả lương này quy đổi theo tháng hoặc theo giờ (theo điểm a và điểm b, khoản 3 Điều 4 Nghị định số 74/2024/NĐ-CP) không được thấp hơn mức lương tối thiểu tháng hoặc mức lương tối thiểu giờ do Chính phủ quy định. Việc quy đổi mức lương theo tháng hoặc theo giờ này do người sử dụng lao động lựa chọn, kết quả quy đổi nhằm kiểm tra mức độ tuân thủ việc trả cho người lao động theo các hình thức so với mức lương tối thiểu tháng hoặc mức lương tối thiểu giờ do Chính phủ quy định. Nghị định không yêu cầu phải thay đổi hình thức trả lương mà người sử dụng lao động và người lao động đã thỏa thuận.",
+                "so_hieu": "15883/SLĐTBXH-LĐ",
+                "trich_yeu": "Năm 2024 thực hiện Nghị định 74/2024/NĐ-CP quy định mức lương tối thiểu đối với người lao động làm việc theo hợp đồng lao động do Sở Lao động - Thương binh và Xã hội Thành phố Hồ Chí Minh ban hành",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Sở Lao Động Thương Binh Và Xã Hội thành phố Hồ Chí Minh",
+                "don_vi": [
+                    "TP. Hồ Chí Minh"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.011740558292282429
+            },
+            {
+                "index": 72,
+                "id": "dieu_73",
+                "id_document": 175027,
+                "position": "Điều 73 / Mục 3 / Chương V",
+                "dia_danh": "Trung ương",
+                "title": "Điều chỉnh tiền lương làm căn cứ đóng bảo hiểm xã hội bắt buộc",
+                "so_hieu": "41/2024/QH15",
+                "trich_yeu": "Bảo hiểm xã hội 2024",
+                "loai_van_ban": "Luật",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Quốc hội",
+                "don_vi": [
+                    "Bộ Lao động - Thương Binh và Xã hội",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Bảo hiểm",
+                "score": 0.011694949907994273
+            },
+            {
+                "index": 1,
+                "id": "dieu_2",
+                "id_document": 999999999137880,
+                "position": "Mục 2",
+                "dia_danh": "Trung ương",
+                "title": "Theo quy định của Bộ luật Lao động của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam thì tiền lương của người lao động do hai bên thỏa thuận trong hợp đồng và được trả theo năng suất lao động, chất lượng và hiệu quả công việc. Mức lương của người lao động không được thấp hơn mức lương tối thiểu do Nhà nước quy định. Mức lương tối thiểu được ấn định theo giá sinh hoạt đảm bảo cho người lao động làm công việc giản đơn nhất trong điều kiện lao động bình thường bù đắp sức lao động giản đơn và một phần tích lũy tái sản xuất sức lao động mở rộng và được dùng làm căn cứ để tính các mức lương cho các loại lao động khác. Khi chỉ số giá sinh hoạt tăng lên làm cho tiền lương thực tế của người lao động bị giảm sút, thì Chính phủ điều chỉnh mức lương tối thiểu để đảm bảo tiền lương thực tế. Hiện nay, các quy định về hợp đồng của các gói thầu thuộc các dự án đầu tư xây dựng chỉ có hướng dẫn việc điều chỉnh chi phí lao động căn cứ vào tiền lương tối thiểu do nhà nước quy định.",
+                "so_hieu": "1061/LĐTBXH-LĐTL",
+                "trich_yeu": "Áp dụng chỉ số điều chỉnh tiền lương do Bộ Lao động - Thương binh và Xã hội ban hành",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Lao động - Thương binh và Xã hội",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Lao động - Thương binh và Xã hội"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.011676510676965015
+            },
+            {
+                "index": 15,
+                "id": "dieu_16",
+                "id_document": 999999999634792,
+                "position": "Điều 16 / Mục 1 / Chương III",
+                "dia_danh": "Trung ương",
+                "title": "Điều chỉnh tiền lương làm căn cứ đóng bảo hiểm xã hội bắt buộc Việc điều chỉnh tiền lương làm căn cứ đóng bảo hiểm xã hội bắt buộc được thực hiện theo Điều 73 của Luật Bảo hiểm xã hội và được quy định chi tiết như sau:",
+                "so_hieu": "158/2025/NĐ-CP",
+                "trich_yeu": "Hướng dẫn Luật Bảo hiểm xã hội về bảo hiểm xã hội bắt buộc",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương",
+                    "Chính phủ"
+                ],
+                "linh_vuc": "Bảo hiểm",
+                "score": 0.011601307189542484
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 168670,
+                "position": "Điều 4",
+                "dia_danh": "Trung ương",
+                "title": "Áp dụng mức lương tối thiểu",
+                "so_hieu": "74/2024/NĐ-CP",
+                "trich_yeu": "Mức lương tối thiểu lao động làm việc theo hợp đồng",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Bộ Lao động - Thương Binh và Xã hội",
+                    "Trung ương"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.011310031258880363
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 999999999242968,
+                "position": "Mục 1",
+                "dia_danh": "Trung ương",
+                "title": "Mức lương tối thiểu vùng do Chính phủ quy định là mức lương thấp nhất làm cơ sở để doanh nghiệp và người lao động thỏa thuận tiền lương trả cho người lao động, nhưng phải đảm bảo mức lương tính theo tháng trả cho người lao động chưa qua đào tạo làm công việc giản đơn nhất trong điều kiện lao động bình thường, bảo đảm đủ số ngày làm việc tiêu chuẩn trong tháng và hoàn thành định mức lao động hoặc công việc đã thỏa thuận, không được thấp hơn mức lương tối thiểu vùng do Chính phủ quy định.",
+                "so_hieu": "1539/BXD-KTXD",
+                "trich_yeu": "Năm 2014 về tiền lương nhân công để lập và quản lý chi phí đầu tư xây dựng công trình do Bộ Xây dựng ban hành",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Xây dựng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Xây dựng"
+                ],
+                "linh_vuc": "Đầu tư",
+                "score": 0.01109318273497378
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 999999999259852,
+                "position": "Mục 1",
+                "dia_danh": "Trung ương",
+                "title": "Mức lương tối thiểu vùng do Chính phủ quy định là mức lương thấp nhất làm cơ sở để doanh nghiệp và người lao động thỏa thuận tiền lương trả cho người lao động, nhưng phải đảm bảo mức lương tính theo tháng trả cho người lao động chưa qua đào tạo làm công việc giản đơn nhất trong điều kiện lao động bình thường, bảo đảm đủ số ngày làm việc tiêu chuẩn trong tháng và hoàn thành định mức lao động hoặc công việc đã thỏa thuận, không được thấp hơn mức lương tối thiểu vùng do Chính phủ quy định.",
+                "so_hieu": "3181/BXD-KTXD",
+                "trich_yeu": "Năm 2014 điều chỉnh đơn giá xây dựng chuyên ngành do Bộ Xây dựng ban hành",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Xây dựng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Xây dựng"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.011007518796992482
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 10414,
+                "position": "Điều 1",
+                "dia_danh": "Trung ương",
+                "title": "Nay thực hiện đủ mức tiền lương tối thiếu 120.000 đồng/tháng. Mức lương tối thiểu này làm căn cứ để tính lại các mức lương và phụ cấp theo hệ số mức lương, hệ số các mức phụ cấp lương quy định tại Nghị quyết số 35-NQ/UBTVQHK9 ngày 17-5-1993 của Uỷ ban Thường vụ Quốc hội, Quyết định số 69-QĐ/TW ngày 17-5-1993 của Ban Bí thư; Nghị định số 25- CP và Nghị định số 26-CP ngày 23-5-1993 của Chính phủ.",
+                "so_hieu": "5/CP",
+                "trich_yeu": "Quy định tạm thời việc thực hiện mức lương mới đối với người đương nhiệm trong các cơ quan của NN, Đảng, đoàn thể, lực lượng vũ trang và trong các doanh nghiệp; điều chỉnh mức lương hưu, mức trợ cấp đối với các đối tượng CSXH",
+                "loai_van_ban": "Nghị định",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Chính phủ",
+                "don_vi": [
+                    "Trung ương"
+                ],
+                "linh_vuc": null,
+                "score": 0.01047263455058738
+            },
+            {
+                "index": 0,
+                "id": "dieu_1",
+                "id_document": 999999999124506,
+                "position": "Mục 1",
+                "dia_danh": "Trung ương",
+                "title": "Việc điều chỉnh mức lương tối thiểu vùng (mới) quy định tại Nghị định số 108/2010/NĐ-CP ngày 29/10/2010 của Chính phủ áp dụng theo vùng (nơi xây dựng công trình); Vì vậy căn cứ danh mục địa bàn quy định tại các Phụ lục ban hành kèm Nghị định số 108/2010/NĐ-CP, các Sở Xây dựng báo cáo Uỷ ban nhân dân tỉnh để hướng dẫn việc điều chỉnh dự toán xây dựng công trình theo mức lương tối thiểu từ ngày 01/01/2011;",
+                "so_hieu": "790/BXD-KTXD",
+                "trich_yeu": "Về điều chỉnh dự toán xây dựng công trình theo mức lương tối thiểu quy định tại Nghị định 108/2010/NĐ-CP do Bộ Xây dựng ban hành",
+                "loai_van_ban": "Công văn",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Xây dựng",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Xây dựng"
+                ],
+                "linh_vuc": "Xây dựng - Đô thị",
+                "score": 0.010462962962962962
+            },
+            {
+                "index": 3,
+                "id": "dieu_4",
+                "id_document": 999999999681541,
+                "position": "Điều 4",
+                "dia_danh": "Trung ương",
+                "title": "Áp dụng mức lương tối thiểu",
+                "so_hieu": "2/VBHN-BNV",
+                "trich_yeu": "Năm 2025 hợp nhất Nghị định quy định mức lương tối thiểu đối với người lao động làm việc theo hợp đồng lao động do Bộ trưởng Bộ Nội vụ ban hành",
+                "loai_van_ban": "Văn bản hợp nhất",
+                "tinh_trang_hieu_luc": "Còn hiệu lực",
+                "co_quan_ban_hanh": "Bộ Nội vụ",
+                "don_vi": [
+                    "Trung ương",
+                    "Bộ Nội vụ"
+                ],
+                "linh_vuc": "Lao động - Tiền lương",
+                "score": 0.01044936284372904
+            }
+        ]
+    }
+]
