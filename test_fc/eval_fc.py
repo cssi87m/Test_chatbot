@@ -2,6 +2,7 @@ import json
 import os
 from openai import OpenAI
 import time
+import logging 
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -15,54 +16,66 @@ client = OpenAI(
 keys = ["intent", "query", "use_rag", "need_subquery", "reference_text", "retrieve_level", "tinh_trang_hieu_luc", "loai_van_ban", "so_hieu", "ten_van_ban", "use_memory", 
                      "query_external_search", "ngay_ban_hanh_start", "ngay_ban_hanh_end", "ngay_co_hieu_luc_start", "ngay_co_hieu_luc_end"]
 
+DELAY = 3
+
 #keys = ["query", "retrieve_level", "term_position", "so_hieu",
 #                                 "ten_van_ban", "loai_van_ban", "tinh_trang_hieu_luc",
 #                                 "thoi_gian_ban_hanh", "ngay_ban_hanh_start", "ngay_ban_hanh_end"]
 
 #keys = ["comparison_type", "object_1", "object_2"]
 
+# Setup logging 
+logging.basicConfig(
+    level=logging.INFO,
+    filename = "/home/team_nlp/quangminh/test_fc/test_fc/temp/eval_fc.log",
+    filemode = "a",
+    format = "%(asctime)s - %(levelname)s - %(message)s"
+)
+logger = logging.getLogger(__name__)
 def compare_queries(query1, query2):
-#     prompt = f"""
-#         Bạn là một trợ lý AI. So sánh hai truy vấn sau và đánh giá mức độ giống nhau về ý nghĩa nội dung, đưa ra câu trả lời xem hai query có tương đương nhau không:
-#         Query 1: "{query1}"
-#         Query 2: "{query2}"
+    prompt = f"""
+                Bạn là một trợ lý AI. So sánh hai truy vấn sau và đánh giá mức độ giống nhau về ý nghĩa nội dung, đưa ra câu trả lời xem hai query có tương đương nhau không:
+                Query 1: "{query1}"
+                Query 2: "{query2}"
 
-#         Chỉ trả về True/False, không giải thích gì thêm.
-# """
-#     response = client.chat.completions.create(
-#         model="gemini-2.5-flash-lite",
-#         messages=[
-#             {"role": "system", "content": "Bạn là một chuyên gia xử lý ngôn ngữ tự nhiên."},
-#             {"role": "user", "content": prompt}
-#         ],
-#         temperature=0
-#     )
-#     return response.choices[0].message.content.strip()
-    return "true"
+                Chỉ trả về True/False, không giải thích gì thêm.
+        """
+    response = client.chat.completions.create(
+        model="gemini-2.5-flash-lite",
+        messages=[
+            {"role": "system", "content": "Bạn là một chuyên gia xử lý ngôn ngữ tự nhiên."},
+            {"role": "user", "content": prompt}
+        ],
+        temperature=0
+    )
+    # Add delay to avoid rate limiting
+    time.sleep(DELAY)
+    return response.choices[0].message.content.strip()
+    # return "true"
 
 def normalize_data(data: list[str]) -> str:
     """
     Normalize list of strings by stripping whitespace, converting to lowercase, and join all.
     """
-    if not data:
+    if not data or data is None:
         return ""
     return " ".join(sorted([item.strip() for item in data]))
 
 def compare_data(question: str, data1: dict, data2: dict):
-    results = {} 
+    result = {} 
     
     for key in keys:
-        results[key] = 0
+        result[key] = 0
     
     for key in keys: 
         if key == "query":
             # Use a different function to compare query
             if compare_queries(data1.get(key), data2.get(key)):
-                results[key] += 1
+                result[key] += 1
                 
         # Use accuracy for other fields 
         if data1.get(key) == data2.get(key) and key != "query":
-            results[key] += 1
+            result[key] += 1
         
         if key in ["loai_van_ban", "so_hieu", "ten_van_ban"]:
             val1 = data1.get(key)
@@ -93,10 +106,10 @@ def compare_data(question: str, data1: dict, data2: dict):
     #                 elif val1[sub_key] != val2[sub_key]:
     #                     res = 0
     #             if res == 1:
-    #                 results[key] += 1
+    #                 result[key] += 1
     #         else:
     #             if val1 == val2:
-    #                 results[key] += 1
+    #                 result[key] += 1
     
     # # Get subqueries
     # subquery1 = data1["query_params"].get("sub_queries", {})
@@ -116,11 +129,11 @@ def compare_data(question: str, data1: dict, data2: dict):
     #                 elif val1[sub_key] != val2[sub_key]:
     #                     res = 0
     #             if res == 1:
-    #                 results[key] += 1
+    #                 result[key] += 1
     #         else:
     #             if val1 == val2:
-    #                 results[key] += 1
-    return question, results
+    #                 result[key] += 1
+    return question, result
 
 
                 
@@ -139,12 +152,28 @@ if __name__ == "__main__":
     data_path = "test_fc/data_test_fc/results.jsonl"
     with open(data_path, "r", encoding="utf-8") as f:
         lines = [json.loads(line) for line in f.readlines()]
-    print(lines[69].keys())
-    question = lines[69].get("query", "")
-    ground_truth = lines[69].get("gpt_payload", {})
-    prediction = lines[69].get("fc_payload", {})
+    results = {}
+    for key in keys:
+        results[key] = 0
+    for line in lines:
+        question = line.get("query", "")
+        ground_truth = line.get("gpt_payload", {})
+        prediction = line.get("fc_payload", {})
+        
+        question, result = compare_data(question, ground_truth, prediction)
+        print(f"Question: {question}")
+        print("Comparison Results:")
+        print(result)
+        logging.info(f"Question: {question}")
+        logging.info(f"Comparison Results: {result}")
+        
+        for key in keys: 
+            results[key] += result.get(key, 0) 
+        
     
-    question, results = compare_data(question, ground_truth, prediction)
-    print(f"Question: {question}")
-    print("Comparison Results:")
-    print(results)
+    # Print summary 
+    total_count = len(lines)
+    print("Summary Results:")
+    for key in keys:
+        results[key] /= total_count
+        print(f"Accuracy {key}: {results[key]:.4f}")

@@ -226,8 +226,8 @@ def validate_and_normalize_payload(fc_payload: dict, question: str) -> dict:
 
 def main(): 
     # Get queries
-    gpt_dir = "data_test_fc/gpt"
-    output_path = "data_test_fc/results.jsonl"
+    gpt_dir = "test_fc/data_test_fc/gpt"
+    output_path = "test_fc/data_test_fc/results.jsonl"
     for log in os.listdir(gpt_dir):
         log_path = os.path.join(gpt_dir, log)
         with open(log_path, "r", encoding="utf-8") as f:

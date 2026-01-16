@@ -5,7 +5,7 @@ MAX_MODEL_LEN=32768
 CUDA_VISIBLE_DEVICES=4,5 \
 vllm serve "$MODEL_NAME" \
     --dtype bfloat16 \
-    --max-model-len 32768 \
+    --max-model-len $MAX_MODEL_LEN \
     --port 8010 \
     --tensor-parallel-size 2 \
     --max-num-seqs 6 \
